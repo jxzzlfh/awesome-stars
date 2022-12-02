@@ -272,6 +272,7 @@
 
 ## Python 
 
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [Gaoyongxian666/OpenSearcher](https://github.com/Gaoyongxian666/OpenSearcher) - 一个基于PyQT5开源的、本地的、安全的、支持全文检索的搜索器。
 - [mouday/domain-admin](https://github.com/mouday/domain-admin) - 域名SSL证书监测平台
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
