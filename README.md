@@ -156,6 +156,8 @@
 
 ## JavaScript 
 
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
+- [dopplertask/dopplertask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -276,6 +278,7 @@
 
 ## Python 
 
+- [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [Gaoyongxian666/OpenSearcher](https://github.com/Gaoyongxian666/OpenSearcher) - 一个基于PyQT5开源的、本地的、安全的、支持全文检索的搜索器。
 - [mouday/domain-admin](https://github.com/mouday/domain-admin) - 域名SSL证书监测平台
