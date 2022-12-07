@@ -258,6 +258,7 @@
 
 ## PHP 
 
+- [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [xenocrat/chyrp-lite](https://github.com/xenocrat/chyrp-lite) - An ultra-lightweight blogging engine, written in PHP.
 - [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
@@ -329,6 +330,7 @@
 
 ## Shell 
 
+- [istoreos/istoreos-cloud](https://github.com/istoreos/istoreos-cloud) - Install istoreos to a cloud, example aliyun or tencent cloud
 - [SuLingGG/OpenWrt-Docker](https://github.com/SuLingGG/OpenWrt-Docker) - Build OpenWrt Docker Images For Raspberry Pi 1~4 (Daily Update)
 - [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:10.1-jdk11-corretto image.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
