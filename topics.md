@@ -32,6 +32,7 @@
 - [dotnet](#dotnet)
 - [electron](#electron)
 - [emoji](#emoji)
+- [emulator](#emulator)
 - [express](#express)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -210,6 +211,7 @@
 
 ## chrome-extension 
 
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
@@ -269,6 +271,7 @@
 
 ## electron 
 
+- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is Cross-platform SWF Player based on Ruffle Emulator(UNOFFICIAL). It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
 - [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 - [blogwy/BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload) - 跨平台下载bilibili视频桌面端软件，支持windows、macOS、Linux
 - [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
@@ -287,6 +290,10 @@
 ## emoji 
 
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+## emulator 
+
+- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is Cross-platform SWF Player based on Ruffle Emulator(UNOFFICIAL). It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
 
 ## express 
 
@@ -429,6 +436,7 @@
 
 ## javascript 
 
+- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is Cross-platform SWF Player based on Ruffle Emulator(UNOFFICIAL). It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
@@ -601,7 +609,6 @@
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [kimliss/IdeaVideoAI](https://github.com/kimliss/IdeaVideoAI) - 一个有想法的视频处理工具，追求 AI 效果
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [SuLingGG/OpenWrt-Docker](https://github.com/SuLingGG/OpenWrt-Docker) - Build OpenWrt Docker Images For Raspberry Pi 1~4 (Daily Update)
 - [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:10.1-jdk11-corretto image.
 - [saltbo/zpan](https://github.com/saltbo/zpan) - A self-hosted cloud disk base on the cloud storage./ 一个基于云存储的网盘系统，用于自建私人网盘或企业网盘。
@@ -796,6 +803,7 @@
 
 ## reactjs 
 
+- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is Cross-platform SWF Player based on Ruffle Emulator(UNOFFICIAL). It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 
 ## redux 
