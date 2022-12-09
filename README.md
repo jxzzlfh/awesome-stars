@@ -55,6 +55,7 @@
 
 ## C# # 
 
+- [Cnicehs/SharpBot](https://github.com/Cnicehs/SharpBot) - 一个基于百度网盘开放接口的转存机器人
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [kimliss/IdeaVideoAI](https://github.com/kimliss/IdeaVideoAI) - 一个有想法的视频处理工具，追求 AI 效果
 - [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
@@ -87,7 +88,6 @@
 ## CSS 
 
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [88250/solo](https://github.com/88250/solo) - 🎸 B3log 分布式社区的 Java 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node based on Java, welcome to join the next generation community network.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple & Swift theme for Hexo
@@ -166,8 +166,11 @@
 
 ## JavaScript 
 
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 - [no13bus/chat-gpt-zhihu-extension](https://github.com/no13bus/chat-gpt-zhihu-extension) - ChatGPT的知乎回答小帮手，利用AI来协助你回答知乎问题
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 - [dopplertask/dopplertask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
