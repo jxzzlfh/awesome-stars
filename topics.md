@@ -517,7 +517,7 @@
 ## linux 
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. We aim to monitor everything!  Web, database, os, middleware, cloudnative and more.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -538,7 +538,7 @@
 ## macos 
 
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -953,7 +953,7 @@
 
 - [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
