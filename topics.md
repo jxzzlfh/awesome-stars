@@ -58,6 +58,7 @@
 - [jquery](#jquery)
 - [json](#json)
 - [kubernetes](#kubernetes)
+- [language](#language)
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
@@ -490,6 +491,10 @@
 ## kubernetes 
 
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+
+## language 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 
 ## languages 
 
