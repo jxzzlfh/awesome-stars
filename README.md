@@ -243,6 +243,7 @@
 
 ## Others 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
 - [alim0x/Awesome-Linux-Software-zh_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
 - [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500+ Awesome List Updates, Track it - not just star it!
