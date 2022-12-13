@@ -118,7 +118,7 @@
 
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
-- [jqueryscript/ChatGPT](https://github.com/jqueryscript/ChatGPT) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
+- [jqueryscript/ChatGPT](https://github.com/jqueryscript/ChatGPT) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT. Note: ChatGPT is currently temporarily down due to server overload.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
@@ -158,7 +158,7 @@
 
 ## artificial-intelligence 
 
-- [jqueryscript/ChatGPT](https://github.com/jqueryscript/ChatGPT) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
+- [jqueryscript/ChatGPT](https://github.com/jqueryscript/ChatGPT) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT. Note: ChatGPT is currently temporarily down due to server overload.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## atom 
