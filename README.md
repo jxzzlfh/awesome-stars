@@ -90,6 +90,7 @@
 
 ## CSS 
 
+- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [88250/solo](https://github.com/88250/solo) - 🎸 B3log 分布式社区的 Java 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node based on Java, welcome to join the next generation community network.
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
@@ -113,6 +114,7 @@
 
 ## Go 
 
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 - [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [v2ray/domain-list-community](https://github.com/v2ray/domain-list-community) - Community managed domain list
@@ -151,6 +153,7 @@
 
 ## HTML 
 
+- [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages and Telegraph.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
@@ -333,7 +336,7 @@
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor wh
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [HaujetZhao/CapsWriter](https://github.com/HaujetZhao/CapsWriter) - 一款电脑语音输入工具，运行后，按下大写锁定键超过 0.3 秒，就开始语音识别，松开按键之后，自动输入识别结果。
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -377,6 +380,7 @@
 
 ## Shell 
 
+- [neuroidss/ubuntu-xfce-vnc](https://github.com/neuroidss/ubuntu-xfce-vnc) - Collection of Docker images with headless VNC environments
 - [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - 支持Xray/Trojan-Go/Hysteria/NaiveProxy的多用户Web管理面板
 - [istoreos/istoreos-cloud](https://github.com/istoreos/istoreos-cloud) - Install istoreos to a cloud, example aliyun or tencent cloud
 - [SuLingGG/OpenWrt-Docker](https://github.com/SuLingGG/OpenWrt-Docker) - Build OpenWrt Docker Images For Raspberry Pi 1~4 (Daily Update)
