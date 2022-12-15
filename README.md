@@ -179,6 +179,7 @@
 
 ## JavaScript 
 
+- [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
@@ -243,6 +244,7 @@
 
 ## Kotlin 
 
+- [sakusaku3939/DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) - Unofficial Android App for DeepL Translator
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 
