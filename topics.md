@@ -37,6 +37,7 @@
 - [emacs](#emacs)
 - [emoji](#emoji)
 - [emulator](#emulator)
+- [es6](#es6)
 - [express](#express)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -114,6 +115,7 @@
 - [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
+- [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
@@ -339,6 +341,10 @@
 ## emulator 
 
 - [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is Cross-platform SWF Player based on Ruffle Emulator(UNOFFICIAL). It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
+
+## es6 
+
+- [webproblem/learning-article](https://github.com/webproblem/learning-article) - 学习资源 or 大前端导航，持续更新
 
 ## express 
 
@@ -667,6 +673,7 @@
 
 ## nodejs 
 
+- [webproblem/learning-article](https://github.com/webproblem/learning-article) - 学习资源 or 大前端导航，持续更新
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
@@ -691,6 +698,7 @@
 
 ## others 
 
+- [willmcgugan/textual-markdown](https://github.com/willmcgugan/textual-markdown) - 
 - [xiaoji235/Pure-Newtab](https://github.com/xiaoji235/Pure-Newtab) - Pure Newtab，Pure起始页，新建标签页，给你最纯粹的浏览器主页极致体验！
 - [mrjooz/password-generator](https://github.com/mrjooz/password-generator) - 密码生成工具
 - [Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
@@ -871,6 +879,7 @@
 
 ## pwa 
 
+- [webproblem/learning-article](https://github.com/webproblem/learning-article) - 学习资源 or 大前端导航，持续更新
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [frysztak/orpington-news](https://github.com/frysztak/orpington-news) - Self-hosted RSS reader with PWA support
@@ -916,6 +925,7 @@
 
 ## react 
 
+- [webproblem/learning-article](https://github.com/webproblem/learning-article) - 学习资源 or 大前端导航，持续更新
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
@@ -1002,6 +1012,7 @@
 
 ## typescript 
 
+- [webproblem/learning-article](https://github.com/webproblem/learning-article) - 学习资源 or 大前端导航，持续更新
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
@@ -1017,6 +1028,7 @@
 
 ## vue 
 
+- [webproblem/learning-article](https://github.com/webproblem/learning-article) - 学习资源 or 大前端导航，持续更新
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
 - [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text (https://image-to-text-ocr.netlify.app) is a web tool to extract text from any image using OCR
@@ -1047,6 +1059,10 @@
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
+
+## webpack 
+
+- [webproblem/learning-article](https://github.com/webproblem/learning-article) - 学习资源 or 大前端导航，持续更新
 
 ## website 
 
