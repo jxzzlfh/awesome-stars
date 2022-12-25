@@ -22,6 +22,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Less](#less)
+- [Lua](#lua)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -266,6 +267,10 @@
 
 - [25H/Maya](https://github.com/25H/Maya) - Maye 一个简洁小巧的快速启动工具
 
+## Lua 
+
+- [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
+
 ## Objective-C 
 
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
@@ -341,6 +346,7 @@
 
 ## Python 
 
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [willmcgugan/textual-markdown](https://github.com/willmcgugan/textual-markdown) - 
