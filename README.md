@@ -480,6 +480,7 @@
 
 ## Vue 
 
+- [Dullage/flatnotes](https://github.com/Dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端，增加近百条远程配置及更多自定义功能！
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text (https://image-to-text-ocr.netlify.app) is a web tool to extract text from any image using OCR
