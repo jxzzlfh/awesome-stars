@@ -711,6 +711,7 @@
 
 ## others 
 
+- [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
 - [MehediH/winstall](https://github.com/MehediH/winstall) - A web app for browsing and installing Windows Package Manager apps.
 - [simplecelery/stellar-m3u8Download](https://github.com/simplecelery/stellar-m3u8Download) - 
