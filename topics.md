@@ -320,7 +320,7 @@
 
 ## electron 
 
-- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is Cross-platform SWF Player based on Ruffle Emulator(UNOFFICIAL). It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
+- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is "Unofficial" Cross-platform SWF Player based on Ruffle Emulator. It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
 - [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 - [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
 - [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
@@ -346,7 +346,7 @@
 
 ## emulator 
 
-- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is Cross-platform SWF Player based on Ruffle Emulator(UNOFFICIAL). It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
+- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is "Unofficial" Cross-platform SWF Player based on Ruffle Emulator. It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
 
 ## es6 
 
@@ -510,7 +510,7 @@
 
 - [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【尚未完成】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is Cross-platform SWF Player based on Ruffle Emulator(UNOFFICIAL). It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
+- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is "Unofficial" Cross-platform SWF Player based on Ruffle Emulator. It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
@@ -974,7 +974,7 @@
 ## reactjs 
 
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
-- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is Cross-platform SWF Player based on Ruffle Emulator(UNOFFICIAL). It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
+- [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is "Unofficial" Cross-platform SWF Player based on Ruffle Emulator. It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 
 ## redux 
