@@ -364,6 +364,7 @@
 
 ## Python 
 
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [simplecelery/stellar-m3u8Download](https://github.com/simplecelery/stellar-m3u8Download) - 
 - [simplecelery/stellar-lives](https://github.com/simplecelery/stellar-lives) - 恒星电视插件
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
