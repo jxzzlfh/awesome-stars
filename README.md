@@ -181,6 +181,7 @@
 
 ## Java 
 
+- [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄
 - [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
 - [halo-dev/halo](https://github.com/halo-dev/halo) - 好用又强大的开源建站工具。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
@@ -419,7 +420,7 @@
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [NotCraft/NotFeed](https://github.com/NotCraft/NotFeed) - Turn GitHub into an RSS reader
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -500,7 +501,7 @@
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid.
+- [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index
 - [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 
 ## Vue 
