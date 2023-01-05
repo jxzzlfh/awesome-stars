@@ -72,7 +72,7 @@
 - [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 - [huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx) - :clipboard: Paste As File 把剪贴板的内容直接粘贴为文件
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
@@ -291,6 +291,7 @@
 
 ## Others 
 
+- [nwuzmedoutlook/university](https://github.com/nwuzmedoutlook/university) - 110+国内高校课程资源纯手工整理，欢迎补充、修订 https://studyhard.cf/
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
