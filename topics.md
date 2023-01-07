@@ -731,6 +731,8 @@
 
 ## others 
 
+- [sumimakito/hexo-theme-typography](https://github.com/sumimakito/hexo-theme-typography) - Rediscover the beauty of typography.
+- [hedongshu/go-markdown-book](https://github.com/hedongshu/go-markdown-book) - 基于 go 快速将 markdown 文件发布成可以web访问的book
 - [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [zlib-searcher/index](https://github.com/zlib-searcher/index) - 
 - [getActivity/AndroidIndex](https://github.com/getActivity/AndroidIndex) - Android 资源大汇总
