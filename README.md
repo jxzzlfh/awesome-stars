@@ -125,6 +125,7 @@
 
 ## Go 
 
+- [hedongshu/go-markdown-book](https://github.com/hedongshu/go-markdown-book) - 基于 go 快速将 markdown 文件发布成可以web访问的book
 - [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
 - [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - ChatGPT机器人在钉钉群聊中交互
@@ -199,6 +200,7 @@
 
 ## JavaScript 
 
+- [sumimakito/hexo-theme-typography](https://github.com/sumimakito/hexo-theme-typography) - Rediscover the beauty of typography.
 - [Sec-ant/weread-scraper](https://github.com/Sec-ant/weread-scraper) - Export Weread books to html files
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
