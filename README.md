@@ -298,7 +298,7 @@
 - [huguoadison/anwang](https://github.com/huguoadison/anwang) - 2022年最全暗网导航
 - [zlib-searcher/index](https://github.com/zlib-searcher/index) - 
 - [getActivity/AndroidIndex](https://github.com/getActivity/AndroidIndex) - Android 资源大汇总
-- [nwuzmedoutlook/university](https://github.com/nwuzmedoutlook/university) - :octocat:110+国内高校课程资源纯手工整理，欢迎补充、修订 https://studyhard.cf/
+- [nwuzmedoutlook/university](https://github.com/nwuzmedoutlook/university) - :octocat:120+国内高校课程资源纯手工整理，欢迎补充、修订 https://studyhard.cf/
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
