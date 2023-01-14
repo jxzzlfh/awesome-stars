@@ -375,6 +375,8 @@
 
 ## Python 
 
+- [lewangdev/bookbookgo_bot](https://github.com/lewangdev/bookbookgo_bot) - A Telegram bot for book-searcher. Create and search books index, create your private library on Telegram.
+- [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app (BSRGAN)
 - [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 - [simplecelery/stellar-m3u8Download](https://github.com/simplecelery/stellar-m3u8Download) - 
