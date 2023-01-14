@@ -172,6 +172,7 @@
 
 ## HTML 
 
+- [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase) - self-hosted, local-first web archive application.
 - [zlib-download/zlib-download](https://github.com/zlib-download/zlib-download) - zlib.download project
 - [mrjooz/password-generator](https://github.com/mrjooz/password-generator) - 密码生成工具
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
@@ -472,6 +473,7 @@
 
 ## TypeScript 
 
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [boojack/sticky-notes](https://github.com/boojack/sticky-notes) - 
 - [Lete114/API-Interface](https://github.com/Lete114/API-Interface) - api接口: Bing每日高清壁纸、获取网站信息，图标，标题等、获取QQ信息、QQ头像、QQ昵称、等、获取短视频信息、去水印、抖音、火山、微视、皮皮虾、最右
