@@ -177,6 +177,7 @@
 
 ## HTML 
 
+- [zhelper-org/search-page](https://github.com/zhelper-org/search-page) - 支持多个后端的搜索界面
 - [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase) - self-hosted, local-first web archive application.
 - [zlib-download/zlib-download](https://github.com/zlib-download/zlib-download) - zlib.download project
 - [mrjooz/password-generator](https://github.com/mrjooz/password-generator) - 密码生成工具
@@ -309,6 +310,7 @@
 
 ## Others 
 
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。
 - [xuncv/WechatVideoSniffer](https://github.com/xuncv/WechatVideoSniffer) - 微信视频号PC版、微信看一看、微信公众号视频地址嗅探器
 - [huguoadison/anwang](https://github.com/huguoadison/anwang) - 2022年最全暗网导航
 - [getActivity/AndroidIndex](https://github.com/getActivity/AndroidIndex) - Android 资源大汇总
@@ -444,6 +446,7 @@
 
 ## Rust 
 
+- [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
