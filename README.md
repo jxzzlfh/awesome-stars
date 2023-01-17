@@ -298,7 +298,7 @@
 
 ## Makefile 
 
-- [immersive-translate/next-immersive-translate](https://github.com/immersive-translate/next-immersive-translate) - Next immersive translator, only for release new version
+- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Next immersive translator, only for release new version
 
 ## Markdown 
 
