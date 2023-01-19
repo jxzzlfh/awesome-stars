@@ -615,7 +615,7 @@
 
 ## latex 
 
-- [xushengfeng/xlinkote](https://github.com/xushengfeng/xlinkote) - 无限画布白板 知识管理笔记
+- [xushengfeng/xlinkote](https://github.com/xushengfeng/xlinkote) - 无限画布 白板笔记 知识管理
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
 ## learning 
@@ -680,7 +680,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [88250/solo](https://github.com/88250/solo) - 🎸 B3log 分布式社区的 Java 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node based on Java, welcome to join the next generation community network.
 - [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
-- [xushengfeng/xlinkote](https://github.com/xushengfeng/xlinkote) - 无限画布白板 知识管理笔记
+- [xushengfeng/xlinkote](https://github.com/xushengfeng/xlinkote) - 无限画布 白板笔记 知识管理
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 新版简单强大无数据库的图床2.0版  演示地址：
@@ -773,6 +773,7 @@
 
 ## others 
 
+- [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [vvyoko/EditRename](https://github.com/vvyoko/EditRename) - 借助文本编辑器重命名
 - [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
 - [zhelper-org/search-page](https://github.com/zhelper-org/search-page) - 支持多个后端的搜索界面
