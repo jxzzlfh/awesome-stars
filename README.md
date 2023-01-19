@@ -94,7 +94,6 @@
 ## C++ 
 
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书。提供 Java, C++, Python, Go, JS, TS, C# 源代码。
 - [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -198,6 +197,7 @@
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书。提供 Java, C++, Python, Go, JS, TS, C# 源代码。
 - [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
 - [halo-dev/halo](https://github.com/halo-dev/halo) - 好用又强大的开源建站工具。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
