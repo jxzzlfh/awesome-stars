@@ -180,6 +180,7 @@
 
 ## HTML 
 
+- [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个国内可直连的直播源分享项目 ✯  🔕 永久免费 直连访问 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
 - [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
 - [zhelper-org/search-page](https://github.com/zhelper-org/search-page) - 支持多个后端的搜索界面
 - [hamsterbase/hamsterbase](https://github.com/hamsterbase/hamsterbase) - self-hosted, local-first web archive application.
