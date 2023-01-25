@@ -469,7 +469,7 @@
 
 ## SCSS 
 
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 
 ## Shell 
 
