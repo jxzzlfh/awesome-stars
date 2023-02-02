@@ -20,6 +20,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -246,6 +247,19 @@
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
+
+## chatgpt 
+
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。
+- [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - ChatGPT机器人在钉钉群聊中交互
+- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
+- [sonnylazuardi/chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
+- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - a AI chat Telegram Bot with ChatGPT in fly.io
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+- [jqueryscript/ChatGPT](https://github.com/jqueryscript/ChatGPT) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 
 ## chrome 
 
@@ -816,7 +830,6 @@
 - [vvyoko/EditRename](https://github.com/vvyoko/EditRename) - 借助文本编辑器重命名
 - [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
 - [zhelper-org/search-page](https://github.com/zhelper-org/search-page) - 支持多个后端的搜索界面
-- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [no5ix/sux](https://github.com/no5ix/sux) - An alternative to Alfred+Wox+Listary+OneQuick+CapslockPlus.一个只有2M+大小的强大效率工具
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
@@ -856,7 +869,6 @@
 - [Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [sbaliyun/chatgpt-html](https://github.com/sbaliyun/chatgpt-html) - chatgpt html online
-- [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - ChatGPT机器人在钉钉群聊中交互
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [neuroidss/ubuntu-xfce-vnc](https://github.com/neuroidss/ubuntu-xfce-vnc) - Collection of Docker images with headless VNC environments
@@ -875,7 +887,6 @@
 - [eryajf/recommend-actions](https://github.com/eryajf/recommend-actions) - 优秀的GitHub Actions推荐
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
 - [taranjeet/awesome-chatgpt](https://github.com/taranjeet/awesome-chatgpt) - 
-- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [v2ray/domain-list-community](https://github.com/v2ray/domain-list-community) - Community managed domain list
 - [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
