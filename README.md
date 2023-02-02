@@ -34,7 +34,6 @@
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SCSS](#scss)
 - [Shell](#shell)
 - [Stylus](#stylus)
 - [Svelte](#svelte)
@@ -479,10 +478,6 @@
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 
-## SCSS 
-
-- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
-
 ## Shell 
 
 - [dylanbai8/kmspro](https://github.com/dylanbai8/kmspro) - windows系统一句命令激活，office套件一句命令激活，一键搭建kms服务器，kms一键脚本，安卓Android搭建kms服务器
@@ -534,6 +529,7 @@
 - [mohuishou/siyuan-sync-github](https://github.com/mohuishou/siyuan-sync-github) - 思源笔记挂件块，同步 markdown 笔记文件为 到 github，支持迁移笔记到图床
 - [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is "Unofficial" Cross-platform SWF Player based on Ruffle Emulator. It is a desktop player that not only replaces Adobe Flash Player, but also makes it easy to use Ruffle.
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
+- [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
