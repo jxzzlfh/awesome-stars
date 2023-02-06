@@ -29,7 +29,9 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [dart](#dart)
+- [data](#data)
 - [data-structures](#data-structures)
 - [deep-learning](#deep-learning)
 - [devops](#devops)
@@ -242,6 +244,7 @@
 
 ## bot 
 
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ChatGPT 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Sear
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
@@ -253,6 +256,7 @@
 
 ## chatgpt 
 
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ChatGPT 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Sear
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。
 - [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - ChatGPT机器人在钉钉群聊中交互
@@ -287,6 +291,7 @@
 
 ## cli 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [svtslv/webdav-cli](https://github.com/svtslv/webdav-cli) - A simple zero-configuration command-line webdav server
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
 
@@ -300,6 +305,7 @@
 
 ## cpp 
 
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 
 ## csharp 
@@ -315,9 +321,17 @@
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
+## cybersecurity 
+
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
+
 ## dart 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+
+## data 
+
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 
 ## data-structures 
 
@@ -518,6 +532,7 @@
 
 ## hacking 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## hacktoberfest 
@@ -676,6 +691,7 @@
 
 ## linux 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
@@ -708,6 +724,7 @@
 
 ## macos 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
@@ -832,6 +849,7 @@
 
 ## others 
 
+- [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
 - [lmm214/memos-bber](https://github.com/lmm214/memos-bber) - Memos 的 Chrome 扩展
 - [MoeOffice/xvo.es](https://github.com/MoeOffice/xvo.es) - A simple, minimal and safe URL Shortener.
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
@@ -875,7 +893,6 @@
 - [hellodk34/picgo-plugin-lankong](https://github.com/hellodk34/picgo-plugin-lankong) - A PicGo uploader for 兰空图床 lsky-pro，支持 V1 和 V2。
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
 - [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 
-- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 - [willmcgugan/textual-markdown](https://github.com/willmcgugan/textual-markdown) - 
 - [xiaoji235/Pure-Newtab](https://github.com/xiaoji235/Pure-Newtab) - Pure Newtab，Pure起始页，新建标签页，给你最纯粹的浏览器主页极致体验！
 - [mrjooz/password-generator](https://github.com/mrjooz/password-generator) - 密码生成工具
@@ -1071,6 +1088,7 @@
 
 ## python 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app (BSRGAN)
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
@@ -1091,6 +1109,7 @@
 
 ## python3 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app (BSRGAN)
 - [chinesehuazhou/python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
@@ -1201,6 +1220,7 @@
 
 ## telegram 
 
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ChatGPT 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Sear
 - [vas3k/infomate.club](https://github.com/vas3k/infomate.club) - RSS feed aggregator with collections and NLP article summarization
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
@@ -1215,6 +1235,7 @@
 
 ## terminal 
 
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
 ## twitter 
