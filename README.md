@@ -156,7 +156,7 @@
 - [dengjiawen8955/du](https://github.com/dengjiawen8955/du) - du 一键下载 markdown 中图片, 并上传图片到图床并替换链接
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、华为云、百度云、porkbun)
+- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、porkbun、GoDaddy、Google Domains)
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [go-sonic/sonic](https://github.com/go-sonic/sonic) - Sonic is a blogging platform developed by Go. Simple and powerful
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，仅单可执行文件，开箱即用
@@ -534,7 +534,7 @@
 - [hellodk34/picgo-plugin-lankong](https://github.com/hellodk34/picgo-plugin-lankong) - A PicGo uploader for 兰空图床 lsky-pro，支持 V1 和 V2。
 - [lzm0x219/vscode-markdown-github](https://github.com/lzm0x219/vscode-markdown-github) - 📝 A GitHub-style VSCode built-in markdown preview plugin.
 - [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
-- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
+- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [Aaxom/okchatgpt-web](https://github.com/Aaxom/okchatgpt-web) - 
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
