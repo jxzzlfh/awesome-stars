@@ -867,6 +867,7 @@
 
 ## others 
 
+- [Mrmineduce21/Oracle_OneKey_Active](https://github.com/Mrmineduce21/Oracle_OneKey_Active) - 为了应对甲骨文最新回收机制而作的垃圾脚本
 - [TransposonY/GestureSign](https://github.com/TransposonY/GestureSign) - A gesture recognition software for Windows tablet
 - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
 - [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
