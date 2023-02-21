@@ -97,6 +97,7 @@
 
 ## C++ 
 
+- [parakeet-rs/parakeet-wx](https://github.com/parakeet-rs/parakeet-wx) - 利用 wxWidgets 开发的桌面客户端。
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
 - [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
@@ -112,6 +113,7 @@
 
 ## CSS 
 
+- [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
 - [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 - [Tokinx/Wing](https://github.com/Tokinx/Wing) - Simple, smooth, data-driven, responsive WordPress theme
 - [sbaliyun/chatgpt-html](https://github.com/sbaliyun/chatgpt-html) - chatgpt html online
@@ -340,6 +342,8 @@
 
 ## Others 
 
+- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
+- [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～
 - [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。
 - [merveenoyan/my_notes](https://github.com/merveenoyan/my_notes) - My small cheatsheets for data science, ML, computer science and more.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -530,6 +534,7 @@
 
 ## TypeScript 
 
+- [estepona/wx-read-desktop](https://github.com/estepona/wx-read-desktop) - 一个极简版微信读书桌面客户端
 - [Xu22Web/tech-study-js](https://github.com/Xu22Web/tech-study-js) - 学习强国油猴插件 40分/天 强国脚本 A flexible and light userscript for xuexiqiangguo based on tampermonkey plugin
 - [Snazzah/stub](https://github.com/Snazzah/stub) - A self-hostable modified fork of Dub: An open-source link shortener.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
