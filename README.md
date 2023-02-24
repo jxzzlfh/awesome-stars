@@ -450,7 +450,7 @@
 - [vas3k/infomate.club](https://github.com/vas3k/infomate.club) - RSS feed aggregator with collections and NLP article summarization
 - [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
-- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - a AI chat Telegram Bot with ChatGPT in fly.io or Replit with python
+- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - an AI chat Telegram bot with ChatGPT using Python on either fly.io or Replit.
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
