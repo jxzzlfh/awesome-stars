@@ -600,7 +600,7 @@
 
 ## Vue 
 
-- [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 express 和 vue3 搭建的同时支持 `openAI Key` 和 `网页 accessToken` 的 ChatGPT 演示网页
+- [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页
 - [fzf404/Monit](https://github.com/fzf404/Monit) - 用于展示各种信息的桌面小组件
 - [Dullage/flatnotes](https://github.com/Dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端，增加近百条远程配置及更多自定义功能！
