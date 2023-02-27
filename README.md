@@ -494,6 +494,7 @@
 
 ## Rust 
 
+- [everest-architecture/NewBing](https://github.com/everest-architecture/NewBing) - NewBin Desktop Application (Mac, Windows and Linux)
 - [zahidkhawaja/rusty](https://github.com/zahidkhawaja/rusty) - GPT-3 powered CLI tool to help you remember bash commands.
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
