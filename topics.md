@@ -887,6 +887,7 @@
 
 ## others 
 
+- [everest-architecture/NewBing](https://github.com/everest-architecture/NewBing) - NewBin Desktop Application (Mac, Windows and Linux)
 - [jonssonyan/aria2-x](https://github.com/jonssonyan/aria2-x) - 一款基于AriaNg和Aria2的PC端下载器
 - [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan
 - [parakeet-rs/parakeet-wx](https://github.com/parakeet-rs/parakeet-wx) - 利用 wxWidgets 开发的桌面客户端。
