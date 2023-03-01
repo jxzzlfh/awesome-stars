@@ -233,6 +233,7 @@
 
 ## JavaScript 
 
+- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [andy-portmen/country-flags](https://github.com/andy-portmen/country-flags) - adds a toolbar button to browser address-bar displaying current physical location of visited website
 - [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp) - 开源项目usememos/memos的微信小程序版
 - [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器ssh管理面板(webSSH&webSFTP)
@@ -316,6 +317,7 @@
 
 ## Kotlin 
 
+- [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
 - [Pool-Of-Tears/Myne](https://github.com/Pool-Of-Tears/Myne) - An android app to download ebooks from Project Gutenberg, built with  Jetpack Compose.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [sakusaku3939/DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) - Unofficial Android App for DeepL Translator
