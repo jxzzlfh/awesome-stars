@@ -890,6 +890,7 @@
 
 ## others 
 
+- [whereisph/new](https://github.com/whereisph/new) - 
 - [lxfater/BilibiliSummary](https://github.com/lxfater/BilibiliSummary) - A chrome extension helps you summary video on bilibili.
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [JimmyLv/chat-bilibili-video](https://github.com/JimmyLv/chat-bilibili-video) - 哔哩哔哩视频总结器
