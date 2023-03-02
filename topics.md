@@ -255,7 +255,7 @@
 
 ## bot 
 
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - API/ChatGPT🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information S
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - Gpt-3.5-turbo/ChatGPT Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Inf
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
@@ -267,11 +267,11 @@
 
 ## chatgpt 
 
-- [JimmyLv/chat-bilibili-video](https://github.com/JimmyLv/chat-bilibili-video) - BiliGPT 哔哩哔哩 · 视频内容一键总结
+- [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT) - BiliGPT 哔哩哔哩 · 视频内容一键总结
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs. ChatGPT 官方 API 正式发布了 https://openai.com/blog/introducing-chatgpt-and-whisper-apis ！
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - API/ChatGPT🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information S
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - Gpt-3.5-turbo/ChatGPT Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Inf
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [eryajf/chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - ChatGPT机器人在钉钉群聊中交互
@@ -293,6 +293,7 @@
 
 ## chrome-extension 
 
+- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [ttglad/learning](https://github.com/ttglad/learning) - 学习强国浏览器插件，自动阅读、观看视频、每日答题、每周答题、专项答题，每日35~40分！
 - [wangmeijian/auto_clipboard](https://github.com/wangmeijian/auto_clipboard) - 选中文字自动复制到剪切板的chrome插件
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -307,7 +308,7 @@
 
 ## cli 
 
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [svtslv/webdav-cli](https://github.com/svtslv/webdav-cli) - A simple zero-configuration command-line webdav server
 - [HemmeligOrg/Hemmelig.app](https://github.com/HemmeligOrg/Hemmelig.app) - Keep your sensitive information out of chat logs, emails, and more with encrypted secrets.
@@ -682,6 +683,7 @@
 
 ## kotlin 
 
+- [tangshimin/typing-learner](https://github.com/tangshimin/typing-learner) - 使用电影、美剧、字幕或文档生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词。
 - [Pool-Of-Tears/Myne](https://github.com/Pool-Of-Tears/Myne) - An android app to download ebooks from Project Gutenberg, built with  Jetpack Compose.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [1250422131/bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
@@ -893,6 +895,7 @@
 
 ## others 
 
+- [zhheo/HeoMusic](https://github.com/zhheo/HeoMusic) - 一个基于Aplayer和MetingJS的静态音乐播放器
 - [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
 - [andy-portmen/country-flags](https://github.com/andy-portmen/country-flags) - adds a toolbar button to browser address-bar displaying current physical location of visited website
 - [whereisph/new](https://github.com/whereisph/new) - 
@@ -1093,7 +1096,7 @@
 
 ## package-manager 
 
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: a graphical user interface for Winget and Scoop
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 
 ## php 
 
@@ -1204,6 +1207,7 @@
 
 ## react 
 
+- [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [rutikwankhade/CoverView](https://github.com/rutikwankhade/CoverView) - 🛠 Create awesome cover images for your blog posts quickly.
 - [index-labs/readpilot](https://github.com/index-labs/readpilot) - Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
@@ -1222,6 +1226,7 @@
 
 ## react-native 
 
+- [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 
@@ -1297,7 +1302,6 @@
 
 ## telegram 
 
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - API/ChatGPT🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information S
 - [vas3k/infomate.club](https://github.com/vas3k/infomate.club) - RSS feed aggregator with collections and NLP article summarization
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
@@ -1324,6 +1328,7 @@
 
 ## typescript 
 
+- [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 - [estepona/wx-read-desktop](https://github.com/estepona/wx-read-desktop) - 一个极简版微信读书桌面客户端
 - [fzf404/Monit](https://github.com/fzf404/Monit) - 用于展示各种信息的桌面小组件
 - [Xu22Web/tech-study-js](https://github.com/Xu22Web/tech-study-js) - 学习强国油猴插件 40分/天 强国脚本 A flexible and light userscript for xuexiqiangguo based on tampermonkey plugin
