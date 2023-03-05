@@ -143,6 +143,7 @@
 
 ## ai 
 
+- [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - EN: Simple script for a chat page using the OpenAI API - model gpt-3.5-turbo to host yourself.   DE: Einfaches PHP / html / css / Javascript - Script für eine Chat-Seite mit dem OpenAI-API - Modell gp
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
@@ -190,6 +191,7 @@
 
 ## api 
 
+- [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - EN: Simple script for a chat page using the OpenAI API - model gpt-3.5-turbo to host yourself.   DE: Einfaches PHP / html / css / Javascript - Script für eine Chat-Seite mit dem OpenAI-API - Modell gp
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [Lete114/API-Interface](https://github.com/Lete114/API-Interface) - api接口: Bing每日高清壁纸、获取网站信息，图标，标题等、获取QQ信息、QQ头像、QQ昵称、等、获取短视频信息、去水印、抖音、火山、微视、皮皮虾、最右
 - [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单强大无数据库的图床2.0版  演示地址：
@@ -272,6 +274,8 @@
 
 ## chatgpt 
 
+- [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - EN: Simple script for a chat page using the OpenAI API - model gpt-3.5-turbo to host yourself.   DE: Einfaches PHP / html / css / Javascript - Script für eine Chat-Seite mit dem OpenAI-API - Modell gp
+- [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，理论上和ChatGPT一样。页面UI简洁，支持上下文连续会话，支持保存查询日志。源码只有两个文件，没用任何框架，支持所有PHP版本，只需要修改message.php中的API_KEY即可使用。
 - [lvwzhen/teach-anything](https://github.com/lvwzhen/teach-anything) - Teach any questions in seconds (by OpenAI)
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
@@ -347,6 +351,7 @@
 
 ## css 
 
+- [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - EN: Simple script for a chat page using the OpenAI API - model gpt-3.5-turbo to host yourself.   DE: Einfaches PHP / html / css / Javascript - Script für eine Chat-Seite mit dem OpenAI-API - Modell gp
 - [Xu22Web/tech-study-js](https://github.com/Xu22Web/tech-study-js) - 学习强国油猴插件 40分/天 强国脚本 A flexible and light userscript for xuexiqiangguo based on tampermonkey plugin
 - [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【尚未完成】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
@@ -618,6 +623,7 @@
 
 ## html 
 
+- [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，理论上和ChatGPT一样。页面UI简洁，支持上下文连续会话，支持保存查询日志。源码只有两个文件，没用任何框架，支持所有PHP版本，只需要修改message.php中的API_KEY即可使用。
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
@@ -662,6 +668,7 @@
 
 ## javascript 
 
+- [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - EN: Simple script for a chat page using the OpenAI API - model gpt-3.5-turbo to host yourself.   DE: Einfaches PHP / html / css / Javascript - Script für eine Chat-Seite mit dem OpenAI-API - Modell gp
 - [Xu22Web/tech-study-js](https://github.com/Xu22Web/tech-study-js) - 学习强国油猴插件 40分/天 强国脚本 A flexible and light userscript for xuexiqiangguo based on tampermonkey plugin
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
@@ -1146,6 +1153,8 @@
 
 ## php 
 
+- [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - EN: Simple script for a chat page using the OpenAI API - model gpt-3.5-turbo to host yourself.   DE: Einfaches PHP / html / css / Javascript - Script für eine Chat-Seite mit dem OpenAI-API - Modell gp
+- [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，理论上和ChatGPT一样。页面UI简洁，支持上下文连续会话，支持保存查询日志。源码只有两个文件，没用任何框架，支持所有PHP版本，只需要修改message.php中的API_KEY即可使用。
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [xenocrat/chyrp-lite](https://github.com/xenocrat/chyrp-lite) - An ultra-lightweight blogging engine, written in PHP.
