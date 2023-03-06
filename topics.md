@@ -1143,6 +1143,7 @@
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [yelog/hexo-theme-3-hexo](https://github.com/yelog/hexo-theme-3-hexo) - hexo主题：三段式设计、极简、方便  Hexo theme: three-stage design
 - [Molunerfinn/hexo-theme-melody](https://github.com/Molunerfinn/hexo-theme-melody) - :musical_keyboard:A simple & beautiful & fast theme for Hexo.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) - 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [Code52/carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
