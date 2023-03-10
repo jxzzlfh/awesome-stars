@@ -176,7 +176,7 @@
 - [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切
 - [sakusaku3939/DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) - Unofficial Android App for DeepL Translator
 - [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro) - 一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -383,7 +383,7 @@
 
 ## dart 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 
 ## data 
 
@@ -524,10 +524,10 @@
 ## flutter 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro) - 一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 
 ## font 
 
@@ -809,7 +809,7 @@
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, ding
@@ -817,7 +817,7 @@
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
@@ -851,7 +851,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial Chat AI desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) - 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。
@@ -917,7 +917,7 @@
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [mebtte/cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
@@ -1211,7 +1211,7 @@
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 
 ## package-manager 
 
@@ -1380,7 +1380,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 
@@ -1542,7 +1542,7 @@
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app (BSRGAN)
 - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial Chat AI desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 - [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify 🎧 crossplatform-client 🖥📱 which handles playback manually, streams music using Youtube & no Spotify premium account is needed 😱
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
