@@ -284,6 +284,7 @@
 
 ## chatgpt 
 
+- [geekr-dev/geekchat](https://github.com/geekr-dev/geekchat) - GeekChat - ChatGPT clone with Laravel
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [simpleapples/chatgpt-translator](https://github.com/simpleapples/chatgpt-translator) - A translation desktop app based on Electron and ChatGPT.
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
@@ -543,7 +544,7 @@
 
 ## git 
 
-- [MindFlowAI/mindflow](https://github.com/MindFlowAI/mindflow) - AI-powered git wrapper and code search engine to streamline your dev workflow 🌊
+- [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered git wrapper and code search engine to streamline your dev workflow 🌊
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
@@ -779,6 +780,7 @@
 
 ## laravel 
 
+- [geekr-dev/geekchat](https://github.com/geekr-dev/geekchat) - GeekChat - ChatGPT clone with Laravel
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
@@ -813,7 +815,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, ding
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring tool with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, dingdi
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -836,7 +838,7 @@
 
 ## machine-learning 
 
-- [MindFlowAI/mindflow](https://github.com/MindFlowAI/mindflow) - AI-powered git wrapper and code search engine to streamline your dev workflow 🌊
+- [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered git wrapper and code search engine to streamline your dev workflow 🌊
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [zahidkhawaja/rusty](https://github.com/zahidkhawaja/rusty) - GPT-3 powered CLI tool to help you remember bash commands.
@@ -908,7 +910,7 @@
 
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [naiba/nezha](https://github.com/naiba/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, ding
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring tool with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, dingdi
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
@@ -990,6 +992,7 @@
 
 ## others 
 
+- [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of ready-to-run docker-compose for the Shelf App
 - [leidichen/weekly](https://github.com/leidichen/weekly) - 🪑 冷板凳周刊：分享有意思的生活、知识及其他…
 - [dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly 🦋
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
@@ -1277,7 +1280,7 @@
 
 ## python 
 
-- [MindFlowAI/mindflow](https://github.com/MindFlowAI/mindflow) - AI-powered git wrapper and code search engine to streamline your dev workflow 🌊
+- [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered git wrapper and code search engine to streamline your dev workflow 🌊
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [rohankishore/Aura-Text](https://github.com/rohankishore/Aura-Text) - Aura Text is a versatile and powerful text editor  that provides all the necessary tools for developers. It is build using Tkinter and Python.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
