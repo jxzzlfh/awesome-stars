@@ -481,6 +481,7 @@
 
 ## Python 
 
+- [MindFlowAI/mindflow](https://github.com/MindFlowAI/mindflow) - AI-powered git wrapper and code search engine to streamline your dev workflow 🌊
 - [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
 - [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
 - [whitead/paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
