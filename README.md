@@ -243,7 +243,7 @@
 - [FleyX/bookmark](https://github.com/FleyX/bookmark) - 一个开源云书签应用，适配pc，手机。可全文检索查找书签。
 - [adlered/bolo-solo](https://github.com/adlered/bolo-solo) - 🍍Bolo菠萝博客 专为程序员设计的精致Java博客系统 | 🎸基于Solo深度定制 | ❤️完善文档轻松安装，贴心的技术支持 | 免登录评论 | 邮件/微信提醒 | 自定义图床 | 备案模式 | ✨精致主题持续更新 | 一键备份 | 防火墙 | 评论过滤 | 独立分类 | 文章与GitHub同步 | ✅安装太轻松！支持 Tomcat  Docker   宝塔面板 | 支持Windows  Lin
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, ding
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring tool with custom-monitor and agentless. Aim to monitor everything!  Web, database, os, middleware, cloudnative and more. Notified support discord, slack, email, telegram, dingdi
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [AriaLyy/Aria](https://github.com/AriaLyy/Aria) - 下载可以很简单
@@ -448,6 +448,7 @@
 
 ## PHP 
 
+- [geekr-dev/geekchat](https://github.com/geekr-dev/geekchat) - GeekChat - ChatGPT clone with Laravel
 - [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，采用Stream流模式通信，一边生成一边输出，响应速度超过官网。前端采用JS的EventSource，支持Markdown格式解析，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有两三个文件，没用任何框架，支持所有PHP版本。只需要修改stream.php中的API_KEY即可使用，也可让浏览者使用自定义
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
 - [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
@@ -481,7 +482,7 @@
 
 ## Python 
 
-- [MindFlowAI/mindflow](https://github.com/MindFlowAI/mindflow) - AI-powered git wrapper and code search engine to streamline your dev workflow 🌊
+- [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered git wrapper and code search engine to streamline your dev workflow 🌊
 - [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
 - [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
 - [whitead/paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
@@ -570,6 +571,7 @@
 
 ## Shell 
 
+- [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of ready-to-run docker-compose for the Shelf App
 - [missuo/OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
 - [Netflixxp/chatGPT](https://github.com/Netflixxp/chatGPT) - 检测服务器IP是否解锁chatgpt的注册或使用
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs. Facebook (Meta)  的 LLaMA 模型（235GB）- 百度网盘下载
