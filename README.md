@@ -156,6 +156,7 @@
 
 ## Go 
 
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [jinzhongjia/movie-getter](https://github.com/jinzhongjia/movie-getter) - Go编写的影视资源采集器
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
