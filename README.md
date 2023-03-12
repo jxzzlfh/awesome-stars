@@ -210,7 +210,6 @@
 
 ## HTML 
 
-- [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
 - [ten-ltw/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/ten-ltw/JavaScript-The-Definitive-Guide-7th-zh) - 《JavaScript权威指南第七版》中英对照
 - [jonssonyan/aria2-x](https://github.com/jonssonyan/aria2-x) - 一款基于AriaNg和Aria2的PC端下载器
 - [MoeOffice/xvo.es](https://github.com/MoeOffice/xvo.es) - A simple, minimal and safe URL Shortener.
@@ -258,6 +257,7 @@
 
 - [replicate/scribble-diffusion](https://github.com/replicate/scribble-diffusion) - Turn your rough sketch into a refined image using AI
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
+- [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
 - [dundunnp/auto_xuexiqiangguo](https://github.com/dundunnp/auto_xuexiqiangguo) - 学习强国 每日拿满61分！免root 四人赛双人对战秒答 自动化脚本
 - [easychen/openai-api-proxy](https://github.com/easychen/openai-api-proxy) - 可通过Docker 一行命令部署的 OpenAI/GPT API代理，支持SSE实时返回和部署到腾讯云函数，已添加教程 。Simple proxy for OpenAi api via a one-line docker command
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
@@ -451,7 +451,7 @@
 ## PHP 
 
 - [geekr-dev/geekchat](https://github.com/geekr-dev/geekchat) - GeekChat - ChatGPT clone with Laravel
-- [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，采用Stream流模式通信，一边生成一边输出，响应速度超过官网。前端采用JS的EventSource，支持Markdown格式解析，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有两三个文件，没用任何框架，支持所有PHP版本。只需要修改stream.php中的API_KEY即可使用，也可让浏览者使用自定义
+- [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 最易部署的ChatGPT中文个人站！PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，采用Stream流模式通信，一边生成一边输出，响应速度超过官网。前端采用JS的EventSource，支持Markdown格式解析，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有两三个文件，没用任何框架，支持所有PHP版本。只需要修改stream.php中的API_K
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
 - [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
