@@ -105,6 +105,7 @@
 
 ## C++ 
 
+- [anysphere/gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - Some examples of GPT-4 for code!
 - [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [parakeet-rs/parakeet-wx](https://github.com/parakeet-rs/parakeet-wx) - 利用 wxWidgets 开发的桌面客户端。
@@ -157,6 +158,7 @@
 
 ## Go 
 
+- [ystyle/kaf-cli](https://github.com/ystyle/kaf-cli) - 把txt文本转成epub和mobi电子书的命令行工具(原TmdTextEpub)
 - [CareyWang/MyUrls](https://github.com/CareyWang/MyUrls) - Your Own URL Shortener
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -391,6 +393,7 @@
 
 ## Others 
 
+- [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 A concise, efficient, good-looking input, screenshot, and word translation software
 - [Twoandz9/Clash](https://github.com/Twoandz9/Clash) - 改自于ACL，新增了手动切换1，手动切换2，精简化，加入了Emby，OpenAi分流。使用方法：随意一个订阅转换网址，将【https://raw.githubusercontent.com/Twoandz9/Clash/main/ACL4SSR_Online_Full_2z.ini】 粘贴到远程配置里面转换即可
 - [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, 
@@ -457,7 +460,7 @@
 
 ## PHP 
 
-- [geekr-dev/geekchat](https://github.com/geekr-dev/geekchat) - GeekChat - ChatGPT clone with Laravel
+- [geekr-dev/geekchat](https://github.com/geekr-dev/geekchat) - GeekChat - ChatGPT With Support For Voice And Stream
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
 - [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
@@ -486,7 +489,7 @@
 
 ## Python 
 
-- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型
+- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An open bilingual dialogue language model
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
 - [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
@@ -578,6 +581,7 @@
 
 ## Shell 
 
+- [shidahuilang/SS-SSR-TG-iptables-bt](https://github.com/shidahuilang/SS-SSR-TG-iptables-bt) - 全集合一键脚本搭建
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of ready-to-run docker-compose for the Shelf App
 - [easychen/openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速开发一个OpenAI/GPT应用：国内开发者笔记
 - [missuo/OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
