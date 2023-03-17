@@ -277,6 +277,7 @@
 
 ## bot 
 
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - Gpt-3.5-turbo ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌 API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Infor
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
