@@ -291,6 +291,9 @@
 
 ## chatgpt 
 
+- [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
+- [cosin2077/chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A cross-platform desktop application for OpenAI API, also a prompt debugging and management tool.
 - [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 - [zhuweiyou/chatgpt-api](https://github.com/zhuweiyou/chatgpt-api) - 封装 OpenAI 网页版最新 ChatGPT 接口, 不需要使用 API Key, 完全免费
 - [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
@@ -411,6 +414,7 @@
 
 ## database 
 
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 
 ## deep-learning 
@@ -443,6 +447,7 @@
 
 ## docker 
 
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
 - [shidahuilang/SS-SSR-TG-iptables-bt](https://github.com/shidahuilang/SS-SSR-TG-iptables-bt) - 全集合一键脚本搭建
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
@@ -590,6 +595,7 @@
 
 ## go 
 
+- [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - Getting Started Go
 - [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
@@ -609,6 +615,7 @@
 
 ## golang 
 
+- [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - Getting Started Go
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
@@ -991,6 +998,7 @@
 
 ## nodejs 
 
+- [cosin2077/chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [Lete114/API-Interface](https://github.com/Lete114/API-Interface) - api接口: Bing每日高清壁纸、获取网站信息，图标，标题等、获取QQ信息、QQ头像、QQ昵称、等、获取短视频信息、去水印、抖音、火山、微视、皮皮虾、最右
@@ -1024,6 +1032,7 @@
 
 ## others 
 
+- [SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV) - 标准协议移动直播源
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
 - [Jrohy/cfw-updater](https://github.com/Jrohy/cfw-updater) - clash_for_windows一键更新工具
 - [learnhard-cn/free_proxy_ss](https://github.com/learnhard-cn/free_proxy_ss) - 分享免费梯子/科学上网/代理/shadowsocks(SS)/ShadowsocksR(SSR)/V2ray(vmess)代理，2小时更新一次，分享Clash代理订阅源和配置文件订阅链接。
@@ -1530,6 +1539,7 @@
 
 ## typescript 
 
+- [cosin2077/chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个干净清爽的开发平台，像写博客一样写代码！三分钟上线 chatGPT 应用！
 - [simpleapples/chatgpt-translator](https://github.com/simpleapples/chatgpt-translator) - A translation desktop app based on Electron and ChatGPT.
