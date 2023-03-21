@@ -160,6 +160,7 @@
 
 ## Go 
 
+- [Leizhenpeng/feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
 - [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - Getting Started Go
 - [Jrohy/cfw-updater](https://github.com/Jrohy/cfw-updater) - clash_for_windows一键更新工具
@@ -591,7 +592,7 @@
 - [zahidkhawaja/rusty](https://github.com/zahidkhawaja/rusty) - GPT-3 powered CLI tool to help you remember bash commands.
 - [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-- [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
+- [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
@@ -603,6 +604,7 @@
 
 ## Shell 
 
+- [yeahwu/check](https://github.com/yeahwu/check) - Streaming Media Unlock Test
 - [shidahuilang/SS-SSR-TG-iptables-bt](https://github.com/shidahuilang/SS-SSR-TG-iptables-bt) - 全集合一键脚本搭建
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of ready-to-run docker-compose for the Shelf App
 - [easychen/openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速开发一个OpenAI/GPT应用：国内开发者笔记
