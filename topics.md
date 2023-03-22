@@ -1040,6 +1040,7 @@
 
 ## others 
 
+- [TechXueXi/techxuexi-js](https://github.com/TechXueXi/techxuexi-js) - 油猴等插件的 学习强国 js 代码 45分/天
 - [yeahwu/check](https://github.com/yeahwu/check) - Streaming Media Unlock Test
 - [perrys25/SearchGPT](https://github.com/perrys25/SearchGPT) - 
 - [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
