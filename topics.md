@@ -202,6 +202,7 @@
 
 ## api 
 
+- [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - Hier findest du das wohl einfachste und benutzerfreundlichste Chat-Script für die OpenAI-API GPT 3.5-tubro und GPT 4. Das Script benötigt kein Framework und du kannst es ohne Vorkenntnisse verwenden. 
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
@@ -1056,6 +1057,7 @@
 
 ## others 
 
+- [sjlleo/nexttrace-GUI](https://github.com/sjlleo/nexttrace-GUI) - NextTrace GUI For Windows
 - [xksoft/OcrHelper](https://github.com/xksoft/OcrHelper) - 桌面图像实时转文字工具
 - [SivanLaai/blog](https://github.com/SivanLaai/blog) - Obsidian写hugo博客，快捷键Crtl + U快速发布并自动部署，专注文字本身。
 - [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在
@@ -1221,7 +1223,7 @@
 - [kimliss/IdeaVideoAI](https://github.com/kimliss/IdeaVideoAI) - 一个有想法的视频处理工具，追求 AI 效果
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [SuLingGG/OpenWrt-Docker](https://github.com/SuLingGG/OpenWrt-Docker) - Build OpenWrt Docker Images For Raspberry Pi 1~4 (Daily Update)
-- [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:10.1-jdk11-corretto image.
+- [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
 - [saltbo/zpan](https://github.com/saltbo/zpan) - A self-hosted cloud disk base on the cloud storage./ 一个基于云存储的网盘系统，用于自建私人网盘或企业网盘。
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
