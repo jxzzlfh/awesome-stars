@@ -523,6 +523,7 @@
 
 ## Python 
 
+- [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - myGPTReader is a slack bot that can read any webpage, ebook, video(YouTube) or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.
 - [TerminalFi/LSP-copilot](https://github.com/TerminalFi/LSP-copilot) - GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.
 - [perrys25/SearchGPT](https://github.com/perrys25/SearchGPT) - 
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
