@@ -175,6 +175,7 @@
 
 ## android 
 
+- [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。| Microsoft TTS Android APP implementation (Use demo API)
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
@@ -300,6 +301,7 @@
 
 ## chatgpt 
 
+- [gcloudlab/QA](https://github.com/gcloudlab/QA) - 🤖 Chat with Ai, based on OpenAI gpt-3.5-turbo, deploy with Vercel
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
@@ -339,7 +341,7 @@
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - an AI chat Telegram bot with ChatGPT using Python on either fly.io or Replit.
+- [yym68686/ChatGPT-Bing-Telegram-Bot](https://github.com/yym68686/ChatGPT-Bing-Telegram-Bot) - an AI chat Telegram bot with ChatGPT and New Bing using Python on either fly.io or Replit.
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -474,7 +476,7 @@
 - [mebtte/cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
-- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - an AI chat Telegram bot with ChatGPT using Python on either fly.io or Replit.
+- [yym68686/ChatGPT-Bing-Telegram-Bot](https://github.com/yym68686/ChatGPT-Bing-Telegram-Bot) - an AI chat Telegram bot with ChatGPT and New Bing using Python on either fly.io or Replit.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [easychen/rsspush](https://github.com/easychen/rsspush) - 监测RSS变动，并发送最新内容到微信、Webhook 和 Telegram, Discord, Slack, Amazon SNS, Gotify 等数十个消息通道。
@@ -678,6 +680,7 @@
 
 ## hacktoberfest 
 
+- [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
@@ -734,6 +737,7 @@
 
 ## ios 
 
+- [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 
@@ -1064,6 +1068,11 @@
 
 ## others 
 
+- [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
+- [jonathontoon/manifest](https://github.com/jonathontoon/manifest) - An instant grid-based pinboard for note taking in your browser.
+- [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单：
 - [TerminalFi/LSP-copilot](https://github.com/TerminalFi/LSP-copilot) - GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.
 - [sjlleo/nexttrace-GUI](https://github.com/sjlleo/nexttrace-GUI) - NextTrace GUI For Windows
 - [xksoft/OcrHelper](https://github.com/xksoft/OcrHelper) - 桌面图像实时转文字工具
@@ -1594,6 +1603,7 @@
 
 ## typescript 
 
+- [gcloudlab/QA](https://github.com/gcloudlab/QA) - 🤖 Chat with Ai, based on OpenAI gpt-3.5-turbo, deploy with Vercel
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [cosin2077/chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
@@ -1622,6 +1632,7 @@
 
 ## vue 
 
+- [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [yann0917/dedao-gui](https://github.com/yann0917/dedao-gui) - wails + go + vue3 实现得到已购课程下载的桌面客户端
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [zcf0508/autocut-client](https://github.com/zcf0508/autocut-client) - AutoCut Client
