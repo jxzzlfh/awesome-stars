@@ -1107,7 +1107,7 @@
 - [ystyle/kaf-cli](https://github.com/ystyle/kaf-cli) - 把txt文本转成epub和mobi电子书的命令行工具(原TmdTextEpub)
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [CareyWang/MyUrls](https://github.com/CareyWang/MyUrls) - Your Own URL Shortener
-- [Twoandz9/Clash](https://github.com/Twoandz9/Clash) - 改自于ACL，新增了手动切换1，手动切换2，精简化，加入了Emby，OpenAi分流。使用方法：随意一个订阅转换网址，将【https://raw.githubusercontent.com/Twoandz9/Clash/main/ACL4SSR_Online_Full_2z.ini】 粘贴到远程配置里面转换即可
+- [Twoandz9/Clash](https://github.com/Twoandz9/Clash) - 改自于ACL，新增了手动切换1，手动切换2，精简化，加入了Emby，OpenAi，Bing分流。使用方法：随意一个订阅转换网址，将【https://raw.githubusercontent.com/Twoandz9/Clash/main/ACL4SSR_Online_Full_2z.ini】 粘贴到远程配置里面转换即可
 - [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - An AIGC tool
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
@@ -1123,7 +1123,7 @@
 - [leidichen/weekly](https://github.com/leidichen/weekly) - 🪑 冷板凳周刊：分享有意思的生活、知识及其他…
 - [dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly 🦋
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
-- [easychen/openai-api-proxy](https://github.com/easychen/openai-api-proxy) - 可通过Docker 一行命令部署的 OpenAI/GPT API代理，支持SSE实时返回和部署到腾讯云函数，已添加教程 。Simple proxy for OpenAi api via a one-line docker command
+- [easychen/openai-api-proxy](https://github.com/easychen/openai-api-proxy) - 一行Docker命令部署的 OpenAI/GPT API代理，支持SSE流式返回、按句子流式文本安全、腾讯云函数 。Simple proxy for OpenAi api via a one-line docker command
 - [easychen/openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速开发一个OpenAI/GPT应用：国内开发者笔记
 - [Ice-Hazymoon/openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy) - 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
 - [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
