@@ -421,6 +421,7 @@
 
 ## Others 
 
+- [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
 - [UJX6N/bbrplus-5.10](https://github.com/UJX6N/bbrplus-5.10) - Linux bbrplus kernel 5.10 ported from bbrplus 4.14
 - [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
 - [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单：
@@ -683,7 +684,7 @@
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [theowenyoung/clip-template](https://github.com/theowenyoung/clip-template) - clip template
-- [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个干净清爽的开发平台，像写博客一样写代码！三分钟上线 chatGPT 应用！
+- [labring/laf](https://github.com/labring/laf) - 🤖 chatGPT 自动写函数计算代码，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [yann0917/dedao-gui](https://github.com/yann0917/dedao-gui) - wails + go + vue3 实现得到已购课程下载的桌面客户端
 - [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
