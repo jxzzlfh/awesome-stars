@@ -677,7 +677,7 @@
 - [fhefh2015/Fast-GitHub](https://github.com/fhefh2015/Fast-GitHub) - 国内Github下载很慢，用上了这个插件后，下载速度嗖嗖嗖的~！
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [cosin2077/chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux.  开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 - [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - An AIGC tool
