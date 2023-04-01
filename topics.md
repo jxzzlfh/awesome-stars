@@ -1079,6 +1079,7 @@
 
 ## others 
 
+- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 - [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
 - [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 - [lxfater/Portal](https://github.com/lxfater/Portal) - 
