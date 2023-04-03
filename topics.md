@@ -320,7 +320,7 @@
 - [gregives/recommend.domains](https://github.com/gregives/recommend.domains) - Find the perfect domain name for your next project
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [cosin2077/chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux.  #openai #chatgpt #AI 开源的ChatGPT桌面应用，下载安装包直接运行，prompt 开发神器，Window、Mac、Linux全平台支持
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - 开源的ChatGPT桌面应用，下载安装包直接运行，prompt 开发神器，Window、Mac、Linux全平台支持。 A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux.
 - [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 - [zhuweiyou/chatgpt-api](https://github.com/zhuweiyou/chatgpt-api) - 封装 OpenAI 网页版最新 ChatGPT 接口, 不需要使用 API Key, 完全免费
 - [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
@@ -330,7 +330,7 @@
 - [simpleapples/chatgpt-translator](https://github.com/simpleapples/chatgpt-translator) - A translation desktop app based on Electron and ChatGPT.
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary..
+- [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 - [whitead/paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
 - [missuo/OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
 - [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - Hier findest du das wohl einfachste und benutzerfreundlichste Chat-Script für die OpenAI-API GPT 3.5-tubro und GPT 4. Das Script benötigt kein Framework und du kannst es ohne Vorkenntnisse verwenden. 
@@ -369,7 +369,7 @@
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 - [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary..
+- [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [ttglad/learning](https://github.com/ttglad/learning) - 学习强国浏览器插件，自动阅读、观看视频、每日答题、每周答题、专项答题，每日35~40分！
 - [wangmeijian/auto_clipboard](https://github.com/wangmeijian/auto_clipboard) - 选中文字自动复制到剪切板的chrome插件
@@ -418,6 +418,7 @@
 
 ## css 
 
+- [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Se
 - [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - Hier findest du das wohl einfachste und benutzerfreundlichste Chat-Script für die OpenAI-API GPT 3.5-tubro und GPT 4. Das Script benötigt kein Framework und du kannst es ohne Vorkenntnisse verwenden. 
 - [Xu22Web/tech-study-js](https://github.com/Xu22Web/tech-study-js) - 学习强国油猴插件 40分/天 强国脚本 A flexible and light userscript for xuexiqiangguo based on tampermonkey plugin
 - [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【尚未完成】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
@@ -681,7 +682,7 @@
 
 ## google 
 
-- [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary..
+- [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
 
 ## hacking 
@@ -783,6 +784,7 @@
 
 ## javascript 
 
+- [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Se
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
 - [simpleapples/chatgpt-translator](https://github.com/simpleapples/chatgpt-translator) - A translation desktop app based on Electron and ChatGPT.
@@ -854,6 +856,7 @@
 
 ## laravel 
 
+- [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Se
 - [geekr-dev/geekchat](https://github.com/geekr-dev/geekchat) - GeekChat - ChatGPT With Support For Text、Voice、Image And Translate
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -1070,6 +1073,7 @@
 
 ## open-source 
 
+- [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Se
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency.
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
@@ -1085,6 +1089,7 @@
 
 ## others 
 
+- [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT
 - [Forgot-Dream/STS-Bcut](https://github.com/Forgot-Dream/STS-Bcut) - 使用必剪API，语音转字幕，支持输入声音文件，也支持输入视频文件自动提取音频。
 - [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
@@ -1368,6 +1373,7 @@
 
 ## php 
 
+- [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Se
 - [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - Hier findest du das wohl einfachste und benutzerfreundlichste Chat-Script für die OpenAI-API GPT 3.5-tubro und GPT 4. Das Script benötigt kein Framework und du kannst es ohne Vorkenntnisse verwenden. 
 - [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 本项目是最易部署的ChatGPT环境，想做点事情的创业者欢迎加群参与讨论！PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，采用Stream流模式通信，一边生成一边输出，响应速度超过官网。前端采用JS的EventSource，支持Markdown格式解析，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有两三个文件，没用任何框架，支持所有PHP版本。只需要
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
@@ -1710,6 +1716,7 @@
 
 ## webapp 
 
+- [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Se
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
