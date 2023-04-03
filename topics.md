@@ -385,6 +385,7 @@
 
 ## cli 
 
+- [abdeladim-s/subsai](https://github.com/abdeladim-s/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -599,6 +600,7 @@
 
 ## frontend 
 
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 
 ## git 
@@ -731,6 +733,7 @@
 
 ## html 
 
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务
 - [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 本项目是最易部署的ChatGPT环境，想做点事情的创业者欢迎加群参与讨论！PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Demo，采用Stream流模式通信，一边生成一边输出，响应速度超过官网。前端采用JS的EventSource，支持Markdown格式解析，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有两三个文件，没用任何框架，支持所有PHP版本。只需要
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -1089,6 +1092,7 @@
 
 ## others 
 
+- [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 基于阿里云盘开放平台API的新版小白羊阿里云盘客户端。
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT
 - [Forgot-Dream/STS-Bcut](https://github.com/Forgot-Dream/STS-Bcut) - 使用必剪API，语音转字幕，支持输入声音文件，也支持输入视频文件自动提取音频。
@@ -1707,6 +1711,7 @@
 
 ## web 
 
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
 - [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text (https://image-to-text-ocr.netlify.app) is a web tool to extract text from any image using OCR
