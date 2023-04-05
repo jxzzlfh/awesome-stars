@@ -1098,6 +1098,7 @@
 
 ## others 
 
+- [kylelin1998/ChatGPTForTelegram](https://github.com/kylelin1998/ChatGPTForTelegram) - 目前机器人基于gpt-3.5-turbo  使用机器人可以让你轻松进行对话， 后续机器人的更新升级一个命令即可搞定， 无需再上服务器进行升级机器人
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 基于阿里云盘开放平台API的新版小白羊阿里云盘客户端。
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT
