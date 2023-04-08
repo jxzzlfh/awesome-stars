@@ -313,6 +313,7 @@
 
 ## chatgpt 
 
+- [aircloud/sync-to-github](https://github.com/aircloud/sync-to-github) - Sync your web content into a github repository, e.g. a conversation with ChatGPT.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
 - [SlimeNull/OpenGptChat](https://github.com/SlimeNull/OpenGptChat) - An OpenAI Chat completion Client. Support for the six major universal languages in the world and some other languages. Support for dark mode.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -1137,7 +1138,7 @@
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [cuifengcn/TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。
 - [kylelin1998/ChatGPTForTelegram](https://github.com/kylelin1998/ChatGPTForTelegram) - 目前机器人基于gpt-3.5-turbo  使用机器人可以让你轻松进行对话， 后续机器人的更新升级一个命令即可搞定， 无需再上服务器进行升级机器人
-- [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 基于阿里云盘开放平台API的新版小白羊阿里云盘客户端。
+- [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 新版小白羊_阿里云盘开放平台
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT
 - [Forgot-Dream/STS-Bcut](https://github.com/Forgot-Dream/STS-Bcut) - 使用必剪API，语音转字幕，支持输入声音文件，也支持输入视频文件自动提取音频。
@@ -1145,7 +1146,7 @@
 - [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
 - [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 - [lxfater/Portal](https://github.com/lxfater/Portal) - 
-- [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language
+- [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language.
 - [UJX6N/bbrplus-5.10](https://github.com/UJX6N/bbrplus-5.10) - Linux bbrplus kernel 5.10 ported from bbrplus 4.14
 - [mzfr/yarr](https://github.com/mzfr/yarr) - yet another rss reader
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
