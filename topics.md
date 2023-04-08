@@ -609,6 +609,7 @@
 
 ## flask 
 
+- [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [mouday/domain-admin](https://github.com/mouday/domain-admin) - 域名SSL证书监测平台
 - [sapicd/sapic](https://github.com/sapicd/sapic) - sapic(picbed) - 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee、S3等，支持自定义扩展。
 - [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes) - App for taking notes and tracking tasks on a daily basis
@@ -1213,7 +1214,7 @@
 - [ischenliang/quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 轻快图床：使用koa + vue3.x + typescript全家桶实现的在线图床系统，支持在线存储桶插件开发，目前支持腾讯云COS、又拍云Upyun、阿里云OSS、github图床、gitee图床、本地存储桶、七牛云 KODO等在线图床存储桶。市面上最火的图床系统是picgo，但由于picgo是桌面应用程序，换了新电脑需要重新下载安装配置，十分麻烦，为了解决该问题，故诞生了这款系统。
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [zhheo/HeoMusic](https://github.com/zhheo/HeoMusic) - 一个基于Aplayer和MetingJS的静态音乐播放器
-- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
+- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
 - [andy-portmen/country-flags](https://github.com/andy-portmen/country-flags) - adds a toolbar button to browser address-bar displaying current physical location of visited website
 - [whereisph/new](https://github.com/whereisph/new) - 
 - [lxfater/BilibiliSummary](https://github.com/lxfater/BilibiliSummary) - A chrome extension helps you summary video on bilibili.
@@ -1614,6 +1615,7 @@
 
 ## shell 
 
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - （VLESS+TCP+TLS_Vision/VLESS+Reality/VLESS+Reality+gRPC/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Hysteria）+伪装站点、八合一共存脚本，支持多内核安装
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
