@@ -1152,6 +1152,7 @@
 
 ## others 
 
+- [mirrors2/chatgpt-api-proxy](https://github.com/mirrors2/chatgpt-api-proxy) - chatgpt api proxy
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and telegram bot.
 - [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
@@ -1170,7 +1171,7 @@
 - [lxfater/Portal](https://github.com/lxfater/Portal) - 
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language.
 - [UJX6N/bbrplus-5.10](https://github.com/UJX6N/bbrplus-5.10) - Linux bbrplus kernel 5.10 ported from bbrplus 4.14
-- [mzfr/yarr](https://github.com/mzfr/yarr) - yet another rss reader
+- [mzfr/yarr](https://github.com/mzfr/yarr) - Modified version of the original yarr(yet another RSS reader)
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment
