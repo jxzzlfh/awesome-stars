@@ -152,6 +152,7 @@
 
 ## ai 
 
+- [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -1152,6 +1153,7 @@
 
 ## others 
 
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [mirrors2/chatgpt-api-proxy](https://github.com/mirrors2/chatgpt-api-proxy) - chatgpt api proxy
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and telegram bot.
 - [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘
@@ -1163,7 +1165,7 @@
 - [kylelin1998/ChatGPTForTelegram](https://github.com/kylelin1998/ChatGPTForTelegram) - 目前机器人基于gpt-3.5-turbo  使用机器人可以让你轻松进行对话， 后续机器人的更新升级一个命令即可搞定， 无需再上服务器进行升级机器人
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 新版小白羊_阿里云盘开放平台
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
-- [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT
+- [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [Forgot-Dream/STS-Bcut](https://github.com/Forgot-Dream/STS-Bcut) - 使用必剪API，语音转字幕，支持输入声音文件，也支持输入视频文件自动提取音频。
 - [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 - [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
