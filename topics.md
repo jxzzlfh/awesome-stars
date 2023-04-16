@@ -331,6 +331,7 @@
 
 ## chatgpt 
 
+- [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT负责编写的ChatGPT工具箱。
 - [RafalWilinski/telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持 Stream 流式输出
 - [bapaws/answer](https://github.com/bapaws/answer) - 小答是一款基于 ChatGPT API 的开源客户端。Chat Answer is an open source app based on ChatGPT.
@@ -1245,7 +1246,7 @@
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [jonathontoon/manifest](https://github.com/jonathontoon/manifest) - An instant grid-based pinboard for note taking in your browser.
-- [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单：
+- [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单 - 日更中！
 - [TerminalFi/LSP-copilot](https://github.com/TerminalFi/LSP-copilot) - GitHub Copilot support for Sublime Text LSP plugin provided through Copilot.vim.
 - [sjlleo/nexttrace-GUI](https://github.com/sjlleo/nexttrace-GUI) - NextTrace GUI For Windows
 - [xksoft/OcrHelper](https://github.com/xksoft/OcrHelper) - 桌面图像实时转文字工具
