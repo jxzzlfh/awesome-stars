@@ -67,6 +67,7 @@
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [google](#google)
+- [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -193,6 +194,7 @@
 
 ## android 
 
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
 - [bapaws/answer](https://github.com/bapaws/answer) - 小答是一款基于 ChatGPT API 的开源客户端。Chat Answer is an open source app based on ChatGPT.
 - [adityar224/FlutterMarkdownEditor](https://github.com/adityar224/FlutterMarkdownEditor) - Markdown Editor app allows easy markdown file creation and editing. It opens ".md" files directly from explorer, provides text styling options, effortless link addition, Light and Dark Theme Modes, Mu
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
@@ -333,6 +335,7 @@
 
 ## chatgpt 
 
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
 - [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Multi-purpose ChatGPT Chrome Extension
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Have a conversation with files ｜与你的文件对话
 - [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT负责编写的ChatGPT工具箱。
@@ -365,7 +368,7 @@
 - [gregives/recommend.domains](https://github.com/gregives/recommend.domains) - Find the perfect domain name for your next project
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [cosin2077/chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - the Ultimate Copilot on Your Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 - [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 - [zhuweiyou/chatgpt-api](https://github.com/zhuweiyou/chatgpt-api) - 封装 OpenAI 网页版最新 ChatGPT 接口, 不需要使用 API Key, 完全免费
 - [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
@@ -448,6 +451,7 @@
 
 ## cli 
 
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [abdeladim-s/subsai](https://github.com/abdeladim-s/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
@@ -782,6 +786,10 @@
 - [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
 
+## graphql 
+
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
+
 ## hacking 
 
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
@@ -981,6 +989,7 @@
 
 ## learning 
 
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
 - [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript
 - [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
 - [icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn) - 超赞列表合集
@@ -1211,6 +1220,9 @@
 
 ## others 
 
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
+- [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
+- [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
 - [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - A fantastic toolkit for CTFers and everyone :toolbox:
 - [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
 - [ramsrigouthamg/Supertranslate.ai](https://github.com/ramsrigouthamg/Supertranslate.ai) - Subtitle Videos and add text motion graphics - https://www.supertranslate.ai/
@@ -1723,6 +1735,7 @@
 
 ## server 
 
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [souying/serverMmon](https://github.com/souying/serverMmon) - nodeJs、云探针、多服务器探针、云监控、多服务器云监控，演示：http://106.126.11.114:5880/
 - [svtslv/webdav-cli](https://github.com/svtslv/webdav-cli) - A simple zero-configuration command-line webdav server
 
@@ -1875,6 +1888,7 @@
 
 ## web 
 
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
 - [sing-web/x-ui](https://github.com/sing-web/x-ui) - xray panel that supports multi-protocol and multi-user
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务
