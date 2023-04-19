@@ -16,6 +16,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [azure](#azure)
 - [bash](#bash)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
@@ -306,6 +307,10 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 
+## azure 
+
+- [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端AI语言练习应用
+
 ## bash 
 
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
@@ -336,6 +341,7 @@
 
 ## chatgpt 
 
+- [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端AI语言练习应用
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
 - [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Multi-purpose ChatGPT Chrome Extension
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Have a conversation with files ｜与你的文件对话
@@ -387,7 +393,7 @@
 - [lvwzhen/teach-anything](https://github.com/lvwzhen/teach-anything) - Teach any questions in seconds (by OpenAI)
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
-- [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API.
+- [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - Optimized UI for ChatGPT, DALL-E and Stable Diffusion.
 - [JimmyLv/BibiGPT](https://github.com/JimmyLv/BibiGPT) - BibiGPT · One-click AI Summary for video &  audio content: Bilibili | YouTube | Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs. Facebook (Meta)  的 LLaMA 模型（235GB）- 百度网盘下载
@@ -603,6 +609,7 @@
 
 ## electron 
 
+- [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端AI语言练习应用
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -1221,6 +1228,7 @@
 
 ## others 
 
+- [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 - [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
@@ -1366,7 +1374,7 @@
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
 - [merveenoyan/my_notes](https://github.com/merveenoyan/my_notes) - My small cheatsheets for data science, ML, computer science and more.
 - [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
-- [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个国内可直连的直播源分享项目 ✯  🔕 永久免费 直连访问 完整开源 干净无广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
+- [fanmingming/live](https://github.com/fanmingming/live) - ✯ 一个国内可直连的直播源分享项目 ✯  🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 直播源支持IPv4/IPv6双栈访问 🔕
 - [cxasm/notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [vvyoko/EditRename](https://github.com/vvyoko/EditRename) - 借助文本编辑器重命名
