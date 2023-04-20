@@ -1230,6 +1230,7 @@
 
 ## others 
 
+- [DustinWin/Clash-Files](https://github.com/DustinWin/Clash-Files) - 自动生成配置文件
 - [Pylogmon/pot](https://github.com/Pylogmon/pot) - 🌈一个跨平台的划词翻译软件 | A cross-platform translation software
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ClarenceDan/openai-billing](https://github.com/ClarenceDan/openai-billing) - This project provides a quick and easy way to check OpenAI API Key balances, supports multiple key checks, and includes a tutorial for setting up a Cloudflare reverse proxy.这个项目提供了一个快速简便的方式来查询 OpenAI 
