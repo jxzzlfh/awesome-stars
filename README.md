@@ -293,6 +293,7 @@
 
 ## JavaScript 
 
+- [Pylogmon/pot](https://github.com/Pylogmon/pot) - 🌈一个跨平台的划词翻译软件 | A cross-platform translation software
 - [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Multi-purpose ChatGPT Chrome Extension
 - [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT负责编写的ChatGPT工具箱。
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持 Stream 流式输出
