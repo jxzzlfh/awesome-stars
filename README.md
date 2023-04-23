@@ -298,6 +298,8 @@
 
 ## JavaScript 
 
+- [bartbzd/todo-list](https://github.com/bartbzd/todo-list) - To-Do List
+- [akl7777777/free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - **A free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt
 - [Pylogmon/pot](https://github.com/Pylogmon/pot) - 🌈一个跨平台的划词翻译软件 | A cross-platform translation software
 - [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Multi-purpose ChatGPT Chrome Extension
 - [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载
@@ -469,6 +471,7 @@
 
 ## Others 
 
+- [akl7777777/free-chatgpt-client-mobile-pub](https://github.com/akl7777777/free-chatgpt-client-mobile-pub) - **A free ChatGPT mobile client, no need for a key, no need to log in.免费的ChatGPT手机客户端，无需密钥，无需登录**
 - [halo-sigs/awesome-halo](https://github.com/halo-sigs/awesome-halo) - 与 Halo 相关的周边生态资源列表
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
