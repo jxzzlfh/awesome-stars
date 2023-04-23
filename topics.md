@@ -348,6 +348,7 @@
 
 ## chatgpt 
 
+- [akl7777777/free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - **A free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt
 - [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 - [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -1260,6 +1261,8 @@
 
 ## others 
 
+- [bartbzd/todo-list](https://github.com/bartbzd/todo-list) - To-Do List
+- [akl7777777/free-chatgpt-client-mobile-pub](https://github.com/akl7777777/free-chatgpt-client-mobile-pub) - **A free ChatGPT mobile client, no need for a key, no need to log in.免费的ChatGPT手机客户端，无需密钥，无需登录**
 - [Oreomeow/warpplus](https://github.com/Oreomeow/warpplus) - Get WARP+ referral quota and notify users with Telegram Bot
 - [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
