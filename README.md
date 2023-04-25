@@ -17,6 +17,7 @@
 - [Clojure](#clojure)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -139,7 +140,6 @@
 
 ## CSS 
 
-- [ROYIANS/hexo-theme-dreamlandbook](https://github.com/ROYIANS/hexo-theme-dreamlandbook) - hexo-theme-dreamlandbook 梦岛书hexo主题
 - [mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) - Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly 🦋
@@ -174,6 +174,10 @@
 - [hellodk34/squoosh](https://github.com/hellodk34/squoosh) - A https://github.com/GoogleChromeLabs/squoosh docker image. Support amd64, arm64 and arm v7 arch. Dockerfile open source at https://github.com/hellodk34/squoosh .
 - [filerun/docker](https://github.com/filerun/docker) - FileRun Docker Image
 - [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
+
+## EJS 
+
+- [ROYIANS/hexo-theme-dreamlandbook](https://github.com/ROYIANS/hexo-theme-dreamlandbook) - hexo-theme-dreamlandbook 梦岛书hexo主题
 
 ## Go 
 
@@ -316,7 +320,7 @@
 - [JaneJeon/blink](https://github.com/JaneJeon/blink) - Modern, lightweight, planet-scale link shortener for teams 🎉
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact
 - [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-- [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and telegram bot.
+- [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use And Easy to manage.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [souying/serverMmon](https://github.com/souying/serverMmon) - nodeJs、云探针、多服务器探针、云监控、多服务器云监控，演示：http://106.126.11.114:5880/
 - [doggy8088/ChatGPTToolkitExtension](https://github.com/doggy8088/ChatGPTToolkitExtension) - 提升 ChatGPT 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。
