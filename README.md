@@ -65,7 +65,7 @@
 
 ## Blade 
 
-- [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Se
+- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 
 ## C 
