@@ -1314,7 +1314,7 @@
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [CloudExplorer-Dev/CloudExplorer-Lite](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) - 开源的轻量级云管平台
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-- [DustinWin/clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash.Meta 内核和 AdGuardHome 最新版
+- [DustinWin/clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash.Meta 内核、Yacd-meta 面板和 AdGuardHome 最新版
 - [Pylogmon/pot](https://github.com/Pylogmon/pot) - 🌈一个跨平台的划词翻译软件 | A cross-platform translation software
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ClarenceDan/openai-billing](https://github.com/ClarenceDan/openai-billing) - This project provides a quick and easy way to check OpenAI API Key balances, supports multiple key checks, and includes a tutorial for setting up a Cloudflare reverse proxy.这个项目提供了一个快速简便的方式来查询 OpenAI 
