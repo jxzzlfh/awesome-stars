@@ -176,7 +176,6 @@
 
 - [easychen/chatchan-dist](https://github.com/easychen/chatchan-dist) - Chat酱独立部署版，docker方案自带代理
 - [hellodk34/squoosh](https://github.com/hellodk34/squoosh) - A https://github.com/GoogleChromeLabs/squoosh docker image. Support amd64, arm64 and arm v7 arch. Dockerfile open source at https://github.com/hellodk34/squoosh .
-- [filerun/docker](https://github.com/filerun/docker) - FileRun Docker Image
 - [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - [maintainer wanted] 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 
 ## EJS 
@@ -413,7 +412,7 @@
 - [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
-- [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，仅单可执行文件，开箱即用
+- [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
@@ -990,7 +989,7 @@
 - [ischenliang/quickly-picture-bed](https://github.com/ischenliang/quickly-picture-bed) - 轻快图床：使用koa + vue3.x + typescript全家桶实现的在线图床系统，支持在线存储桶插件开发，目前支持腾讯云COS、又拍云Upyun、阿里云OSS、github图床、gitee图床、本地存储桶、七牛云 KODO等在线图床存储桶。市面上最火的图床系统是picgo，但由于picgo是桌面应用程序，换了新电脑需要重新下载安装配置，十分麻烦，为了解决该问题，故诞生了这款系统。支持Cha
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 展示各种信息的桌面小组件
-- [Dullage/flatnotes](https://github.com/Dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
+- [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端，增加近百条远程配置及更多自定义功能！
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text (https://image-to-text-ocr.netlify.app) is a web tool to extract text from any image using OCR
