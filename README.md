@@ -643,6 +643,7 @@
 
 ## Python 
 
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
 - [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for HuaTuo (华驼), Llama-7B tuned with Chinese medical knowledge. 华驼模型仓库，基于中文医学知识的LLaMA模型指令微调
 - [dandelionsllm/pandallm](https://github.com/dandelionsllm/pandallm) - Panda: 海外中文开源大语言模型，基于 Llama-7B, -13B, -33B, -65B 进行中文领域上的持续预训练。
@@ -842,6 +843,7 @@
 
 ## TypeScript 
 
+- [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - A simple extension that enables Bing ChatGPT on Chrome and Firefox.
 - [AprilNEA/ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - 带有用户管理和后台管理系统的 ChatGPT WebUI
