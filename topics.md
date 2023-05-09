@@ -1468,7 +1468,7 @@
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [CareyWang/MyUrls](https://github.com/CareyWang/MyUrls) - Your Own URL Shortener
 - [Twoandz9/Clash](https://github.com/Twoandz9/Clash) - 改自于ACL，新增了手动切换1，手动切换2，精简化，加入了Emby，OpenAi，Bing分流。使用方法：随意一个订阅转换网址，将【https://raw.githubusercontent.com/Twoandz9/Clash/main/ACL4SSR_Online_Full_2z.ini】 粘贴到远程配置里面转换即可
-- [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - An AIGC tool
+- [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
