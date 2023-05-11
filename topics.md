@@ -440,7 +440,7 @@
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [JimmyLv/BibiGPT](https://github.com/JimmyLv/BibiGPT) - BibiGPT · One-click AI Summary for video &  audio content: Bilibili | YouTube | Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & 
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
-- [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs. Facebook (Meta)  的 LLaMA 模型（235GB）- 百度网盘下载
+- [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - Refractoring 🚧|ChatBot+LLM |Gpt-3.5-turbo |ChatGPT Bot/Voice Assistant | 📱 Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker| 🔌 API Server| 🎤 Azure/Vits  |🌎 ?| 📷 Multi-modal/Image |
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
@@ -1331,6 +1331,8 @@
 
 ## others 
 
+- [kingwrcy/mblog-backend](https://github.com/kingwrcy/mblog-backend) - mblog-backend
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [FongMi/TV](https://github.com/FongMi/TV) - 
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [codex-team/codex.docs](https://github.com/codex-team/codex.docs) - Free Docs app powered by Editor.js ecosystem
