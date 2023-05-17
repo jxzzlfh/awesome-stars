@@ -163,6 +163,7 @@
 
 ## ai 
 
+- [lencx/awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 Awesome AI
 - [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - An Alfred workflow to use OpenAI text-completion API and chat API from anywhere
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions.
 - [tinygeeker/ai-prompt-generator](https://github.com/tinygeeker/ai-prompt-generator) - 🌈 AI绘画标签生成器：将标签进行分类整理，支持中文显示、加权、降权、成人模式等功能
@@ -373,6 +374,7 @@
 
 ## chatgpt 
 
+- [lencx/awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 Awesome AI
 - [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - An Alfred workflow to use OpenAI text-completion API and chat API from anywhere
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions.
