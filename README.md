@@ -303,6 +303,7 @@
 
 ## Java 
 
+- [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
 - [chenxingk/AliYunPan](https://github.com/chenxingk/AliYunPan) - 自动备份文件到阿里云盘，备份工具，网盘备份，一款可以自动检测新增文件，自动上传，定时自动备份本地目录文件到【阿里云盘】等于一体的多功能云备份工具
 - [kingwrcy/mblog-backend](https://github.com/kingwrcy/mblog-backend) - mblog-backend
 - [FongMi/TV](https://github.com/FongMi/TV) - 
@@ -332,6 +333,7 @@
 
 ## JavaScript 
 
+- [easychen/gpt-bat](https://github.com/easychen/gpt-bat) - GPT长文本批处理工具，Batch Processing tools for GPT
 - [totravel/shadowsocks-ws](https://github.com/totravel/shadowsocks-ws) - 基于 WebSocket 的 Shadowsocks，可以部署在 Heroku 和 Railway。
 - [JPressProjects/jpress](https://github.com/JPressProjects/jpress) - JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
@@ -359,7 +361,7 @@
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks)
 - [alireza0/x-ui](https://github.com/alireza0/x-ui) - xray panel supporting multi-protocol multi-user expire day & traffic (Vmess & Vless & Trojan & Shadowsocks)
 - [JaneJeon/blink](https://github.com/JaneJeon/blink) - Modern, lightweight, planet-scale link shortener for teams 🎉
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 - [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -678,6 +680,8 @@
 
 ## Python 
 
+- [drifting-in-space/botsh](https://github.com/drifting-in-space/botsh) - An LLM-based agent that will install the tools it needs.
+- [e-johnstonn/BriefGPT](https://github.com/e-johnstonn/BriefGPT) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
 - [THUDM/VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) - Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型
 - [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - Home of CodeT5: Open Code LLMs for Code Understanding and Generation
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
@@ -887,6 +891,8 @@
 
 ## TypeScript 
 
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - Pezzo is an open-source AI development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more.
+- [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
 - [filippofinke/WordGPT](https://github.com/filippofinke/WordGPT) - 🤖 Bring the power of ChatGPT to Microsoft Word
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is an open-source complete observability platform.
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions.
