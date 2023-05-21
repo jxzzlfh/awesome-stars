@@ -1402,6 +1402,7 @@
 
 ## others 
 
+- [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [getzep/zep](https://github.com/getzep/zep) - Zep: A long-term memory store for LLM / Chatbot applications
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
 - [myzhijie/chatgpt-on-wechat](https://github.com/myzhijie/chatgpt-on-wechat) - chatgpt微信机器人Docker镜像。Docker for open source project chatgpt-on-wechat.Thanks the author of project chatgpt-on-wechat.
