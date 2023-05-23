@@ -278,6 +278,7 @@
 
 ## HTML 
 
+- [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 - [ClarenceDan/openai-billing](https://github.com/ClarenceDan/openai-billing) - This project provides a quick and easy way to check OpenAI API Key balances, supports multiple key checks, and includes a tutorial for setting up a Cloudflare reverse proxy.这个项目提供了一个快速简便的方式来查询 OpenAI 
