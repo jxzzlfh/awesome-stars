@@ -1411,6 +1411,7 @@
 
 ## others 
 
+- [zenuo/gogo](https://github.com/zenuo/gogo) - 「勾勾」是一个搜索工具，搜索结果基于谷歌，致力于「安全和简洁」的搜索体验。
 - [GautamGupta/YOURLS-Import-Export](https://github.com/GautamGupta/YOURLS-Import-Export) - Import and Export YOURLS
 - [taozhiyu/yourls-translation-zh_CN](https://github.com/taozhiyu/yourls-translation-zh_CN) - translation for yourls
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Code for DragGAN (SIGGRAPH 2023)
