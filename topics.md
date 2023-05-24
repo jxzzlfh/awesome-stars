@@ -383,6 +383,8 @@
 
 ## chatgpt 
 
+- [AliDehbansiahkarbon/ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - A ChatGPT + WriteSonic + YouChat plug-in for Embarcadero RAD Studio IDE 10.1 and later versions.
+- [shellc/laozy](https://github.com/shellc/laozy) - Laozy is a self-hosted web application that helps you build and deploy LLM-based dialogue robots.  The robot you built can connect to instant messaging platforms like WeChat, Telegram, etc. You can al
 - [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AI (ChatGPT)）
 - [soulteary/sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
@@ -489,6 +491,7 @@
 
 ## chatgpt-api 
 
+- [AliDehbansiahkarbon/ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - A ChatGPT + WriteSonic + YouChat plug-in for Embarcadero RAD Studio IDE 10.1 and later versions.
 - [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 智能的通用数据库工具和SQL客户端（General-purpose database tools and SQL clients with AI (ChatGPT)）
 - [soulteary/sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
