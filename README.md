@@ -579,7 +579,7 @@
 - [UJX6N/bbrplus-5.10](https://github.com/UJX6N/bbrplus-5.10) - Linux bbrplus kernel 5.10 ported from bbrplus 4.14
 - [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
-- [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单！
+- [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 你的《人工智能指南》- 奶酪清单！
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
@@ -747,7 +747,7 @@
 - [InnocentAnyaele/GPTContext](https://github.com/InnocentAnyaele/GPTContext) - The flask backend for GPTContext app that allows user to upload context file and Chat GPT query AI based on it.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
