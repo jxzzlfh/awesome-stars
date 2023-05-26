@@ -341,6 +341,7 @@
 
 ## JavaScript 
 
+- [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [xbrowsersync/api-docker](https://github.com/xbrowsersync/api-docker) - xBrowserSync API for Docker
 - [easychen/gpt-bat](https://github.com/easychen/gpt-bat) - GPT长文本批处理工具，Batch Processing tools for GPT
@@ -704,7 +705,6 @@
 - [shellc/laozy](https://github.com/shellc/laozy) - Laozy is a self-hosted web application that helps you build and deploy LLM-based dialogue robots.  The robot you built can connect to instant messaging platforms like WeChat, Telegram, etc. You can al
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [chancelyg/syncmemo](https://github.com/chancelyg/syncmemo) - 支持跨平台访问的文本/图片便签的Web服务
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [drifting-in-space/botsh](https://github.com/drifting-in-space/botsh) - An LLM-based agent that will install the tools it needs.
 - [e-johnstonn/BriefGPT](https://github.com/e-johnstonn/BriefGPT) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
@@ -920,6 +920,7 @@
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [caorushizi/m3u8-downloader](https://github.com/caorushizi/m3u8-downloader) - m3u8 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
 - [xjq7/books](https://github.com/xjq7/books) - IT 电子书, 计算机基础(编译原理, 数据结构与算法, 操作系统), 计算机网络, 编程语言, 前端, 网络安全, 软件测试, 算法, 数据库, 经济学, 数学, 多种文件格式(pdf、mobi、epubi、azw3), 多种下载方式(百度网盘, 阿里网盘, 直链)
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [kx-Huang/ChatGPT-on-WeChat](https://github.com/kx-Huang/ChatGPT-on-WeChat) - 🤖️ Deploy ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
