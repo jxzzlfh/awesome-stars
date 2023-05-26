@@ -218,7 +218,7 @@
 - [sjlleo/nexttrace-GUI](https://github.com/sjlleo/nexttrace-GUI) - NextTrace GUI For Windows
 - [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-- [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+- [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
 - [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - Getting Started Go
 - [Jrohy/cfw-updater](https://github.com/Jrohy/cfw-updater) - clash_for_windows一键更新工具
@@ -917,6 +917,8 @@
 
 ## TypeScript 
 
+- [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
+- [caorushizi/m3u8-downloader](https://github.com/caorushizi/m3u8-downloader) - m3u8 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
 - [xjq7/books](https://github.com/xjq7/books) - IT 电子书, 计算机基础(编译原理, 数据结构与算法, 操作系统), 计算机网络, 编程语言, 前端, 网络安全, 软件测试, 算法, 数据库, 经济学, 数学, 多种文件格式(pdf、mobi、epubi、azw3), 多种下载方式(百度网盘, 阿里网盘, 直链)
 - [kx-Huang/ChatGPT-on-WeChat](https://github.com/kx-Huang/ChatGPT-on-WeChat) - 🤖️ Deploy ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
