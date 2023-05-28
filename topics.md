@@ -300,6 +300,7 @@
 
 ## awesome 
 
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
@@ -325,6 +326,7 @@
 
 ## awesome-list 
 
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [halo-sigs/awesome-halo](https://github.com/halo-sigs/awesome-halo) - 与 Halo 相关的周边生态资源列表
@@ -385,6 +387,7 @@
 
 ## chatgpt 
 
+- [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [BlueSkyXN/GPT-Models-Plus](https://github.com/BlueSkyXN/GPT-Models-Plus) - 用于在ChatGPT 网页版 强制锁定模型，支持GPT3.5/GPT4/GPT3.5M/GPT4M/GPT4B/GPT4P等模型
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - All in one 的 OpenAI 接口，整合各种 API 访问方式，支持 Azure OpenAI API，可用于二次分发 key，也可作为 OpenAI API 代理使用，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.
@@ -963,7 +966,6 @@
 - [SergiX44/XBackBone](https://github.com/SergiX44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
@@ -1445,6 +1447,7 @@
 
 ## others 
 
+- [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 - [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 - [wgetnz/chatgpt-openclash](https://github.com/wgetnz/chatgpt-openclash) - Chatgpt openclash分流规则
 - [FISHers6/QuickAI](https://github.com/FISHers6/QuickAI) - QuickAI是一款基于OpenAI开发的电脑版ChatGPT PC跨平台应用程序，它可以提供划词提问、快捷搜索、对话模式和快捷指令等多种功能。旨在为用户提供更便捷、更智能的PC桌面版AI使用体验。在使用时无需下载额外软件，适用于各种场景，如代码自动编辑、文件自动输入、提问、聊天软件自动回复等。QuickAI is a ChatGPT PC Program, support Windows, Ma
@@ -1788,6 +1791,7 @@
 - [Jonnyan404/zerotier-planet](https://github.com/Jonnyan404/zerotier-planet) - 一分钟自建zerotier-planet
 - [NotCraft/NotFeed](https://github.com/NotCraft/NotFeed) - Turn GitHub into an RSS reader
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Jrohy/webssh](https://github.com/Jrohy/webssh) - 简易在线终端和sftp工具
 - [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 - [XiangLinPro/IT_book](https://github.com/XiangLinPro/IT_book) - 本项目收藏这些年来看过或者听过的一些不错的常用的上千本书籍，没准你想找的书就在这里呢，包含了互联网行业大多数书籍和面试经验题目等等。有人工智能系列（常用深度学习框架TensorFlow、pytorch、keras。NLP、机器学习，深度学习等等），大数据系列(Spark,Hadoop,Scala,kafka等)，程序员必修系列（C、C++、java、数据结构、linux，设计模式、数据库等等）
