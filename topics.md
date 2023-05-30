@@ -1456,6 +1456,7 @@
 
 ## others 
 
+- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web) - 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
 - [xbzstudio/BingAI-Client](https://github.com/xbzstudio/BingAI-Client) - 可以直连、唤醒Sydney、突破20消息限制的New Bing客户端/服务端。
 - [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
