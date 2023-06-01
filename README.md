@@ -352,6 +352,7 @@
 
 ## JavaScript 
 
+- [MacWarrior/clipbucket-v5](https://github.com/MacWarrior/clipbucket-v5) - Open source video hosting with PHP
 - [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web) - 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
 - [BlueSkyXN/GPT-Models-Plus](https://github.com/BlueSkyXN/GPT-Models-Plus) - 用于在ChatGPT 网页版 强制锁定模型，支持GPT3.5/GPT4/GPT3.5M/GPT4M/GPT4B/GPT4P等模型
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - All in one 的 OpenAI 接口，整合各种 API 访问方式，支持 Azure OpenAI API，可用于二次分发 key，也可作为 OpenAI API 代理使用，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
