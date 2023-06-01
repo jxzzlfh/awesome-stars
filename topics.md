@@ -301,6 +301,7 @@
 
 ## awesome 
 
+- [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -327,6 +328,7 @@
 
 ## awesome-list 
 
+- [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
@@ -388,6 +390,8 @@
 
 ## chatgpt 
 
+- [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
+- [chrysoljq/pandora-vercel](https://github.com/chrysoljq/pandora-vercel) - 在 Vercel 上部署 Pandora-ChatGPT Cloud。Pandora-ChatGPT on Vercel.
 - [rabilrbl/TGBOT](https://github.com/rabilrbl/TGBOT) - Telegram bot that integrates both ChatGPT and BingAI
 - [LiLittleCat/awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
 - [BlueSkyXN/GPT-Models-Plus](https://github.com/BlueSkyXN/GPT-Models-Plus) - 用于在ChatGPT 网页版 强制锁定模型，支持GPT3.5/GPT4/GPT3.5M/GPT4M/GPT4B/GPT4P等模型
@@ -501,6 +505,7 @@
 
 ## chatgpt-api 
 
+- [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
 - [AliDehbansiahkarbon/ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - A ChatGPT, WriteSonic, and YouChat plug-in for Embarcadero RAD Studio IDE 10.1 and later versions.
 - [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - General-purpose database tools and SQL clients with ChatGPT
 - [soulteary/sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
@@ -836,7 +841,7 @@
 
 ## frontend 
 
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 
 ## git 
@@ -994,7 +999,7 @@
 
 ## html 
 
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 - [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -1458,6 +1463,7 @@
 
 ## others 
 
+- [chasays/newsletter-list](https://github.com/chasays/newsletter-list) - 有趣，免费的 newsletter，欢迎推荐
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web) - 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
@@ -2334,7 +2340,7 @@
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
 - [sing-web/x-ui](https://github.com/sing-web/x-ui) - xray panel that supports multi-protocol and multi-user
 - [nsarrazin/serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
