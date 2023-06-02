@@ -379,7 +379,7 @@
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [bartbzd/todo-list](https://github.com/bartbzd/todo-list) - To-Do List
 - [akl7777777/free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - **A free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt
-- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译软件 | A cross-platform translation software
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译软件 | A cross-platform software for text translation.
 - [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Multi-purpose ChatGPT Chrome Extension
 - [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
@@ -725,6 +725,7 @@
 
 ## Python 
 
+- [mblog-backend/mblog-telegram-bot](https://github.com/mblog-backend/mblog-telegram-bot) - mblog的telegram机器人
 - [Klingefjord/chatgpt-telegram](https://github.com/Klingefjord/chatgpt-telegram) - A telegram bot for ChatGPT
 - [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested 
 - [rabilrbl/TGBOT](https://github.com/rabilrbl/TGBOT) - Telegram bot that integrates both ChatGPT and BingAI
