@@ -445,7 +445,7 @@
 - [bapaws/answer](https://github.com/bapaws/answer) - 小答是一款基于 ChatGPT API 的开源客户端。Chat Answer is an open source app based on ChatGPT.
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
 - [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
-- [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新
+- [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - ChatGPT 网站导航。搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [sailist/chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) - An all-in-one plugin to improve your ChatGPT experience!
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -515,7 +515,7 @@
 - [soulteary/sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Have a conversation with files ｜与你的文件对话
-- [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新
+- [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - ChatGPT 网站导航。搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新
 - [ShipBit/slickgpt](https://github.com/ShipBit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
 - [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [zhuweiyou/chatgpt-api](https://github.com/zhuweiyou/chatgpt-api) - 封装 OpenAI 网页版最新 ChatGPT 接口, 不需要使用 API Key, 完全免费
@@ -1471,6 +1471,7 @@
 
 ## others 
 
+- [lovezsh/HugoFast](https://github.com/lovezsh/HugoFast) - 利用GitHub本身提供的Api，将hugo博客管理面板化。
 - [Klingefjord/chatgpt-telegram](https://github.com/Klingefjord/chatgpt-telegram) - A telegram bot for ChatGPT
 - [x-dr/wechat-bot](https://github.com/x-dr/wechat-bot) - wechat-bot
 - [MacWarrior/clipbucket-v5](https://github.com/MacWarrior/clipbucket-v5) - Open source video hosting with PHP
@@ -1520,7 +1521,7 @@
 - [Neutralzz/BiLLa](https://github.com/Neutralzz/BiLLa) - BiLLa: A Bilingual LLaMA with Enhanced Reasoning Ability
 - [logankilpatrick/ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection) - An unofficial collection of Plugins for ChatGPT, in any programming language!
 - [chenxingk/AliYunPan](https://github.com/chenxingk/AliYunPan) - 自动备份文件到阿里云盘，备份工具，网盘备份，一款可以自动检测新增文件，自动上传，定时自动备份本地目录文件到【阿里云盘】等于一体的多功能云备份工具
-- [kingwrcy/mblog-backend](https://github.com/kingwrcy/mblog-backend) - mblog-backend
+- [mblog-backend/backend](https://github.com/mblog-backend/backend) - mblog-backend
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [FongMi/TV](https://github.com/FongMi/TV) - 
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
