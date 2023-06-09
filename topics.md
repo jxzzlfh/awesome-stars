@@ -748,7 +748,7 @@
 
 ## electron 
 
-- [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过网页访问本地素材。
+- [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过网页访问本地素材/媒体。
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [caorushizi/m3u8-downloader](https://github.com/caorushizi/m3u8-downloader) - m3u8 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
 - [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
@@ -1435,7 +1435,7 @@
 
 ## nodejs 
 
-- [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过网页访问本地素材。
+- [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过网页访问本地素材/媒体。
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [QC2168/mib](https://github.com/QC2168/mib) - 一款基于Node.js和ADB的开发的备份工具，根据你的配置自动将移动设备上的数据文件迁移备份至电脑上，支持增量备份。
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
@@ -1494,6 +1494,7 @@
 
 ## others 
 
+- [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [forrestchang/programmer-soft-skills](https://github.com/forrestchang/programmer-soft-skills) - 程序员的软技能
 - [goldfishh/chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 - [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - moco ai app for android
