@@ -168,6 +168,7 @@
 ## ai 
 
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
+- [xbzstudio/BingAI-Client](https://github.com/xbzstudio/BingAI-Client) - 可以直连、唤醒Sydney、突破20消息限制的New Bing客户端/服务端。
 - [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [getzep/zep](https://github.com/getzep/zep) - Zep: A long-term memory store for LLM / Chatbot applications
 - [StanGirard/quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it
@@ -224,6 +225,7 @@
 
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Concurrently chat with ChatGPT, Bing Chat, Bard, Poe on Android Phone FREELY
 - [QC2168/mib](https://github.com/QC2168/mib) - 一款基于Node.js和ADB的开发的备份工具，根据你的配置自动将移动设备上的数据文件迁移备份至电脑上，支持增量备份。
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [iwantavnow/Setting.App](https://github.com/iwantavnow/Setting.App) - Setting.App (AV TV) is a Free App provides the ability to aggregate multiple internet resources. Let users have a one-stop experience. Provide multimedia functions, such as: Video, Comic, Anime, Live,
@@ -398,6 +400,7 @@
 
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \ Own your own ChatGPT+Midjourney web service with one click
 - [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
+- [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Concurrently chat with ChatGPT, Bing Chat, Bard, Poe on Android Phone FREELY
 - [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Sl
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [bravekingzhang/flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
@@ -1505,7 +1508,6 @@
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [forrestchang/programmer-soft-skills](https://github.com/forrestchang/programmer-soft-skills) - 程序员的软技能
 - [goldfishh/chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
-- [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - moco ai app for android
 - [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent) - 
 - [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories
 - [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
@@ -1521,7 +1523,6 @@
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web) - 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
-- [xbzstudio/BingAI-Client](https://github.com/xbzstudio/BingAI-Client) - 可以直连、唤醒Sydney、突破20消息限制的New Bing客户端/服务端。
 - [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 - [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 - [wgetnz/chatgpt-openclash](https://github.com/wgetnz/chatgpt-openclash) - Chatgpt openclash分流规则
