@@ -969,7 +969,7 @@
 ## TypeScript 
 
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \ Own your own ChatGPT+Midjourney web service with one click
-- [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过网页访问本地素材/媒体。（Any device can access local footage/media via a web page.）
+- [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过局域网访问本地素材/媒体。（Visit local material and media by LAN on any device. ）
 - [QC2168/mib](https://github.com/QC2168/mib) - 一款基于Node.js和ADB的开发的备份工具，根据你的配置自动将移动设备上的数据文件迁移备份至电脑上，支持增量备份。
 - [ReadSomething/ReadSomething](https://github.com/ReadSomething/ReadSomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
 - [enchant97/note-mark](https://github.com/enchant97/note-mark) - Note Mark is a lighting fast and minimal; web-based Markdown notes app.
