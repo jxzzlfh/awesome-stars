@@ -740,6 +740,7 @@
 
 ## Python 
 
+- [itxve/midjourney-channel-on-github](https://github.com/itxve/midjourney-channel-on-github) - 抓取midjourney频道生产的图片
 - [goldfishh/chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 - [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
 - [nilboy/vc-lm](https://github.com/nilboy/vc-lm) - Transform any person's voice into thousands of different voices (voice converter)
@@ -1128,6 +1129,7 @@
 
 ## Vue 
 
+- [274056675/springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超级AI大脑一个基于Spring Boot架构，支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时也支持画图，用户输入文本，便可以自动制作文生文生图。未来会接入：文心一言、通义千问、MOSS等国产AI大模型，持续更新中，更多功能等着你来解锁
 - [forrestchang/programmer-soft-skills](https://github.com/forrestchang/programmer-soft-skills) - 程序员的软技能
 - [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
 - [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
