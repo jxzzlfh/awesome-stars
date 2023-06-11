@@ -132,6 +132,7 @@
 
 ## C++ 
 
+- [huakunyang/SummerTTS](https://github.com/huakunyang/SummerTTS) - SummerTTS 是一个基于C++的独立编译的中文语音合成项目，可以本地运行不需要网络，而且没有额外的依赖，一键编译完成即可用于中文语音合成。SummerTTS is a  standalone Chinese speech synthesis(TTS) project that has almost no dependency and could be easily used for Chin
 - [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [le0zh/NewBingClient](https://github.com/le0zh/NewBingClient) - Desktop application of new Bing's AI-powered chat
@@ -360,6 +361,7 @@
 
 ## JavaScript 
 
+- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [htmlpreview/htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com) - HTML Preview for GitHub Repositories
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted bookmark + archive manager to store your useful links.
 - [x-dr/wechat-bot](https://github.com/x-dr/wechat-bot) - wechat-bot
@@ -738,8 +740,9 @@
 
 ## Python 
 
-- [nilboy/vc-lm](https://github.com/nilboy/vc-lm) - Transform any person's voice into thousands of different voices (voice converter)
 - [goldfishh/chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
+- [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
+- [nilboy/vc-lm](https://github.com/nilboy/vc-lm) - Transform any person's voice into thousands of different voices (voice converter)
 - [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Sl
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [239144498/ClipSync](https://github.com/239144498/ClipSync) - ClipSync是一个全平台剪贴板同步服务，可以很好做到多设备连接并且同步剪贴板内容。该服务主打无感同步，不需要用户手动操作，操作配置界面在Web端进行。
@@ -968,6 +971,7 @@
 
 ## TypeScript 
 
+- [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \ Own your own ChatGPT+Midjourney web service with one click
 - [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过局域网访问本地素材/媒体。（Visit local material and media by LAN on any device. ）
 - [QC2168/mib](https://github.com/QC2168/mib) - 一款基于Node.js和ADB的开发的备份工具，根据你的配置自动将移动设备上的数据文件迁移备份至电脑上，支持增量备份。
