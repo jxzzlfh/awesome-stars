@@ -1508,6 +1508,7 @@
 
 ## others 
 
+- [wikihost-opensource/linux-toolkit](https://github.com/wikihost-opensource/linux-toolkit) - 
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [goldfishh/chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 - [huakunyang/SummerTTS](https://github.com/huakunyang/SummerTTS) - SummerTTS 是一个基于C++的独立编译的中文语音合成项目，可以本地运行不需要网络，而且没有额外的依赖，一键编译完成即可用于中文语音合成。SummerTTS is a  standalone Chinese speech synthesis(TTS) project that has almost no dependency and could be easily used for Chin
