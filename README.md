@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [LapplandSP/QtAdb](https://github.com/LapplandSP/QtAdb) - 
 - [huakunyang/SummerTTS](https://github.com/huakunyang/SummerTTS) - SummerTTS 是一个基于C++的独立编译的中文语音合成项目，可以本地运行不需要网络，而且没有额外的依赖，一键编译完成即可用于中文语音合成。SummerTTS is a  standalone Chinese speech synthesis(TTS) project that has almost no dependency and could be easily used for Chin
 - [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
@@ -185,6 +186,7 @@
 
 ## Dart 
 
+- [springeye/fterm](https://github.com/springeye/fterm) - fterm是一款基于Flutter开发的跨平台终端工具
 - [lucinhu/bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.
 - [bravekingzhang/flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
 - [Xmarmalade/alisthelper](https://github.com/Xmarmalade/alisthelper) - Alist Helper is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.
@@ -697,6 +699,7 @@
 
 ## PHP 
 
+- [huhexian/2012-huhexian](https://github.com/huhexian/2012-huhexian) - 一个基于 Twenty Twelve 修改的 WordPress 双栏文字主题
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 - [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能
 - [jksdou/php-app-filelist](https://github.com/jksdou/php-app-filelist) - 免费开源的本地目录列表 PHP 程序
