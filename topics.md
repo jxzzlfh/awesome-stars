@@ -1515,6 +1515,8 @@
 
 ## others 
 
+- [yindaheng98/RSSBot](https://github.com/yindaheng98/RSSBot) - RSSBot 是一个能帮你订阅 RSSHub 的 Telegram Bot
+- [pennyliang/ciku](https://github.com/pennyliang/ciku) - 
 - [LapplandSP/QtAdb](https://github.com/LapplandSP/QtAdb) - 
 - [openchatai/OpenChat](https://github.com/openchatai/OpenChat) - LLMs custom-chatbots console ⚡
 - [itxve/midjourney-channel-on-github](https://github.com/itxve/midjourney-channel-on-github) - 抓取midjourney频道生产的图片
