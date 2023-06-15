@@ -524,6 +524,7 @@
 
 ## chatgpt-api 
 
+- [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs
 - [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) - ⚡ Everything about ChatGPT
@@ -1515,6 +1516,7 @@
 
 ## others 
 
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [yindaheng98/RSSBot](https://github.com/yindaheng98/RSSBot) - RSSBot 是一个能帮你订阅 RSSHub 的 Telegram Bot
 - [pennyliang/ciku](https://github.com/pennyliang/ciku) - 
 - [LapplandSP/QtAdb](https://github.com/LapplandSP/QtAdb) - 
@@ -1961,6 +1963,7 @@
 
 ## php 
 
+- [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
