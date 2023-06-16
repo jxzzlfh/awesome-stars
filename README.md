@@ -715,7 +715,6 @@
 - [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
 - [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits) - This project describes Telegram limitations
 - [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds
-- [geekr-dev/geekchat](https://github.com/geekr-dev/geekchat) - GeekChat - ChatGPT With Support For Text、Voice、Image And Translate
 - [moodle/moodle](https://github.com/moodle/moodle) - Moodle - the world's open source learning platform
 - [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
@@ -1068,7 +1067,7 @@
 - [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, D3Net, Demucs, Tasnet, X-UMX. Built with React and Django.
 - [zhengbangbo/chat-simplifier](https://github.com/zhengbangbo/chat-simplifier) - Simplify your chat content in seconds (by OpenAI)
 - [lvwzhen/teach-anything](https://github.com/lvwzhen/teach-anything) - Teach any questions in seconds (by OpenAI)
-- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+- [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity, Maximize your efficiency and productivity, support for English, Chinese, Japanese, and Korean. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
