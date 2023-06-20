@@ -1536,6 +1536,7 @@
 
 ## others 
 
+- [chenweiphd/GPT-4-ChatGPT-Hub](https://github.com/chenweiphd/GPT-4-ChatGPT-Hub) - 
 - [garyvalue/chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总34个Chatgpt商业版及提供更多的变现方式
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - 内置支持 trzsz ( trz / tsz ) 的 ssh 客户端，支持选择（ 搜索 ）服务器进行登录。
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
@@ -2273,7 +2274,7 @@
 ## shell 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、八合一共存脚本
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 共存脚本
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
