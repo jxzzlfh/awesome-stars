@@ -1536,7 +1536,7 @@
 
 ## others 
 
-- [garyvalue/chatgpt-business](https://github.com/garyvalue/chatgpt-business) - chatgpt商业版汇总及变现
+- [garyvalue/chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总34个Chatgpt商业版及提供更多的变现方式
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - 内置支持 trzsz ( trz / tsz ) 的 ssh 客户端，支持选择（ 搜索 ）服务器进行登录。
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
