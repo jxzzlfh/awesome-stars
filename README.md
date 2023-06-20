@@ -577,7 +577,7 @@
 
 ## Others 
 
-- [garyvalue/chatgpt-business](https://github.com/garyvalue/chatgpt-business) - chatgpt商业版汇总及变现
+- [garyvalue/chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总34个Chatgpt商业版及提供更多的变现方式
 - [soulteary/docker-chatgpt](https://github.com/soulteary/docker-chatgpt) - &lt; 10MB, One-click self-hosted ChatGPT, allowing access to various data sources and non-OpenAI models.
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 - [pennyliang/ciku](https://github.com/pennyliang/ciku) - 
