@@ -326,6 +326,7 @@
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [halo-sigs/awesome-halo](https://github.com/halo-sigs/awesome-halo) - 与 Halo 相关的周边生态资源列表
+- [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘
 - [golang-china/awesome-go-zh](https://github.com/golang-china/awesome-go-zh) - :books: Go资源精选中文版(含中文图书大全)
 - [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
@@ -480,6 +481,7 @@
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [sailist/chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) - An all-in-one plugin to improve your ChatGPT experience!
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
+- [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘
 - [aircloud/sync-to-github](https://github.com/aircloud/sync-to-github) - Sync your web content into a github repository, e.g. a conversation with ChatGPT.
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux
 - [SlimeNull/OpenGptChat](https://github.com/SlimeNull/OpenGptChat) - An OpenAI Chat completion Client. Support for the six major universal languages in the world and some other languages. Support for dark mode.
@@ -657,7 +659,7 @@
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - Hier findest du das wohl einfachste und benutzerfreundlichste Chat-Script für die OpenAI-API GPT 3.5-tubro und GPT 4. Das Script benötigt kein Framework und du kannst es ohne Vorkenntnisse verwenden. 
 - [Xu22Web/tech-study-js](https://github.com/Xu22Web/tech-study-js) - 学习强国油猴插件 40分/天 强国脚本 A flexible and light userscript for xuexiqiangguo based on tampermonkey plugin
-- [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【待重构】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
+- [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【即将重构】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
@@ -1150,7 +1152,7 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
-- [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【待重构】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
+- [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【即将重构】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is an "unofficial" emulator based on Ruffle Flash Emulator. Created to provide a friendly interface and enhanced playing experience. It's a complete alternative to Adobe Flash Player. Run Flas
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
@@ -1174,7 +1176,7 @@
 
 ## jquery 
 
-- [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【待重构】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
+- [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【即将重构】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 - [xenocrat/chyrp-lite](https://github.com/xenocrat/chyrp-lite) - An ultra-lightweight blogging engine, written in PHP.
 
 ## js 
@@ -1418,7 +1420,7 @@
 
 ## music 
 
-- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐频谱，音乐云盘及歌单管理，移动端基础适配
+- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 【待重构】🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐频谱，音乐云盘及歌单管理，移动端基础适配
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses
 - [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格网易云音乐播放器pc客户端
@@ -1721,7 +1723,6 @@
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 - [mirrors2/chatgpt-api-proxy](https://github.com/mirrors2/chatgpt-api-proxy) - chatgpt api proxy
 - [FranzKafkaYu/x-ui](https://github.com/FranzKafkaYu/x-ui) - Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.
-- [L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [Sharrnah/whispering](https://github.com/Sharrnah/whispering) - Whispering Tiger - OpenAI's whisper with OSC and Websocket support. Allowing live transcription / translation in VRChat and Overlays in most Streaming Applications
 - [easychen/chatchan-dist](https://github.com/easychen/chatchan-dist) - Chat酱独立部署版，docker方案自带代理
@@ -2429,7 +2430,7 @@
 ## vue 
 
 - [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
-- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐频谱，音乐云盘及歌单管理，移动端基础适配
+- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 【待重构】🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐频谱，音乐云盘及歌单管理，移动端基础适配
 - [Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
