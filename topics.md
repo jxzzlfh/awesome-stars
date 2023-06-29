@@ -1569,6 +1569,7 @@
 
 ## others 
 
+- [xdite/learn-hack](https://github.com/xdite/learn-hack) - 打造超人學習
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
 - [PromptsLego/PromptsLego](https://github.com/PromptsLego/PromptsLego) - PromptsLego是一款基于语法结构的可视化提示词效率工具，模拟积木拼接的方式，使 Prompts 编写变得像搭积木一样简单。
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
