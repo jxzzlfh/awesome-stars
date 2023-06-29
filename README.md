@@ -591,6 +591,7 @@
 
 ## Others 
 
+- [xdite/learn-hack](https://github.com/xdite/learn-hack) - 打造超人學習
 - [Mikachu2333/rimage_gui](https://github.com/Mikachu2333/rimage_gui) - 一个Rimage的GUI版本，能够批量压缩图片且不影响观感。A GUI software use rimage to compress images batchly without affecting the look and feel.
 - [ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验，资源和OneNote笔记
 - [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发，同时兼容Office和WPS
