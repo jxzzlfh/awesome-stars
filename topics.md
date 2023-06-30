@@ -1398,7 +1398,7 @@
 - [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) - 支持主题设计的 Markdown 编辑器，让排版变 Nice
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - The best platform to write and share markdown.
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
-- [standardnotes/app](https://github.com/standardnotes/app) - End-to-end encrypted notes app. Write fearlessly. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
+- [standardnotes/app](https://github.com/standardnotes/app) - Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [kalcaddle/kodbox](https://github.com/kalcaddle/kodbox) - kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run ko
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
@@ -1569,6 +1569,8 @@
 
 ## others 
 
+- [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
+- [gclm/subconverter](https://github.com/gclm/subconverter) - 
 - [xdite/learn-hack](https://github.com/xdite/learn-hack) - 打造超人學習
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
 - [PromptsLego/PromptsLego](https://github.com/PromptsLego/PromptsLego) - PromptsLego是一款基于语法结构的可视化提示词效率工具，模拟积木拼接的方式，使 Prompts 编写变得像搭积木一样简单。
@@ -1874,7 +1876,7 @@
 - [getActivity/AndroidIndex](https://github.com/getActivity/AndroidIndex) - Android 资源大汇总
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
-- [Sec-ant/weread-scraper](https://github.com/Sec-ant/weread-scraper) - Scrape WeRead books and save them as HTML files
+- [Sec-ant/weread-scraper](https://github.com/Sec-ant/weread-scraper) - 将微信读书书籍内容导出为 HTML 文件
 - [magicdawn/weread-spy](https://github.com/magicdawn/weread-spy) - weread-spy: 使用微信读书 Web 版生成 ePub 电子书
 - [zlib-download/zlib-download](https://github.com/zlib-download/zlib-download) - zlib.download project
 - [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
@@ -1901,7 +1903,7 @@
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
-- [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端，增加近百条远程配置及更多自定义功能！
+- [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
 - [Lozy/danted](https://github.com/Lozy/danted) - Fast script for installing & configing Danted--Socks5 Proxy Server.
 - [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
 - [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - 支持Xray/Trojan-Go/Hysteria/NaiveProxy的多用户Web管理面板
@@ -2184,6 +2186,7 @@
 
 ## react 
 
+- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
 - [caorushizi/m3u8-downloader](https://github.com/caorushizi/m3u8-downloader) - m3u8 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions.
@@ -2245,6 +2248,7 @@
 
 ## rust 
 
+- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
