@@ -164,6 +164,7 @@
 
 ## CSS 
 
+- [gclm/subconverter](https://github.com/gclm/subconverter) - 
 - [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) - Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本
@@ -545,6 +546,7 @@
 
 ## Kotlin 
 
+- [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。| Microsoft TTS Android APP implementation (Use demo API)
@@ -1026,6 +1028,7 @@
 
 ## TypeScript 
 
+- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
 - [PromptsLego/PromptsLego](https://github.com/PromptsLego/PromptsLego) - PromptsLego是一款基于语法结构的可视化提示词效率工具，模拟积木拼接的方式，使 Prompts 编写变得像搭积木一样简单。
 - [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
@@ -1043,7 +1046,7 @@
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [caorushizi/m3u8-downloader](https://github.com/caorushizi/m3u8-downloader) - m3u8 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
 - [xjq7/books](https://github.com/xjq7/books) - IT 电子书, 计算机基础(编译原理, 数据结构与算法, 操作系统), 计算机网络, 编程语言, 前端, 网络安全, 软件测试, 算法, 数据库, 经济学, 数学, 多种文件格式(pdf、mobi、epubi、azw3), 多种下载方式(百度网盘, 阿里网盘, 直链)
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files into your private Generative AI Second Brain and chat with it using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠
 - [kx-Huang/ChatGPT-on-WeChat](https://github.com/kx-Huang/ChatGPT-on-WeChat) - 🤖️ Deploy ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
@@ -1133,7 +1136,7 @@
 - [Lete114/API-Interface](https://github.com/Lete114/API-Interface) - api接口: Bing每日高清壁纸、获取网站信息，图标，标题等、获取QQ信息、QQ头像、QQ昵称、等、获取短视频信息、去水印、抖音、火山、微视、皮皮虾、最右
 - [svtslv/webdav-cli](https://github.com/svtslv/webdav-cli) - A simple zero-configuration command-line webdav server
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
-- [Sec-ant/weread-scraper](https://github.com/Sec-ant/weread-scraper) - Scrape WeRead books and save them as HTML files
+- [Sec-ant/weread-scraper](https://github.com/Sec-ant/weread-scraper) - 将微信读书书籍内容导出为 HTML 文件
 - [magicdawn/weread-spy](https://github.com/magicdawn/weread-spy) - weread-spy: 使用微信读书 Web 版生成 ePub 电子书
 - [ipfs/public-gateway-checker](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
