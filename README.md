@@ -304,6 +304,7 @@
 
 ## HTML 
 
+- [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [chrysoljq/pandora-vercel](https://github.com/chrysoljq/pandora-vercel) - 在 Vercel 上部署 Pandora-ChatGPT Cloud。Pandora-ChatGPT on Vercel.
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
@@ -341,6 +342,7 @@
 ## Java 
 
 - [kylelin1998/RssMonitorTelegramBot](https://github.com/kylelin1998/RssMonitorTelegramBot) - RSS监控最新文章， 如果有监控到最新文章会通知到您设置好的Telegram群聊， 频道， 或者个人号上  支持自定义消息通知， 由你掌控内容
+- [274056675/springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超级AI大脑一个基于Spring Boot架构，支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时也支持画图，用户输入文本，便可以自动制作文生文生图。未来会接入：文心一言、通义千问、MOSS等国产AI大模型，持续更新中，更多功能等着你来解锁
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 - [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
@@ -374,6 +376,7 @@
 
 ## JavaScript 
 
+- [austin2035/chatpdf](https://github.com/austin2035/chatpdf) - Chat with pdf.
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [easychen/deepgpt-dist](https://github.com/easychen/deepgpt-dist) - DeepGPT，类agentGPT/AutoGPT 工具，支持 api2d / 和自定义 openai key。此为静态网页独立部署版，部署方便
 - [hunmer/mCollection](https://github.com/hunmer/mCollection) - 开源模组化可扩展的素材管理软件
@@ -729,6 +732,8 @@
 
 ## PHP 
 
+- [netcccyun/dirlist](https://github.com/netcccyun/dirlist) - 彩虹目录列表PHP站点程序
+- [netcccyun/pan](https://github.com/netcccyun/pan) - 彩虹外链网盘
 - [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
 - [huhexian/2012-huhexian](https://github.com/huhexian/2012-huhexian) - 一个基于 Twenty Twelve 修改的 WordPress 双栏文字主题
 - [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
@@ -1190,8 +1195,8 @@
 
 ## Vue 
 
+- [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
-- [274056675/springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超级AI大脑一个基于Spring Boot架构，支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时也支持画图，用户输入文本，便可以自动制作文生文生图。未来会接入：文心一言、通义千问、MOSS等国产AI大模型，持续更新中，更多功能等着你来解锁
 - [forrestchang/programmer-soft-skills](https://github.com/forrestchang/programmer-soft-skills) - 程序员的软技能
 - [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
 - [imsyy/home](https://github.com/imsyy/home) - 个人主页，我的个人主页，个人主页源码，主页模板，homepage
