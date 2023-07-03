@@ -305,6 +305,7 @@
 
 ## HTML 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [chrysoljq/pandora-vercel](https://github.com/chrysoljq/pandora-vercel) - 在 Vercel 上部署 Pandora-ChatGPT Cloud。Pandora-ChatGPT on Vercel.
