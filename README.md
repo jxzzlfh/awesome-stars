@@ -604,6 +604,7 @@
 
 ## Others 
 
+- [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
 - [DustinWin/clash-tutorials](https://github.com/DustinWin/clash-tutorials) - Clash 教程合集--安装、配置、自定义规则
 - [zhaoyun0071/DragGAN-Windows-GUI](https://github.com/zhaoyun0071/DragGAN-Windows-GUI) - 
@@ -793,6 +794,7 @@
 
 ## Python 
 
+- [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 - [xdite/note-hack](https://github.com/xdite/note-hack) - 打造超人筆記
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [fandesfyf/JamTools](https://github.com/fandesfyf/JamTools) - JamTools是一个跨平台的小工具集类软件，支持Windows7/8/10/11、Macos、ubuntu系统(其他系统可以直接从源码编译打包)。包含了(滚动/区域)截屏、录屏、文字识别、多种语言互译、多媒体格式转换、鼠标键盘动作录制播放、局域网文件传输、聊天机器人等功能，完全开源!
