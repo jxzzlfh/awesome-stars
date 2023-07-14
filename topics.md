@@ -2403,7 +2403,7 @@
 ## shell 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 共存脚本
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 八合一共存脚本
 - [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
