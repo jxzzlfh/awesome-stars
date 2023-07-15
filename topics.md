@@ -965,6 +965,7 @@
 
 ## go 
 
+- [boojack/slash](https://github.com/boojack/slash) - A bookmarking and url shortener, save and share your links very easily.
 - [ncarlier/feedpushr](https://github.com/ncarlier/feedpushr) - A simple feed aggregator daemon with sugar on top.
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -1614,6 +1615,7 @@
 
 ## others 
 
+- [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [ChaseLean/gpt-prompts](https://github.com/ChaseLean/gpt-prompts) - A compilation of some Chat-GPT prompts I find useful.
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
 - [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库。
@@ -2262,6 +2264,7 @@
 
 ## react 
 
+- [boojack/slash](https://github.com/boojack/slash) - A bookmarking and url shortener, save and share your links very easily.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
