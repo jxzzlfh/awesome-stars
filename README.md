@@ -220,13 +220,14 @@
 
 ## Go 
 
+- [XTLS/RealiTLScanner](https://github.com/XTLS/RealiTLScanner) - A TLS server scanner for Reality
 - [boojack/slash](https://github.com/boojack/slash) - A bookmarking and url shortener, save and share your links very easily.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 - [ncarlier/feedpushr](https://github.com/ncarlier/feedpushr) - A simple feed aggregator daemon with sugar on top.
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [Gigaxel/codesnap.sh](https://github.com/Gigaxel/codesnap.sh) - Share code snippets without leaving your terminal
-- [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - 内置支持 trzsz ( trz / tsz ) 的 ssh 客户端，可选择或搜索服务器进行登录。   Built-in ssh client that supports trzsz ( trz / tsz ), supports selecting or searching servers for login.
+- [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - 支持 trzsz 的 ssh 客户端，支持选择或搜索服务器登录，支持记住密码。  ssh client that supports trzsz, supports selecting or searching servers for login, supports remember password.
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, supports English UI.
