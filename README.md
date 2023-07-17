@@ -819,6 +819,7 @@
 
 ## Python 
 
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A desktop client for the jailbroken New Bing AI (Sydney ver.) based on Python and Qt.
 - [SubConv/SubConv](https://github.com/SubConv/SubConv) - Yet Another Subscription Converter for Clash
 - [THUDM/WebGLM](https://github.com/THUDM/WebGLM) - WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)
