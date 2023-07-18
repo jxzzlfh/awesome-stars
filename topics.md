@@ -53,6 +53,7 @@
 - [emacs](#emacs)
 - [emoji](#emoji)
 - [emulator](#emulator)
+- [english](#english)
 - [es6](#es6)
 - [ethereum](#ethereum)
 - [express](#express)
@@ -875,6 +876,10 @@
 ## emulator 
 
 - [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is an "unofficial" emulator based on Ruffle Flash Emulator. Created to provide a friendly interface and enhanced playing experience. It's a complete alternative to Adobe Flash Player. Run Flas
+
+## english 
+
+- [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
 
 ## es6 
 
