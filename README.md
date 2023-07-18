@@ -621,6 +621,7 @@
 
 ## Others 
 
+- [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [ChaseLean/gpt-prompts](https://github.com/ChaseLean/gpt-prompts) - A compilation of some Chat-GPT prompts I find useful.
 - [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持reality，默认节点即可解锁ChatGPT，xray配置已添加支持warp-socks5与wireguard warp出站分流，最多实现6个IP分流共存！
