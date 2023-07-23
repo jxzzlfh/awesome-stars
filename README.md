@@ -232,7 +232,7 @@
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - 支持 trzsz 的 ssh 客户端，支持选择或搜索服务器登录，支持记住密码。  ssh client that supports trzsz, supports selecting or searching servers for login, supports remember password.
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Claude、PaLM 2 以及文心一言，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, supports English UI.
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Claude、PaLM 2、智谱以及文心一言，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an Engli
 - [getzep/zep](https://github.com/getzep/zep) - Zep: A long-term memory store for LLM / Chatbot applications
 - [soulteary/sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -643,7 +643,7 @@
 - [Mikachu2333/rimage_gui](https://github.com/Mikachu2333/rimage_gui) - 一个Rimage的GUI版本，能够批量压缩图片且不影响观感。A GUI software use rimage to compress images batchly without affecting the look and feel.
 - [ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验，资源和OneNote笔记
 - [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发，同时兼容Office和WPS
-- [chenweiphd/GPT-4-ChatGPT-Hub](https://github.com/chenweiphd/GPT-4-ChatGPT-Hub) - 
+- [chenweiphd/LargeLanguageModel-and-GPT-4-Hub](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-Hub) - 
 - [garyvalue/chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总41个Chatgpt商业版及提供更多的变现方式,商业源码程序,账号API渠道,支付收款渠道,服务器渠道,课程配套服务,CHATGPT知识星球,开发定制外包
 - [soulteary/docker-chatgpt](https://github.com/soulteary/docker-chatgpt) - &lt; 10MB, One-click self-hosted ChatGPT, allowing access to various data sources and non-OpenAI models.
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
@@ -1042,6 +1042,7 @@
 
 ## Shell 
 
+- [XTLS/Xray-install](https://github.com/XTLS/Xray-install) - Easiest way to install & upgrade Xray.
 - [HaodongZou/sub](https://github.com/HaodongZou/sub) - 一键打包自定义 subconverter 镜像、部署并上传到 Docker Hub
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
 - [1Panel-dev/appstore](https://github.com/1Panel-dev/appstore) - 1Panel 应用商店的官方存储库，在这里提交应用程序和更新。
