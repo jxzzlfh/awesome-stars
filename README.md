@@ -230,7 +230,7 @@
 - [ellermister/wechat-clean](https://github.com/ellermister/wechat-clean) - 释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。
 - [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
 - [XTLS/RealiTLScanner](https://github.com/XTLS/RealiTLScanner) - A TLS server scanner for Reality
-- [boojack/slash](https://github.com/boojack/slash) - A bookmarking and url shortener, save and share your links very easily.
+- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 - [ncarlier/feedpushr](https://github.com/ncarlier/feedpushr) - A simple feed aggregator daemon with sugar on top.
@@ -517,7 +517,6 @@
 - [ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources on the web
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 - [MehediH/winstall](https://github.com/MehediH/winstall) - A web app for browsing and installing Windows Package Manager apps.
-- [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【即将重构】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 - [xiaoji235/Pure-Newtab](https://github.com/xiaoji235/Pure-Newtab) - Pure Newtab，Pure起始页，新建标签页，给你最纯粹的浏览器主页极致体验！
 - [Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN) - notion 中文化
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
@@ -1135,6 +1134,8 @@
 
 ## TypeScript 
 
+- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
+- [vastxie/Happy-ChatGPT](https://github.com/vastxie/Happy-ChatGPT) - ChatGPT 国粹版，和 GPT 一起学习地道的中国话吧
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - 一款云储存/图床管理和文件上传客户端工具，基于PicGo深度二次开发
 - [FallenMax/smart-toc](https://github.com/FallenMax/smart-toc) - A Chrome extension for auto-generating a table of contents
@@ -1156,7 +1157,7 @@
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
-- [rao-pics/rao-pics](https://github.com/rao-pics/rao-pics) - Visit Photos on Any Device. Supported Win/MacOS/Linux :electron:
+- [rao-pics/rao-pics](https://github.com/rao-pics/rao-pics) - Visit photos on any devices. Supported Win/MacOS/Linux :electron:
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - An open-source collaborative bookmark manager.
 - [QC2168/mib](https://github.com/QC2168/mib) - 一款基于Node.js和ADB的开发的备份工具，根据你的配置自动将移动设备上的数据文件迁移备份至电脑上，支持增量备份。
 - [ReadSomething/ReadSomething](https://github.com/ReadSomething/ReadSomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
@@ -1341,6 +1342,7 @@
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 Desktop Widget ( 桌面小组件 )
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
+- [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 - [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text (https://image-to-text-ocr.netlify.app) is a web tool to extract text from any image using OCR
