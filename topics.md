@@ -1671,6 +1671,7 @@
 
 ## others 
 
+- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [qianguyihao/blog-list](https://github.com/qianguyihao/blog-list) - 中文博客琅琊榜，只收录精品独立博客
 - [cxxsucks/SearchEverywhere](https://github.com/cxxsucks/SearchEverywhere) - CLI/GUI file searcher combining find, locate and Everything, plus content searching. Works on Linux, Windows and macOS.This repo is for Qt-based GUI.
