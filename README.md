@@ -382,7 +382,6 @@
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 - [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
-- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
 - [chenxingk/AliYunPan](https://github.com/chenxingk/AliYunPan) - 自动备份文件到阿里云盘，备份工具，网盘备份，一款可以自动检测新增文件，自动上传，定时自动备份本地目录文件到【阿里云盘】等于一体的多功能云备份工具
 - [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
@@ -651,6 +650,7 @@
 
 ## Others 
 
+- [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则
 - [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network
 - [qianguyihao/blog-list](https://github.com/qianguyihao/blog-list) - 中文博客琅琊榜，只收录精品独立博客
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
@@ -685,6 +685,7 @@
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [wgetnz/chatgpt-openclash](https://github.com/wgetnz/chatgpt-openclash) - Chatgpt openclash分流规则
 - [taozhiyu/yourls-translation-zh_CN](https://github.com/taozhiyu/yourls-translation-zh_CN) - translation for yourls
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 此版本将不再维护Chat2DB将迁移到新地址 https://github.com/chat2db/Chat2DB  （The Chat2DB repository will be migrated to https://github.com/chat2db/Chat2DB ）
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
@@ -1145,6 +1146,7 @@
 
 ## TypeScript 
 
+- [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
 - [chieapp/chie](https://github.com/chieapp/chie) - An extensive desktop app for ChatGPT and other LLMs.
 - [umijs/dumi](https://github.com/umijs/dumi) - 📖 Static Site Generator for component library development
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
@@ -1173,7 +1175,7 @@
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 - [rao-pics/rao-pics](https://github.com/rao-pics/rao-pics) - Visit photos on any devices. Supported Win/MacOS/Linux :electron:
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - An open-source collaborative bookmark manager.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
 - [QC2168/mib](https://github.com/QC2168/mib) - 一款基于Node.js和ADB的开发的备份工具，根据你的配置自动将移动设备上的数据文件迁移备份至电脑上，支持增量备份。
 - [ReadSomething/ReadSomething](https://github.com/ReadSomething/ReadSomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
 - [enchant97/note-mark](https://github.com/enchant97/note-mark) - Note Mark is a lighting fast and minimal; web-based Markdown notes app.
