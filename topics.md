@@ -151,6 +151,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [svelte](#svelte)
+- [swiftui](#swiftui)
 - [symfony](#symfony)
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
@@ -2608,6 +2609,10 @@
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [haishanh/cherry](https://github.com/haishanh/cherry) - Cherry is a self-hostable bookmark service
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+
+## swiftui 
+
+- [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic and opinionated RSS Reader available on Android, iOS and macOS.
 
 ## symfony 
 
