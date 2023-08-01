@@ -1079,6 +1079,7 @@
 
 ## SCSS 
 
+- [prof18/feed-flow](https://github.com/prof18/feed-flow) - FeedFlow is a minimalistic and opinionated RSS Reader available on Android, iOS and macOS.
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 
