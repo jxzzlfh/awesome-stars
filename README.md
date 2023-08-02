@@ -152,7 +152,6 @@
 - [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [le0zh/NewBingClient](https://github.com/le0zh/NewBingClient) - Desktop application of new Bing's AI-powered chat
-- [adityar224/FlutterMarkdownEditor](https://github.com/adityar224/FlutterMarkdownEditor) - Markdown Editor app allows easy markdown file creation and editing. It opens ".md" files directly from explorer, provides text styling options, effortless link addition, Light and Dark Theme Modes, Mu
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [anysphere/gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - Some examples of GPT-4 for code!
 - [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
@@ -213,6 +212,7 @@
 - [bravekingzhang/flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
 - [Xmarmalade/alisthelper](https://github.com/Xmarmalade/alisthelper) - Alist Helper is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.
 - [bapaws/answer](https://github.com/bapaws/answer) - 小答是一款基于 ChatGPT API 的开源客户端。Chat Answer is an open source app based on ChatGPT.
+- [adityar224/FlutterMarkdownEditor](https://github.com/adityar224/FlutterMarkdownEditor) - Markdown Editor app allows easy markdown file creation and editing. It opens ".md" files directly from explorer, provides text styling options, effortless link addition, Light and Dark Theme Modes, Mu
 - [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
@@ -237,6 +237,7 @@
 - [ellermister/wechat-clean](https://github.com/ellermister/wechat-clean) - 释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。
 - [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
 - [XTLS/RealiTLScanner](https://github.com/XTLS/RealiTLScanner) - A TLS server scanner for Reality
+- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 - [ncarlier/feedpushr](https://github.com/ncarlier/feedpushr) - A simple feed aggregator daemon with sugar on top.
@@ -1163,7 +1164,6 @@
 - [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [BlackGlory/extension-binary-search](https://github.com/BlackGlory/extension-binary-search) - 🌲 The simplest and most effective way to locate a malicious or faulty extension
 - [EINDEX/logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) - Logseq plugin for sync Memos to logseq.
-- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [VoileLabs/cotrans](https://github.com/VoileLabs/cotrans) - 
