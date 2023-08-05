@@ -1127,7 +1127,7 @@
 - [livialima/linuxupskillchallenge](https://github.com/livialima/linuxupskillchallenge) - Learn the skills required to sysadmin a remote Linux server from the commandline.
 - [dylanbai8/kmspro](https://github.com/dylanbai8/kmspro) - windows系统一句命令激活，office套件一句命令激活，一键搭建kms服务器，kms一键脚本，安卓Android搭建kms服务器
 - [neuroidss/ubuntu-xfce-vnc](https://github.com/neuroidss/ubuntu-xfce-vnc) - Collection of Docker images with headless VNC environments
-- [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - 支持Xray/Trojan-Go/Hysteria/NaiveProxy的多用户Web管理面板
+- [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Multi-user web administration panel supporting Xray/Trojan-Go/Hysteria/NaiveProxy
 - [istoreos/istoreos-cloud](https://github.com/istoreos/istoreos-cloud) - Install iStoreOS to a cloud, example aliyun or tencent cloud
 - [SuLingGG/OpenWrt-Docker](https://github.com/SuLingGG/OpenWrt-Docker) - Build OpenWrt Docker Images For Raspberry Pi 1~4 (Daily Update)
 - [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
