@@ -415,6 +415,7 @@
 
 ## JavaScript 
 
+- [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - A modern GUI App for downloading Videos and Audios from hundreds of sites
 - [dxcweb/local-ai](https://github.com/dxcweb/local-ai) - Mac和Windows一键安装Stable Diffusion WebUI,LamaCleaner,SadTalker,ChatGLM2-6B,等AI工具,使用国内镜像,无需魔法。
 - [saviomartin/slickr](https://github.com/saviomartin/slickr) - Enjoy creating cover image for your hashnode blog like never before, get started in seconds 🎉
