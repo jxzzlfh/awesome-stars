@@ -671,6 +671,7 @@
 
 ## Others 
 
+- [ClashForIOS/ClashPro](https://github.com/ClashForIOS/ClashPro) - windows, iOS, MacOS released
 - [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 - [592767809/video_server](https://github.com/592767809/video_server) - 视频拦截下载工具
 - [easychen/aiapi](https://github.com/easychen/aiapi) - A Claude-driven, OpenAI specification-compliant API, free
@@ -695,7 +696,7 @@
 - [Mikachu2333/rimage_gui](https://github.com/Mikachu2333/rimage_gui) - 一个Rimage的GUI版本，能够批量压缩图片且不影响观感。A GUI software use rimage to compress images batchly without affecting the look and feel.
 - [ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验，资源和OneNote笔记
 - [chenweiphd/LargeLanguageModel-and-GPT-4-ResourceMap](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-ResourceMap) - 
-- [garyvalue/chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总54个Chatgpt商业版及提供更多的变现方式,商业源码程序,账号API渠道,支付收款渠道,服务器渠道,课程配套服务,CHATGPT知识星球,开发定制外包
+- [garyvalue/chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总55个Chatgpt商业版及提供更多的变现方式,商业源码程序,账号API渠道,支付收款渠道,服务器渠道,课程配套服务,CHATGPT知识星球,开发定制外包
 - [soulteary/docker-chatgpt](https://github.com/soulteary/docker-chatgpt) - &lt; 10MB, One-click self-hosted ChatGPT, allowing access to various data sources and non-OpenAI models.
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 - [pennyliang/ciku](https://github.com/pennyliang/ciku) - 
@@ -885,6 +886,7 @@
 
 ## Python 
 
+- [pszemraj/textsum](https://github.com/pszemraj/textsum) - CLI & Python API to easily summarize text-based files with transformers
 - [1eif/flomo2memos](https://github.com/1eif/flomo2memos) - 将flomo导出至memos
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [ninehills/LLM-Fusion-API](https://github.com/ninehills/LLM-Fusion-API) - 
@@ -1122,7 +1124,7 @@
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) - Easiest way to install & upgrade Xray.
 - [HaodongZou/sub](https://github.com/HaodongZou/sub) - 一键打包自定义 subconverter 镜像、部署并上传到 Docker Hub
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
-- [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库。
+- [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库
 - [1Panel-dev/appstore](https://github.com/1Panel-dev/appstore) - 1Panel 应用商店的官方存储库，在这里提交应用程序和更新。
 - [zxcvos/Xray-script](https://github.com/zxcvos/Xray-script) - Xray-REALITY 管理脚本
 - [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
