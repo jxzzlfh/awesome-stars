@@ -1183,7 +1183,8 @@
 
 ## TypeScript 
 
-- [siranshen/small-talk](https://github.com/siranshen/small-talk) - Language learning through small talks
+- [hyoban/kirika](https://github.com/hyoban/kirika) - A simple tool to convert your notes between different platforms
+- [siranshen/small-talk](https://github.com/siranshen/small-talk) - Language learning through small talks. The link below works best if you live in or close to the US. Use https://small-talk-asia.vercel.app/ if you are closer to East Asia. Use https://illegalsimon.onl
 - [weaigc/gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - A tool that can automatically convert 🤗 Huggingface Spaces,魔搭创空间 and Gradio ChatBot into free APIs. Supports GPT4Free,ChatGPT,Llama2,MPT,Falcon Chat,ChatGLM,通义千问 and many other chatbot like spaces.
 - [UNICKCHENG/openai-proxy](https://github.com/UNICKCHENG/openai-proxy) - openai-proxy is a solution provided for Chinese users to address the issue of being unable to make requests to the OpenAI API.
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
