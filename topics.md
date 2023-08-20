@@ -182,7 +182,7 @@
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/
 - [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
 - [yuxiaopeng/Github-Ranking-AI](https://github.com/yuxiaopeng/Github-Ranking-AI) - A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [rbbrdckybk/dream-factory](https://github.com/rbbrdckybk/dream-factory) - Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs.
 - [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
@@ -193,7 +193,7 @@
 - [xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney) - 好用的New Bing web客户端，功能众多~
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [getzep/zep](https://github.com/getzep/zep) - Zep: A long-term memory store for LLM / Chatbot applications
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - Pezzo is an open-source AI development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more.
 - [lencx/awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 Awesome AI
 - [yohasebe/openai-text-completion-workflow](https://github.com/yohasebe/openai-text-completion-workflow) - An Alfred workflow to use OpenAI text-completion API and chat API from anywhere
@@ -488,7 +488,7 @@
 - [AliDehbansiahkarbon/ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - A ChatGPT, WriteSonic, and YouChat plug-in for Embarcadero RAD Studio IDE 10.1 and later versions.
 - [shellc/laozy](https://github.com/shellc/laozy) - Laozy is a self-hosted web application that helps you build and deploy LLM-based dialogue robots.  The robot you built can connect to instant messaging platforms like WeChat, Telegram, etc. You can al
 - [soulteary/sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [kx-Huang/ChatGPT-on-WeChat](https://github.com/kx-Huang/ChatGPT-on-WeChat) - 🤖️ Deploy ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
 - [easychen/gpt-bat](https://github.com/easychen/gpt-bat) - GPT长文本批处理工具，Batch Processing tools for GPT
 - [filippofinke/WordGPT](https://github.com/filippofinke/WordGPT) - 🤖 Bring the power of ChatGPT to Microsoft Word
