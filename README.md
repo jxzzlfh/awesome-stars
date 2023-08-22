@@ -508,6 +508,7 @@
 - [up209d/ResourcesSaverExt](https://github.com/up209d/ResourcesSaverExt) - Chrome Extension for one click downloading all resources files and keeping folder structures.
 - [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 - [BoyceLig/Clash_Chinese_Patch](https://github.com/BoyceLig/Clash_Chinese_Patch) - Clash For Windows 汉化补丁和汉化脚本
+- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [zhuweiyou/chatgpt-api](https://github.com/zhuweiyou/chatgpt-api) - 封装 OpenAI 网页版最新 ChatGPT 接口, 不需要使用 API Key, 完全免费
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [theowenyoung/markdownload](https://github.com/theowenyoung/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
@@ -1152,7 +1153,6 @@
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - VLESS(TCP_Vision、Reality、gRPC、WS)、VMess(WS)、Trojan(TCP、gRPC)、Hysteria、Tuic 八合一共存脚本
 - [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment
 - [yeahwu/check](https://github.com/yeahwu/check) - Streaming Media Unlock Test
-- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [shidahuilang/SS-SSR-TG-iptables-bt](https://github.com/shidahuilang/SS-SSR-TG-iptables-bt) - 全集合一键脚本搭建
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of ready-to-run docker-compose for the Shelf App
 - [easychen/openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速开发一个OpenAI/GPT应用：国内开发者笔记
