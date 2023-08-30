@@ -911,7 +911,7 @@
 - [ninehills/LLM-Fusion-API](https://github.com/ninehills/LLM-Fusion-API) - 
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
-- [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文 LLaMA-2 & Alpaca-2 大模型二期项目 + 本地CPU/GPU训练部署  (Chinese LLaMA-2 & Alpaca-2 LLMs)
+- [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文LLaMA-2 & Alpaca-2大模型二期项目 + 16K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs, including 16K long context models)
 - [kex0/batch-face-swap](https://github.com/kex0/batch-face-swap) - Automaticaly detects faces and replaces them
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [fangxx3863/telegraph2epub](https://github.com/fangxx3863/telegraph2epub) - download telegraph content as epub or cbz
