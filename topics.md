@@ -2188,7 +2188,7 @@
 - [Cnicehs/SharpBot](https://github.com/Cnicehs/SharpBot) - 一个基于百度网盘开放接口的转存机器人
 - [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
-- [alim0x/Awesome-Linux-Software-zh_CN](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
+- [eniqiz/Awesome-Linux-Software-zh_CN](https://github.com/eniqiz/Awesome-Linux-Software-zh_CN) - 🐧 一个 Linux 上超赞的应用，软件，工具以及其它资源的集中地。
 - [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
 - [no13bus/chat-gpt-zhihu-extension](https://github.com/no13bus/chat-gpt-zhihu-extension) - ChatGPT的知乎回答小帮手，利用AI来协助你回答知乎问题
 - [mohuishou/siyuan-sync-github](https://github.com/mohuishou/siyuan-sync-github) - 思源笔记挂件块，同步 markdown 笔记文件为 到 github，支持迁移笔记到图床
