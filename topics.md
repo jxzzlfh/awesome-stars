@@ -468,7 +468,7 @@
 - [chieapp/chie](https://github.com/chieapp/chie) - An extensive desktop app for ChatGPT and other LLMs.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
-- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter 👾
+- [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A desktop client for the jailbroken New Bing AI (Sydney ver.) based on Python and Qt.
 - [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持reality，默认节点即可解锁ChatGPT，xray配置已添加支持warp-socks5与wireguard warp出站分流，最多实现6个IP分流共存！
@@ -1880,7 +1880,7 @@
 - [themsaid/ibis](https://github.com/themsaid/ibis) - A PHP tool that helps you write eBooks in markdown and convert to PDF.
 - [netcccyun/dirlist](https://github.com/netcccyun/dirlist) - 彩虹目录列表PHP站点程序
 - [netcccyun/pan](https://github.com/netcccyun/pan) - 彩虹外链网盘
-- [austin2035/chatpdf](https://github.com/austin2035/chatpdf) - Chat with pdf.
+- [pinkglow/chatpdf](https://github.com/pinkglow/chatpdf) - Chat with pdf.
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 - [gclm/subconverter](https://github.com/gclm/subconverter) - 
 - [xdite/learn-hack](https://github.com/xdite/learn-hack) - 打造超人學習
@@ -2145,7 +2145,7 @@
 - [andy-portmen/country-flags](https://github.com/andy-portmen/country-flags) - adds a toolbar button to browser address-bar displaying current physical location of visited website
 - [whereisph/new](https://github.com/whereisph/new) - 
 - [lxfater/BilibiliSummary](https://github.com/lxfater/BilibiliSummary) - A chrome extension helps you summary video on bilibili.
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
 - [qazxcdswe123/telegramMemoBot](https://github.com/qazxcdswe123/telegramMemoBot) - A telegram bot for https://github.com/usememos/memos
 - [everest-architecture/NewBing](https://github.com/everest-architecture/NewBing) - NewBin Desktop Application (Mac, Windows and Linux)
 - [jonssonyan/aria2-x](https://github.com/jonssonyan/aria2-x) - 一款基于AriaNg和Aria2的PC端下载器
