@@ -696,6 +696,7 @@
 
 ## Others 
 
+- [jnoodle/English-Vocabulary-Word-List](https://github.com/jnoodle/English-Vocabulary-Word-List) - Common English Vocabulary Word List
 - [luban-agi/Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
 - [xiaochengcike/Ai-learn](https://github.com/xiaochengcike/Ai-learn) - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
 - [runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite) - 镜像网站合集
