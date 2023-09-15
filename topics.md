@@ -1784,6 +1784,8 @@
 
 ## others 
 
+- [zhbhun/idify](https://github.com/zhbhun/idify) - Make ID photo right in the browser.
+- [Macin20/why-we-write](https://github.com/Macin20/why-we-write) - 为什么写作？
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [Misaka-blog/juicity-script](https://github.com/Misaka-blog/juicity-script) - Juicity 协议一键部署脚本
 - [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation
