@@ -1234,10 +1234,12 @@
 
 ## TeX 
 
+- [Macin20/why-we-write](https://github.com/Macin20/why-we-write) - 为什么写作？
 - [liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Algorithms and Data structures
 
 ## TypeScript 
 
+- [zhbhun/idify](https://github.com/zhbhun/idify) - Make ID photo right in the browser.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [yuque/yuque-chrome-extension](https://github.com/yuque/yuque-chrome-extension) - 🚀🚀🚀 语雀浏览器插件
 - [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Clash.Meta Dashboard, The Official One, XD
