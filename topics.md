@@ -2214,7 +2214,7 @@
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [hellodk34/picgo-plugin-lankong](https://github.com/hellodk34/picgo-plugin-lankong) - A PicGo uploader for 兰空图床 lsky-pro，支持 V1 和 V2。
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
-- [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 
+- [YanG-1989/m3u](https://github.com/YanG-1989/m3u) - 直播源
 - [willmcgugan/textual-markdown](https://github.com/willmcgugan/textual-markdown) - 
 - [xiaoji235/Pure-Newtab](https://github.com/xiaoji235/Pure-Newtab) - Pure Newtab，Pure起始页，新建标签页，给你最纯粹的浏览器主页极致体验！
 - [mrjooz/password-generator](https://github.com/mrjooz/password-generator) - 密码生成工具
