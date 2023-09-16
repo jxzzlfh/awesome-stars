@@ -1783,6 +1783,7 @@
 
 ## others 
 
+- [binbyu/Reader](https://github.com/binbyu/Reader) - A win32 txt file reader
 - [jnoodle/English-Vocabulary-Word-List](https://github.com/jnoodle/English-Vocabulary-Word-List) - Common English Vocabulary Word List
 - [zhbhun/idify](https://github.com/zhbhun/idify) - Make ID photo right in the browser.
 - [Macin20/why-we-write](https://github.com/Macin20/why-we-write) - 为什么写作？
