@@ -351,6 +351,7 @@
 
 ## automation 
 
+- [RavelloH/RTheme](https://github.com/RavelloH/RTheme) - 新一代现代化极客风多功能横版静态博客主题框架    -    高性能/自动化/响应式/SEO友好/全站搜索/自动订阅更新/SPA/音乐播放器/原生实现/代码高亮/标签&分类自索引/语言&设置自定义/内置高级下载器/自动目录索引
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for automated short/video content creation.
 - [dopplertask/dopplertask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool
 - [hamibot/hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
@@ -1718,6 +1719,7 @@
 
 ## nodejs 
 
+- [RavelloH/RTheme](https://github.com/RavelloH/RTheme) - 新一代现代化极客风多功能横版静态博客主题框架    -    高性能/自动化/响应式/SEO友好/全站搜索/自动订阅更新/SPA/音乐播放器/原生实现/代码高亮/标签&分类自索引/语言&设置自定义/内置高级下载器/自动目录索引
 - [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin collection, feature enhancement tool. Typora 插件集合，功能增强工具。
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - A modern GUI App for downloading Videos and Audios from hundreds of sites
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -1944,7 +1946,7 @@
 - [Geekhyt/weekly](https://github.com/Geekhyt/weekly) - 前端食堂技术周刊，每周发布。🌰
 - [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [mblog-backend/mblog-telegram-bot](https://github.com/mblog-backend/mblog-telegram-bot) - mblog的telegram机器人
-- [zishume/HugoFast](https://github.com/zishume/HugoFast) - 利用GitHub本身提供的Api，将hugo博客管理面板化。
+- [98zi/HugoFast](https://github.com/98zi/HugoFast) - 利用GitHub本身提供的Api，将hugo博客管理面板化。
 - [Klingefjord/chatgpt-telegram](https://github.com/Klingefjord/chatgpt-telegram) - A telegram bot for ChatGPT
 - [x-dr/wechat-bot](https://github.com/x-dr/wechat-bot) - wechat-bot
 - [MacWarrior/clipbucket-v5](https://github.com/MacWarrior/clipbucket-v5) - Open source video hosting with PHP
