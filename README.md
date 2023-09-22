@@ -445,6 +445,7 @@
 
 ## JavaScript 
 
+- [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [RavelloH/RTheme](https://github.com/RavelloH/RTheme) - 新一代现代化极客风多功能横版静态博客主题框架    -    高性能/自动化/响应式/SEO友好/全站搜索/自动订阅更新/SPA/音乐播放器/原生实现/代码高亮/标签&分类自索引/语言&设置自定义/内置高级下载器/自动目录索引
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
@@ -504,7 +505,6 @@
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [bartbzd/todo-list](https://github.com/bartbzd/todo-list) - To-Do List
 - [akl7777777/ShellGPT](https://github.com/akl7777777/ShellGPT) - **ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphic
-- [DustinWin/clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognize.
 - [benf2004/ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - Multi-purpose ChatGPT Chrome Extension
 - [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
@@ -776,6 +776,7 @@
 - [halo-sigs/awesome-halo](https://github.com/halo-sigs/awesome-halo) - 与 Halo 相关的周边生态资源列表
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+- [DustinWin/clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版
 - [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
 - [sharmajv/vpn](https://github.com/sharmajv/vpn) - VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓
 - [ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique) - ChatGPT提问技巧
@@ -930,7 +931,7 @@
 - [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [PaddlePaddle/ERNIE-Bot-SDK](https://github.com/PaddlePaddle/ERNIE-Bot-SDK) - The ERNIE Bot Python library provides convenient access to the ERNIE Bot API, including ChatCompletion, Embedding and Function Calling, etc.
+- [PaddlePaddle/ERNIE-Bot-SDK](https://github.com/PaddlePaddle/ERNIE-Bot-SDK) - The ERNIE Bot Python SDK provides convenient access to the ERNIE Bot API, including Chat Completion, Embedding, Function Calling, etc.
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
@@ -1196,7 +1197,7 @@
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check if your VPS's IP is available for various OTT platforms
 - [oooldking/script](https://github.com/oooldking/script) - Some Linux scripts
 - [BlueSkyXN/SKY-BOX](https://github.com/BlueSkyXN/SKY-BOX) - BlueSkyXN  综合工具箱 Linux Supported ONLY
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - mack-a 一键脚本
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray多合一一键脚本
 - [juewuy/ShellClash](https://github.com/juewuy/ShellClash) - One-click deployment and management of Clash services using Shell scripts in Linux environment
 - [yeahwu/check](https://github.com/yeahwu/check) - Streaming Media Unlock Test
 - [shidahuilang/SS-SSR-TG-iptables-bt](https://github.com/shidahuilang/SS-SSR-TG-iptables-bt) - 全集合一键脚本搭建
@@ -1243,12 +1244,13 @@
 
 ## TypeScript 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [zhbhun/idify](https://github.com/zhbhun/idify) - Make ID photo right in the browser.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [yuque/yuque-chrome-extension](https://github.com/yuque/yuque-chrome-extension) - 🚀🚀🚀 语雀浏览器插件
 - [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd) - Clash.Meta Dashboard, The Official One, XD
-- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based question answering system built on the LLM. It offers out-of-the-box data processing and model invocation capabilities. Moreover, it allows for workflow orchestration thro
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 - [aoao-eth/wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群聊总结助手 JS 版
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
