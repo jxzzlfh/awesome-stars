@@ -1190,6 +1190,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -1197,6 +1198,7 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
+- [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
