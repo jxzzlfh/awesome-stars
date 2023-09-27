@@ -1805,6 +1805,7 @@
 
 ## others 
 
+- [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [dwj0/Remote-management](https://github.com/dwj0/Remote-management) - 远程桌面、RADMIN、SSH、VNC集中管理器
 - [lxfater/RabbitReading](https://github.com/lxfater/RabbitReading) - 
 - [SUSTech-CRA/chinese-opensource-mirror-site](https://github.com/SUSTech-CRA/chinese-opensource-mirror-site) - Mirror clone of https://gitee.com/gsls200808/chinese-opensource-mirror-site as the README.md on that repository has been filtered.
