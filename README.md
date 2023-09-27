@@ -359,6 +359,7 @@
 
 ## HTML 
 
+- [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [jiewenhuang/halo-theme-stack](https://github.com/jiewenhuang/halo-theme-stack) - 一款优秀的Halo2个人博客主题
 - [f2ccloud/theme-ocean](https://github.com/f2ccloud/theme-ocean) - Halo 2.0 知识库主题
