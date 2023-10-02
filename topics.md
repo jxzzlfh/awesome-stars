@@ -1221,6 +1221,7 @@
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
@@ -2325,7 +2326,6 @@
 - [Jonnyan404/zerotier-planet](https://github.com/Jonnyan404/zerotier-planet) - 一分钟自建zerotier-planet
 - [NotCraft/NotFeed](https://github.com/NotCraft/NotFeed) - Turn GitHub into an RSS reader
 - [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Jrohy/webssh](https://github.com/Jrohy/webssh) - 简易在线终端和sftp工具
 - [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
 - [XiangLinPro/IT_book](https://github.com/XiangLinPro/IT_book) - 本项目收藏这些年来看过或者听过的一些不错的常用的上千本书籍，没准你想找的书就在这里呢，包含了互联网行业大多数书籍和面试经验题目等等。有人工智能系列（常用深度学习框架TensorFlow、pytorch、keras。NLP、机器学习，深度学习等等），大数据系列(Spark,Hadoop,Scala,kafka等)，程序员必修系列（C、C++、java、数据结构、linux，设计模式、数据库等等）
