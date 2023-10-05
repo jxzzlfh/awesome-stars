@@ -551,7 +551,7 @@
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [Ice-Hazymoon/openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy) - 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
 - [1c7/Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Youtube 字幕下载，Download Youtube Subtitles (Work best on Chrome + Tampermonkey)  2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
-- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - Hier findest du das wohl einfachste und benutzerfreundlichste Chat-Script für die OpenAI-API GPT 3.5-tubro und GPT 4. Das Script benötigt kein Framework und du kannst es ohne Vorkenntnisse verwenden. 
 - [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
