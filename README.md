@@ -1433,7 +1433,7 @@
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [Aaxom/okchatgpt-web](https://github.com/Aaxom/okchatgpt-web) - 
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
-- [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [mohuishou/siyuan-sync-github](https://github.com/mohuishou/siyuan-sync-github) - 思源笔记挂件块，同步 markdown 笔记文件为 到 github，支持迁移笔记到图床
 - [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is an "unofficial" emulator based on Ruffle Flash Emulator. Created to provide a friendly interface and enhanced playing experience. It's a complete alternative to Adobe Flash Player. Run Flas
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
