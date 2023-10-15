@@ -801,7 +801,7 @@
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
 - [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) - 
 - [UJX6N/bbrplus-5.10](https://github.com/UJX6N/bbrplus-5.10) - Linux bbrplus kernel 5.10 ported from bbrplus 4.14
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
@@ -945,6 +945,7 @@
 
 ## Python 
 
+- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated, customizable Ai Assistant/Multi-Agent Framework/Connected Tool Suite with realistic Long Term Memory and thought formation using Llama 2 with the Oobabooga API 
 - [JoeanAmier/XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader) - 完全开源，基于 Requests 模块实现：小红书图文/视频作品采集工具
