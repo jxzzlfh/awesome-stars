@@ -338,6 +338,7 @@
 
 ## artificial-intelligence 
 
+- [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for automated short/video content creation.
@@ -822,6 +823,7 @@
 
 ## deep-learning 
 
+- [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [LinkSoul-AI/Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) - 开源社区第一个能下载、能运行的中文 LLaMA2 模型！
@@ -1549,6 +1551,7 @@
 
 ## machine-learning 
 
+- [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [Tohrusky/Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution ☢️
@@ -1856,6 +1859,8 @@
 
 ## others 
 
+- [InDarkWings/CloudMusicURLToMP3](https://github.com/InDarkWings/CloudMusicURLToMP3) - 网易云外放链接转换器
+- [kihlh/WxDatViewerAutoExportRust](https://github.com/kihlh/WxDatViewerAutoExportRust) - 自动备份wx聊天图片到指定位置
 - [filesite-io/machete](https://github.com/filesite-io/machete) - Filesite.io源码,  一个无数据库、基于文件和目录的Markdown文档、网址导航、图书、图片、视频网站PHP开源系统。
 - [StartHua/video_summarize](https://github.com/StartHua/video_summarize) - video_summarize（视频总结：上传视频通过prompt对视频内容经行总结输出）
 - [1eez/103976](https://github.com/1eez/103976) - 103976个英语单词库（sql版，csv版，Excel版）包含英文单词，中文翻译，单词的词性及多种词义,执行SQL语句就可以生成表，支持SQL Server，MySQL等多种数据库
@@ -2522,6 +2527,7 @@
 
 ## python 
 
+- [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [JoeanAmier/XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader) - 完全开源，基于 Requests 模块实现：小红书图文/视频作品采集工具
