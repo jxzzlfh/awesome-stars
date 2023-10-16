@@ -713,6 +713,7 @@
 
 ## Others 
 
+- [yzfly/wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
 - [lxfater/RabbitReading](https://github.com/lxfater/RabbitReading) - 
 - [SUSTech-CRA/chinese-opensource-mirror-site](https://github.com/SUSTech-CRA/chinese-opensource-mirror-site) - Mirror clone of https://gitee.com/gsls200808/chinese-opensource-mirror-site as the README.md on that repository has been filtered.
 - [jnoodle/English-Vocabulary-Word-List](https://github.com/jnoodle/English-Vocabulary-Word-List) - Common English Vocabulary Word List
