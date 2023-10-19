@@ -3025,7 +3025,7 @@
 - [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
-- [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text (https://image-to-text-ocr.netlify.app) is a web tool to extract text from any image using OCR
+- [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text is a web tool to extract text from any image using OCR
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -3064,7 +3064,7 @@
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
-- [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text (https://image-to-text-ocr.netlify.app) is a web tool to extract text from any image using OCR
+- [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text is a web tool to extract text from any image using OCR
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
