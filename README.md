@@ -491,7 +491,6 @@
 - [easychen/deepgpt-dist](https://github.com/easychen/deepgpt-dist) - DeepGPT，类agentGPT/AutoGPT 工具，支持 api2d / 和自定义 openai key。此为静态网页独立部署版，部署方便
 - [hunmer/mCollection](https://github.com/hunmer/mCollection) - 开源模组化可扩展的素材管理软件
 - [SparkGPT001/gpt-tutorial-101](https://github.com/SparkGPT001/gpt-tutorial-101) - ChatGPT从0到1学习资料汇总，入门/原理/应用/场景/实操，最好的GPT学习中文文档
-- [rbbrdckybk/dream-factory](https://github.com/rbbrdckybk/dream-factory) - Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs.
 - [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
 - [yindaheng98/RSSBot](https://github.com/yindaheng98/RSSBot) - RSSBot 是一个能帮你订阅 RSSHub 的 Telegram Bot
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
@@ -1017,6 +1016,7 @@
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [qiwsir/algorithm](https://github.com/qiwsir/algorithm) - 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [rbbrdckybk/dream-factory](https://github.com/rbbrdckybk/dream-factory) - Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs.
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [itxve/midjourney-channel-on-github](https://github.com/itxve/midjourney-channel-on-github) - 抓取midjourney频道生产的图片
