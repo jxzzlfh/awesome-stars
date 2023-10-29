@@ -469,7 +469,7 @@
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
 - [ciuzaak/Claude-Telegram-Bot](https://github.com/ciuzaak/Claude-Telegram-Bot) - Anthropic Claude & Google Bard Bot for Telegram.
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ 多平台链式插件 AI Bot，以复刻 ChatGpt 架构 🍓|⛓ Self-driven Chain Runner | 🪄 Send Message everywhere |🔖 Chatgpt Plugin Support | 🌻 sh & docker | 🧀 Discord/Slack/Kook/Telegram
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own AssistantBot|🧀 Discord/Slack/Kook/Telegram |🍓 链式唤醒复刻 ChatGpt 架构 |⛓ Self-driven Chain Runner | 🪄 Send Message everywhere |🔖 Chatgpt Plugin Support | 🌻 sh & docker
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
@@ -628,7 +628,7 @@
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ 多平台链式插件 AI Bot，以复刻 ChatGpt 架构 🍓|⛓ Self-driven Chain Runner | 🪄 Send Message everywhere |🔖 Chatgpt Plugin Support | 🌻 sh & docker | 🧀 Discord/Slack/Kook/Telegram
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own AssistantBot|🧀 Discord/Slack/Kook/Telegram |🍓 链式唤醒复刻 ChatGpt 架构 |⛓ Self-driven Chain Runner | 🪄 Send Message everywhere |🔖 Chatgpt Plugin Support | 🌻 sh & docker
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
@@ -1087,7 +1087,7 @@
 
 ## frontend 
 
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 
 ## git 
@@ -1262,6 +1262,7 @@
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [rohankishore/Aura-Text](https://github.com/rohankishore/Aura-Text) - Aura Text is a versatile and powerful text editor powered by QScintilla that provides all the necessary tools for developers. It is build using PyQt6 and Python.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [Snazzah/stub](https://github.com/Snazzah/stub) - A self-hostable modified fork of Dub: An open-source link shortener.
@@ -1305,7 +1306,7 @@
 - [xzhuz/halo-theme-xue](https://github.com/xzhuz/halo-theme-xue) - 追求个性与至简
 - [KonghaYao/chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage) - 这是一个放置中文免费 web 字体的库，可以通过 css 载入。This is a library for placing Chinese free Web fonts, which can be loaded with CSS.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -2712,6 +2713,7 @@
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
+- [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格音乐播放器pc客户端
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
 - [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is an "unofficial" emulator based on Ruffle Flash Emulator. Created to provide a friendly interface and enhanced playing experience. It's a complete alternative to Adobe Flash Player. Run Flas
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
@@ -2734,7 +2736,7 @@
 
 ## robotics 
 
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ## ruby 
 
@@ -3064,7 +3066,6 @@
 
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
-- [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格音乐播放器pc客户端
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
@@ -3080,7 +3081,7 @@
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
 - [sing-web/x-ui](https://github.com/sing-web/x-ui) - xray panel that supports multi-protocol and multi-user
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
 - [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text is a web tool to extract text from any image using OCR
