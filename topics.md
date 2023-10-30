@@ -898,7 +898,7 @@
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [mebtte/cicada](https://github.com/mebtte/cicada) - Cicada is a multi-user music service for self-hosting.
@@ -974,7 +974,7 @@
 - [simpleapples/chatgpt-translator](https://github.com/simpleapples/chatgpt-translator) - A translation desktop app based on Electron and ChatGPT.
 - [zcf0508/autocut-client](https://github.com/zcf0508/autocut-client) - AutoCut Client
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
-- [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格音乐播放器pc客户端
+- [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
 - [estepona/wx-read-desktop](https://github.com/estepona/wx-read-desktop) - 一个极简版微信读书桌面客户端
 - [fzf404/Monit](https://github.com/fzf404/Monit) - 🎯 Desktop Widget ( 桌面小组件 )
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -1087,7 +1087,7 @@
 
 ## frontend 
 
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 
 ## git 
@@ -1144,7 +1144,7 @@
 - [duanbiaowu/go-examples-for-beginners](https://github.com/duanbiaowu/go-examples-for-beginners) - Getting Started Go
 - [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
 - [ConnectAI-E/Dingtalk-OpenAI](https://github.com/ConnectAI-E/Dingtalk-OpenAI) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
 - [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
@@ -1306,7 +1306,7 @@
 - [xzhuz/halo-theme-xue](https://github.com/xzhuz/halo-theme-xue) - 追求个性与至简
 - [KonghaYao/chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage) - 这是一个放置中文免费 web 字体的库，可以通过 css 载入。This is a library for placing Chinese free Web fonts, which can be loaded with CSS.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -1660,7 +1660,7 @@
 - [adityar224/FlutterMarkdownEditor](https://github.com/adityar224/FlutterMarkdownEditor) - Markdown Editor app allows easy markdown file creation and editing. It opens ".md" files directly from explorer, provides text styling options, effortless link addition, Light and Dark Theme Modes, Mu
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [austin2035/astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
@@ -1731,7 +1731,7 @@
 - [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 【重构中】🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，移动端基础适配
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
-- [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格音乐播放器pc客户端
+- [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [mebtte/cicada](https://github.com/mebtte/cicada) - Cicada is a multi-user music service for self-hosting.
@@ -2241,7 +2241,7 @@
 - [ystyle/kaf-cli](https://github.com/ystyle/kaf-cli) - 把txt文本转成epub和mobi电子书的命令行工具(原TmdTextEpub)
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [CareyWang/MyUrls](https://github.com/CareyWang/MyUrls) - Your Own URL Shortener
-- [Twoandz9/Clash](https://github.com/Twoandz9/Clash) - 改自于ACL，新增了手动切换1，手动切换2，精简化，加入了Emby，OpenAi，Bing分流。使用方法：随意一个订阅转换网址，将【https://raw.githubusercontent.com/Twoandz9/Clash/main/ACL4SSR_Online_Full_2z.ini】 粘贴到远程配置里面转换即可
+- [xiyangyang220/Clash](https://github.com/xiyangyang220/Clash) - 改自于ACL，新增了手动切换1，手动切换2，精简化，加入了Emby，OpenAi，Bing分流。使用方法：随意一个订阅转换网址，将【https://raw.githubusercontent.com/Twoandz9/Clash/main/ACL4SSR_Online_Full_2z.ini】 粘贴到远程配置里面转换即可
 - [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
@@ -2680,10 +2680,10 @@
 - [simpleapples/chatgpt-translator](https://github.com/simpleapples/chatgpt-translator) - A translation desktop app based on Electron and ChatGPT.
 - [JeffreyCA/spleeter-web](https://github.com/JeffreyCA/spleeter-web) - Self-hostable web app for isolating the vocal, accompaniment, bass, and drums of any song. Supports Spleeter, D3Net, Demucs, Tasnet, X-UMX. Built with React and Django.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格音乐播放器pc客户端
+- [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 - [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [rutikwankhade/CoverView](https://github.com/rutikwankhade/CoverView) - 🛠 Create awesome cover images for your blog posts quickly.
 - [index-labs/readpilot](https://github.com/index-labs/readpilot) - Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
@@ -2713,7 +2713,7 @@
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [dissorial/doc-chatbot](https://github.com/dissorial/doc-chatbot) - Document chatbot — multiple files, topics, chat windows and chat history. Powered by GPT.
-- [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格音乐播放器pc客户端
+- [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
 - [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
 - [jooy2/flaru](https://github.com/jooy2/flaru) - 📽 Flaru is an "unofficial" emulator based on Ruffle Flash Emulator. Created to provide a friendly interface and enhanced playing experience. It's a complete alternative to Adobe Flash Player. Run Flas
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
@@ -2736,7 +2736,7 @@
 
 ## robotics 
 
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
 ## ruby 
 
@@ -2802,7 +2802,7 @@
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Rabithua/memos_wmp](https://github.com/Rabithua/memos_wmp) - The WeChat Mini Program version of the open-source project "usememos/memos" can be converted into an app.         memos的微信小程序版本，可以转化为app
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [mebtte/cicada](https://github.com/mebtte/cicada) - Cicada is a multi-user music service for self-hosting.
@@ -3081,7 +3081,7 @@
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
 - [sing-web/x-ui](https://github.com/sing-web/x-ui) - xray panel that supports multi-protocol and multi-user
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
 - [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text is a web tool to extract text from any image using OCR
