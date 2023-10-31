@@ -1182,7 +1182,7 @@
 - [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
-- [jinzhongjia/movie-getter](https://github.com/jinzhongjia/movie-getter) - Go编写的影视资源采集器
+- [jinzhongjia/movie-getter](https://github.com/jinzhongjia/movie-getter) - Go编写的影视资源采集器，暂时demo站已挂
 - [aegistudio/enigma](https://github.com/aegistudio/enigma) - 🔢🔒Enigma: a simple cross-platform encrypted filesystem
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [lbbniu/aliyun-m3u8-downloader](https://github.com/lbbniu/aliyun-m3u8-downloader) - 普通m3u8、阿里云私有视频加密、华为云视频、百度智能云视频、火山引擎视频云、保利威Polyv、气球云下载
@@ -1300,6 +1300,7 @@
 
 ## html 
 
+- [champkeh/wereadx](https://github.com/champkeh/wereadx) - 微信读书辅助工具，可用于书籍下载及自动阅读、自动兑换体验卡等
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
@@ -1882,6 +1883,7 @@
 
 ## others 
 
+- [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客...
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
 - [yonggekkk/Hysteria-yg](https://github.com/yonggekkk/Hysteria-yg) - Hysteria多功能一键脚本，支持范围端口及多端口复用、四模式IP优先级切换
@@ -2540,6 +2542,7 @@
 
 - [avadhesh18/rssTea](https://github.com/avadhesh18/rssTea) - rssTea: A lightweight RSS reader and podcast player PWA utilising GitHub Actions
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [meetqy/rao-pics](https://github.com/meetqy/rao-pics) - :electron: 帮助你远程访问 Eagle、Pixcall、Billfish 的素材库。
 - [F-loat/caption2text](https://github.com/F-loat/caption2text) - 📥 PWA 版字幕转换为文本工具，支持 ass 及 srt 格式，可批量导出为 word 及 text 文件
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [mebtte/cicada](https://github.com/mebtte/cicada) - Cicada is a multi-user music service for self-hosting.
