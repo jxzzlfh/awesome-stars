@@ -1887,6 +1887,9 @@
 
 ## others 
 
+- [Misaka-blog/hysteria-install](https://github.com/Misaka-blog/hysteria-install) - Hysteria 一键安装脚本
+- [vveg26/sing-box-reality-hysteria2](https://github.com/vveg26/sing-box-reality-hysteria2) - 基于singbox内核的hy2 reality vmess ws一键脚本
+- [TinrLin/sing-box](https://github.com/TinrLin/sing-box) - 
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客...
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
