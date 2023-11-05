@@ -714,6 +714,7 @@
 
 ## Others 
 
+- [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
 - [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客...
 - [yzfly/wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
 - [lxfater/RabbitReading](https://github.com/lxfater/RabbitReading) - 
@@ -948,6 +949,8 @@
 
 ## Python 
 
+- [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
+- [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [yonggekkk/Hysteria-yg](https://github.com/yonggekkk/Hysteria-yg) - Hysteria多功能一键脚本，支持范围端口及多端口复用、四模式IP优先级切换
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
@@ -1277,6 +1280,7 @@
 
 ## TypeScript 
 
+- [yesmore/inke](https://github.com/yesmore/inke) - 📖 A markdown-like web editor with AI-powered.
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
 - [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
