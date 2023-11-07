@@ -953,6 +953,7 @@
 
 ## Python 
 
+- [QIN2DIM/hy2](https://github.com/QIN2DIM/hy2) - hysteria2 一键部署
 - [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
@@ -960,7 +961,7 @@
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated, customizable Ai Assistant/Multi-Agent Framework/Connected Tool Suite with realistic Long Term Memory and thought formation using Llama 2 with the Oobabooga API 
+- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated, highly customizable Ai Assistant/Agent Framework with realistic Long Term Memory and thought formation using Llama 2 or Open Ai's GPT. Qdrant is used for the Ve
 - [JoeanAmier/XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
 - [chazzjimel/WeChat-AIChatbot-WinOnly](https://github.com/chazzjimel/WeChat-AIChatbot-WinOnly) - 基于chatgpt-on-wechat框架，只能运行在Win平台的项目，通过本项目可以将微信或者企业微信个人号接入ChatGpt、文心一言、FastGpt、LinkAI，可以文字对话、语音对话、图片交互、文件交互等。
@@ -1215,6 +1216,8 @@
 
 ## Shell 
 
+- [hrostami/aio-proxy](https://github.com/hrostami/aio-proxy) - This script automates setting up TUIC, Hysteria2, Telegram Proxy and other proxy related tools in Linux.
+- [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
 - [Misaka-blog/hysteria-install](https://github.com/Misaka-blog/hysteria-install) - Hysteria 一键安装脚本
 - [vveg26/sing-box-reality-hysteria2](https://github.com/vveg26/sing-box-reality-hysteria2) - 基于singbox内核的hy2 reality vmess ws一键脚本
 - [TinrLin/sing-box](https://github.com/TinrLin/sing-box) - 
@@ -1288,6 +1291,7 @@
 
 ## TypeScript 
 
+- [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
 - [adevinwild/micro-scale](https://github.com/adevinwild/micro-scale) - An open-source image upscaler built for the first TheFullstack hackathon (Next.js / Replicate)
 - [nikstar/greader](https://github.com/nikstar/greader) - G Reader is a simple RSS feed reader bot for Telegram
 - [vannvan/yuque-tools](https://github.com/vannvan/yuque-tools) - 🧰 玩转语雀-朴实无华的语雀工具集合，语雀知识库批量导出工具(无需Token)｜浏览器插件助手
@@ -1362,7 +1366,7 @@
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [caorushizi/m3u8-downloader](https://github.com/caorushizi/m3u8-downloader) - m3u8 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
 - [xjq7/books](https://github.com/xjq7/books) - IT 电子书, 计算机基础(编译原理, 数据结构与算法, 操作系统), 计算机网络, 编程语言, 前端, 网络安全, 软件测试, 算法, 数据库, 经济学, 数学, 多种文件格式(pdf、mobi、epubi、azw3), 多种下载方式(百度网盘, 阿里网盘, 直链)
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs th
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
 - [kx-Huang/ChatGPT-on-WeChat](https://github.com/kx-Huang/ChatGPT-on-WeChat) - 🤖️ Deploy ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
