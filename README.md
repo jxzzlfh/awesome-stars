@@ -720,7 +720,7 @@
 ## Others 
 
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
-- [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, GPT-4, ChatGPT, GPTs, Prompts
+- [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
 - [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四协议共存一键脚本【Vless-reality、Vmess-ws(tls)、Hysteria2、Tuic-v5】：支持Argo隧道、多端口跳跃、自定义域名分流、IP优选级切换、自签与acme双证书切换。支持Telegram推送节点信息，显示分享链接、二维码，Clash-Meta配置，生成统一的SFA/SFI/SFW客户端配置文件
 - [KyleBing/english-vocabulary](https://github.com/KyleBing/english-vocabulary) - 英文单词，英语单词，英语四六级、考研、SAT单词，txt 文件, json 文件，CET4 CET6，乱序，单词
 - [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
@@ -1371,7 +1371,7 @@
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [caorushizi/m3u8-downloader](https://github.com/caorushizi/m3u8-downloader) - m3u8 视频在线提取工具 流媒体下载 m3u8下载 桌面客户端 windows mac
 - [xjq7/books](https://github.com/xjq7/books) - IT 电子书, 计算机基础(编译原理, 数据结构与算法, 操作系统), 计算机网络, 编程语言, 前端, 网络安全, 软件测试, 算法, 数据库, 经济学, 数学, 多种文件格式(pdf、mobi、epubi、azw3), 多种下载方式(百度网盘, 阿里网盘, 直链)
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
 - [kx-Huang/ChatGPT-on-WeChat](https://github.com/kx-Huang/ChatGPT-on-WeChat) - 🤖️ Deploy ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
 - [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
