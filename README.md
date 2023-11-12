@@ -1118,7 +1118,7 @@
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own AssistantBot|🧀 Discord/Slack/Kook/Telegram |🍓 链式唤醒复刻 ChatGpt 架构 |⛓ Self-driven Chain Runner | 🪄 Send Message everywhere |🔖  Plugin Support | 🌻 sh & docker-compose | Good Practices of
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own AssistantBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 sh & docker-compose
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [kingyiusuen/image-to-latex](https://github.com/kingyiusuen/image-to-latex) - Convert images of LaTex math equations into LaTex code.
 - [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.
