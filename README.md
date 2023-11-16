@@ -261,6 +261,7 @@
 
 ## Go 
 
+- [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 - [nxtrace/NTrace-V1](https://github.com/nxtrace/NTrace-V1) - NextTrace Dev
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [daodao97/SingBoxClient](https://github.com/daodao97/SingBoxClient) - Cross platform client for sing-box
