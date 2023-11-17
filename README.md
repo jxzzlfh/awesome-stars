@@ -1238,7 +1238,7 @@
 - [hrostami/aio-proxy](https://github.com/hrostami/aio-proxy) - This script automates setting up TUIC, Hysteria2, Telegram Proxy and other proxy related tools in Linux.
 - [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
 - [Misaka-blog/hysteria-install](https://github.com/Misaka-blog/hysteria-install) - Hysteria 一键安装脚本
-- [vveg26/sing-box-reality-hysteria2](https://github.com/vveg26/sing-box-reality-hysteria2) - 基于singbox内核的hy2 reality vmess ws一键脚本
+- [vveg26/sing-box-reality-hysteria2](https://github.com/vveg26/sing-box-reality-hysteria2) - 基于singbox内核的hysteria2 reality vmess ws argo一键脚本
 - [TinrLin/sing-box](https://github.com/TinrLin/sing-box) - 
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) - 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
 - [Misaka-blog/juicity-script](https://github.com/Misaka-blog/juicity-script) - Juicity 协议一键部署脚本
@@ -1310,6 +1310,7 @@
 
 ## TypeScript 
 
+- [coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web) - Connect your web browser with your notes in Obsidian.
 - [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui) - Draw a mockup and generate html for it
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [metal-young/obsidian-to-flomo](https://github.com/metal-young/obsidian-to-flomo) - Quickly share content to Flomo.
