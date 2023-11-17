@@ -157,6 +157,7 @@
 - [springboot](#springboot)
 - [sql](#sql)
 - [sql-server](#sql-server)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -1906,6 +1907,7 @@
 
 ## others 
 
+- [coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web) - Connect your web browser with your notes in Obsidian.
 - [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 - [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience.
 - [tldraw/draw-a-ui](https://github.com/tldraw/draw-a-ui) - Draw a mockup and generate html for it
@@ -1926,7 +1928,7 @@
 - [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
 - [heygsc/word-wind](https://github.com/heygsc/word-wind) - 单词之风，像风一样丝滑的背单词
 - [Misaka-blog/hysteria-install](https://github.com/Misaka-blog/hysteria-install) - Hysteria 一键安装脚本
-- [vveg26/sing-box-reality-hysteria2](https://github.com/vveg26/sing-box-reality-hysteria2) - 基于singbox内核的hy2 reality vmess ws一键脚本
+- [vveg26/sing-box-reality-hysteria2](https://github.com/vveg26/sing-box-reality-hysteria2) - 基于singbox内核的hysteria2 reality vmess ws argo一键脚本
 - [TinrLin/sing-box](https://github.com/TinrLin/sing-box) - 
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客...
@@ -2948,6 +2950,17 @@
 ## sql-server 
 
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
+
+## sqlite 
+
+- [boojack/slash](https://github.com/boojack/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
+- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+- [little-brother/sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [xenocrat/chyrp-lite](https://github.com/xenocrat/chyrp-lite) - An ultra-lightweight blogging engine, written in PHP.
+- [haishanh/cherry](https://github.com/haishanh/cherry) - Cherry is a self-hostable bookmark service
 
 ## statistics 
 
