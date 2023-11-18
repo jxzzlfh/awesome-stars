@@ -417,7 +417,7 @@
 ## awesome-list 
 
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
-- [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - GPT Store - A collection of major GPTS available in public
+- [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [luban-agi/Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
@@ -497,7 +497,7 @@
 
 - [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat = PandoraNext. New GPTs(Gizmo) UI, All in one!
 - [all-in-aigc/gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
-- [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - GPT Store - A collection of major GPTS available in public
+- [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [yesmore/inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
 - [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
@@ -658,7 +658,7 @@
 
 ## chatgpt-api 
 
-- [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - GPT Store - A collection of major GPTS available in public
+- [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
 - [heimeropen/chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - A golang service for chatgpt application
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
@@ -1818,7 +1818,6 @@
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [yohasebe/openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖💬 It also allows image generation 🖼️, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
 - [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
