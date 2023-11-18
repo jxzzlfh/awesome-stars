@@ -1907,6 +1907,7 @@
 
 ## others 
 
+- [sunpma/mtp](https://github.com/sunpma/mtp) - MTProxy TLS 绿色版一键安装脚本
 - [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录归档的 大 项目.
 - [ifyour/deeplx-for-cloudflare](https://github.com/ifyour/deeplx-for-cloudflare) - 🔥 Deploy DeepLX on Cloudflare
 - [coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web) - Connect your web browser with your notes in Obsidian.
@@ -2993,6 +2994,7 @@
 
 ## telegram 
 
+- [ellermister/mtproxy](https://github.com/ellermister/mtproxy) - MTProxyTLS一键安装绿色脚本
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [nikstar/greader](https://github.com/nikstar/greader) - G Reader is a simple RSS feed reader bot for Telegram
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests
