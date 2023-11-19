@@ -902,6 +902,7 @@
 
 ## PHP 
 
+- [guanguans/music-dl](https://github.com/guanguans/music-dl) - Music Searcher and Downloader. - 音乐搜索下载器。
 - [changbin1997/Facile](https://github.com/changbin1997/Facile) - 一个简洁的 Typecho 博客主题
 - [filesite-io/machete](https://github.com/filesite-io/machete) - Filesite.io源码,  一个无数据库、基于文件和目录的Markdown文档、网址导航、图书、图片、视频网站PHP开源系统。
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, simple and fresh looking glass based on Bootstrap 5 and PHP 8.
@@ -1174,6 +1175,7 @@
 
 ## QML 
 
+- [hiroi-sora/Umi-OCR_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 开源、免费、实用的离线OCR软件。截屏/粘贴/批量导入图片，支持段落排版/排除水印，扫描/生成二维码。全程无需联网，内置多国语言识别库。
 - [Cuperino/QPrompt-Teleprompter](https://github.com/Cuperino/QPrompt-Teleprompter) - Teleprompter software for all video creators. Built with ease of use, productivity, control accuracy, and smooth performance in mind.
 
 ## Rich Text Format 
