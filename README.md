@@ -307,7 +307,7 @@
 - [golang-china/awesome-go-zh](https://github.com/golang-china/awesome-go-zh) - :books: Go资源精选中文版(含中文图书大全)
 - [mzfr/yarr](https://github.com/mzfr/yarr) - Modified version of the original yarr(yet another RSS reader)
 - [sjlleo/nexttrace-GUI](https://github.com/sjlleo/nexttrace-GUI) - NextTrace GUI For Windows
-- [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - An open source visual route tracking CLI tool
+- [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
@@ -1195,6 +1195,7 @@
 
 ## Rust 
 
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app.
 - [kihlh/WxDatViewerAutoExportRust](https://github.com/kihlh/WxDatViewerAutoExportRust) - (WxAutoExIm) 自动备份wx聊天图片到指定位置
 - [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
