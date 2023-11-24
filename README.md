@@ -466,6 +466,7 @@
 
 ## JavaScript 
 
+- [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [sunxen/EpubPressX](https://github.com/sunxen/EpubPressX) - 一个 chrome 插件，可以将网页制作成 epub 电子书，支持微信读书等
 - [marmot-z/baicizhan-helper](https://github.com/marmot-z/baicizhan-helper) - baicizhan chrome extension
 - [friuns2/Awesome-GPTs-Big-List](https://github.com/friuns2/Awesome-GPTs-Big-List) - Use OpenAI GPTs for Free: https://gptcall.net/
