@@ -466,6 +466,8 @@
 
 ## JavaScript 
 
+- [sunxen/EpubPressX](https://github.com/sunxen/EpubPressX) - 一个 chrome 插件，可以将网页制作成 epub 电子书，支持微信读书等
+- [marmot-z/baicizhan-helper](https://github.com/marmot-z/baicizhan-helper) - baicizhan chrome extension
 - [friuns2/Awesome-GPTs-Big-List](https://github.com/friuns2/Awesome-GPTs-Big-List) - Use OpenAI GPTs for Free: https://gptcall.net/
 - [finalpi/wechat2tg](https://github.com/finalpi/wechat2tg) - 微信消息转发到telegram
 - [kongzhu2/XHS_Downloader_Chrome_Extension](https://github.com/kongzhu2/XHS_Downloader_Chrome_Extension) - 小红书作品采集工具浏览器插件
@@ -1320,6 +1322,7 @@
 
 ## TypeScript 
 
+- [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Confluence/WordPress等)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [ifyour/deeplx-for-cloudflare](https://github.com/ifyour/deeplx-for-cloudflare) - 🔥 Deploy DeepLX on Cloudflare
 - [coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web) - Connect your web browser with your notes in Obsidian.
