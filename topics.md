@@ -1921,6 +1921,7 @@
 
 ## others 
 
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [yajuhua/podcast2_1](https://github.com/yajuhua/podcast2_1) - 将视频网站转换成播客订阅
 - [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 - [wonfen/clash-verge-rev](https://github.com/wonfen/clash-verge-rev) - 
