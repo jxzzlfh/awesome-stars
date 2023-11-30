@@ -263,7 +263,6 @@
 
 - [xmdhs/clash2sfa](https://github.com/xmdhs/clash2sfa) - 将 Clash.Meta 格式的订阅链接转换为 sing-box 格式的链接，用于 SFA
 - [xmdhs/clash2singbox](https://github.com/xmdhs/clash2singbox) - 将 clash.meta 格式的配置文件或链接转换为 sing-box 格式
-- [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 - [nxtrace/NTrace-V1](https://github.com/nxtrace/NTrace-V1) - NextTrace Dev
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [daodao97/SingBoxClient](https://github.com/daodao97/SingBoxClient) - Cross platform client for sing-box
@@ -323,7 +322,7 @@
 - [jinzhongjia/movie-getter](https://github.com/jinzhongjia/movie-getter) - Go编写的影视资源采集器
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 - [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [aegistudio/enigma](https://github.com/aegistudio/enigma) - 🔢🔒Enigma: a simple cross-platform encrypted filesystem
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [hedongshu/go-markdown-book](https://github.com/hedongshu/go-markdown-book) - 将 github仓库，或者本地文件夹 内的Markdown文件发布成可以web访问的book
@@ -742,6 +741,7 @@
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [lqzhgood/Shmily](https://github.com/lqzhgood/Shmily) - 这是一个 ( QQ Wechat 短信 通话记录 照片 等) 记录归档的 大 项目.
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
+- [MerlinKodo/clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 - [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
@@ -817,7 +817,7 @@
 - [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
-- [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
+- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using ChatGPT
 - [jackfrued/Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) - Python语言基础50课
 - [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
