@@ -122,6 +122,7 @@
 - [numpy](#numpy)
 - [open-source](#open-source)
 - [opencv](#opencv)
+- [opengl](#opengl)
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
@@ -273,6 +274,8 @@
 
 ## android 
 
+- [wangchenyan/ponymusic](https://github.com/wangchenyan/ponymusic) - An Android online music player like NetEase Cloud Music
+- [pdone/FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备。
 - [jing332/AlistAndroid](https://github.com/jing332/AlistAndroid) - AList 安卓版本，APK安装即用，无需Root或Termux。
 - [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
 - [Konyaco/CollinsDictionary](https://github.com/Konyaco/CollinsDictionary) - This is a multi-platform Collins Dictionary client, supports for Desktop(Windows/Linux/MacOS) and Android.
@@ -788,6 +791,7 @@
 
 ## cpp 
 
+- [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
@@ -1546,6 +1550,7 @@
 
 ## linux 
 
+- [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 - [Konyaco/CollinsDictionary](https://github.com/Konyaco/CollinsDictionary) - This is a multi-platform Collins Dictionary client, supports for Desktop(Windows/Linux/MacOS) and Android.
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
@@ -1625,6 +1630,7 @@
 
 ## macos 
 
+- [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
@@ -1918,8 +1924,14 @@
 
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
 
+## opengl 
+
+- [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
+
 ## others 
 
+- [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合
+- [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 - [wpzzz/blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) - 
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [tldraw/draw-fast](https://github.com/tldraw/draw-fast) - 
@@ -2739,6 +2751,7 @@
 
 ## qt 
 
+- [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [hiroi-sora/Umi-OCR_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 结束和新的开始
 - [Cuperino/QPrompt-Teleprompter](https://github.com/Cuperino/QPrompt-Teleprompter) - Teleprompter software for all video creators. Built with ease of use, productivity, control accuracy, and smooth performance in mind.
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
@@ -3232,6 +3245,7 @@
 
 ## windows 
 
+- [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
 - [Konyaco/CollinsDictionary](https://github.com/Konyaco/CollinsDictionary) - This is a multi-platform Collins Dictionary client, supports for Desktop(Windows/Linux/MacOS) and Android.
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
