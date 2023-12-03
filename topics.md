@@ -1965,7 +1965,7 @@
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
 - [metal-young/obsidian-to-flomo](https://github.com/metal-young/obsidian-to-flomo) - Quickly share content to Flomo.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
-- [seagullz4/hysteria2](https://github.com/seagullz4/hysteria2) - hysteria2一键安装/hysteria2 One-click installation，小白无脑冲，不要进来，真的别进来ᕕ༼ ͠ຈ Ĺ̯ ͠ຈ ༽┌∩┐
+- [seagullz4/hysteria2](https://github.com/seagullz4/hysteria2) - hysteria2一键安装/hysteria2 One-click installation，hy2一键安装小白无脑冲，不要进来，真的别进来
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all agent's system prompt
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
