@@ -1046,7 +1046,6 @@
 - [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin.
 - [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
-- [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A desktop client for the jailbroken New Bing AI (Sydney ver.) based on Python and Qt.
 - [SubConv/SubConv](https://github.com/SubConv/SubConv) - 
 - [THUDM/WebGLM](https://github.com/THUDM/WebGLM) - WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)
 - [ramonvc/freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
@@ -1345,6 +1344,7 @@
 
 ## TypeScript 
 
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [tldraw/draw-fast](https://github.com/tldraw/draw-fast) - 
 - [xhofe/imgbed](https://github.com/xhofe/imgbed) - 📒多接口/自定义接口的文件/图片上传
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -1585,6 +1585,7 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [HandsomeNPC/halo-wangEditor-plugin](https://github.com/HandsomeNPC/halo-wangEditor-plugin) - 
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
+- [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A desktop client for the jailbroken New Bing AI (Sydney ver.) based on Python and Qt.
 - [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) - 
 - [forrestchang/programmer-soft-skills](https://github.com/forrestchang/programmer-soft-skills) - 程序员的软技能
 - [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
