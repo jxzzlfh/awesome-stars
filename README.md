@@ -1293,7 +1293,7 @@
 - [XTLS/Xray-install](https://github.com/XTLS/Xray-install) - Easiest way to install & upgrade Xray.
 - [HaodongZou/sub](https://github.com/HaodongZou/sub) - 一键打包自定义 subconverter 镜像、部署并上传到 Docker Hub
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
-- [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库
+- [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库 1Panel Store Unofficial App Adaptation Repository
 - [1Panel-dev/appstore](https://github.com/1Panel-dev/appstore) - 1Panel 应用商店的官方存储库，在这里提交应用程序和更新。
 - [zxcvos/Xray-script](https://github.com/zxcvos/Xray-script) - Xray-REALITY 管理脚本
 - [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
