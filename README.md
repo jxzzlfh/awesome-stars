@@ -556,6 +556,7 @@
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [bartbzd/todo-list](https://github.com/bartbzd/todo-list) - To-Do List
 - [akl7777777/ShellGPT](https://github.com/akl7777777/ShellGPT) - **ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphic
+- [DustinWin/clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognize.
 - [benf2004/AI-Prompt-Genius](https://github.com/benf2004/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
@@ -769,7 +770,7 @@
 - [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
-- [yonggekkk/sing-box_hysteria2_tuic_argo_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶小白一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic5】：Argo隧道、多端口跳跃、域名+geosite分流、IP优先切换、自签/acme证书切换、TG推送，二维码、Clash-Meta，SFA/SFI/SFW三合一配置
+- [yonggekkk/sing-box_hysteria2_tuic_argo_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶小白一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic5】：支持Argo隧道、多端口跳跃、六通道分流、IP优先切换、自签/acme证书切换、TG推送，自动生成Clash-Meta配置+SFA/SFI/SFW三合一配置
 - [KyleBing/english-vocabulary](https://github.com/KyleBing/english-vocabulary) - 英文单词，英语单词，英语四六级、考研、SAT单词，txt 文件, json 文件，CET4 CET6，乱序，单词
 - [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客...
 - [yzfly/wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
@@ -849,7 +850,6 @@
 - [halo-sigs/awesome-halo](https://github.com/halo-sigs/awesome-halo) - 与 Halo 相关的周边生态资源列表
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [DustinWin/clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版
 - [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
 - [bzsome/idcard_generator](https://github.com/bzsome/idcard_generator) - 身份证图片生成工具-仅供学习交流。已打包Maocs app和Windows exe，可直接下载使用
 - [sharmajv/vpn](https://github.com/sharmajv/vpn) - VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓
@@ -1004,6 +1004,7 @@
 
 ## Python 
 
+- [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [liuzhao1225/YouDub](https://github.com/liuzhao1225/YouDub) - YouDub是一个开源工具，旨在自动化地将优质的YouTube视频进行翻译和配音，以便将其搬运到中文互联网上。该工具使用了AI语音识别技术将音频转换为文本，然后通过大语言模型将文本翻译成中文，最后通过AI声音克隆技术将中文转换为音频。这样，我们就可以创建出具有原始YouTuber音色的中文配音视频。
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
