@@ -579,6 +579,7 @@
 - [jonathontoon/manifest](https://github.com/jonathontoon/manifest) - An instant grid-based pinboard for note taking in your browser.
 - [xupingmao/xnote](https://github.com/xupingmao/xnote) - 个人知识库+工具箱
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+- [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
 - [SivanLaai/blog](https://github.com/SivanLaai/blog) - 本地写hugo博客，快捷键Crtl + U快速发布并自动部署网页。
 - [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在
 - [TechXueXi/techxuexi-js](https://github.com/TechXueXi/techxuexi-js) - 油猴等插件的 学习强国 js 代码 45分/天
@@ -770,7 +771,7 @@
 - [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
-- [yonggekkk/sing-box_hysteria2_tuic_argo_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶小白一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic5】：支持Argo隧道、多端口跳跃、六通道分流、自定义内核、自签/acme证书切换、TG推送，自动生成Clash-Meta配置+SFA/SFI/SFW三合一配置
+- [yonggekkk/sing-box_hysteria2_tuic_argo_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo、】：支持自签/acme证书切换、warp出站账户变更、多端口跳跃、六通道分流、自定义内核、TG推送，自动生成Clash-Meta配置+SFA/SFI/SFW三合一配置
 - [KyleBing/english-vocabulary](https://github.com/KyleBing/english-vocabulary) - 英文单词，英语单词，英语四六级、考研、SAT单词，txt 文件, json 文件，CET4 CET6，乱序，单词
 - [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客...
 - [yzfly/wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
@@ -864,7 +865,6 @@
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
 - [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
-- [nxshell/nxshell](https://github.com/nxshell/nxshell) - An easy to use new terminal.
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 - [SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV) - 标准协议移动直播源
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
@@ -1009,7 +1009,7 @@
 - [liuzhao1225/YouDub](https://github.com/liuzhao1225/YouDub) - YouDub是一个开源工具，旨在自动化地将优质的YouTube视频进行翻译和配音，以便将其搬运到中文互联网上。该工具使用了AI语音识别技术将音频转换为文本，然后通过大语言模型将文本翻译成中文，最后通过AI声音克隆技术将中文转换为音频。这样，我们就可以创建出具有原始YouTuber音色的中文配音视频。
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
-- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all agent's system prompt
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - collect agent's system prompt and share some prompt inject knowledge
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [QIN2DIM/hy2](https://github.com/QIN2DIM/hy2) - hysteria2 一键部署
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -1386,7 +1386,7 @@
 - [adevinwild/micro-scale](https://github.com/adevinwild/micro-scale) - An open-source image upscaler built for the first TheFullstack hackathon (Next.js / Replicate)
 - [nikstar/greader](https://github.com/nikstar/greader) - G Reader is a simple RSS feed reader bot for Telegram
 - [vannvan/yuque-tools](https://github.com/vannvan/yuque-tools) - 🧰 玩转语雀-朴实无华的语雀工具集合，语雀知识库+团队资源批量导出/备份工具(无需Token)｜浏览器插件助手
-- [yesmore/inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
+- [yesmore/inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。(作者是23届应届生，然12月被裁，故此项目暂停维护，有缘再见)
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
 - [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -1497,7 +1497,7 @@
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
 - [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 - [lxfater/Portal](https://github.com/lxfater/Portal) - 
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWebTeam/ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [gcloudlab/QA](https://github.com/gcloudlab/QA) - 🤖部署在Vercel的ChatGPT镜像站点（gpt-3.5-turbo）
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
