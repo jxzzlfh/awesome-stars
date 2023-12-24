@@ -185,6 +185,7 @@
 
 ## ai 
 
+- [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [uni-openai/UniAI](https://github.com/uni-openai/UniAI) - One United API, Multiple AI models
@@ -1112,6 +1113,7 @@
 
 ## flutter 
 
+- [nexptr/omnigram](https://github.com/nexptr/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting the use of the Bark TTS model and other AI chat technologies for en
 - [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 - [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - server status & toolbox app using Flutter
@@ -1978,6 +1980,9 @@
 
 ## others 
 
+- [plantree/ocr-pwa](https://github.com/plantree/ocr-pwa) - A simple PWA for OCR, based on Tesseract.
+- [jerrylususu/mainonly](https://github.com/jerrylususu/mainonly) - A JavaScript bookmarklet designed to isolate and highlight a specific element on a webpage, effectively hiding all other elements.
+- [codeartx/flash-switcher](https://github.com/codeartx/flash-switcher) - 极速、高效、智能的标签预览和切换
 - [Meroser/IPTV](https://github.com/Meroser/IPTV) - 湖南电信、移动、联通组播源，IPv6源，完善的台标，完善的EPG
 - [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合好趣网直播源+月光宝盒Box直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
 - [x-dr/tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
