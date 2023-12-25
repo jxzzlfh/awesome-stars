@@ -391,7 +391,6 @@
 - [InDarkWings/CloudMusicURLToMP3](https://github.com/InDarkWings/CloudMusicURLToMP3) - 网易云外放链接转换器
 - [avadhesh18/rssTea](https://github.com/avadhesh18/rssTea) - rssTea: A lightweight RSS reader and podcast player PWA utilising GitHub Actions
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
-- [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [jiewenhuang/halo-theme-stack](https://github.com/jiewenhuang/halo-theme-stack) - 一款优秀的Halo2个人博客主题
@@ -1051,6 +1050,7 @@
 - [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated, highly customizable Ai Assistant/Chatbot/Sub-Agent Framework with realistic Long Term Memory and thought formation using Llama 2 or Open Ai's GPT. Qdrant is use
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费；轻量；开源，基于 AIOHTTP 模块实现的小红书图文 / 视频作品采集工具
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
+- [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [chazzjimel/WeChat-AIChatbot-WinOnly](https://github.com/chazzjimel/WeChat-AIChatbot-WinOnly) - 基于chatgpt-on-wechat框架，只能运行在Win平台的项目，通过本项目可以将微信或者企业微信个人号接入ChatGpt、文心一言、FastGpt、LinkAI，可以文字对话、语音对话、图片交互、文件交互等。
 - [yihong0618/epubhv](https://github.com/yihong0618/epubhv) - Make your epub books vertical or horizontal.
 - [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation
