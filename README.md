@@ -489,6 +489,7 @@
 
 ## JavaScript 
 
+- [kska32/ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
 - [foru17/front-end-collect](https://github.com/foru17/front-end-collect) - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 - [jfmow/noti](https://github.com/jfmow/noti) - A online note storage/editor using a open source backend (pocketbase) and a next js frontend.
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus an
@@ -798,7 +799,7 @@
 - [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
-- [yonggekkk/sing-box_hysteria2_tuic_argo_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持多端口跳跃、自签/acme双证书切换、高自由度分流设置、argo隧道、warp出站账户变更设置、Clash-Meta配置+SFA/SFI/SFW三合一配置
+- [yonggekkk/sing-box_hysteria2_tuic_argo_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持多端口跳跃、自签/acme双证书切换、域名分流设置、Argo隧道、warp出站账户变更、自动生成Clash-Meta+SFA/SFI/SFW三合一配置
 - [KyleBing/english-vocabulary](https://github.com/KyleBing/english-vocabulary) - 英文单词，英语单词，英语四六级、考研、SAT单词，txt 文件, json 文件，CET4 CET6，乱序，单词
 - [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客...
 - [yzfly/wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
@@ -1413,7 +1414,7 @@
 - [uni-openai/UniAI](https://github.com/uni-openai/UniAI) - One United API, Multiple AI models
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu! (∠・ω&lt; )⌒☆​
-- [Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 强大精美的 AI 聚合聊天平台，适配OpenAI，Claude，讯飞星火，Midjourney，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Google PaLM2，LocalAI 等模型，支持分布式流式传输，图像生成，对话跨设备自动同步和分享功能，实现订阅和 Token 弹性计费系统，Key 中转服务，多模型
+- [Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 强大精美的 AI 聚合聊天平台，适配OpenAI，Claude，讯飞星火，Midjourney，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Google Gemini (PaLM2)，LocalAI 等模型，支持分布式流式传输，图像生成，对话跨设备自动同步和分享功能，实现订阅和 Token 弹性计费系统，Key
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [ifyour/deeplx-for-cloudflare](https://github.com/ifyour/deeplx-for-cloudflare) - 🔥 Deploy DeepLX on Cloudflare
