@@ -440,7 +440,7 @@
 
 - [TouShang6015/Hugai-chatgpt](https://github.com/TouShang6015/Hugai-chatgpt) - HugAi是由Springboot Vue2 elementUI集成openAi SDK开发的一套智能AI知识库，支持ChatGpt对话3.5、4.0模型，以及主流AI绘图Midjourney、Stable Diffusion，完全开源搭建属于自己的AI聊天室
 - [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增Vision识图】免费的基于ChatGPT API的安卓端语音助手，可通过音量键唤起并进行语音交流，支持联网、Vision拍照识图、连续对话、提问模板、3.5/4.0接口、Markdown渲染等功能
-- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【现支持转发copilot接口使用GPT-4，支持流式输出】脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,实现通过refresh_token或session_token，自动更新分发pool_token，并接入one-api，支持转发copilot接口，查询PandoraNext余额，且方便实现接口调用PandoraNext的API并支持
+- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【现支持转发copilot官方和cocopilot接口使用GPT-4，支持拼车和独享，支持流式输出】脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,实现通过refresh_token或session_token，自动更新分发pool_token，并接入one-api，支持转发copilot接口，查询PandoraNext余额，提供登录日志，
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 - [yajuhua/podcast2_1](https://github.com/yajuhua/podcast2_1) - 将视频网站转换成播客订阅
 - [Frooodle/Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
