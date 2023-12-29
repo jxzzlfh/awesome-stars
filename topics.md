@@ -2028,7 +2028,7 @@
 - [Bistutu/GoMusic](https://github.com/Bistutu/GoMusic) - 迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 在 Github Profile 上显示你在网易云音乐上的听歌记录
-- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【现支持转发copilot接口使用GPT-4，支持流式输出】脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,实现通过refresh_token或session_token，自动更新分发pool_token，并接入one-api，支持转发copilot接口，查询PandoraNext余额，且方便实现接口调用PandoraNext的API并支持
+- [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【现支持转发copilot官方和cocopilot接口使用GPT-4，支持拼车和独享，支持流式输出】脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,实现通过refresh_token或session_token，自动更新分发pool_token，并接入one-api，支持转发copilot接口，查询PandoraNext余额，提供登录日志，
 - [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) - 
 - [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。
 - [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合
