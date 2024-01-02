@@ -136,7 +136,7 @@
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [xksoft/OcrHelper](https://github.com/xksoft/OcrHelper) - 桌面图像实时转文字工具
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-- [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
+- [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [TransposonY/GestureSign](https://github.com/TransposonY/GestureSign) - A gesture recognition software for Windows tablet
