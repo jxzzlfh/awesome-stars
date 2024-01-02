@@ -185,6 +185,7 @@
 
 ## ai 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -511,6 +512,7 @@
 
 ## chatgpt 
 
+- [DoingDog/chatgpt-proxy-cloudflare-worker](https://github.com/DoingDog/chatgpt-proxy-cloudflare-worker) - Cloudflare Worker 反向代理 ChatGPT API，支持流式输出，支持联网搜索功能，支持设置访问密码
 - [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增Vision识图】免费的基于ChatGPT API的安卓端语音助手，可通过音量键唤起并进行语音交流，支持联网、Vision拍照识图、连续对话、提问模板、3.5/4.0接口、Markdown渲染等功能
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability.  || 🇨🇳 一个更好的 IP 工具箱。可以查看IP、IP 信息（代理前后）、
 - [lxfater/Awesome-GPTs](https://github.com/lxfater/Awesome-GPTs) - 1000+ GPTs and 10 categories. 80+ Leaked Prompt，Awesome，chatgpt，Ai，prompt
@@ -680,6 +682,7 @@
 
 ## chatgpt-api 
 
+- [DoingDog/chatgpt-proxy-cloudflare-worker](https://github.com/DoingDog/chatgpt-proxy-cloudflare-worker) - Cloudflare Worker 反向代理 ChatGPT API，支持流式输出，支持联网搜索功能，支持设置访问密码
 - [TouShang6015/Hugai-chatgpt](https://github.com/TouShang6015/Hugai-chatgpt) - HugAi是由Springboot Vue2 elementUI集成openAi SDK开发的一套智能AI知识库，支持ChatGpt对话3.5、4.0模型，以及主流AI绘图Midjourney、Stable Diffusion，完全开源搭建属于自己的AI聊天室
 - [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
 - [heimeropen/chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - A golang service for chatgpt application
@@ -1006,6 +1009,7 @@
 
 ## electron 
 
+- [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a screenshot, screen recording, audio recording, and video recording software based on Electron
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -1118,7 +1122,7 @@
 
 ## flutter 
 
-- [nexptr/omnigram](https://github.com/nexptr/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting the use of the Bark TTS model and other AI chat technologies for en
+- [nexptr/omnigram](https://github.com/nexptr/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading exper
 - [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 - [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - server status & toolbox app using Flutter
@@ -1299,6 +1303,7 @@
 
 ## hacktoberfest 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -1988,6 +1993,7 @@
 
 ## others 
 
+- [FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 - [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) - 有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
 - [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
@@ -2041,7 +2047,7 @@
 - [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
 - [xhofe/imgbed](https://github.com/xhofe/imgbed) - 📒多接口/自定义接口的文件/图片上传
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React)
-- [yajuhua/podcast2_1](https://github.com/yajuhua/podcast2_1) - 将视频网站转换成播客订阅
+- [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅
 - [qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/
 - [liuzhao1225/YouDub](https://github.com/liuzhao1225/YouDub) - YouDub是一个开源工具，旨在自动化地将优质的YouTube视频进行翻译和配音，以便将其搬运到中文互联网上。该工具使用了AI语音识别技术将音频转换为文本，然后通过大语言模型将文本翻译成中文，最后通过AI声音克隆技术将中文转换为音频。这样，我们就可以创建出具有原始YouTuber音色的中文配音视频。
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
@@ -2239,7 +2245,7 @@
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [chenweiphd/LargeLanguageModel-and-GPT-4-ResourceMap](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-ResourceMap) - 
 - [garyvalue/chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总55个Chatgpt商业版及提供更多的变现方式,商业源码程序,账号API渠道,支付收款渠道,服务器渠道,课程配套服务,CHATGPT知识星球,开发定制外包
-- [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - 支持 trzsz 的 ssh 客户端，支持搜索和选择服务器进行批量登录，支持记住密码。   An ssh client that supports trzsz, supports searching and selecting servers for batch login.
+- [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an alternative to openssh client, supports trzsz (trz / tsz), batch login, remember password, etc.
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [yindaheng98/RSSBot](https://github.com/yindaheng98/RSSBot) - RSSBot 是一个能帮你订阅 RSSHub 的 Telegram Bot
@@ -2776,6 +2782,7 @@
 
 ## python 
 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
@@ -2895,6 +2902,8 @@
 
 ## react 
 
+- [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a screenshot, screen recording, audio recording, and video recording software based on Electron
 - [nini22P/omp](https://github.com/nini22P/omp) - OMP - OneDrive Media Player on the web / 网页端 OneDrive 媒体播放器
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -2961,6 +2970,7 @@
 
 ## redux 
 
+- [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 
 ## rest-api 
@@ -3233,6 +3243,7 @@
 
 ## typescript 
 
+- [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a screenshot, screen recording, audio recording, and video recording software based on Electron
 - [nini22P/omp](https://github.com/nini22P/omp) - OMP - OneDrive Media Player on the web / 网页端 OneDrive 媒体播放器
