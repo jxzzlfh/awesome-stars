@@ -439,6 +439,7 @@
 
 ## Java 
 
+- [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg.
 - [TouShang6015/Hugai-chatgpt](https://github.com/TouShang6015/Hugai-chatgpt) - HugAi是由Springboot Vue2 elementUI集成openAi SDK开发的一套智能AI知识库，支持ChatGpt对话3.5、4.0模型，以及主流AI绘图Midjourney、Stable Diffusion，完全开源搭建属于自己的AI聊天室
 - [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增Vision识图】免费的基于ChatGPT API的安卓端语音助手，可通过音量键唤起并进行语音交流，支持联网、Vision拍照识图、连续对话、提问模板、3.5/4.0接口、Markdown渲染等功能
 - [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【现支持转发copilot官方和cocopilot接口使用GPT-4，支持拼车和独享，支持流式输出】脚本一键部署和更新pandoraNext和tokensTool双服务，实现openai账号密码直连web,实现通过refresh_token或session_token，自动更新分发pool_token，并接入one-api，支持转发copilot接口，查询PandoraNext余额，提供登录日志，
@@ -501,7 +502,7 @@
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [LGiki/cosmos-enhanced](https://github.com/LGiki/cosmos-enhanced) - 🪐 一个增强小宇宙播客网页端使用体验的浏览器插件
 - [wmz1024/WRSS-OJS](https://github.com/wmz1024/WRSS-OJS) - WRSS - MD风格的RSS订阅器
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. 👉 Deskt
 - [lencx/Noi](https://github.com/lencx/Noi) - 🦄 AI + Tools + Plugins + Community
 - [maqi1520/mdx-editor](https://github.com/maqi1520/mdx-editor) - ⛷ A versatile WeChat typesetting editor，also a cross-platform Markdown note-taking software ⛷ 微信排版编辑器，也是一款跨平台 Markdown 笔记软件
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability.  || 🇨🇳 一个更好的 IP 工具箱。可以查看IP、IP 信息（代理前后）、
@@ -1411,6 +1412,7 @@
 
 ## TypeScript 
 
+- [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权音乐平台）. 支持 windows / macos / linux / web
 - [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
