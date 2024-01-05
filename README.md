@@ -1057,6 +1057,7 @@
 
 ## Python 
 
+- [smallnew666/edge-tts](https://github.com/smallnew666/edge-tts) - 微软文字转语音工具，edge-tts UI版本，增加了停顿功能
 - [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式
 - [DoooReyn/WxReader](https://github.com/DoooReyn/WxReader) - 基于PySide6的微信读书自动阅读器
 - [DoiiarX/NLCISBNPlugin](https://github.com/DoiiarX/NLCISBNPlugin) - 基于中国国家图书馆ISBN检索的calibre的source/metadata插件
