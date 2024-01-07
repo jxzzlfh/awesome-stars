@@ -276,7 +276,7 @@
 
 ## Go 
 
-- [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model. 将Github Copilot请求转换为ChatGPT请求，免费使用GPT-4模型
+- [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model.
 - [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，不限制文件大小和格式。
 - [jwma/jump-jump](https://github.com/jwma/jump-jump) - 开箱即用，Golang 开发的一个功能完善的短链接系统。URL shortener service developed with golang.
 - [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
