@@ -394,7 +394,7 @@
 ## HTML 
 
 - [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
-- [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具
+- [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，自动下载微信公众号的实时更新文章、历史文章的爬虫，支持图片、评论下载
 - [x-dr/tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
 - [AirboZH/halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy) - 一个Halo生态，简约且功能丰富的技术博客主题。A minimal, responsive and feature-rich Halo theme for technical writing.
 - [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
@@ -793,7 +793,7 @@
 
 ## Objective-C 
 
-- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，腾讯，百度，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translatin
+- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and transla
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 
 ## Others 
