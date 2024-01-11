@@ -526,7 +526,7 @@
 - [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Mu
 - [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持GeminiPro Vision / Cloudflare Workers AI / ChatGPT的融合Web平台
-- [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert Github Copilot to ChatGPT, free to use the GPT-4 model
+- [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert Github Copilot to ChatGPT
 - [yangjian102621/chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
 - [DoingDog/chatgpt-proxy-cloudflare-worker](https://github.com/DoingDog/chatgpt-proxy-cloudflare-worker) - Cloudflare Worker 反向代理 ChatGPT API，支持流式输出，支持联网搜索功能，支持设置访问密码
 - [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network conn
@@ -2429,7 +2429,7 @@
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [CloudExplorer-Dev/CloudExplorer-Lite](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) - 开源的轻量级云管平台
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-- [DustinWin/clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版
+- [DustinWin/clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、sing-box 内核、Clash dashboard 面板和 AdGuardHome 最新版
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ClarenceDan/openai-billing](https://github.com/ClarenceDan/openai-billing) - This project provides a quick and easy way to check OpenAI API Key balances, supports multiple key checks, and includes a tutorial for setting up a Cloudflare reverse proxy.这个项目提供了一个快速简便的方式来查询 OpenAI 
 - [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
@@ -2661,7 +2661,7 @@
 - [Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) - 收集整理 GitHub 上高质量、有趣的开源项目。
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
-- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
+- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Automatically update domain name resolution to public IP (Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, Na
 - [WuSuoV/QRcode](https://github.com/WuSuoV/QRcode) - 自建生成二维码接口
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
