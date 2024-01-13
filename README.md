@@ -586,6 +586,7 @@
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [hunmer/mVideoPlayer](https://github.com/hunmer/mVideoPlayer) - 
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
+- [banned-historical-archives/banned-historical-archives.github.io](https://github.com/banned-historical-archives/banned-historical-archives.github.io) - 和谐历史档案馆
 - [codeskyblue/gohttpserver](https://github.com/codeskyblue/gohttpserver) - The best HTTP Static File Server, write with golang+vue
 - [kylelin1998/See-Think-Say-Web](https://github.com/kylelin1998/See-Think-Say-Web) - 
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
@@ -1570,7 +1571,6 @@
 - [ConnectAI-E/AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
 - [AprilNEA/ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - One-stop system for shared use of AI within teams and organizationswith | 在团队和组织内共享使用人工智能的一站式系统
-- [banned-historical-archives/banned-historical-archives.github.io](https://github.com/banned-historical-archives/banned-historical-archives.github.io) - 和谐历史档案馆
 - [okisdev/ChatChat](https://github.com/okisdev/ChatChat) - Chat Chat, unlock your next level AI conversation experience. Deploy your own AI Interface, all AI in one place.
 - [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere) - 💬 New-Bing-Anywhere extension's source
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
