@@ -811,7 +811,7 @@
 - [98zi/litiaotiao_package_backup](https://github.com/98zi/litiaotiao_package_backup) - 李跳跳APK包备份
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [codeartx/flash-switcher](https://github.com/codeartx/flash-switcher) - 极速、高效、智能的标签预览和切换
-- [Meroser/IPTV](https://github.com/Meroser/IPTV) - 湖南电信、移动、联通组播源，IPv6源，完善的台标，几近完美的EPG节目预告[强迫症福音]
+- [Meroser/IPTV](https://github.com/Meroser/IPTV) - 湖南电信、移动、联通组播源，IPv6源[全网可用]，完善的台标，几近完美的EPG节目预告[强迫症福音]
 - [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
 - [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) - LXGW WenKai for Screen Reading.
 - [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version 
