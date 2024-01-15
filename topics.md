@@ -2056,6 +2056,7 @@
 
 ## others 
 
+- [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-use, ready-to-go translation tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译工具
 - [drunkdream/weread-exporter](https://github.com/drunkdream/weread-exporter) - 将微信读书中的书籍导出成epub、pdf、mobi等格式
 - [vveg26/singboxbat](https://github.com/vveg26/singboxbat) - 自用
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 安卓电视直播软件，内置直播源
