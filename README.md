@@ -115,6 +115,7 @@
 
 ## C# # 
 
+- [OrgEleCho/CurvaLauncher](https://github.com/OrgEleCho/CurvaLauncher) - Simple desktop launcher
 - [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-use, ready-to-go translation tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译工具
 - [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪切板同步方案 / Cross-Platform Cipboard Syncing Solution
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
@@ -372,7 +373,7 @@
 - [jarvanstack/markpic](https://github.com/jarvanstack/markpic) - 一键下载 markdown 中图片, 并通过 picgo 上传图片到图床并替换链接
 - [mtlynch/picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
-- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [go-sonic/sonic](https://github.com/go-sonic/sonic) - Sonic is a blogging platform developed by Go. Simple and powerful
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
@@ -807,6 +808,7 @@
 
 ## Others 
 
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.3） 、TikTok（V32.8.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [bleedline/Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and 
 - [gaboolic/vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
 - [98zi/litiaotiao_package_backup](https://github.com/98zi/litiaotiao_package_backup) - 李跳跳APK包备份
@@ -1402,7 +1404,7 @@
 - [oooldking/script](https://github.com/oooldking/script) - Some Linux scripts
 - [BlueSkyXN/SKY-BOX](https://github.com/BlueSkyXN/SKY-BOX) - BlueSkyXN  综合工具箱 Linux Supported ONLY
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hy2、sing-box 八合一一键脚本
-- [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - RM
+- [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box in shell
 - [yeahwu/check](https://github.com/yeahwu/check) - Streaming Media Unlock Test
 - [easychen/openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速开发一个OpenAI/GPT应用：国内开发者笔记
 - [missuo/OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
