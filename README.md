@@ -317,7 +317,7 @@
 - [ncarlier/feedpushr](https://github.com/ncarlier/feedpushr) - A simple feed aggregator daemon with sugar on top.
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [Gigaxel/codesnap.sh](https://github.com/Gigaxel/codesnap.sh) - Share code snippets without leaving your terminal
-- [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an alternative to openssh client, supports trzsz (trz / tsz), batch login, remember password, etc.
+- [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an alternative to ssh client, offers additional useful features, such as login prompt, trzsz ( trz / tsz ), batch login, remember password, zmodem ( rz / sz ), etc.
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 - [getzep/zep](https://github.com/getzep/zep) - Zep: Fast, scalable building blocks for production LLM apps
 - [soulteary/sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
@@ -510,6 +510,7 @@
 
 ## JavaScript 
 
+- [mefengl/wereadhelper](https://github.com/mefengl/wereadhelper) - 读书人用的脚本
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [xxxily/h5player](https://github.com/xxxily/h5player) - 视频增强脚本，支持所有H5视频网站，例如：B站、抖音、腾讯视频、优酷、爱奇艺、西瓜视频、油管（YouTube）、微博视频、知乎视频、搜狐视频、网易公开课、百度网盘、阿里云盘、ted、instagram、twitter等。全程快捷键控制，支持：倍速播放/加速播放、视频画面截图、画中画、网页全屏、调节亮度、饱和度、对比度、自定义配置功能增强等功能，为你提供愉悦的在线视频播放体验。还有视频广告快进、在线
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -1715,7 +1716,7 @@
 
 ## Vue 
 
-- [besscroft/kamera](https://github.com/besscroft/kamera) - 一款专供摄影佬使用的记录网站，瀑布流展示图片，预览图片及 EXIF 信息，支持常见的图片格式。 可读取 EXIF 信息并上传、管理维护图片数据，首页精品照片展示，子页分类展示等功能。 图片存储兼容 S3 API、AList API、支持 CDN 配置。同时适配了 PC 和移动端的样式与交互。 基于 Nuxt 3 开发，支持 Docker 一键部署，无需单独后端。更多功能还在开发中~ 今天又是想当二
+- [besscroft/kamera](https://github.com/besscroft/kamera) - 一款专供摄影佬使用的记录网站，瀑布流展示图片，预览图片及 EXIF 信息，支持常见的图片格式。 可读取 EXIF 信息并上传、管理维护图片数据，首页精品照片展示，子页分类展示等功能。 图片存储兼容 S3 API、AList API、支持 CDN 配置。同时适配了 PC 和移动端的样式与交互。 基于 Nuxt 3 开发，支持 Docker 一键部署，无需单独后端。今天又是想当二次元摄影高手的一天呢！
 - [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - chatgpt web, midjourney, gpts,tts, whisper 一套ui全搞定
 - [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持GeminiPro Vision / Cloudflare Workers AI / ChatGPT的融合Web平台
 - [fre123-com/fre123-info-flow](https://github.com/fre123-com/fre123-info-flow) - FRE123 信息流项目，包含：全网热榜、技术热榜、技术文章、技术周刊等
