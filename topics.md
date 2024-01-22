@@ -2084,6 +2084,11 @@
 
 ## others 
 
+- [lmm214/memobbs](https://github.com/lmm214/memobbs) - 一个纯 HTML、JS、CSS 造的静态页面，实现个人 Memos 前端登录发布、编辑等管理功能，集成广场模式、随机模式。当然，也支持嵌入到自己的博客中。
+- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
+- [magicdawn/bilibili-app-recommend](https://github.com/magicdawn/bilibili-app-recommend) - [UserScript] 为 B 站首页添加像 App 一样的推荐
+- [xiaopanglian/icefox](https://github.com/xiaopanglian/icefox) - Typecho博客系统 微信朋友圈主题 icefox
+- [bingsanyu/feishu_minutes](https://github.com/bingsanyu/feishu_minutes) - 多线程上传/下载飞书妙记视频&SRT字幕 语音转文字 飞书爬虫
 - [mefengl/wereadhelper](https://github.com/mefengl/wereadhelper) - 读书人用的脚本
 - [besscroft/kamera](https://github.com/besscroft/kamera) - 一款专供摄影佬使用的记录网站，瀑布流展示图片，预览图片及 EXIF 信息，支持常见的图片格式。 可读取 EXIF 信息并上传、管理维护图片数据，首页精品照片展示，子页分类展示等功能。 图片存储兼容 S3 API、AList API、支持 CDN 配置。同时适配了 PC 和移动端的样式与交互。 基于 Nuxt 3 开发，支持 Docker 一键部署，无需单独后端。今天又是想当二次元摄影高手的一天呢！
 - [ihmily/image-matting](https://github.com/ihmily/image-matting) - a simple online image matting web based on cv_unet_image-matting and cv_unet_universal-matting model
@@ -2121,7 +2126,7 @@
 - [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) - 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。
 - [DoiiarX/NLCISBNPlugin](https://github.com/DoiiarX/NLCISBNPlugin) - 基于中国国家图书馆ISBN检索的calibre的source/metadata插件
 - [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，自动下载微信公众号的实时更新文章、历史文章的爬虫，支持图片、评论下载
-- [FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
+- [LlamaFamily/Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 - [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) - 有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
 - [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
@@ -2534,7 +2539,7 @@
 - [mzfr/yarr](https://github.com/mzfr/yarr) - Modified version of the original yarr(yet another RSS reader)
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
-- [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box in shell
+- [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [jonathontoon/manifest](https://github.com/jonathontoon/manifest) - An instant grid-based pinboard for note taking in your browser.
 - [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
@@ -2988,6 +2993,7 @@
 
 ## pytorch 
 
+- [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 - [alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
