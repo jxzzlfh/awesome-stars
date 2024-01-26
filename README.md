@@ -282,6 +282,7 @@
 
 ## Go 
 
+- [engigu/Message-Push-Nest](https://github.com/engigu/Message-Push-Nest) - 🕊️ Message Nest - 打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义webhook等多种通知方式。定制你的消息，让通知方式更灵活多样。 🕊️ Message Nest - Craft your personalized message push hub, seamlessly integrating notifications from emails dtalk and s
 - [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 基于上下文语境的人工智能翻译引擎，为部分网站提供精准翻译，让所有人都能够拥有基于母语般的阅读体验。
@@ -523,7 +524,6 @@
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
 - [Jiaocz/Personal-page](https://github.com/Jiaocz/Personal-page) - 🍊个人简介页面模板，女生自用99新（划掉），带二维码、打赏页、收款页。个人简介、个人介绍网页.
 - [DoingDog/chatgpt-proxy-cloudflare-worker](https://github.com/DoingDog/chatgpt-proxy-cloudflare-worker) - Cloudflare Worker 反向代理 ChatGPT API，支持流式输出，支持联网搜索功能，支持设置访问密码
-- [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 - [kska32/ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
 - [foru17/front-end-collect](https://github.com/foru17/front-end-collect) - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus an
@@ -756,7 +756,7 @@
 - [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) - 有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
-- [hefengbao/jingmo](https://github.com/hefengbao/jingmo) - 『京墨』开源免费的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读APP
+- [hefengbao/jingmo](https://github.com/hefengbao/jingmo) - 『京墨』开源的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读APP
 - [wangchenyan/ponymusic](https://github.com/wangchenyan/ponymusic) - An Android online music player like NetEase Cloud Music
 - [jing332/AlistAndroid](https://github.com/jing332/AlistAndroid) - AList 安卓版本，APK安装即用，无需Root或Termux。
 - [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
@@ -1086,6 +1086,7 @@
 
 ## Python 
 
+- [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [bingsanyu/feishu_minutes](https://github.com/bingsanyu/feishu_minutes) - 多线程上传/下载飞书妙记视频&SRT字幕 语音转文字 飞书爬虫
 - [ihmily/image-matting](https://github.com/ihmily/image-matting) - a simple online image matting web based on cv_unet_image-matting and cv_unet_universal-matting model
@@ -1351,7 +1352,7 @@
 - [parksb/collie](https://github.com/parksb/collie) - A minimal feed reader just for you
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Enhance your app with seamless collaboration and effortless time-travel features
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
 - [kihlh/WxDatViewerAutoExportRust](https://github.com/kihlh/WxDatViewerAutoExportRust) - (WxAutoExIm) 自动备份wx聊天图片到指定位置
 - [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -1474,6 +1475,8 @@
 
 ## TypeScript 
 
+- [lchh5/GeminiPro-Next-Web](https://github.com/lchh5/GeminiPro-Next-Web) - Google Gemini Pro UI (Base on ChatGPT-Next-Web). 一键拥有你自己的跨平台 Gemini 应用。
+- [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting & image-upscaling tool powered by webgpu and wasm on the browser。|   基于 Webgpu 技术和 wasm 技术的免费开源 inpainting & image-upscaling 工具, 纯浏览器端实现。
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [hzeyuan/OpenGPTS](https://github.com/hzeyuan/OpenGPTS) - OpenGPTs- Powerful GPTs Colipot | 强大的gpts管理器
 - [magicdawn/bilibili-app-recommend](https://github.com/magicdawn/bilibili-app-recommend) - [UserScript] 为 B 站首页添加像 App 一样的推荐
@@ -1743,6 +1746,7 @@
 - [Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin) - 纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。
 - [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.
 - [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) - JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
+- [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 - [plantree/ocr-pwa](https://github.com/plantree/ocr-pwa) - A simple PWA for OCR, based on Tesseract.
 - [rotick/searchemoji](https://github.com/rotick/searchemoji) - 🔍Search for Emoji, 🖱️Click to Copy - Emoji Search Engine Supporting 30 Languages
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
