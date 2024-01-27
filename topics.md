@@ -2096,9 +2096,10 @@
 
 ## others 
 
+- [Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord) - 一款体现文字美感的极简主题
 - [Risingrode/OpenaiProxy](https://github.com/Risingrode/OpenaiProxy) - 
 - [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
-- [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - 
+- [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 - [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎，来体验找寻资源的快乐吧~
 - [lchh5/GeminiPro-Next-Web](https://github.com/lchh5/GeminiPro-Next-Web) - Google Gemini Pro UI (Base on ChatGPT-Next-Web). 一键拥有你自己的跨平台 Gemini 应用。
 - [engigu/Message-Push-Nest](https://github.com/engigu/Message-Push-Nest) - 🕊️ Message Nest - 打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义webhook等多种通知方式。定制你的消息，让通知方式更灵活多样。 🕊️ Message Nest - Craft your personalized message push hub, seamlessly integrating notifications from emails dtalk and s
@@ -2228,7 +2229,7 @@
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
 - [metal-young/obsidian-to-flomo](https://github.com/metal-young/obsidian-to-flomo) - Quickly share content to Flomo.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
-- [seagullz4/hysteria2](https://github.com/seagullz4/hysteria2) - hysteria2一键安装—精简版/hysteria2-install/hysteria 2のインストール/🙃🙃🙃🙃🙃🙃.新年快乐
+- [seagullz4/hysteria2](https://github.com/seagullz4/hysteria2) - hysteria2一键安装精简版/hy2一键安装/hysteria2-install/hysteria 2のインストール/祝大家万事如意,心想事成
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 - [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
@@ -2716,7 +2717,7 @@
 - [mohuishou/siyuan-sync-github](https://github.com/mohuishou/siyuan-sync-github) - 思源笔记挂件块，同步 markdown 笔记文件为 到 github，支持迁移笔记到图床
 - [istoreos/istoreos-cloud](https://github.com/istoreos/istoreos-cloud) - Install iStoreOS to a cloud, example aliyun or tencent cloud
 - [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
-- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，段落排版/排除水印，扫描/生成二维码。内置多国语言库。
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [kimliss/IdeaVideoAI](https://github.com/kimliss/IdeaVideoAI) - 一个有想法的视频处理工具，追求 AI 效果
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
