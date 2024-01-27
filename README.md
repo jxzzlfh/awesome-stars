@@ -209,6 +209,7 @@
 
 ## CSS 
 
+- [Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord) - 一款体现文字美感的极简主题
 - [subframe7536/obsidian-theme-maple](https://github.com/subframe7536/obsidian-theme-maple) - [Refactoring] An obsidian theme for desktop with graceful animation and awesome components
 - [MeiK2333/github-style](https://github.com/MeiK2333/github-style) - 
 - [hefengbao/one](https://github.com/hefengbao/one) - 一个简洁的博客、微博客。
@@ -1086,7 +1087,7 @@
 
 ## Python 
 
-- [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - 
+- [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 - [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [bingsanyu/feishu_minutes](https://github.com/bingsanyu/feishu_minutes) - 多线程上传/下载飞书妙记视频&SRT字幕 语音转文字 飞书爬虫
@@ -1327,7 +1328,7 @@
 
 - [hiroi-sora/Umi-OCR_v2](https://github.com/hiroi-sora/Umi-OCR_v2) - 结束和新的开始
 - [Cuperino/QPrompt-Teleprompter](https://github.com/Cuperino/QPrompt-Teleprompter) - Teleprompter software for all video creators. Built with ease of use, productivity, control accuracy, and smooth performance in mind.
-- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，段落排版/排除水印，扫描/生成二维码。内置多国语言库。
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 
 ## Rich Text Format 
 
@@ -1399,7 +1400,7 @@
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
 - [ellermister/mtproxy](https://github.com/ellermister/mtproxy) - MTProxyTLS一键安装绿色脚本
 - [sunpma/mtp](https://github.com/sunpma/mtp) - MTProxy TLS 绿色版一键安装脚本
-- [seagullz4/hysteria2](https://github.com/seagullz4/hysteria2) - hysteria2一键安装—精简版/hysteria2-install/hysteria 2のインストール/🙃🙃🙃🙃🙃🙃.新年快乐
+- [seagullz4/hysteria2](https://github.com/seagullz4/hysteria2) - hysteria2一键安装精简版/hy2一键安装/hysteria2-install/hysteria 2のインストール/祝大家万事如意,心想事成
 - [apernet/tcp-brutal](https://github.com/apernet/tcp-brutal) - 
 - [hrostami/aio-proxy](https://github.com/hrostami/aio-proxy) - This script automates setting up proxy related tools in Linux.
 - [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
