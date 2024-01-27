@@ -513,6 +513,7 @@
 
 ## JavaScript 
 
+- [Risingrode/OpenaiProxy](https://github.com/Risingrode/OpenaiProxy) - 
 - [CattleZoe/Gemini-proxy](https://github.com/CattleZoe/Gemini-proxy) - gemini-proxy-cloudflare
 - [lmm214/memobbs](https://github.com/lmm214/memobbs) - 一个纯 HTML、JS、CSS 造的静态页面，实现个人 Memos 前端登录发布、编辑等管理功能，集成广场模式、随机模式。当然，也支持嵌入到自己的博客中。
 - [xiaopanglian/icefox](https://github.com/xiaopanglian/icefox) - Typecho博客系统 微信朋友圈主题 icefox
@@ -534,7 +535,6 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source multi-user ChatGPT for all LLMs, embedders, and vector databases. Unlimited documents, messages, and users in one privacy-focused app.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🦄 AI + Tools + Plugins + Community
 - [maqi1520/mdx-editor](https://github.com/maqi1520/mdx-editor) - ⛷ A versatile WeChat typesetting editor，also a cross-platform Markdown note-taking software ⛷ 微信排版编辑器，也是一款跨平台 Markdown 笔记软件
-- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability.  || 🇨🇳 一个更好的 IP 工具箱。可以查看IP、IP 信息（代理前后）、
 - [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools) - 一个轻量的工具集合
 - [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
@@ -1086,6 +1086,7 @@
 
 ## Python 
 
+- [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion) - 
 - [InstantID/InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [bingsanyu/feishu_minutes](https://github.com/bingsanyu/feishu_minutes) - 多线程上传/下载飞书妙记视频&SRT字幕 语音转文字 飞书爬虫
@@ -1475,6 +1476,8 @@
 
 ## TypeScript 
 
+- [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [lchh5/GeminiPro-Next-Web](https://github.com/lchh5/GeminiPro-Next-Web) - Google Gemini Pro UI (Base on ChatGPT-Next-Web). 一键拥有你自己的跨平台 Gemini 应用。
 - [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting & image-upscaling tool powered by webgpu and wasm on the browser。|   基于 Webgpu 技术和 wasm 技术的免费开源 inpainting & image-upscaling 工具, 纯浏览器端实现。
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -1750,6 +1753,7 @@
 - [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图。A relatively powerful web mind map.
 - [plantree/ocr-pwa](https://github.com/plantree/ocr-pwa) - A simple PWA for OCR, based on Tesseract.
 - [rotick/searchemoji](https://github.com/rotick/searchemoji) - 🔍Search for Emoji, 🖱️Click to Copy - Emoji Search Engine Supporting 30 Languages
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability.  || 🇨🇳 一个更好的 IP 工具箱。可以查看IP、IP 信息（代理前后）、
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
 - [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
