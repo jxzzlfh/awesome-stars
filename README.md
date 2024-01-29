@@ -516,6 +516,7 @@
 
 ## JavaScript 
 
+- [0xdevalias/chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - Analyzing the evolution of ChatGPT's codebase through time with curated archives and scripts
 - [Risingrode/OpenaiProxy](https://github.com/Risingrode/OpenaiProxy) - 
 - [CattleZoe/Gemini-proxy](https://github.com/CattleZoe/Gemini-proxy) - gemini-proxy-cloudflare
 - [lmm214/memobbs](https://github.com/lmm214/memobbs) - 一个纯 HTML、JS、CSS 造的静态页面，实现个人 Memos 前端登录发布、编辑等管理功能，集成广场模式、随机模式。当然，也支持嵌入到自己的博客中。
