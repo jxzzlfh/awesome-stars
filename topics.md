@@ -2106,9 +2106,9 @@
 ## others 
 
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - PC 微信助手
-- [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，使用逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，自动调用 Gemini-Pro-Vision 模型进行识图。
+- [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) - 自动解锁并更改哔哩哔哩视频的画质和音质，实现自动选择最高画质及无损音频 / Automatically unlock and select highest quality and lossless audio for Bilibili videos.
-- [AINativeLab/gptstore-data-backup](https://github.com/AINativeLab/gptstore-data-backup) - The daily archive of GPT Store's data
+- [AINativeLab/gptstore-data-backup](https://github.com/AINativeLab/gptstore-data-backup) - The daily archive of GPT Store's trending data
 - [opengpts/gpts-trending](https://github.com/opengpts/gpts-trending) - Record everyday Top GPTs in ChatGPT GPTs Store
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
