@@ -833,7 +833,7 @@
 - [bleedline/Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and 
 - [gaboolic/vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
 - [98zi/litiaotiao_package_backup](https://github.com/98zi/litiaotiao_package_backup) - 李跳跳APK包备份
-- [radishes-music/radishes](https://github.com/radishes-music/radishes) - 
+- [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [codeartx/flash-switcher](https://github.com/codeartx/flash-switcher) - 极速、高效、智能的标签预览和切换
 - [Meroser/IPTV](https://github.com/Meroser/IPTV) - 📺IPTV电视直播，IPv6源[全网可用]，完善的台标，几近完美的EPG节目预告🎈[强迫症福音]
@@ -1748,7 +1748,7 @@
 
 ## Vue 
 
-- [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - PC 微信助手
+- [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - PC 微信助手，支持联系人管理、群发消息、定时任务、图片识别等功能
 - [charlestang/HexoPress](https://github.com/charlestang/HexoPress) - Hexo blog client.
 - [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎，来体验找寻资源的快乐吧~
 - [hakadao/BewlyBewly](https://github.com/hakadao/BewlyBewly) - Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)
