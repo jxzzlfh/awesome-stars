@@ -190,6 +190,7 @@
 
 ## ai 
 
+- [EdenwareApps/Vimer](https://github.com/EdenwareApps/Vimer) - Vimer is an AI powered app with a hassle-free interface for adjusting audio and video.
 - [loo-y/GeminiChatUp](https://github.com/loo-y/GeminiChatUp) - 
 - [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - Convert OpenAI protocol to Google Gemini Pro protocol https://gemini-openai-proxy.zuisong.workers.dev
 - [all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper) - AI Wallpaper Generator
@@ -290,6 +291,7 @@
 
 ## android 
 
+- [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network conn
@@ -896,6 +898,7 @@
 
 ## dart 
 
+- [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - server status & toolbox app using Flutter
 - [Xmarmalade/alisthelper](https://github.com/Xmarmalade/alisthelper) - Alist Helper is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.
 - [adityar224/FlutterMarkdownEditor](https://github.com/adityar224/FlutterMarkdownEditor) - Markdown Editor app allows easy markdown file creation and editing. It opens ".md" files directly from explorer, provides text styling options, effortless link addition, Light and Dark Theme Modes, Mu
@@ -1059,6 +1062,7 @@
 
 ## electron 
 
+- [ttqftech/FFBox](https://github.com/ttqftech/FFBox) - 一个多媒体转码百宝箱 / 一个 FFmpeg 的套壳
 - [charlestang/HexoPress](https://github.com/charlestang/HexoPress) - Hexo blog client.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web
@@ -1175,6 +1179,8 @@
 
 ## flutter 
 
+- [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+- [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [lxpio/omnigram](https://github.com/lxpio/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading exper
 - [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 - [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
@@ -1193,6 +1199,7 @@
 
 ## flutter-apps 
 
+- [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [adityar224/FlutterMarkdownEditor](https://github.com/adityar224/FlutterMarkdownEditor) - Markdown Editor app allows easy markdown file creation and editing. It opens ".md" files directly from explorer, provides text styling options, effortless link addition, Light and Dark Theme Modes, Mu
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -1927,6 +1934,8 @@
 
 ## music 
 
+- [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
+- [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱/红米音箱播放音乐，音乐使用 yt-dlp 下载。
 - [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web
 - [guanguans/music-dl](https://github.com/guanguans/music-dl) - Music Searcher and Downloader. - 音乐搜索下载器。
 - [ZYKsslm/BlackStone_Music_GUI](https://github.com/ZYKsslm/BlackStone_Music_GUI) - 一个简约的音乐下载工具
@@ -2106,6 +2115,10 @@
 
 ## others 
 
+- [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款基于tv.cctv.com和央视频的简易电视直播收看软件，用于方便的在机顶盒上收看电视节目
+- [liujuntao123/chines-history-video](https://github.com/liujuntao123/chines-history-video) - 中国历朝代历史视频讲解
+- [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
+- [qwinff/qwinff](https://github.com/qwinff/qwinff) - A Qt4/5 GUI Frontend for FFmpeg
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持联系人管理、群发消息、定时任务、图片识别等功能
 - [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) - 自动解锁并更改哔哩哔哩视频的画质和音质，实现自动选择最高画质、无损音频及杜比全景声 / Automatically unlock and select highest quality,lossless audio,and Dolby Atmos for Bilibili videos.
 - [AINativeLab/gptstore-data-backup](https://github.com/AINativeLab/gptstore-data-backup) - The daily archive of GPT Store's trending data
@@ -2952,6 +2965,7 @@
 
 ## python 
 
+- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
@@ -3057,6 +3071,7 @@
 
 ## qt 
 
+- [Thurinum/simple-media-encoder](https://github.com/Thurinum/simple-media-encoder) - Compress your media files quickly and efficiently with this convenient tool. Uses FFMPEG and the Qt toolkit.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [DoooReyn/WxReader](https://github.com/DoooReyn/WxReader) - 基于PySide6的微信读书自动阅读器
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
