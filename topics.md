@@ -483,7 +483,7 @@
 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, 
 - [yangjian102621/chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
-- [Wannabeasmartguy/GPT-Gradio-Agent](https://github.com/Wannabeasmartguy/GPT-Gradio-Agent) - Build your own GPT Agent,get web resources and manage your local knowledge base with  Azure OpenAI API (or OpenAI).  使用 Azure OpenAI（兼容OpenAI）创建自己的 GPT 智能助手，获取网页资源，并构建和管理本地知识库。
+- [Wannabeasmartguy/GPT-Gradio-Agent](https://github.com/Wannabeasmartguy/GPT-Gradio-Agent) - Build your own GPT Agent, build your conversation-based search and manage your local knowledge base with  Azure OpenAI API (or OpenAI).  使用 Azure OpenAI（兼容OpenAI）创建自己的 GPT 智能助手，构建 AI 搜索引擎，并实现本地知识库搭建和管
 - [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
 - [okisdev/ChatChat](https://github.com/okisdev/ChatChat) - Chat Chat, unlock your next level AI conversation experience. Deploy your own AI Interface, all AI in one place.
 - [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️  Cross-platform AI language practice app （跨平台AI语言练习应用）
@@ -2117,11 +2117,12 @@
 
 ## others 
 
+- [felladrin/MiniSearch](https://github.com/felladrin/MiniSearch) - Minimalist web-searching app with an AI assistant that is always available and runs directly from your browser. Uses Web-LLM, Transformers.js and SearXNG. Demo: https://felladrin-minisearch.hf.space
 - [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款基于tv.cctv.com和央视频的简易电视直播收看软件，用于方便的在机顶盒上收看电视节目
 - [liujuntao123/chines-history-video](https://github.com/liujuntao123/chines-history-video) - 中国历朝代历史视频讲解
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [qwinff/qwinff](https://github.com/qwinff/qwinff) - A Qt4/5 GUI Frontend for FFmpeg
-- [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持联系人管理、群发消息、定时任务、图片识别等功能
+- [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持联系人管理、群发消息、定时任务、消息防撤回等功能
 - [AHCorn/Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) - 自动解锁并更改哔哩哔哩视频的画质和音质，实现自动选择最高画质、无损音频及杜比全景声 / Automatically unlock and select highest quality,lossless audio,and Dolby Atmos for Bilibili videos.
 - [AINativeLab/gptstore-data-backup](https://github.com/AINativeLab/gptstore-data-backup) - The daily archive of GPT Store's trending data
 - [opengpts/gpts-trending](https://github.com/opengpts/gpts-trending) - Record everyday Top GPTs in ChatGPT GPTs Store
@@ -2319,7 +2320,7 @@
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
-- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练MiniCPM、Mixtral-8x7B、Zephyr、Mistral、Aquila2、Baichuan2、CodeLlama、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya、Bloom等大模型
+- [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [BookerLiu/GeekDesk](https://github.com/BookerLiu/GeekDesk) - 🔥小巧、美观的桌面快速启动工具     Small, beautiful desktop quickstart management tool with integrated Everything search
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
