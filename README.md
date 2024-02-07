@@ -290,7 +290,7 @@
 
 - [engigu/Message-Push-Nest](https://github.com/engigu/Message-Push-Nest) - 🕊️ Message Nest - 打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义webhook等多种通知方式。定制你的消息，让通知方式更灵活多样。 🕊️ Message Nest - Craft your personalized message push hub, seamlessly integrating notifications from emails dtalk and s
 - [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
+- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [soulteary/amazing-openai-api](https://github.com/soulteary/amazing-openai-api) - Convert different model APIs into the OpenAI API format out of the box.
 - [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert Github Copilot to ChatGPT
 - [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，不限制文件大小和格式。
@@ -1381,7 +1381,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
