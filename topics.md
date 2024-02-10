@@ -1851,7 +1851,7 @@
 - [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
+- [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [alxnbl/onenote-md-exporter](https://github.com/alxnbl/onenote-md-exporter) - ConsoleApp to export OneNote notebooks to Markdown formats
 - [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
@@ -2130,6 +2130,7 @@
 
 ## others 
 
+- [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting) - 🥊  Free & Unlimited Image Hosting
 - [bravekingzhang/text2video](https://github.com/bravekingzhang/text2video) - 半个神器👉一键文本转视频的工具
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
 - [JimLiu/gpt-api](https://github.com/JimLiu/gpt-api) - 
@@ -3222,7 +3223,7 @@
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu! (∠・ω&lt; )⌒☆​
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
+- [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
