@@ -1505,6 +1505,7 @@
 
 ## TypeScript 
 
+- [putyy/res-downloader](https://github.com/putyy/res-downloader) - 网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
 - [langchain-ai/chat-langchainjs](https://github.com/langchain-ai/chat-langchainjs) - 💬 Chat with the LangChain JS/TS documentation, with sources. 💬
 - [JimLiu/gpt-api](https://github.com/JimLiu/gpt-api) - 
 - [felladrin/MiniSearch](https://github.com/felladrin/MiniSearch) - Minimalist web-searching app with an AI assistant that is always available and runs directly from your browser. Uses Web-LLM, Transformers.js and SearXNG. Demo: https://felladrin-minisearch.hf.space
@@ -1785,7 +1786,7 @@
 - [liujuntao123/chines-history-video](https://github.com/liujuntao123/chines-history-video) - 中国历朝代历史视频讲解
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持联系人管理、群发消息、定时任务、消息防撤回等功能
 - [charlestang/HexoPress](https://github.com/charlestang/HexoPress) - An open-source blogging software that offers a user-friendly article editing interface and content management system for Hexo-based blogs.  为基于 Hexo 的博客，提供友好易用的文章编辑界面和内容管理系统的，开源博客软件。
-- [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎，来体验找寻资源的快乐吧~
+- [Justin3go/SearchSearchGo](https://github.com/Justin3go/SearchSearchGo) - 一款极简体验、优雅、现代化、资源丰富、免费、无需登录的新一代阿里云盘搜索引擎UI(Nuxt3+Vuefity)
 - [hakadao/BewlyBewly](https://github.com/hakadao/BewlyBewly) - Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)
 - [besscroft/kamera](https://github.com/besscroft/kamera) - 一款专供摄影佬使用的记录网站，基于 Nuxt 3 开发，瀑布流展示图片，预览图片及 EXIF 信息，支持常见的图片格式。 可读取 EXIF 信息并上传、管理维护图片数据，首页精品照片展示，子页分类展示等功能。 图片存储兼容 S3 API、AList API、支持 CDN 配置。同时适配了 PC 和移动端的样式与交互。今天又是想当二次元摄影高手的一天呢！
 - [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - chatgpt web, midjourney, gpts,tts, whisper 一套ui全搞定
