@@ -1482,6 +1482,7 @@
 
 ## html5 
 
+- [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
 - [xenocrat/chyrp-lite](https://github.com/xenocrat/chyrp-lite) - An ultra-lightweight blogging engine, written in PHP.
 
@@ -1643,6 +1644,7 @@
 
 ## kotlin 
 
+- [AllenTom/diffusion-client](https://github.com/AllenTom/diffusion-client) - a powerful stable-diffusion-webui client for android
 - [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
@@ -2152,6 +2154,8 @@
 
 ## others 
 
+- [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
@@ -2688,7 +2692,7 @@
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [replicate/scribble-diffusion](https://github.com/replicate/scribble-diffusion) - Turn your rough sketch into a refined image using AI
 - [dundunnp/auto_xuexiqiangguo](https://github.com/dundunnp/auto_xuexiqiangguo) - 学习强国 每日拿满61分！免root 四人赛双人对战秒答 自动化脚本
-- [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of ready-to-run docker-compose for the Shelf App
+- [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of Shelf Cloud ready-to-run docker-compose
 - [leidichen/weekly](https://github.com/leidichen/weekly) - 🪑 冷板凳周刊：分享有意思的生活、知识及其他…
 - [dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly 🦋
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
