@@ -1045,6 +1045,7 @@
 
 ## PHP 
 
+- [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
 - [Lete114/Vercel-Typecho](https://github.com/Lete114/Vercel-Typecho) - Vercel 免费部署 Typecho 博客 | Vercel Free Deploy Typecho Blog
 - [LyLme/lylme_spage](https://github.com/LyLme/lylme_spage) - 六零导航页
 - [osuuu/LightPicture](https://github.com/osuuu/LightPicture) - 企业/团队/个人图片资源管理系统、图床系统
@@ -1144,7 +1145,7 @@
 - [DoooReyn/WxReader](https://github.com/DoooReyn/WxReader) - 基于PySide6的微信读书自动阅读器
 - [DoiiarX/NLCISBNPlugin](https://github.com/DoiiarX/NLCISBNPlugin) - 基于中国国家图书馆ISBN检索的calibre的source/metadata插件
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-- [LlamaFamily/Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
+- [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 
 - [Wannabeasmartguy/GPT-Gradio-Agent](https://github.com/Wannabeasmartguy/GPT-Gradio-Agent) - Build your own GPT Agent, build your conversation-based search and manage your local knowledge base with  Azure OpenAI API (or OpenAI).  使用 Azure OpenAI（兼容OpenAI）创建自己的 GPT 智能助手，构建 AI 搜索引擎，并实现本地知识库搭建和管
@@ -1517,6 +1518,8 @@
 
 ## TypeScript 
 
+- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+- [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [synchronicity-labs/translation-starter](https://github.com/synchronicity-labs/translation-starter) - 
@@ -1596,7 +1599,7 @@
 - [xiaoguyu/wechatDownload](https://github.com/xiaoguyu/wechatDownload) - 微信公号文章下载工具
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru) - 🔮 Screen Guru takes clean screenshot of any websites
 - [Nutlope/qrGPT](https://github.com/Nutlope/qrGPT) - An AI QR Code Generator
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Ollama Chat application.
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ol
 - [shinework/photoshot](https://github.com/shinework/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [zhbhun/idify](https://github.com/zhbhun/idify) - Make ID photo right in the browser.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
