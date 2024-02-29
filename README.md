@@ -1537,6 +1537,7 @@
 
 ## TypeScript 
 
+- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成。
 - [beilunyang/img-mom](https://github.com/beilunyang/img-mom) - telegram bot（图片老妈）
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative
