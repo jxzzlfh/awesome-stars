@@ -2170,7 +2170,7 @@
 
 ## others 
 
-- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成。
+- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 - [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - 
 - [cbh123/stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 - [op7418/Twitter-to-Flomo](https://github.com/op7418/Twitter-to-Flomo) - Twitter-to-Flomo
