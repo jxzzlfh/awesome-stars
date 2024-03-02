@@ -193,6 +193,7 @@
 
 ## ai 
 
+- [fofr/cog-face-to-sticker](https://github.com/fofr/cog-face-to-sticker) - face-to-sticker
 - [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [kawika-git/wechatSDK](https://github.com/kawika-git/wechatSDK) - 微信机器人是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
 - [EdenwareApps/Vimer](https://github.com/EdenwareApps/Vimer) - Vimer is an AI powered app with a hassle-free interface for adjusting audio and video.
@@ -224,7 +225,7 @@
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [narenmanoharan/gpt-code-assistant](https://github.com/narenmanoharan/gpt-code-assistant) - gpt-code-assistant is an open-source coding assistant leveraging language models to search, retrieve, explore and understand any codebase.
-- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.
+- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。
 - [yuxiaopeng/Github-Ranking-AI](https://github.com/yuxiaopeng/Github-Ranking-AI) - A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
@@ -1011,6 +1012,8 @@
 
 ## docker 
 
+- [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
+- [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
@@ -1200,6 +1203,7 @@
 
 ## flask 
 
+- [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [chancelyg/syncmemo](https://github.com/chancelyg/syncmemo) - 支持跨平台访问的文本/图片便签的Web服务
@@ -1276,7 +1280,7 @@
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
-- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.
+- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。
 - [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript
@@ -2013,7 +2017,7 @@
 
 ## mysql 
 
-- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
@@ -2136,6 +2140,7 @@
 
 ## npm 
 
+- [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
@@ -2178,6 +2183,7 @@
 
 ## others 
 
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - 
 - [cbh123/stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 - [op7418/Twitter-to-Flomo](https://github.com/op7418/Twitter-to-Flomo) - Twitter-to-Flomo
@@ -3057,6 +3063,7 @@
 
 ## python 
 
+- [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
 - [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
@@ -3076,7 +3083,7 @@
 - [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [ZYKsslm/BlackStone_Music_GUI](https://github.com/ZYKsslm/BlackStone_Music_GUI) - 一个简约的音乐下载工具
 - [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin.
-- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.
+- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。
 - [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
 - [fandesfyf/JamTools](https://github.com/fandesfyf/JamTools) - JamTools是一个跨平台的小工具集类软件，支持Windows7/8/10/11、Macos、ubuntu系统(其他系统可以直接从源码编译打包)。包含了(滚动/区域)截屏、录屏、文字识别、多种语言互译、多媒体格式转换、鼠标键盘动作录制播放、局域网文件传输、聊天机器人等功能，完全开源!
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
@@ -3132,7 +3139,7 @@
 - [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.
 - [fangxx3863/telegraph2epub](https://github.com/fangxx3863/telegraph2epub) - download telegraph content as epub or cbz
 - [ZYKsslm/BlackStone_Music_GUI](https://github.com/ZYKsslm/BlackStone_Music_GUI) - 一个简约的音乐下载工具
-- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.
+- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。
 - [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
 - [1061700625/WeChat_Article](https://github.com/1061700625/WeChat_Article) - 爬取微信公众号文章
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -3146,6 +3153,7 @@
 
 ## pytorch 
 
+- [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
 - [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 - [alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.
@@ -3304,7 +3312,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.
+- [chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly) - A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -3463,7 +3471,7 @@
 ## sqlite 
 
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
-- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [little-brother/sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
