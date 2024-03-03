@@ -118,6 +118,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nim](#nim)
@@ -194,6 +195,7 @@
 ## ai 
 
 - [fofr/cog-face-to-sticker](https://github.com/fofr/cog-face-to-sticker) - face-to-sticker
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [kawika-git/wechatSDK](https://github.com/kawika-git/wechatSDK) - 微信机器人是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
 - [EdenwareApps/Vimer](https://github.com/EdenwareApps/Vimer) - Vimer is an AI powered app with a hassle-free interface for adjusting audio and video.
@@ -2028,6 +2030,15 @@
 - [linhaojun857/aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 - [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 
+## natural-language-processing 
+
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
+- [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
+
 ## neural-network 
 
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
@@ -2441,8 +2452,6 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [newfyu/Tianshu](https://github.com/newfyu/Tianshu) - ChatGPT的跨平台桌面客户端，简洁的用户界面和随时唤起的体验。有构建本地知识库、网络检索、长文本阅读、执行本地代码等功能。
 - [kex0/batch-face-swap](https://github.com/kex0/batch-face-swap) - Automaticaly detects faces and replaces them
-- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.
 - [skyline75489/what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc.
 - [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则
