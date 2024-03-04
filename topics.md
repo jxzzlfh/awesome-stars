@@ -2197,6 +2197,8 @@
 
 ## others 
 
+- [melon/qingwu-zimu](https://github.com/melon/qingwu-zimu) - 青梧字幕是一款基于whisper的AI字幕提取工具
+- [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - 
 - [cbh123/stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
