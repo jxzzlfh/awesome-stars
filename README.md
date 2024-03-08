@@ -539,6 +539,7 @@
 
 ## JavaScript 
 
+- [electh/ReactFlux](https://github.com/electh/ReactFlux) - Simple RSS reader for Miniflux
 - [embernet/sidekick](https://github.com/embernet/sidekick) - Sidekick is an AI powered tool that uses the OpenAI API and GPT-4 model for thinking, exploring ideas, problem-solving, knowledge-building, and getting things done.
 - [yaohaixiao/outline.js](https://github.com/yaohaixiao/outline.js) - outline.js - 自动生成文章导读（Table of Contents）导航的 JavaScript 工具。会自动分析文章中的标题（ h1~h6 ）标签，并生成文章段落层次结构的导读导航菜单。
 - [op7418/Twitter-to-Flomo](https://github.com/op7418/Twitter-to-Flomo) - Twitter-to-Flomo
@@ -861,6 +862,7 @@
 
 ## Others 
 
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [OldPanda/douban-book-plus-homepage](https://github.com/OldPanda/douban-book-plus-homepage) - The homepage of Douban Book+
 - [HumanAIGC/EMO](https://github.com/HumanAIGC/EMO) - 
 - [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
@@ -1366,7 +1368,7 @@
 - [vas3k/infomate.club](https://github.com/vas3k/infomate.club) - RSS feed aggregator with collections and NLP article summarization
 - [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
-- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT and Claude2.1 using Python on Zeabur, fly.io and Replit.
+- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT, Claude2.1/3 and Groq(mixtral-8x7b) using Python on Zeabur, fly.io and Replit.
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
@@ -1465,6 +1467,7 @@
 
 ## Shell 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
@@ -1549,6 +1552,8 @@
 
 ## TypeScript 
 
+- [zobor/photo-relay](https://github.com/zobor/photo-relay) - allowing you to easily create high-quality cover images
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [1943time/bluestone](https://github.com/1943time/bluestone) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
