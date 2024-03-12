@@ -2236,6 +2236,7 @@
 
 ## others 
 
+- [fordes123/typecho-theme-pir](https://github.com/fordes123/typecho-theme-pir) - typecho相册主题，瀑布流、懒加载、无限滚动
 - [xue160709/Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline) - 
 - [youngle316/cover-paint](https://github.com/youngle316/cover-paint) - 🖌️ cover create tool
 - [Timmy-web/Poe-Telegram-Chatbot](https://github.com/Timmy-web/Poe-Telegram-Chatbot) - 调用Poe官方API实现Telegram对话机器人，主要调用GPT-4和Claude-3-Opus模型。
