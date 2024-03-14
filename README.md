@@ -1559,6 +1559,7 @@
 
 ## TypeScript 
 
+- [polywock/globalSpeed](https://github.com/polywock/globalSpeed) - Web extension to set a default speed for video and audio
 - [AmbroseX/Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 - [youngle316/cover-paint](https://github.com/youngle316/cover-paint) - 🖌️ cover create tool
 - [wizardAEI/Gomoon](https://github.com/wizardAEI/Gomoon) - Gomoon 基于大模型的桌面端效率工具
