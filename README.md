@@ -1441,7 +1441,7 @@
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -1722,6 +1722,7 @@
 - [filippofinke/WordGPT](https://github.com/filippofinke/WordGPT) - 🤖 Bring the power of ChatGPT to Microsoft Word
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [onepointAI/onepoint](https://github.com/onepointAI/onepoint) - An AI assistant tool that integrates coding, writing, and reading functions. For better alternatives see https://monica.im/desktop
+- [Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
 - [codex-team/codex.docs](https://github.com/codex-team/codex.docs) - Free Docs app powered by Editor.js ecosystem
 - [hyoban/kodoku](https://github.com/hyoban/kodoku) - A website that helps you track RSS subscription updates
 - [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
@@ -1897,7 +1898,6 @@
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
 - [FISHers6/QuickAI](https://github.com/FISHers6/QuickAI) - QuickAI是一款基于OpenAI开发的电脑版ChatGPT PC跨平台应用程序，它可以提供划词提问、快捷搜索、对话模式和快捷指令等多种功能。旨在为用户提供更便捷、更智能的PC桌面版AI使用体验。在使用时无需下载额外软件，适用于各种场景，如代码自动编辑、文件自动输入、提问、聊天软件自动回复等。QuickAI is a ChatGPT PC Program, support Windows, Ma
 - [tinygeeker/autocue](https://github.com/tinygeeker/autocue) - 🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权、成人模式等功能
-- [Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer) - 跨平台桌面端视频资源播放器,免费高颜值.
 - [F-loat/caption2text](https://github.com/F-loat/caption2text) - 📥 PWA 版字幕转换为文本工具，支持 ass 及 srt 格式，可批量导出为 word 及 text 文件
 - [Kuingsmile/word-GPT-Plus](https://github.com/Kuingsmile/word-GPT-Plus) - Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
