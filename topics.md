@@ -2862,7 +2862,7 @@
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [huguoadison/anwang](https://github.com/huguoadison/anwang) - 2022年最全暗网导航
 - [sumimakito/hexo-theme-typography](https://github.com/sumimakito/hexo-theme-typography) - Rediscover the beauty of typography.
-- [hedongshu/go-markdown-book](https://github.com/hedongshu/go-markdown-book) - 将 github仓库，或者本地文件夹 内的Markdown文件发布成可以web访问的book
+- [hotuns/go-markdown-book](https://github.com/hotuns/go-markdown-book) - 将 github仓库，或者本地文件夹 内的Markdown文件发布成可以web访问的book
 - [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [getActivity/AndroidIndex](https://github.com/getActivity/AndroidIndex) - Android 资源大汇总
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
