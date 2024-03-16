@@ -244,7 +244,7 @@
 - [rbbrdckybk/dream-factory](https://github.com/rbbrdckybk/dream-factory) - Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs.
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
+- [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [fiatrete/OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
@@ -648,7 +648,7 @@
 - [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [soulteary/docker-chatgpt](https://github.com/soulteary/docker-chatgpt) - &lt; 10MB, One-click self-hosted ChatGPT, allowing access to various data sources and non-OpenAI models.
-- [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
+- [xxxily/hello-ai](https://github.com/xxxily/hello-ai) - It's not AI that takes away your job, but the people who master the use of AI tools. The most deadly attack is a dimension-reducing strike: destroying you has nothing to do with you - from "The Three-
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [274056675/springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超级AI大脑一个基于SpringCloud微服务架构，已对接GPT-3.5、GPT-4.0、百度文心一言、stable diffusion AI绘图、Midjourney绘图等。支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时也支持画图，用户输入文本，便可
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
@@ -819,7 +819,7 @@
 - [OldPanda/douban-book-plus-homepage](https://github.com/OldPanda/douban-book-plus-homepage) - The homepage of Douban Book+
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ Copilot in Google ｜ Gemini next to Google results
 - [hakadao/BewlyBewly](https://github.com/hakadao/BewlyBewly) - Improve your Bilibili homepage by redesigning it, adding more features, and personalizing it to match your preferences. (English | 简体中文 | 正體中文 | 廣東話)
-- [xxxily/h5player](https://github.com/xxxily/h5player) - 视频增强脚本，支持所有H5视频网站，例如：B站、抖音、腾讯视频、优酷、爱奇艺、西瓜视频、油管（YouTube）、微博视频、知乎视频、搜狐视频、网易公开课、百度网盘、阿里云盘、ted、instagram、twitter等。全程快捷键控制，支持：倍速播放/加速播放、视频画面截图、画中画、网页全屏、调节亮度、饱和度、对比度、自定义配置功能增强等功能，为你提供愉悦的在线视频播放体验。还有视频广告快进、在线
+- [xxxily/h5player](https://github.com/xxxily/h5player) - This software supports all audio and video websites, such as TikTok, YouTube, Bilibili, TED, Instagram, Twitter, etc. Features include: variable playback speed, screen capture, video download, custom 
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus an
 - [jokimina/cbox-chrome-extension](https://github.com/jokimina/cbox-chrome-extension) - No need for grouping, search directly!  CBox is a Chrome extension that allows you to summon a command-line panel on any webpage for quick navigation, commands, and searches.
