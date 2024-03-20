@@ -2498,7 +2498,7 @@
 - [Makememo/MemoAI](https://github.com/Makememo/MemoAI) - Ai-powered podcast, video-to-text, subtitle translation tool
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [Rambalac/JoinerSplitter](https://github.com/Rambalac/JoinerSplitter) - Fast video joiner/splitter using ffmpeg codec copy
-- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
+- [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 - [c121914yu/FastGPT](https://github.com/c121914yu/FastGPT) - A platform that uses the OpenAI API to quickly build an AI knowledge base, supporting many-to-many relationships.
 - [pszemraj/textsum](https://github.com/pszemraj/textsum) - CLI & Python API to easily summarize text-based files with transformers
 - [KaringX/ClashPro](https://github.com/KaringX/ClashPro) - windows, iOS, MacOS released
