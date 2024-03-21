@@ -1478,6 +1478,7 @@
 
 ## Shell 
 
+- [cognitivetech/llm-long-text-summarization](https://github.com/cognitivetech/llm-long-text-summarization) - LLM for Long Text Summary (Comprehensive Bulleted Notes) : Walkthrough and Model Rankings
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -1562,6 +1563,7 @@
 
 ## TypeScript 
 
+- [Elliott-Chong/chatpdf-yt](https://github.com/Elliott-Chong/chatpdf-yt) - 
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [polywock/globalSpeed](https://github.com/polywock/globalSpeed) - Web extension to set a default speed for video and audio
 - [AmbroseX/Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
