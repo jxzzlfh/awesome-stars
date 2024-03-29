@@ -1145,6 +1145,7 @@
 
 ## Python 
 
+- [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬  基于 LLM 大语言模型的知识库问答系统，1Panel 官方出品。开箱即用，支持快速嵌入到第三方业务系统。
 - [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search) - RAG Search API
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -1572,6 +1573,7 @@
 
 ## TypeScript 
 
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT Copilot in Obsidian
 - [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配
 - [sunls24/nextai](https://github.com/sunls24/nextai) - 一个简单而优雅的 AI 聊天程序
 - [Elliott-Chong/chatpdf-yt](https://github.com/Elliott-Chong/chatpdf-yt) - 
