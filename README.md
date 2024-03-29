@@ -1145,6 +1145,7 @@
 
 ## Python 
 
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬  基于 LLM 大语言模型的知识库问答系统，1Panel 官方出品。开箱即用，支持快速嵌入到第三方业务系统。
 - [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search) - RAG Search API
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
@@ -1203,7 +1204,7 @@
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
 - [Ink-Osier/PandoraToV1Api](https://github.com/Ink-Osier/PandoraToV1Api) - 站在巨人的肩膀上的项目，感谢zhile大佬的Pandora-Next项目
 - [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
-- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app building platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one 
 - [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 - [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
@@ -1916,7 +1917,6 @@
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - Fantastic toolkit for CTFers and everyone.
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
-- [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
