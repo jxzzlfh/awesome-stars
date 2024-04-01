@@ -546,6 +546,7 @@
 
 ## JavaScript 
 
+- [DLillard0/auto-mark](https://github.com/DLillard0/auto-mark) - 利用 chatgpt 实现自动收藏网站到最佳书签栏的谷歌浏览器插件
 - [tznb1/TwoNav](https://github.com/tznb1/TwoNav) - TwoNav 第二代云导航|云书签管理系统
 - [electh/ReactFlux](https://github.com/electh/ReactFlux) - Simple RSS reader for Miniflux
 - [embernet/sidekick](https://github.com/embernet/sidekick) - Sidekick is an AI powered tool that uses the OpenAI API and GPT-4 model for thinking, exploring ideas, problem-solving, knowledge-building, and getting things done.
@@ -1890,6 +1891,7 @@
 
 ## Vue 
 
+- [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
