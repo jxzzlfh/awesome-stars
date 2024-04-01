@@ -1890,6 +1890,7 @@
 
 ## Vue 
 
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
