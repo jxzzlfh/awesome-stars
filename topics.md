@@ -3868,6 +3868,7 @@
 
 ## website 
 
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [develon2015/Youtube-dl-REST](https://github.com/develon2015/Youtube-dl-REST) - Youtube & BiliBili 视频在线解析下载 -- Website for downloading Youtube & BiliBili videos.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
