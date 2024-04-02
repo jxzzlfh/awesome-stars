@@ -120,6 +120,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
+- [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nim](#nim)
@@ -313,6 +314,7 @@
 
 ## android 
 
+- [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
 - [tasy5kg/CuteGIF](https://github.com/tasy5kg/CuteGIF) - Convert video to GIF. Simple and fast.
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
@@ -1478,6 +1480,7 @@
 
 ## hacktoberfest 
 
+- [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [primihub/primihub](https://github.com/primihub/primihub) - Privacy-Preserving Computing Platform 由密码学专家团队打造的开源隐私计算平台，支持多方安全计算、联邦学习、隐私求交、匿踪查询等。
@@ -1802,6 +1805,7 @@
 
 ## linux 
 
+- [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
 - [TheTNB/panel](https://github.com/TheTNB/panel) - 耗子 Linux 面板 - GO 开发的轻量 Linux 面板
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
@@ -1898,6 +1902,7 @@
 
 ## macos 
 
+- [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [charlestang/HexoPress](https://github.com/charlestang/HexoPress) - A multi-platform client that offers a user-friendly article editing interface and content management system for Hexo-based blogs.  为基于 Hexo 的博客，提供友好易用的文章编辑界面和内容管理系统的，开源博客软件。
@@ -2106,6 +2111,10 @@
 - [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) - An open-source tool-augmented conversational language model from Fudan University
 - [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
 
+## neovim 
+
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
 ## neural-network 
 
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
@@ -2264,6 +2273,7 @@
 
 ## others 
 
+- [DLillard0/auto-mark](https://github.com/DLillard0/auto-mark) - 利用 chatgpt 实现自动收藏网站到最佳书签栏的谷歌浏览器插件
 - [LLM-Red-Team/glm-free-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型白嫖服务，支持高速流式输出、支持智能体对话、支持多轮对话、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
 - [find-xposed-magisk/shell-gpt](https://github.com/find-xposed-magisk/shell-gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.由 GPT-4 等 AI 大型语言模型提供支持的命令行生产力工具将帮助您更快、更高效地完成任务
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
@@ -3879,6 +3889,7 @@
 
 ## windows 
 
+- [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
 - [xiangyuecn/ACME-HTML-Web-Browser-Client](https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA），支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt,ZeroSSL,Google 等支持 ACME 协议的证书颁发机构申请pem格式证书
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
