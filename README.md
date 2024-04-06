@@ -875,6 +875,7 @@
 
 ## Others 
 
+- [sirpdboy/openwrt](https://github.com/sirpdboy/openwrt) - openwrt
 - [Curated-Awesome-Lists/Awesome-Open-AI-Sora](https://github.com/Curated-Awesome-Lists/Awesome-Open-AI-Sora) - Sora AI Awesome List – Your go-to resource hub for all things Sora AI, OpenAI's groundbreaking model for crafting realistic scenes from text. Explore a curated collection of articles, videos, podcasts
 - [xue160709/Local-LLM-User-Guideline](https://github.com/xue160709/Local-LLM-User-Guideline) - 
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
