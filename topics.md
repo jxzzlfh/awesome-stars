@@ -569,6 +569,7 @@
 
 ## bot 
 
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 - [nikstar/greader](https://github.com/nikstar/greader) - G Reader is a simple RSS feed reader bot for Telegram
 - [cheungchazz/WeChat-AIChatbot-WinOnly](https://github.com/cheungchazz/WeChat-AIChatbot-WinOnly) - 基于chatgpt-on-wechat框架，只能运行在Win平台的项目，通过本项目可以将微信或者企业微信个人号接入ChatGpt、文心一言、FastGpt、LinkAI，可以文字对话、语音对话、图片交互、文件交互等。
@@ -2289,7 +2290,7 @@
 - [LLM-Red-Team/glm-free-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型白嫖服务，支持高速流式输出、支持智能体对话、支持多轮对话、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
 - [find-xposed-magisk/shell-gpt](https://github.com/find-xposed-magisk/shell-gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.由 GPT-4 等 AI 大型语言模型提供支持的命令行生产力工具将帮助您更快、更高效地完成任务
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬  基于 LLM 大语言模型的知识库问答系统，1Panel 官方出品。开箱即用，支持快速嵌入到第三方业务系统。
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬  基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
 - [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配
 - [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search) - RAG Search API
 - [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
@@ -3191,6 +3192,7 @@
 
 ## python 
 
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -3271,6 +3273,7 @@
 
 ## python3 
 
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.
 - [fangxx3863/telegraph2epub](https://github.com/fangxx3863/telegraph2epub) - download telegraph content as epub or cbz
 - [ZYKsslm/BlackStone_Music_GUI](https://github.com/ZYKsslm/BlackStone_Music_GUI) - 一个简约的音乐下载工具
@@ -3702,6 +3705,7 @@
 
 ## twitter 
 
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [AmbroseX/Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 - [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
