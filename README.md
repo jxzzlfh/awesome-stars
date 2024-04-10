@@ -1461,7 +1461,7 @@
 ## Rust 
 
 - [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one CLI Copilot for 10+ AI platforms, including OpenAI, Gemini, Claude, Mistral, Ollama, VertexAI, Ernie, Qianwen...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one chat and copilot CLI for 10+ AI platforms, including OpenAI, Gemini, Claude, Mistral, Ollama, VertexAI, Ernie, Qianwen...
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
