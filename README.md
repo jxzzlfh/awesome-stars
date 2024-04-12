@@ -901,7 +901,7 @@
 - [gaboolic/vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
 - [dlzmoe/litiaotiao_package_backup](https://github.com/dlzmoe/litiaotiao_package_backup) - 李跳跳APK包备份
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
-- [codeartx/flash-switcher](https://github.com/codeartx/flash-switcher) - 极速、高效、智能的标签预览和切换
+- [codeartx/flash-switcher](https://github.com/codeartx/flash-switcher) - ALL IN ONE —— 效率 x10（Efficiency x10），包括但不止于 万级书签管理、沉浸式网页笔记、双语沉浸式翻译、智能网页大纲等10+项高频功能/操作
 - [Meroser/My-EPG](https://github.com/Meroser/My-EPG) - 深度定制属于自己的EPG节目预告、高清台标
 - [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
 - [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) - LXGW WenKai for Screen Reading.
