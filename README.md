@@ -171,6 +171,7 @@
 
 ## C++ 
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [AyuGram/AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop) - Desktop Telegram client with good customization and Ghost mode.
 - [melon/qingwu-zimu](https://github.com/melon/qingwu-zimu) - 青梧字幕是一款基于whisper的AI字幕提取工具
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
@@ -1161,6 +1162,9 @@
 
 ## Python 
 
+- [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
+- [Qihoo360/360zhinao](https://github.com/Qihoo360/360zhinao) - 360zhinao
 - [xxynet/NCM-Downloader](https://github.com/xxynet/NCM-Downloader) - A powerful NCM Downloader that supports built-in metadata  一个强大的网易云下载工具，支持内嵌元信息（歌曲名，歌手，专辑，歌曲封面）
 - [AZ-Studio-2023/AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) - AZ音乐下载器 - 优雅地下载音乐 | Download music gracefully
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
@@ -1607,6 +1611,7 @@
 
 ## TypeScript 
 
+- [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 - [cloudflare/pp-browser-extension](https://github.com/cloudflare/pp-browser-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens
 - [chatbookai/ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx是一个使用AI技术(ChatGpt和Gemini)制作PPTX的助手，支持在线修改和导出PPTX。 主要功能: 1 使用ChatGPT等大语言模型来生成大纲 2 生成的内容允许用户再次修改 3 生成PPTX的时候可以选择不同的模板 4 支持在线修改PPTX的文字内容，样式，图片等 5 支持导出PPTX，PDF，PNG等多种格式
@@ -1978,7 +1983,7 @@
 - [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text is a web tool to extract text from any image using OCR
 - [meterscao/Speechless](https://github.com/meterscao/Speechless) - 把新浪微博的内容，导出成 PDF 文件进行备份的 Chrome Extension。
 - [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
-- [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+- [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [Jrohy/webssh](https://github.com/Jrohy/webssh) - 简易在线终端和sftp工具
 - [m0ngr31/DailyNotes](https://github.com/m0ngr31/DailyNotes) - App for taking notes and tracking tasks on a daily basis
