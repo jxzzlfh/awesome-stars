@@ -200,6 +200,7 @@
 
 ## ai 
 
+- [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai) - Free search with AI, open-source Perplexity, Support Ollama/SearXNG.  基于AI大语言模型（LLM）的搜索引擎，支持本地大模型(Ollama)、聚合搜索引擎SearXNG。
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, image generation and analysis, autonomous agents, code and command execution, file upload 
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
@@ -212,7 +213,6 @@
 - [fofr/cog-face-to-sticker](https://github.com/fofr/cog-face-to-sticker) - face-to-sticker
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [reorproject/reor](https://github.com/reorproject/reor) - Self-organizing AI note-taking app that runs models locally.
-- [WeChatAPIs/wechatSDK](https://github.com/WeChatAPIs/wechatSDK) - 微信机器人是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
 - [EdenwareApps/Vimer](https://github.com/EdenwareApps/Vimer) - Vimer is an AI powered app with a hassle-free interface for adjusting audio and video.
 - [flyun/chatAir](https://github.com/flyun/chatAir) - ☁️A native Android client for OpenAI and Gemini ☁️OpenAI 和 Gemini 的原生安卓客户端
 - [loo-y/GeminiChatUp](https://github.com/loo-y/GeminiChatUp) - 
@@ -319,6 +319,7 @@
 
 ## android 
 
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
 - [tasy5kg/CuteGIF](https://github.com/tasy5kg/CuteGIF) - Convert video to GIF. Simple and fast.
@@ -597,6 +598,8 @@
 
 ## chatgpt 
 
+- [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
+- [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai) - Free search with AI, open-source Perplexity, Support Ollama/SearXNG.  基于AI大语言模型（LLM）的搜索引擎，支持本地大模型(Ollama)、聚合搜索引擎SearXNG。
 - [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -841,6 +844,7 @@
 
 ## chrome-extension 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [cloudflare/pp-browser-extension](https://github.com/cloudflare/pp-browser-extension) - Client for Privacy Pass protocol providing unlinkable cryptographic tokens
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [polywock/globalSpeed](https://github.com/polywock/globalSpeed) - Web extension to set a default speed for video and audio
@@ -1058,6 +1062,7 @@
 
 ## design 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [saviomartin/slickr](https://github.com/saviomartin/slickr) - Enjoy creating cover image for your hashnode blog like never before, get started in seconds 🎉
 - [palxiao/poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
 - [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
@@ -1666,6 +1671,7 @@
 
 ## javascript 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [yaohaixiao/outline.js](https://github.com/yaohaixiao/outline.js) - outline.js - 自动生成文章导读（Table of Contents）导航的 JavaScript 工具。会自动分析文章中的标题（ h1~h6 ）标签，并生成文章段落层次结构的导读导航菜单。
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
@@ -1753,6 +1759,7 @@
 
 ## kotlin 
 
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [tanujnotes/Olauncher](https://github.com/tanujnotes/Olauncher) - Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers.
 - [AllenTom/diffusion-client](https://github.com/AllenTom/diffusion-client) - a powerful stable-diffusion-webui client for android
 - [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
@@ -2047,6 +2054,7 @@
 
 ## material-design 
 
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
 - [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -2305,6 +2313,9 @@
 
 ## others 
 
+- [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
+- [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) - 
+- [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [ProudCarrotG/autoPutPathtoAlist](https://github.com/ProudCarrotG/autoPutPathtoAlist) - 自动上传文件至alist
 - [developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
@@ -2381,6 +2392,7 @@
 - [synchronicity-labs/translation-starter](https://github.com/synchronicity-labs/translation-starter) - 
 - [damionx7/Zettel-Notes-Documentation](https://github.com/damionx7/Zettel-Notes-Documentation) - Documentation for Zettel Notes : Markdown Note Taking app for android
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+- [WeChatAPIs/WechatBotCMD](https://github.com/WeChatAPIs/WechatBotCMD) - 微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，支持Midjourney，仅供个人管理渠道使用，请勿用于商业API分发！
 - [langchain-ai/chat-langchainjs](https://github.com/langchain-ai/chat-langchainjs) - 💬 Chat with the LangChain JS/TS documentation, with sources. 💬
@@ -3524,6 +3536,7 @@
 
 ## self-hosted 
 
+- [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image sharing service.
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS aggregator and reader
 - [timo-reymann/yal](https://github.com/timo-reymann/yal) - A simple link hub, to display and search links. Allows easy branding, runs with the least privileges and is simple to use.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
@@ -3755,6 +3768,7 @@
 
 ## tensorflow 
 
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
