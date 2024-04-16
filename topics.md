@@ -200,7 +200,7 @@
 
 ## ai 
 
-- [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai) - Free search with AI, open-source Perplexity, Support Ollama/SearXNG.  基于AI大语言模型（LLM）的搜索引擎，支持本地大模型(Ollama)、聚合搜索引擎SearXNG。
+- [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai) - Free Search with AI, Open-Source Perplexity, Support Ollama/SearXNG.  基于AI大语言模型（LLM）的搜索引擎，支持本地大模型(Ollama)、聚合搜索引擎SearXNG。
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, image generation and analysis, autonomous agents, code and command execution, file upload 
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
@@ -599,7 +599,7 @@
 ## chatgpt 
 
 - [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
-- [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai) - Free search with AI, open-source Perplexity, Support Ollama/SearXNG.  基于AI大语言模型（LLM）的搜索引擎，支持本地大模型(Ollama)、聚合搜索引擎SearXNG。
+- [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai) - Free Search with AI, Open-Source Perplexity, Support Ollama/SearXNG.  基于AI大语言模型（LLM）的搜索引擎，支持本地大模型(Ollama)、聚合搜索引擎SearXNG。
 - [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
 - [aurora-develop/aurora](https://github.com/aurora-develop/aurora) - free
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
