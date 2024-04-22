@@ -1175,8 +1175,9 @@
 
 ## Python 
 
+- [seanzhang-zhichen/llama3-chinese](https://github.com/seanzhang-zhichen/llama3-chinese) - Llama3-Chinese是以Meta-Llama-3-8B为底座，使用 DORA + LORA+ 的训练方法，在50w高质量中文多轮SFT数据 + 10w英文多轮SFT数据 + 2000单轮自我认知数据训练而来的大模型。
 - [QwenLM/CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5) - CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
-- [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库
+- [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）
 - [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers.
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, image generation and analysis, autonomous agents, code and command execution, file upload 
 - [ProudCarrotG/autoPutPathtoAlist](https://github.com/ProudCarrotG/autoPutPathtoAlist) - 自动上传文件至alist
