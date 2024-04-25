@@ -2328,6 +2328,7 @@
 
 ## others 
 
+- [replicate/llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
 - [lessapi-dev/lessapi-duckduckgo](https://github.com/lessapi-dev/lessapi-duckduckgo) - LessAPI-DuckDuckGo is an API service for a search engine. Simple, lightweight, reliable, Docker deployable, easy to maintain. 一个基于DuckDuckGo的搜索引擎API服务。简单、轻量、可靠、Docker部署、易于维护。
 - [seanzhang-zhichen/llama3-chinese](https://github.com/seanzhang-zhichen/llama3-chinese) - Llama3-Chinese是以Meta-Llama-3-8B为底座，使用 DORA + LORA+ 的训练方法，在50w高质量中文多轮SFT数据 + 10w英文多轮SFT数据 + 2000单轮自我认知数据训练而来的大模型。
 - [QwenLM/CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5) - CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
@@ -2394,7 +2395,7 @@
 - [wizardAEI/Gomoon](https://github.com/wizardAEI/Gomoon) - Gomoon 基于大模型的桌面端效率工具
 - [tznb1/TwoNav](https://github.com/tznb1/TwoNav) - TwoNav 第二代云导航|云书签管理系统
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
-- [zobor/photo-relay](https://github.com/zobor/photo-relay) - allowing you to easily create high-quality cover images
+- [zobor/photo-relay](https://github.com/zobor/photo-relay) - Allowing You To Easily Create High Quality Cover Images
 - [electh/ReactFlux](https://github.com/electh/ReactFlux) - Simple RSS reader for Miniflux
 - [oliverkirk-sudo/WarpGPT](https://github.com/oliverkirk-sudo/WarpGPT) - 将chatgpt前端进行逆向，实现绕过cloudflare 对官方api进行代理 实现前端接口转标准api(通过access_token实现标准api传入访问)
 - [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
