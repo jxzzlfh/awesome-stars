@@ -437,7 +437,7 @@
 - [0-RTT/telegraph](https://github.com/0-RTT/telegraph) - 基于telegraph的图床，图片大于5MB自动压缩
 - [yusanshi/emgithub](https://github.com/yusanshi/emgithub) - Embed a file from GitHub repository just like GitHub Gist.
 - [nihaojob/markdown-css-smartisan](https://github.com/nihaojob/markdown-css-smartisan) - 按照锤子便签调整的markdown-css 主题。
-- [xiangyuecn/ACME-HTML-Web-Browser-Client](https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA），支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt,ZeroSSL,Google 等支持 ACME 协议的证书颁发机构申请pem格式证书
+- [xiangyuecn/ACME-HTML-Web-Browser-Client](https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA）Free Wildcard Certificates，支持多域名和通配符泛域名，Windows、macOS均可以向 Let's Encrypt,ZeroSSL,Google 等支持 ACME 协议的证书颁发机构申请pem格式证书
 - [drshahizan/learn-github](https://github.com/drshahizan/learn-github) - A step-by-step guide to getting started with Git and GitHub for beginners.
 - [1003715231/awesome-chatgpt-prompts](https://github.com/1003715231/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
@@ -527,7 +527,6 @@
 - [CloudExplorer-Dev/CloudExplorer-Lite](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) - 开源的轻量级云管平台
 - [kylelin1998/ChatGPTForTelegram](https://github.com/kylelin1998/ChatGPTForTelegram) - 目前机器人基于ChatGPT进行开发  使用机器人可以让你轻松进行对话， 后续机器人的更新升级一个命令即可搞定， 无需再上服务器进行升级机器人
 - [fordes123/subtitles-view](https://github.com/fordes123/subtitles-view) - 基于javaFX的简单字幕处理桌面程序，集成在线翻译及语音转换
-- [1250422131/bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
 - [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄
@@ -844,6 +843,7 @@
 - [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
 - [Pool-Of-Tears/Myne](https://github.com/Pool-Of-Tears/Myne) - An android app to download & read ebooks from Project Gutenberg, built with  Jetpack Compose.
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+- [1250422131/bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩解析工具，一个辅助缓存下载B站视频番剧的APP，帮助你快速便捷的缓存B站视频和番剧。
 - [sakusaku3939/DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) - Unofficial Android App for DeepL Translator
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
@@ -1493,6 +1493,7 @@
 
 ## Rust 
 
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [shenjinti/fgpt](https://github.com/shenjinti/fgpt) - A free reverse proxy and CLI tool for OpenAI GPT-3.5-turbo.
 - [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat & Copilot that integrates 10+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen...
@@ -1632,6 +1633,7 @@
 
 ## TypeScript 
 
+- [zhbhun/rmbg](https://github.com/zhbhun/rmbg) - RMBG is a multi-platform image background removal tool that uses open-source AI models and ensures user privacy by processing images locally.
 - [MohamedBassem/hoarder-app](https://github.com/MohamedBassem/hoarder-app) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown
 - [nolebase/integrations](https://github.com/nolebase/integrations) - A collection of diverse documentation engineering tools | 多元化的文档工程工具合集
@@ -1957,6 +1959,7 @@
 
 ## Vue 
 
+- [amin2312/AI-Image-Generator](https://github.com/amin2312/AI-Image-Generator) - AI Image Generator and Search, unleash your Creativity
 - [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
 - [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
