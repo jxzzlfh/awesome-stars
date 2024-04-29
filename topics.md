@@ -839,7 +839,7 @@
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [tw93/Maple](https://github.com/tw93/Maple) - 🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [ha0z1/New-Bing-Anywhere](https://github.com/ha0z1/New-Bing-Anywhere) - 💬 New-Bing-Anywhere extension's source Always use Bing GPT-4
@@ -1292,7 +1292,7 @@
 
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist & lightweight startpage inspired by iOS
@@ -1452,7 +1452,7 @@
 - [jing332/AlistAndroid](https://github.com/jing332/AlistAndroid) - AList 安卓版本，APK安装即用，无需Root或Termux。
 - [Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [heimeropen/chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - A golang service for chatgpt application
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [donuts-are-good/bearclaw](https://github.com/donuts-are-good/bearclaw) - tiny static site generator w/ rss
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
@@ -1515,7 +1515,7 @@
 
 ## hacking 
 
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
@@ -1964,7 +1964,7 @@
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - A modern GUI App for downloading Videos and Audios from hundreds of sites
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
@@ -3439,6 +3439,7 @@
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
 - [nini22P/omp](https://github.com/nini22P/omp) - OMP - OneDrive Media Player on the web / 网页端 OneDrive 媒体播放器
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [LibNyanpasu/clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
@@ -4066,7 +4067,7 @@
 - [Konyaco/CollinsDictionary](https://github.com/Konyaco/CollinsDictionary) - This is a multi-platform Collins Dictionary client, supports for Desktop(Windows/Linux/MacOS) and Android.
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
 - [sxzxs/Real-time-translation-typing](https://github.com/sxzxs/Real-time-translation-typing) - 实时打字翻译软件、语音实时打字、语音实时翻译、LOL 语音打字
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - A modern GUI App for downloading Videos and Audios from hundreds of sites
 - [adithya-s-sekhar/advanced-youtube-client-ayc](https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc) - AYC is a highly responsive, no nonsense, easy to use, fast video downloader from the text based era.
