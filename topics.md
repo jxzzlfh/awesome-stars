@@ -606,7 +606,7 @@
 
 ## chatgpt 
 
-- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨
+- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火大模型，百度文心大模型，阿里通义大模型，天工大模型，月之暗面大模型，智谱大模型 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. 
 - [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 - [yokingma/search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。
 - [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
@@ -1002,6 +1002,7 @@
 
 ## dart 
 
+- [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox app using Flutter
 - [Xmarmalade/alisthelper](https://github.com/Xmarmalade/alisthelper) - Alist Helper is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.
@@ -1189,7 +1190,7 @@
 
 ## electron 
 
-- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨
+- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火大模型，百度文心大模型，阿里通义大模型，天工大模型，月之暗面大模型，智谱大模型 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. 
 - [1943time/bluestone](https://github.com/1943time/bluestone) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
 - [ttqftech/FFBox](https://github.com/ttqftech/FFBox) - 一个多媒体转码百宝箱 / 一个 FFmpeg 的套壳
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
@@ -1497,7 +1498,7 @@
 
 ## google 
 
-- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨
+- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火大模型，百度文心大模型，阿里通义大模型，天工大模型，月之暗面大模型，智谱大模型 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. 
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
@@ -1952,7 +1953,7 @@
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers,
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨
+- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火大模型，百度文心大模型，阿里通义大模型，天工大模型，月之暗面大模型，智谱大模型 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. 
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -3943,7 +3944,7 @@
 
 ## vue 
 
-- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨
+- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火大模型，百度文心大模型，阿里通义大模型，天工大模型，月之暗面大模型，智谱大模型 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. 
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [OldPanda/douban-book-plus-homepage](https://github.com/OldPanda/douban-book-plus-homepage) - The homepage of Douban Book+
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
@@ -4053,7 +4054,7 @@
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers,
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。可以快速、低门槛搭建你的专属AI助手；支持自定义插件，扩展无限可能。 ✨✨
+- [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火大模型，百度文心大模型，阿里通义大模型，天工大模型，月之暗面大模型，智谱大模型 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. 
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
 - [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
