@@ -805,7 +805,7 @@
 
 ## chatgpt-api 
 
-- [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+- [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api) - 🚀 阿里通义千问大模型逆向API白嫖测试【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/step-free-api](https://github.com/LLM-Red-Team/step-free-api) - 🚀 跃问StepChat 多模态大模型逆向API白嫖测试【特长：超强多模态】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api) - 🚀 聆心智能 Emohaa情感陪伴大模型逆向API白嫖测试【特长：共情能力】，支持高速流式输出、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
