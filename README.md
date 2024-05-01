@@ -890,7 +890,6 @@
 
 ## Others 
 
-- [leezhuuu/Youchat2api](https://github.com/leezhuuu/Youchat2api) - 一个将 you.com 转成非官方api的项目，支持多种模型，支持流式调用，已与openai api格式对齐
 - [AttemptD/AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) - 
 - [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
 - [PandaBearLab/prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - chatGPT、prompt、LLM
