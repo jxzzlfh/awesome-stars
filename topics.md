@@ -2343,7 +2343,7 @@
 
 ## others 
 
-- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Building persistent LLM agents with long-term memory 📚🦙
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
 - [amchii/ZhiArchive](https://github.com/amchii/ZhiArchive) - 监测知乎用户的个人动态并保存内容以防丢失，保存知乎内容。Collecting and storing dynamic content from your Zhihu account for never lose.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
 - [zhbhun/rmbg](https://github.com/zhbhun/rmbg) - RMBG is a multi-platform image background removal tool that uses open-source AI models and ensures user privacy by processing images locally.
