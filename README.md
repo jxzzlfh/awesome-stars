@@ -1204,7 +1204,7 @@
 - [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 - [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
 - [Woolverine94/biniou](https://github.com/Woolverine94/biniou) - a self-hosted webui for 30+ generative ai
-- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot | Twitter Streaming API
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [SubConv/SubConv](https://github.com/SubConv/SubConv) - Yet Another Subscription Converter for Clash
@@ -1644,6 +1644,7 @@
 
 ## TypeScript 
 
+- [jose-donato/ollama-reply](https://github.com/jose-donato/ollama-reply) - open-source browser extension that leverages the power of the AI to generate engaging replies for social media growth.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [zhbhun/rmbg](https://github.com/zhbhun/rmbg) - RMBG is a multi-platform image background removal tool that uses open-source AI models and ensures user privacy by processing images locally.
 - [MohamedBassem/hoarder-app](https://github.com/MohamedBassem/hoarder-app) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
