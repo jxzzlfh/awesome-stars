@@ -401,7 +401,7 @@
 
 - [shenjinti/fgpt](https://github.com/shenjinti/fgpt) - A free reverse proxy and CLI tool for OpenAI GPT-3.5-turbo.
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
-- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter Scraper | Twitter Internal API  | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter API Scraper | Twitter Internal API  | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
 - [Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [nxtrace/NTrace-V1](https://github.com/nxtrace/NTrace-V1) - NextTrace Dev
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
@@ -589,7 +589,7 @@
 
 ## bot 
 
-- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter Scraper | Twitter Internal API  | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter API Scraper | Twitter Internal API  | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
 - [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 - [nikstar/greader](https://github.com/nikstar/greader) - G Reader is a simple RSS feed reader bot for Telegram
 - [cheungchazz/WeChat-AIChatbot-WinOnly](https://github.com/cheungchazz/WeChat-AIChatbot-WinOnly) - 基于chatgpt-on-wechat框架，只能运行在Win平台的项目，通过本项目可以将微信或者企业微信个人号接入ChatGpt、文心一言、FastGpt、LinkAI，可以文字对话、语音对话、图片交互、文件交互等。
@@ -3299,7 +3299,7 @@
 ## python 
 
 - [arry-lee/wereader](https://github.com/arry-lee/wereader) - 一个功能全面的微信读书笔记助手 wereader
-- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter Scraper | Twitter Internal API  | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter API Scraper | Twitter Internal API  | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -3381,7 +3381,7 @@
 
 ## python3 
 
-- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter Scraper | Twitter Internal API  | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter API Scraper | Twitter Internal API  | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
 - [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.
 - [fangxx3863/telegraph2epub](https://github.com/fangxx3863/telegraph2epub) - download telegraph content as epub or cbz
 - [ZYKsslm/BlackStone_Music_GUI](https://github.com/ZYKsslm/BlackStone_Music_GUI) - 一个简约的音乐下载工具
@@ -3856,7 +3856,7 @@
 
 ## twitter 
 
-- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter Scraper | Twitter Internal API  | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
+- [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter API Scraper | Twitter Internal API  | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
 - [AmbroseX/Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 - [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
