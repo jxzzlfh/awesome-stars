@@ -1683,7 +1683,7 @@
 - [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
-- [reorproject/reor](https://github.com/reorproject/reor) - Private & offline AI personal knowledge management app.
+- [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [synchronicity-labs/translation-starter](https://github.com/synchronicity-labs/translation-starter) - 
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
 - [langchain-ai/chat-langchainjs](https://github.com/langchain-ai/chat-langchainjs) - 💬 Chat with the LangChain JS/TS documentation, with sources. 💬
