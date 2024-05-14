@@ -851,7 +851,7 @@
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
-- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 幕境 - 使用自己感兴趣的电影、美剧或文档，生成词库（单词本）。在记忆单词时，可以用键盘打字，练习拼写并观看相关的视频片段，以便更好的理解和记忆单词。播放电影时，以弹幕的形式复习词库中的单词。
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
@@ -1199,7 +1199,7 @@
 ## Python 
 
 - [Alpha-VLLM/Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Lumina-T2X is a unified framework for Text to Any Modality Generation
-- [alibaba-damo-academy/FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open-source, accurate and easy-to-use video clipping tool | 开源、精准、方便的视频切片工具
+- [alibaba-damo-academy/FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open-source, accurate and easy-to-use video clipping tool, LLM intergrated || 开源、精准、方便的视频切片工具，集成了大语言模型功能
 - [zjrwtx/AIgene_anki](https://github.com/zjrwtx/AIgene_anki) - 基于零一万物等AI视觉大模型简单几步就能批量生成Anki图片笔记
 - [aceway/weixin-dyh-ai](https://github.com/aceway/weixin-dyh-ai) - 一个支持将微信订阅号接入AI的后台管理系统。
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
@@ -1400,7 +1400,7 @@
 - [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
 - [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
 - [dandelionsllm/pandallm](https://github.com/dandelionsllm/pandallm) - Panda项目是于2023年5月启动的开源海外中文大语言模型项目，致力于大模型时代探索整个技术栈，旨在推动中文自然语言处理领域的创新和合作。
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信 公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信 公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [tpai/summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, PDFs, and YouTube videos.
 - [peterw/Chat-with-Github-Repo](https://github.com/peterw/Chat-with-Github-Repo) - This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.
@@ -1525,7 +1525,7 @@
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [shenjinti/fgpt](https://github.com/shenjinti/fgpt) - A free reverse proxy and CLI tool for OpenAI GPT-3.5-turbo.
 - [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat & Copilot that integrates 10+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat & Copilot that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek...
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
