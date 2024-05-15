@@ -572,6 +572,7 @@
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [missuo/FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 - [DLillard0/auto-mark](https://github.com/DLillard0/auto-mark) - 利用 chatgpt 实现自动收藏网站到最佳书签栏的谷歌浏览器插件
+- [wizardAEI/Gomoon](https://github.com/wizardAEI/Gomoon) - Gomoon 基于大模型的桌面端效率工具
 - [electh/ReactFlux](https://github.com/electh/ReactFlux) - Simple RSS reader for Miniflux
 - [embernet/sidekick](https://github.com/embernet/sidekick) - Sidekick is an AI powered tool that uses the OpenAI API and GPT-4 model for thinking, exploring ideas, problem-solving, knowledge-building, and getting things done.
 - [yaohaixiao/outline.js](https://github.com/yaohaixiao/outline.js) - outline.js - 自动生成文章导读（Table of Contents）导航的 JavaScript 工具。会自动分析文章中的标题（ h1~h6 ）标签，并生成文章段落层次结构的导读导航菜单。
@@ -837,7 +838,7 @@
 - [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) - 有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
-- [hefengbao/jingmo](https://github.com/hefengbao/jingmo) - 『京墨』开源的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读APP
+- [hefengbao/jingmo](https://github.com/hefengbao/jingmo) - 『京墨』开源的中华文化宝典，诗（词）文（名句）、歇后语、成语、绕口令、传统节日、传统色、节气、汉字、人物等。
 - [wangchenyan/ponymusic](https://github.com/wangchenyan/ponymusic) - An Android online music player like NetEase Cloud Music, based on Media3 and ExoPlayer
 - [jing332/AlistAndroid](https://github.com/jing332/AlistAndroid) - AList 安卓版本，APK安装即用，无需Root或Termux。
 - [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
@@ -1122,7 +1123,6 @@
 - [SiGool/Gzh2typecho](https://github.com/SiGool/Gzh2typecho) - 微信公众号对话发布typecho文章
 - [andrii-kryvoviaz/slink](https://github.com/andrii-kryvoviaz/slink) - Self-hosted image sharing service.
 - [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
-- [netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr) - 彩虹聚合DNS管理系统
 - [tznb1/TwoNav](https://github.com/tznb1/TwoNav) - TwoNav 第二代云导航|云书签管理系统
 - [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
 - [Lete114/Vercel-Typecho](https://github.com/Lete114/Vercel-Typecho) - Vercel 免费部署 Typecho 博客 | Vercel Free Deploy Typecho Blog
@@ -1201,7 +1201,7 @@
 
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [Alpha-VLLM/Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Lumina-T2X is a unified framework for Text to Any Modality Generation
-- [alibaba-damo-academy/FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open-source, accurate and easy-to-use video clipping tool, LLM based AI clipping intergrated || 开源、精准、方便的视频切片工具，集成了大语言模型AI智能剪辑功能
+- [alibaba-damo-academy/FunClip](https://github.com/alibaba-damo-academy/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 - [zjrwtx/AIgene_anki](https://github.com/zjrwtx/AIgene_anki) - 基于零一万物等AI视觉大模型简单几步就能批量生成Anki图片笔记
 - [aceway/weixin-dyh-ai](https://github.com/aceway/weixin-dyh-ai) - 一个支持将微信订阅号接入AI的后台管理系统。
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
@@ -1286,7 +1286,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 
 - [Wannabeasmartguy/GPT-Gradio-Agent](https://github.com/Wannabeasmartguy/GPT-Gradio-Agent) - Create your own GPT intelligent assistants using Azure OpenAI, Ollama, and local models, build and manage local knowledge bases, and expand your horizons with AI search engines. 使用 Azure OpenAI、Ollama
-- [alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models. ｜语音识别工具包，包含丰富的性能优越的开源预训练模型，支持语音识别、语音端点检测、文本后处理等，具备服务部署能力。
+- [alibaba-damo-academy/FunASR](https://github.com/alibaba-damo-academy/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 7 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
 - [Ink-Osier/PandoraToV1Api](https://github.com/Ink-Osier/PandoraToV1Api) - 站在巨人的肩膀上的项目，感谢zhile大佬的Pandora-Next项目
 - [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
@@ -1692,7 +1692,6 @@
 - [polywock/globalSpeed](https://github.com/polywock/globalSpeed) - Web extension to set a default speed for video and audio
 - [AmbroseX/Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 - [youngle316/cover-paint](https://github.com/youngle316/cover-paint) - 🖌️ cover create tool
-- [wizardAEI/Gomoon](https://github.com/wizardAEI/Gomoon) - Gomoon 基于大模型的桌面端效率工具
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
 - [zobor/photo-relay](https://github.com/zobor/photo-relay) - Allowing You To Easily Create High Quality Cover Images
 - [1943time/bluestone](https://github.com/1943time/bluestone) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
