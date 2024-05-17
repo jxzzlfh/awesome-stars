@@ -1525,6 +1525,7 @@
 
 ## Rust 
 
+- [lbl8603/vnt](https://github.com/lbl8603/vnt) - A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [shenjinti/fgpt](https://github.com/shenjinti/fgpt) - A free reverse proxy and CLI tool for OpenAI GPT-3.5-turbo.
 - [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
@@ -1664,6 +1665,7 @@
 
 ## TypeScript 
 
+- [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [llaoj/gcopy](https://github.com/llaoj/gcopy) - A clipboard synchronization service for different devices that can synchronize text, screenshots, and files.
 - [GarinZ/link-map](https://github.com/GarinZ/link-map) - Tree style tab mananger for Chrome and Edge, Tabs Outliner alternative
