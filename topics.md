@@ -283,7 +283,7 @@
 - [AI-Prompt-Genius/AI-Prompt-Genius](https://github.com/AI-Prompt-Genius/AI-Prompt-Genius) - Curate a custom library of AI Prompts
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
@@ -749,7 +749,7 @@
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 - [bapaws/answer](https://github.com/bapaws/answer) - 小答是一款基于 ChatGPT API 的开源客户端。Chat Answer is an open source app based on ChatGPT.
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
-- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
+- [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [sailist/chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) - An all-in-one plugin to improve your ChatGPT experience!
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -2399,6 +2399,7 @@
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome web extension for switching search engines, can also search anything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus an
 - [adevinwild/micro-scale](https://github.com/adevinwild/micro-scale) - Use this open-source image upscaling web app template for your Next.js project. Powered by Replicate AI.
+- [filesite-io/machete](https://github.com/filesite-io/machete) - Filesite.io源码,  一个无数据库、基于文件和目录的Markdown文档、网址导航、图书、图片、视频网站PHP开源系统。
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
@@ -2695,7 +2696,6 @@
 - [YaoZeyuan/stablog](https://github.com/YaoZeyuan/stablog) - 稳部落. 专业备份导出微博记录, 稳!
 - [InDarkWings/CloudMusicURLToMP3](https://github.com/InDarkWings/CloudMusicURLToMP3) - 网易云外放链接转换器
 - [kihlh/WxDatViewerAutoExportRust](https://github.com/kihlh/WxDatViewerAutoExportRust) - (WxAutoExIm) 自动备份wx聊天图片到指定位置
-- [filesite-io/machete](https://github.com/filesite-io/machete) - Filesite.io源码,  一个无数据库、基于文件和目录的Markdown文档、网址导航、图书、图片、视频网站PHP开源系统。
 - [StartHua/video_summarize](https://github.com/StartHua/video_summarize) - video_summarize（视频总结：上传视频通过prompt对视频内容经行总结输出）
 - [1eez/103976](https://github.com/1eez/103976) - 103976个英语单词库（sql版，csv版，Excel版）包含英文单词，中文翻译，单词的词性及多种词义,执行SQL语句就可以生成表，支持SQL Server，MySQL等多种数据库
 - [fluent-ai/fluent-ai](https://github.com/fluent-ai/fluent-ai) - Lean flowchart based automations for AI
