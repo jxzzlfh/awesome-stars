@@ -295,7 +295,7 @@
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - Hier findest du das wohl einfachste und benutzerfreundlichste Chat-Script für die OpenAI-API GPT 3.5-tubro und GPT 4. Das Script benötigt kein Framework und du kannst es ohne Vorkenntnisse verwenden. 
@@ -775,7 +775,7 @@
 - [gregives/recommend.domains](https://github.com/gregives/recommend.domains) - Find the perfect domain name for your next project
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [cosin2077/chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 - [zhuweiyou/chatgpt-api](https://github.com/zhuweiyou/chatgpt-api) - 封装 OpenAI 网页版最新 ChatGPT 接口, 不需要使用 API Key, 完全免费
 - [yuezk/chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
@@ -1115,7 +1115,7 @@
 - [soulteary/docker-cronicle](https://github.com/soulteary/docker-cronicle) - Best Cron Docker Self-Hosted, Simple, lightweight, beautiful webui Cronjob / Scheduled task docker solution.
 - [timo-reymann/yal](https://github.com/timo-reymann/yal) - A simple link hub, to display and search links. Allows easy branding, runs with the least privileges and is simple to use.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors) - LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
@@ -1901,7 +1901,7 @@
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
@@ -2073,7 +2073,7 @@
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [estepona/wx-read-desktop](https://github.com/estepona/wx-read-desktop) - 一个极简版微信读书桌面客户端
@@ -2434,6 +2434,8 @@
 
 ## others 
 
+- [Athlon1600/notepad](https://github.com/Athlon1600/notepad) - :page_facing_up: Web-based application for storing notes securely. Built with Vue + Node.js + Express
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit) - A user-friendly toolkit for audio processing, voice transcribing, voice converting etc.
 - [code-innovator-zyx/wechat-gptbot](https://github.com/code-innovator-zyx/wechat-gptbot) - 微信聊天机器人，支持群聊和私信
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
@@ -4037,7 +4039,7 @@
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) - 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - A modern GUI App for downloading Videos and Audios from hundreds of sites
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 
 ## vim 
 
@@ -4163,7 +4165,7 @@
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. Engl
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 - [charlestang/HexoPress](https://github.com/charlestang/HexoPress) - A multi-platform client that offers a user-friendly article editing interface and content management system for Hexo-based blogs.  为基于 Hexo 的博客，提供友好易用的文章编辑界面和内容管理系统的，开源博客软件。
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -4202,7 +4204,7 @@
 - [Synaptrix/ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) - Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
