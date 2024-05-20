@@ -1136,7 +1136,7 @@
 - [imkero/typecho-theme-icarus](https://github.com/imkero/typecho-theme-icarus) - Hexo 主题 Icarus (by Ruipeng Zhang) 的 Typecho 移植版本
 - [guanguans/music-dl](https://github.com/guanguans/music-dl) - Music Searcher and Downloader. - 音乐搜索下载器。
 - [changbin1997/Facile](https://github.com/changbin1997/Facile) - 一个简洁的 Typecho 博客主题
-- [filesite-io/machete](https://github.com/filesite-io/machete) - Filesite.io源码,  一个无数据库、基于文件和目录的Markdown文档、网址导航、图书、图片、视频网站PHP开源系统。
+- [filesite-io/machete](https://github.com/filesite-io/machete) - PHP实现的无数据库、基于文件和目录的Markdown文档、网址导航、图片、视频网站、视频分享网站开源系统。
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
@@ -1202,6 +1202,7 @@
 
 ## Python 
 
+- [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，⚡检测广告，🌱自动群发，👯Ai回复，😄自定义程度丰富，小白也可轻松上手！
 - [open-kf/rag-gpt](https://github.com/open-kf/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit) - A user-friendly toolkit for audio processing, voice transcribing, voice converting etc.
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
