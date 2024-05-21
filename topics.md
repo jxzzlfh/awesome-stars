@@ -2438,6 +2438,7 @@
 
 ## others 
 
+- [usememos/telegram-integration](https://github.com/usememos/telegram-integration) - 
 - [Athlon1600/notepad](https://github.com/Athlon1600/notepad) - :page_facing_up: Web-based application for storing notes securely. Built with Vue + Node.js + Express
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit) - A user-friendly toolkit for audio processing, voice transcribing, voice converting etc.
