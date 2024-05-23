@@ -1122,6 +1122,7 @@
 
 ## PHP 
 
+- [kannafay/iEmo](https://github.com/kannafay/iEmo) - 简约感设计WordPress主题
 - [cedar2025/Xboard](https://github.com/cedar2025/Xboard) - 基于V2board二次开发支持新协议新特性的高性能面板
 - [zyx0814/Pichome](https://github.com/zyx0814/Pichome) - 一款图片与媒体文件管理功能强大的开源网盘程序
 - [SiGool/Gzh2typecho](https://github.com/SiGool/Gzh2typecho) - 微信公众号对话发布typecho文章
