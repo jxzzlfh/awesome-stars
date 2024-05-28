@@ -2945,7 +2945,7 @@
 - [peterw/Chat-with-Github-Repo](https://github.com/peterw/Chat-with-Github-Repo) - This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.
 - [jackfrued/Python-Core-50-Courses](https://github.com/jackfrued/Python-Core-50-Courses) - Python语言基础50课
 - [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 - [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 - [blackhole89/notekit](https://github.com/blackhole89/notekit) - A GTK3 hierarchical markdown notetaking application with tablet support.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
