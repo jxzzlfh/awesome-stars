@@ -814,6 +814,7 @@
 
 ## Jupyter Notebook 
 
+- [yihong0618/ChatTTS](https://github.com/yihong0618/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
@@ -996,7 +997,7 @@
 - [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
 - [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) - A Chinese serif font derived from IPAmj Mincho. 一款衍生于「IPAmj明朝」的中文宋体字型。
 - [RipplePiam/MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥 【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
-- [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
+- [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型
 - [DustinWin/clash_singbox-tutorials](https://github.com/DustinWin/clash_singbox-tutorials) - Clash 和 sing-box 教程合集——安装、配置、自定义规则
 - [zhaoyun0071/DragGAN-Windows-GUI](https://github.com/zhaoyun0071/DragGAN-Windows-GUI) - 
 - [xdite/learn-hack](https://github.com/xdite/learn-hack) - 打造超人學習
@@ -1306,7 +1307,7 @@
 - [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 
 - [Wannabeasmartguy/GPT-Gradio-Agent](https://github.com/Wannabeasmartguy/GPT-Gradio-Agent) - Create your own GPT intelligent assistants using Azure OpenAI, Ollama, and local models, build and manage local knowledge bases, and expand your horizons with AI search engines. 使用 Azure OpenAI、Ollama
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
-- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 7 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
+- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - An 8 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
 - [Ink-Osier/PandoraToV1Api](https://github.com/Ink-Osier/PandoraToV1Api) - 站在巨人的肩膀上的项目，感谢zhile大佬的Pandora-Next项目
 - [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
 - [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
@@ -1836,7 +1837,7 @@
 - [hyoban/kirika](https://github.com/hyoban/kirika) - A simple tool to convert your notes between different platforms
 - [siranshen/small-talk](https://github.com/siranshen/small-talk) - Language learning through small talks. Sorry, but I'm no longer providing web hosting as the bills are getting big. Please follow the instructions in README for deploying the project yourself.
 - [weaigc/gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - A tool that can automatically convert 🤗 Huggingface Spaces,魔搭创空间 and Gradio ChatBot into free APIs. Supports GPT4Free,ChatGPT,Llama2,MPT,Falcon Chat,ChatGLM,通义千问 and many other chatbot like spaces.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions
 - [UNICKCHENG/openai-proxy](https://github.com/UNICKCHENG/openai-proxy) - openai-proxy is a solution provided for Chinese users to address the issue of being unable to make requests to the OpenAI API.
 - [notea-org/notea](https://github.com/notea-org/notea) - 📒 Self hosted note taking app stored on S3
 - [chieapp/chie](https://github.com/chieapp/chie) - An extensive desktop app for ChatGPT and other LLMs.
