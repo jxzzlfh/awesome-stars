@@ -2225,6 +2225,7 @@
 
 ## music 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱/红米音箱播放音乐，音乐使用 yt-dlp 下载。
@@ -2448,6 +2449,8 @@
 
 ## others 
 
+- [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 摄影佬专用 ⌈相片集⌋，基于 Next.js 开发。
+- [RandallAnjie/moments](https://github.com/RandallAnjie/moments) - 极简朋友圈
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) - ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
@@ -3784,6 +3787,7 @@
 
 ## server 
 
+- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) - 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox app using Flutter
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
@@ -3983,6 +3987,7 @@
 
 ## twitter 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [AmbroseX/Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 - [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
@@ -4165,6 +4170,7 @@
 
 ## webapp 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 - [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
 - [felladrin/MiniSearch](https://github.com/felladrin/MiniSearch) - Minimalist web-searching app with an AI assistant that runs directly from your browser. Uses Web-LLM, Ratchet-ML, Wllama and SearXNG. Demo: https://felladrin-minisearch.hf.space
