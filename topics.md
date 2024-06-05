@@ -1125,6 +1125,7 @@
 
 ## docker 
 
+- [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [soulteary/docker-cronicle](https://github.com/soulteary/docker-cronicle) - Best Cron Docker Self-Hosted, Simple, lightweight, beautiful webui Cronjob / Scheduled task docker solution.
@@ -2214,6 +2215,7 @@
 
 ## mongodb 
 
+- [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) - JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
@@ -2375,6 +2377,7 @@
 
 ## nodejs 
 
+- [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 - [charlestang/HexoPress](https://github.com/charlestang/HexoPress) - A multi-platform client that offers a user-friendly article editing interface and content management system for Hexo-based blogs.  为基于 Hexo 的博客，提供友好易用的文章编辑界面和内容管理系统的，开源博客软件。
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
