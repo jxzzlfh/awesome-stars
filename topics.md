@@ -1382,6 +1382,7 @@
 
 ## framework 
 
+- [OXeu/Rin](https://github.com/OXeu/Rin) - ⚡️Rin 是一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客，无需服务器无需备案，只需要一个解析到 Cloudflare 的域名即可部署。
 - [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/
@@ -2521,7 +2522,7 @@
 - [lessapi-dev/lessapi-duckduckgo](https://github.com/lessapi-dev/lessapi-duckduckgo) - LessAPI-DuckDuckGo is an API service for a search engine. Simple, lightweight, reliable, Docker deployable, easy to maintain. 一个基于DuckDuckGo的搜索引擎API服务。简单、轻量、可靠、Docker部署、易于维护。
 - [seanzhang-zhichen/llama3-chinese](https://github.com/seanzhang-zhichen/llama3-chinese) - Llama3-Chinese是以Meta-Llama-3-8B为底座，使用 DORA + LORA+ 的训练方法，在50w高质量中文多轮SFT数据 + 10w英文多轮SFT数据 + 2000单轮自我认知数据训练而来的大模型。
 - [QwenLM/CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5) - CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
-- [QwenLM/Qwen1.5](https://github.com/QwenLM/Qwen1.5) - Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
+- [QwenLM/Qwen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
 - [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
@@ -3594,6 +3595,7 @@
 
 ## react 
 
+- [OXeu/Rin](https://github.com/OXeu/Rin) - ⚡️Rin 是一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客，无需服务器无需备案，只需要一个解析到 Cloudflare 的域名即可部署。
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
@@ -4185,6 +4187,7 @@
 
 ## web 
 
+- [OXeu/Rin](https://github.com/OXeu/Rin) - ⚡️Rin 是一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客，无需服务器无需备案，只需要一个解析到 Cloudflare 的域名即可部署。
 - [marcolivierbouch/OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 - [nini22P/omp](https://github.com/nini22P/omp) - OMP - OneDrive Media Player on the web / 网页端 OneDrive 媒体播放器
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
