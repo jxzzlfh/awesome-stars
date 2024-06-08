@@ -134,7 +134,7 @@
 - [Rambalac/JoinerSplitter](https://github.com/Rambalac/JoinerSplitter) - Fast video joiner/splitter using ffmpeg codec copy
 - [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 - [samhocevar/wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
-- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - The stylish yet powerful GitHub client for Windows.
+- [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - The best, stylish yet powerful GitHub client for Windows.
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发
 - [differentrain/Delapp](https://github.com/differentrain/Delapp) - A simple tool to delete files or folders in Windows
@@ -1220,6 +1220,7 @@
 
 ## Python 
 
+- [lenML/ChatTTS-Forge](https://github.com/lenML/ChatTTS-Forge) - 🍦 ChatTTS-Forge 提供了完善的 ChatTTS 封装，包括 API WebUI Playground 等，新功能持续开发中 🚀
 - [THUDM/GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
 - [Gouryella/ChatTTS-webui](https://github.com/Gouryella/ChatTTS-webui) - A Web UI developed based on ChatTTS, implemented using Nuxt 3 and Ant Design.
 - [6drf21e/ChatTTS_colab](https://github.com/6drf21e/ChatTTS_colab) - 🚀 一键部署（含离线整合包）！基于 ChatTTS ，支持音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
