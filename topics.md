@@ -2485,7 +2485,7 @@
 - [ultrasev/llmproxy](https://github.com/ultrasev/llmproxy) - 一个基于 cloudflare worker 的 LLM API 反向代理，支持 OpenAI, Gemini, Groq 等平台。接口兼容 OpenAI API 规范，可以直接使用 OpenAI SDK 调用。
 - [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。
 - [yihong0618/ChatTTS](https://github.com/yihong0618/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
-- [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - 摄影佬专用 ⌈相片集⌋，基于 Next.js 开发。
+- [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - PicImpact 是一个摄影师专用的摄影作品展示网站，基于 Next.js 开发。
 - [RandallAnjie/moments](https://github.com/RandallAnjie/moments) - (极简)朋友圈
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) - ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O
