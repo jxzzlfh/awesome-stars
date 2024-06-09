@@ -2483,7 +2483,7 @@
 - [ultrasev/ChatTTS](https://github.com/ultrasev/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [ultrasev/stream-whisper](https://github.com/ultrasev/stream-whisper) - 基于 faster-whisper 的伪实时语音转写服务
 - [ultrasev/llmproxy](https://github.com/ultrasev/llmproxy) - 一个基于 cloudflare worker 的 LLM API 反向代理，支持 OpenAI, Gemini, Groq 等平台。接口兼容 OpenAI API 规范，可以直接使用 OpenAI SDK 调用。
-- [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。
+- [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces.
 - [yihong0618/ChatTTS](https://github.com/yihong0618/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [besscroft/PicImpact](https://github.com/besscroft/PicImpact) - PicImpact 是一个摄影师专用的摄影作品展示网站，基于 Next.js 开发。
 - [RandallAnjie/moments](https://github.com/RandallAnjie/moments) - (极简)朋友圈
