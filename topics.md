@@ -2491,6 +2491,7 @@
 
 ## others 
 
+- [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
 - [GSQZ/TuneFree](https://github.com/GSQZ/TuneFree) - 一款基于Splayer进行二次开发的音乐播放器，可解析并播放网易云音乐中所有的付费资源。
 - [srcrs/rss-reader](https://github.com/srcrs/rss-reader) - 一个极简的RSS在线浏览工具
 - [2404589803/hf-daily-paper-newsletter-chinese](https://github.com/2404589803/hf-daily-paper-newsletter-chinese) - HF🤗每日简报机器人
