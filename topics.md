@@ -475,6 +475,7 @@
 
 ## automation 
 
+- [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
@@ -1983,7 +1984,7 @@
 - [LLM-Red-Team/step-free-api](https://github.com/LLM-Red-Team/step-free-api) - 🚀 跃问YueWen 多模态大模型逆向API白嫖测试【特长：超强多模态】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api) - 🚀 聆心智能 Emohaa情感陪伴大模型逆向API白嫖测试【特长：共情能力】，支持高速流式输出、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/glm-free-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型逆向API白嫖测试【特长：超强智能体】，支持高速流式输出、支持智能体对话、支持多轮对话、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀🚀🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
 - [cognitivetech/llm-long-text-summarization](https://github.com/cognitivetech/llm-long-text-summarization) - LLM for Long Text Summary (Comprehensive Bulleted Notes) : Walkthrough and Model Rankings
 - [MLT-OSS/open-assistant-api](https://github.com/MLT-OSS/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It
 - [ymcui/Chinese-Mixtral](https://github.com/ymcui/Chinese-Mixtral) - 中文Mixtral混合专家大模型（Chinese Mixtral MoE LLMs）
