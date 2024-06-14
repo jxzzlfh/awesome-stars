@@ -4225,6 +4225,7 @@
 
 ## web 
 
+- [x007xyz/fly-cut](https://github.com/x007xyz/fly-cut) - A web-based video editing tool implemented with WebCodecs, similar to CapCut Web.使用webcodecs实现的Web端视频编辑工具，类似剪映Web版。
 - [OXeu/Rin](https://github.com/OXeu/Rin) - ⚡️Rin 是一个基于 Cloudflare Pages + Workers + D1 + R2 全家桶的博客，无需服务器无需备案，只需要一个解析到 Cloudflare 的域名即可部署。
 - [marcolivierbouch/OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 - [nini22P/omp](https://github.com/nini22P/omp) - OMP - OneDrive Media Player on the web / 网页端 OneDrive 媒体播放器
