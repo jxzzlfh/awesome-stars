@@ -935,6 +935,7 @@
 
 ## Others 
 
+- [DangJin/awesome-iptv](https://github.com/DangJin/awesome-iptv) - 收录了超过180个高清频道，含CCTV系和地方卫视，还有国际频道！
 - [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo/Clash.Meta/Clash GUI.一个简易的 Mihomo/Clash.Meta/Clash 桌面客户端。
 - [panyanyany/Awesome-ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS) - ChatTTS资源大全，免费体验地址，音色库等
 - [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
