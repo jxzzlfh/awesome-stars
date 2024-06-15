@@ -2497,6 +2497,7 @@
 
 ## others 
 
+- [DangJin/awesome-iptv](https://github.com/DangJin/awesome-iptv) - 收录了超过180个高清频道，含CCTV系和地方卫视，还有国际频道！
 - [hulunote/hulunote](https://github.com/hulunote/hulunote) - hulunote, a tool for networked thought, think different
 - [ftyszyx/feishu-vitepress](https://github.com/ftyszyx/feishu-vitepress) - 用飞书写博客,并自动部署
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
