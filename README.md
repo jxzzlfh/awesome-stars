@@ -258,6 +258,7 @@
 
 ## Clojure 
 
+- [hulunote/hulunote](https://github.com/hulunote/hulunote) - hulunote, a tool for networked thought, think different
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## CoffeeScript 
