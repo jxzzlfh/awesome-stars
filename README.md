@@ -721,7 +721,7 @@
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [souying/serverMmon](https://github.com/souying/serverMmon) - 青蛇探针（servermmon）、nodeJs、云探针、多服务器探针、云监控、多服务器云监控，演示：http://106.126.11.114:5999
-- [doggy8088/ChatGPTToolkitExtension](https://github.com/doggy8088/ChatGPTToolkitExtension) - 提升 ChatGPT 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。
+- [doggy8088/ChatGPTToolkitExtension](https://github.com/doggy8088/ChatGPTToolkitExtension) - 提升 ChatGPT, Gemini, Claude, phind, Groq 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [jonathontoon/manifest](https://github.com/jonathontoon/manifest) - An instant grid-based pinboard for note taking in your browser.
@@ -1524,7 +1524,7 @@
 - [simplecelery/stellar-m3u8Download](https://github.com/simplecelery/stellar-m3u8Download) - 
 - [simplecelery/stellar-lives](https://github.com/simplecelery/stellar-lives) - 恒星电视插件
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
+- [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [willmcgugan/textual-markdown](https://github.com/willmcgugan/textual-markdown) - 
 - [vas3k/infomate.club](https://github.com/vas3k/infomate.club) - RSS feed aggregator with collections and NLP article summarization
