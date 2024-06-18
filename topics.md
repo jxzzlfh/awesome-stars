@@ -636,6 +636,7 @@
 - [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - ✨ A chrome extension that lets you chat with youtube videos
 - [marcolivierbouch/OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
 - [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. Engl
 - [yonggekkk/warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本，支持warp-go与wgcf切换，无限生成warp配置文件，支持升级warp+、warp团队账户，查看VPS本地IP、netflix、chatgpt解锁状态
@@ -1238,7 +1239,7 @@
 ## electron 
 
 - [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. Engl
-- [1943time/bluestone](https://github.com/1943time/bluestone) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
+- [1943time/inkdown](https://github.com/1943time/inkdown) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
 - [ttqftech/FFBox](https://github.com/ttqftech/FFBox) - 一个多媒体转码百宝箱 / 一个 FFmpeg 的套壳
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 - [charlestang/HexoPress](https://github.com/charlestang/HexoPress) - A multi-platform client that offers a user-friendly article editing interface and content management system for Hexo-based blogs.  为基于 Hexo 的博客，提供友好易用的文章编辑界面和内容管理系统的，开源博客软件。
@@ -1317,6 +1318,7 @@
 
 ## english 
 
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
 - [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
 - [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
@@ -1980,6 +1982,7 @@
 - [lenML/ChatTTS-Forge](https://github.com/lenML/ChatTTS-Forge) - 🍦 ChatTTS-Forge is a project developed around the TTS generation model ChatTTS, implementing an API Server and a Gradio-based WebUI.
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [gpt-open/rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
@@ -2155,7 +2158,7 @@
 
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
-- [1943time/bluestone](https://github.com/1943time/bluestone) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
+- [1943time/inkdown](https://github.com/1943time/inkdown) - A WYSIWYG Markdown editor, improve reading and editing experience. and generate your Markdown files into online documents in the easiest and fastest way.
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -2505,6 +2508,7 @@
 
 ## others 
 
+- [6drf21e/ChatTTS_Speaker](https://github.com/6drf21e/ChatTTS_Speaker) - ChatTTS 2000条音色稳定性打分🥇+区分男女年龄👧+在线试听🔈    ChatTTS 2K Speaker Stability Score  & Categorized by Gender and Age  & Audio Preview
 - [hulunote/hulunote](https://github.com/hulunote/hulunote) - hulunote, a tool for networked thought, think different
 - [ftyszyx/feishu-vitepress](https://github.com/ftyszyx/feishu-vitepress) - 用飞书写博客,并自动部署
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
@@ -2530,7 +2534,6 @@
 - [RandallAnjie/moments](https://github.com/RandallAnjie/moments) - (极简)朋友圈
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) - ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O
-- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [joye61/pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
@@ -3488,6 +3491,7 @@
 
 ## python 
 
+- [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [gpt-open/rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
