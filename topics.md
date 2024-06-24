@@ -2515,6 +2515,9 @@
 
 ## others 
 
+- [jonssonyan/h-ui](https://github.com/jonssonyan/h-ui) - Just the panel for Hysteria2 / 仅仅是 Hysteria2 的面板
+- [xiaolai/most-common-american-idioms](https://github.com/xiaolai/most-common-american-idioms) - A book created by xiaolai with the help of ChatGPT and its TTS
+- [lowercase78/V2RayN-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN-Pro
 - [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个浏览器扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者比较有帮助。
 - [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - An intuitive tool for managing and exporting your local bookmarks into a shareable website.
 - [iamfugui/YouTubeADB](https://github.com/iamfugui/YouTubeADB) - 这是一个去除YouTube广告的脚本，轻量且高效，它能丝滑的去除界面广告和视频广告。This is a script that removes ads on YouTube, it's lightweight and efficient, capable of smoothly removing interface and video ads.
