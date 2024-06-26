@@ -1740,7 +1740,7 @@
 
 - [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个浏览器扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者比较有帮助。
 - [luyu0279/BrainyAI](https://github.com/luyu0279/BrainyAI) - a free and open-source browser sidebar plugin that offers a cost-free alternative to products like Sider, Monica, and Merlin.
-- [chengfengfengwang/lingo-link](https://github.com/chengfengfengwang/lingo-link) - a browser extension primarily designed for translation of selected text
+- [chengfengfengwang/lingo-link](https://github.com/chengfengfengwang/lingo-link) - 一个支持大模型的浏览器划词翻译插件 / a browser extension primarily designed for translation of selected text
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [ftyszyx/feishu-vitepress](https://github.com/ftyszyx/feishu-vitepress) - 用飞书写博客,并自动部署
 - [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
@@ -1891,7 +1891,7 @@
 - [btpf/Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
-- [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain
+- [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat（原Langchain-ChatGLM, Qwen 与 Llama 等）基于 Langchain 与 ChatGLM 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and 
 - [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 - [c121914yu/FastGPT](https://github.com/c121914yu/FastGPT) - A platform that uses the OpenAI API to quickly build an AI knowledge base, supporting many-to-many relationships.
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
