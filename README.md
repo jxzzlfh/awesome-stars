@@ -118,6 +118,7 @@
 
 ## C# # 
 
+- [Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用MAUI Blazor 构建。"SwashbucklerDiary" is an open source cross-platform local diary app using MAUI Blazor .
 - [Richasy/Rodel.Agent](https://github.com/Richasy/Rodel.Agent) - 支持主流在线 AI 服务的应用
 - [qwqcode/SubRenamer](https://github.com/qwqcode/SubRenamer) - 🎞 字幕文件批量改名工具 | Subtitle File Batch Renaming Tool with One-Click Automation and Intelligence
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
@@ -529,6 +530,7 @@
 
 ## Java 
 
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [LemonTreeLT/BParser](https://github.com/LemonTreeLT/BParser) - 这是一个自动将来自粘贴板的bilibili视频链接解析成图片加文字的程序
 - [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款基于tv.cctv.com和央视频的简易电视直播收看软件，用于方便的在机顶盒上收看电视节目
@@ -582,6 +584,7 @@
 
 ## JavaScript 
 
+- [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
 - [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card) - 流光卡片API
 - [iamfugui/YouTubeADB](https://github.com/iamfugui/YouTubeADB) - 这是一个去除YouTube广告的脚本，轻量且高效，它能丝滑的去除界面广告和视频广告。This is a script that removes ads on YouTube, it's lightweight and efficient, capable of smoothly removing interface and video ads.
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
@@ -1009,7 +1012,7 @@
 - [runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite) - 镜像网站合集
 - [debitCrossBlockchain/renzhengfei](https://github.com/debitCrossBlockchain/renzhengfei) - https://github.com/benmahr/RenZhengfei
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
-- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖
+- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【telegram百科】
 - [Makememo/MemoAI](https://github.com/Makememo/MemoAI) - MemoAI Video to translated text, subtitles and notes made easy.
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 - [KaringX/ClashPro](https://github.com/KaringX/ClashPro) - windows, iOS, MacOS released
