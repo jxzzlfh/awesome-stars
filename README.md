@@ -1249,6 +1249,7 @@
 
 ## Python 
 
+- [FutureUniant/Tailor](https://github.com/FutureUniant/Tailor) - Tailor是一款视频智能裁剪、视频生成和视频优化的工具。
 - [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF
 - [latorc/Wechat-AI-Assistant](https://github.com/latorc/Wechat-AI-Assistant) - 微信AI助理 (Wechat AI Assistant): 在微信中与 ChatGPT AI 助理进行多模态交互, 处理问答、扮演角色、响应语音消息、分析图片和视频、总结文章和网页链接、搜索互联网等等。
 - [6drf21e/ChatTTS_Speaker](https://github.com/6drf21e/ChatTTS_Speaker) - ChatTTS 2000条音色稳定性打分🥇+区分男女年龄👧+在线试听🔈    ChatTTS 2K Speaker Stability Score  & Categorized by Gender and Age  & Audio Preview
@@ -1744,6 +1745,7 @@
 
 ## TypeScript 
 
+- [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个浏览器扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者比较有帮助。
 - [luyu0279/BrainyAI](https://github.com/luyu0279/BrainyAI) - a free and open-source browser sidebar plugin that offers a cost-free alternative to products like Sider, Monica, and Merlin.
 - [chengfengfengwang/lingo-link](https://github.com/chengfengfengwang/lingo-link) - 一个支持大模型的浏览器划词翻译插件 / a browser extension primarily designed for translation of selected text
