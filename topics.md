@@ -4076,7 +4076,7 @@
 - [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【tg百科】
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
 - [tgscan-dev/tgscan](https://github.com/tgscan-dev/tgscan) - Streamline Your Telegram Searches: Find Channels, Groups, and Chat History Effortlessly.
-- [jackhawks/rectg](https://github.com/jackhawks/rectg) - After careful selection, we've picked the best from over 5000 Telegram groups, channels, and bots.
+- [jackhawks/rectg](https://github.com/jackhawks/rectg) - We have meticulously selected the best resources from over 5000 Telegram groups, channels, and bots. All content in this project is sourced from the internet and is intended solely for learning and te
 - [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Sl
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [ciuzaak/Claude-Telegram-Bot](https://github.com/ciuzaak/Claude-Telegram-Bot) - Anthropic Claude & Google Bard Bot for Telegram.
