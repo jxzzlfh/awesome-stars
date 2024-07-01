@@ -1591,7 +1591,6 @@
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
-- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [primihub/primihub](https://github.com/primihub/primihub) - Privacy-Preserving Computing Platform 由密码学专家团队打造的开源隐私计算平台，支持多方安全计算、联邦学习、隐私求交、匿踪查询等。
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
@@ -1784,7 +1783,7 @@
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player
+- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -2015,7 +2014,7 @@
 - [LLM-Red-Team/step-free-api](https://github.com/LLM-Red-Team/step-free-api) - 🚀 跃问YueWen 多模态大模型逆向API白嫖测试【特长：超强多模态】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api) - 🚀 聆心智能 Emohaa情感陪伴大模型逆向API白嫖测试【特长：共情能力】，支持高速流式输出、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/glm-free-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型逆向API白嫖测试【特长：超强智能体】，支持高速流式输出、支持智能体对话、支持多轮对话、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统，1Panel 官方出品。
 - [cognitivetech/llm-long-text-summarization](https://github.com/cognitivetech/llm-long-text-summarization) - LLM for Long Text Summary (Comprehensive Bulleted Notes) : Walkthrough and Model Rankings
 - [MLT-OSS/open-assistant-api](https://github.com/MLT-OSS/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It
 - [ymcui/Chinese-Mixtral](https://github.com/ymcui/Chinese-Mixtral) - 中文Mixtral混合专家大模型（Chinese Mixtral MoE LLMs）
@@ -2305,7 +2304,7 @@
 - [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web
 - [guanguans/music-dl](https://github.com/guanguans/music-dl) - Music Searcher and Downloader. - 音乐搜索下载器。
 - [ZYKsslm/BlackStone_Music_GUI](https://github.com/ZYKsslm/BlackStone_Music_GUI) - 一个简约的音乐下载工具
-- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player
+- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound
 - [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
@@ -2725,6 +2724,7 @@
 - [xiaopanglian/icefox](https://github.com/xiaopanglian/icefox) - Typecho微信朋友圈主题 icefox
 - [bingsanyu/feishu_minutes](https://github.com/bingsanyu/feishu_minutes) - 多线程上传/下载飞书妙记视频&SRT字幕 语音转文字 飞书爬虫
 - [mefengl/wereadhelper](https://github.com/mefengl/wereadhelper) - 读书人用的脚本
+- [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [besscroft/kamera](https://github.com/besscroft/kamera) - 一款专供摄影佬使用的记录网站，基于 Nuxt 3 开发，瀑布流展示图片，预览图片及 EXIF 信息，支持常见的图片格式。 可读取 EXIF 信息并上传、管理维护图片数据，首页精品照片展示，子页分类展示等功能。 图片存储兼容 S3 API、AList API、支持 CDN 配置。同时适配了 PC 和移动端的样式与交互。今天又是想当二次元摄影高手的一天呢！
 - [ihmily/image-matting](https://github.com/ihmily/image-matting) - a simple online image matting web based on cv_unet_image-matting and cv_unet_universal-matting model
 - [lihsimi/MemosToMarkdown](https://github.com/lihsimi/MemosToMarkdown) - Export the database of Memos to Markdown.
@@ -4240,7 +4240,7 @@
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
-- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player
+- [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 - [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
