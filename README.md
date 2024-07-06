@@ -948,7 +948,7 @@
 
 ## Others 
 
-- [DangJin/awesome-social-media-downloader](https://github.com/DangJin/awesome-social-media-downloader) - 👿 收录了一些能够免费下载油管、B 站、抖音等平台视频的下载工具。
+- [DangJin/awesome-social-media-downloader](https://github.com/DangJin/awesome-social-media-downloader) - 👿 收录了一些能够免费下载油管、B 站、抖音等平台视频的下载工具。Some download tools that can freely download videos from platforms such as YouTube, Bilibili, Douyin, etc. have been included.
 - [lowercase78/V2RayN-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN-Pro
 - [DangJin/awesome-iptv](https://github.com/DangJin/awesome-iptv) - 汇总了一些可用的网络电视频道（IPTV）集合的优秀项目
 - [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo/Clash.Meta/Clash GUI.
@@ -1249,6 +1249,7 @@
 
 ## Python 
 
+- [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
 - [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗
