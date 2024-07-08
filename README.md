@@ -1256,7 +1256,7 @@
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗
 - [FutureUniant/Tailor](https://github.com/FutureUniant/Tailor) - Tailor是一款视频智能裁剪、视频生成和视频优化的工具。
 - [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF
-- [latorc/Wechat-AI-Assistant](https://github.com/latorc/Wechat-AI-Assistant) - 微信AI助理 (Wechat AI Assistant): 在微信中与 ChatGPT AI 助理进行多模态交互, 处理问答、扮演角色、响应语音消息、分析图片和视频、总结文章和网页链接、搜索互联网等等。
+- [latorc/Wechat-AI-Assistant](https://github.com/latorc/Wechat-AI-Assistant) - 微信AI助理 (Wechat AI Assistant): 在微信中与 AI 助理进行多模态交互, 处理问答、扮演角色、响应语音消息、分析图片和视频、总结文章和网页链接、搜索互联网等等。现支持 OpenAI Assistant API 和 GPT-4o模型。
 - [6drf21e/ChatTTS_Speaker](https://github.com/6drf21e/ChatTTS_Speaker) - ChatTTS 2000条音色稳定性打分🥇+区分男女年龄👧+在线试听🔈    ChatTTS 2K Speaker Stability Score  & Categorized by Gender and Age  & Audio Preview
 - [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Websoft9 is web-based PaaS/Linux Panel for running open source
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
