@@ -21,6 +21,7 @@
 - [EJS](#ejs)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -270,7 +271,7 @@
 
 - [kangpeiqin/bilivideo_down](https://github.com/kangpeiqin/bilivideo_down) - A cross-platform（Win / MacOS） BiliBili Video downloader | 一款基于 Flutter 开发的桌面端 B 站视频下载器
 - [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-- [lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party ChatGPT Client for OpenAI API.
+- [lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party GPT Client for OpenAI API.
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
@@ -314,6 +315,10 @@
 ## Elm 
 
 - [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
+
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Go 
 
@@ -517,7 +522,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
 - [sapicd/sapic](https://github.com/sapicd/sapic) - sapic(picbed) - 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee、S3等，支持自定义扩展。
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [xiaolai/xiaolai.github.io](https://github.com/xiaolai/xiaolai.github.io) - an ever-growing brain
