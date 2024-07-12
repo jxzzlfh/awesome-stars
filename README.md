@@ -623,7 +623,6 @@
 - [sindresorhus/generate-github-markdown-css](https://github.com/sindresorhus/generate-github-markdown-css) - Generate the CSS for github-markdown-css
 - [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
-- [kylelin1998/TG-Sticker-Spreading-Worldwide](https://github.com/kylelin1998/TG-Sticker-Spreading-Worldwide) - Telegram贴纸库， 遇见你喜欢， 遇见你所爱
 - [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting) - 🥊  Free & Unlimited Image Hosting
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ Copilot in Google ｜ Gemini next to Google results
 - [EdenwareApps/Vimer](https://github.com/EdenwareApps/Vimer) - Vimer is an AI powered app with a hassle-free interface for adjusting audio and video.
@@ -1258,6 +1257,7 @@
 
 ## Python 
 
+- [JuergenFleiss/aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.
 - [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
 - [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
