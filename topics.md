@@ -347,6 +347,7 @@
 
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [sakethpathike/Linkora](https://github.com/sakethpathike/Linkora) - the only link utility app you need for Android
+- [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 - [jamie-mh/AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers,
@@ -2547,6 +2548,7 @@
 
 ## others 
 
+- [tsxcw/mtab](https://github.com/tsxcw/mtab) - Mtab书签导航程序 - 免费无广告的浏览器书签助手，多端同步、美观易用的在 线导航和书签工具，自主研发免费使用，帮助您高效管理 网页和应用，提升在线体验。
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 - [JuergenFleiss/aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.
 - [worldwonderer/promptdoc](https://github.com/worldwonderer/promptdoc) - Designed to manage a collection of Prompt templates for multiple versions, scenarios, and applicable models.
@@ -2574,7 +2576,6 @@
 - [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个浏览器扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者比较有帮助。
 - [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - An intuitive tool for managing and exporting your local bookmarks into a shareable website.
 - [iamfugui/YouTubeADB](https://github.com/iamfugui/YouTubeADB) - 这是一个去除YouTube广告的脚本，轻量且高效，它能丝滑的去除界面广告和视频广告。This is a script that removes ads on YouTube, it's lightweight and efficient, capable of smoothly removing interface and video ads.
-- [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [lmm214/Pake](https://github.com/lmm214/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [luyu0279/BrainyAI](https://github.com/luyu0279/BrainyAI) - a free and open-source browser sidebar plugin that offers a cost-free alternative to products like Sider, Monica, and Merlin.
