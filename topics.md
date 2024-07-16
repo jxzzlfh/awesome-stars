@@ -252,7 +252,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
-- [uni-openai/uniai-maas](https://github.com/uni-openai/uniai-maas) - An opensource AI & model as a service platform.
+- [uniai-lab/uniai-maas](https://github.com/uniai-lab/uniai-maas) - An opensource AI & model as a service platform.
 - [Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [friuns2/Awesome-GPTs-Big-List](https://github.com/friuns2/Awesome-GPTs-Big-List) - Use OpenAI GPTs for Free: https://gptcall.net/
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
@@ -694,7 +694,7 @@
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
 - [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【更方便更安全的管理PandoraNext】通过手机端和电脑端使小白能快速部署属于自己的免费Open API中转站。tokensTool支持通过PandoraNext管理刷新所有token，支持分享，支持share_token，pool_token一键自定义放入oneapi。tokensTool全面支持PandoraNext部署方法且支持热部署，自定义后缀，登录黑名单IP和登录日志，保护隐私安全，
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
-- [uni-openai/uniai-maas](https://github.com/uni-openai/uniai-maas) - An opensource AI & model as a service platform.
+- [uniai-lab/uniai-maas](https://github.com/uniai-lab/uniai-maas) - An opensource AI & model as a service platform.
 - [lxfater/Awesome-GPTs](https://github.com/lxfater/Awesome-GPTs) - 1000+ GPTs and 10 categories. 80+ Leaked Prompt，Awesome，chatgpt，Ai，prompt
 - [Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
 - [Yanyutin753/fakeApiTool-One-API](https://github.com/Yanyutin753/fakeApiTool-One-API) - （fakeOpen服务已停，请移步到PandoraNext-tokensTool项目，该项目全面支持one-api使用pandoraNext）针对于One-API使用Pandora的可视化网页，可以实现网页批量更改刷新token并每五天自动通过账号密码刷新Tokens,从而自动装填fakeAPI，同时自动更新FakeOpenAI地址，已打包好docker,开箱即用，后续扩展更多功能
@@ -726,7 +726,7 @@
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt).
-- [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持alpine系统，集成argo固定临时隧道功能，支持多节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
+- [yonggekkk/x-ui-yg](https://github.com/yonggekkk/x-ui-yg) - x-ui精简修改版脚本，支持alpine系统，集成argo固定临时隧道功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出
 - [THUDM/WebGLM](https://github.com/THUDM/WebGLM) - WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)
 - [ramon-victor/freegpt-webui](https://github.com/ramon-victor/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1143,7 +1143,7 @@
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [saviomartin/slickr](https://github.com/saviomartin/slickr) - Enjoy creating cover image for your hashnode blog like never before, get started in seconds 🎉
 - [palxiao/poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
-- [nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
+- [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 
 ## devops 
 
