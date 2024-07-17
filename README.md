@@ -1634,7 +1634,7 @@
 - [lmm214/Pake](https://github.com/lmm214/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]
 - [memospot/memospot](https://github.com/memospot/memospot) - Memospot is a self-contained desktop version of Memos -a privacy-first, lightweight note-taking service.
-- [lbl8603/vnt](https://github.com/lbl8603/vnt) - A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
+- [vnt-dev/vnt](https://github.com/vnt-dev/vnt) - A virtual network tool (or VPN),简便高效的异地组网、内网穿透工具
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [shenjinti/fgpt](https://github.com/shenjinti/fgpt) - A free reverse proxy and CLI tool for OpenAI GPT-3.5-turbo.
 - [edgenai/edgen](https://github.com/edgenai/edgen) - ⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.
@@ -1779,6 +1779,7 @@
 
 ## TypeScript 
 
+- [laiso/site2pdf](https://github.com/laiso/site2pdf) - Generate comprehensive PDFs of entire websites, ideal for RAG.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [leptonai/imgpilot](https://github.com/leptonai/imgpilot) - Turn the draft into amazing artwork with the power of Real-Time Latent Consistency Model
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine
