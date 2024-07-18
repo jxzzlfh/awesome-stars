@@ -1172,7 +1172,7 @@
 ## docker 
 
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
-- [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting platform for running open source, web-based lite PaaS
+- [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting platform for running open source, web-based linux Panel of lite PaaS
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
@@ -1433,6 +1433,7 @@
 
 ## font 
 
+- [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [lxgw/LxgwWenKai-Lite](https://github.com/lxgw/LxgwWenKai-Lite) - The lite edition of LXGW WenKai.
 - [KonghaYao/chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage) - 中文网字计划 (Chinese Webfont Project) 是一个免费的中文 web 字体库，支持在线加载及查看字体信息。Explore our free CJK web font library that enables online loading and font information viewing.
 - [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong) - A Chinese serif font derived from IPAmj Mincho. 一款衍生于「IPAmj明朝」的中文宋体字型。
@@ -1898,7 +1899,7 @@
 
 ## kubernetes 
 
-- [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting platform for running open source, web-based lite PaaS
+- [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting platform for running open source, web-based linux Panel of lite PaaS
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
@@ -2561,6 +2562,7 @@
 
 ## others 
 
+- [coolnnek/s-ui](https://github.com/coolnnek/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [laiso/site2pdf](https://github.com/laiso/site2pdf) - Generate comprehensive PDFs of entire websites, ideal for RAG.
 - [awinds/xaink](https://github.com/awinds/xaink) - Typecho响应式仿百度主题
 - [hmllsnow/escape-wechat](https://github.com/hmllsnow/escape-wechat) - 微信助手，登录微信bot和配置管理页面
@@ -2601,9 +2603,9 @@
 - [kangpeiqin/bilivideo_down](https://github.com/kangpeiqin/bilivideo_down) - A cross-platform（Win / MacOS） BiliBili Video downloader | 一款基于 Flutter 开发的桌面端 B 站视频下载器
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [traceless/alist-encrypt](https://github.com/traceless/alist-encrypt) - 这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能，同时在 webdav 下的操作透明，自动实现文件资源的加解密。
-- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr等镜像加速\管理服务。支持部署到Render
+- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr等镜像加速\管理服务。支持部署到Render\Koyeb
 - [6drf21e/ChatTTS_Speaker](https://github.com/6drf21e/ChatTTS_Speaker) - ChatTTS 2000条音色稳定性打分🥇+区分男女年龄👧+在线试听🔈    ChatTTS 2K Speaker Stability Score  & Categorized by Gender and Age  & Audio Preview
-- [hulunote/hulunote](https://github.com/hulunote/hulunote) - hulunote, a tool for networked thought, think different
+- [hulunote/hulunote](https://github.com/hulunote/hulunote) - Powerful prompt engineering development platform by Hulunote
 - [ftyszyx/feishu-vitepress](https://github.com/ftyszyx/feishu-vitepress) - 用飞书写博客,并自动部署
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 - [andrewyng/translation-agent](https://github.com/andrewyng/translation-agent) - 
