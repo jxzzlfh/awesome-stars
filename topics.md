@@ -1908,6 +1908,7 @@
 
 ## language 
 
+- [hack-ink/AiR](https://github.com/hack-ink/AiR) - AI with Rust.
 - [3ru/gpt-translate](https://github.com/3ru/gpt-translate) - 💬Translate Markdown into Any Languages with AI
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
@@ -1941,6 +1942,7 @@
 
 ## learning 
 
+- [hack-ink/AiR](https://github.com/hack-ink/AiR) - AI with Rust.
 - [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to
 - [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript 📗💻📖
