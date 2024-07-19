@@ -243,6 +243,7 @@
 - [Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord) - 一款体现文字美感的极简主题
 - [MeiK2333/github-style](https://github.com/MeiK2333/github-style) - 
 - [hefengbao/one](https://github.com/hefengbao/one) - 一个简洁的博客、微博客。
+- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [LIlGG/halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
 - [guqing/halo-theme-higan](https://github.com/guqing/halo-theme-higan) - halo主题名彼岸，生死为此岸，涅槃为彼岸；有苦无乐为此岸，无苦无乐为彼岸...它代表着对一切美好的精神追求，也代表着生生不息的轮回亦如本主题分黑白两色，阴极阳至，向死而生。
@@ -494,7 +495,6 @@
 - [avadhesh18/rssTea](https://github.com/avadhesh18/rssTea) - rssTea: A lightweight RSS reader and podcast player PWA utilising GitHub Actions
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
-- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [jiewenhuang/halo-theme-stack](https://github.com/jiewenhuang/halo-theme-stack) - 一款优秀的Halo2个人博客主题
 - [f2ccloud/theme-ocean](https://github.com/f2ccloud/theme-ocean) - Halo 2.0 知识库主题
 - [liuchangfitcloud/theme-moderna](https://github.com/liuchangfitcloud/theme-moderna) - 基于bootstrapmade-Moderna 设计的Halo主题
@@ -853,6 +853,7 @@
 
 ## Jupyter Notebook 
 
+- [anarchysaiko/metaprompt_generator](https://github.com/anarchysaiko/metaprompt_generator) - 基于openai框架编写的辅助元提示词生成器
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [xiaolai/most-common-american-idioms](https://github.com/xiaolai/most-common-american-idioms) - A book created by xiaolai with the help of ChatGPT and its TTS
 - [ultrasev/ChatTTS](https://github.com/ultrasev/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
@@ -963,6 +964,7 @@
 
 ## Others 
 
+- [shell360/release](https://github.com/shell360/release) - Shell360 is a cross-platform SSH client.
 - [pen9un/aiast-sys](https://github.com/pen9un/aiast-sys) - AIAST智能客服系统，AI知识库系统，问答知识库，企业GPT知识库私有化，企业话术管理，API接口调用🔮🤖🚀
 - [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费
 - [yugongcoding/yugong_wiki](https://github.com/yugongcoding/yugong_wiki) - 愚公wiki是一款轻量的在线博客、知识库、个人笔记或企业文档协作平台，可下载桌面版作为个人笔记本，也可以在线编辑文档，当然也可以自行进行服务化部署，因为这是一款完全开源的写作平台
@@ -1270,6 +1272,9 @@
 
 ## Python 
 
+- [Ikaros-521/RealtimeSTT_LLM_TTS](https://github.com/Ikaros-521/RealtimeSTT_LLM_TTS) - 实时STT，连接OpenAI接口/智谱AI（流式LLM）和GPT-SOVITS/Edge-TTS，通过网页的方式，进行跨网络的服务调用，实现实时对话的效果
+- [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
+- [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
 - [fatwang2/search4all](https://github.com/fatwang2/search4all) - Personal AI search copilot, open-source Perplexity
 - [alohe/avatars](https://github.com/alohe/avatars) - Avatars is a collection of diverse free avatar images from across the web, designed to add personality to your projects. With a vast selection of vibrant illustrations, you can enhance your projects i
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
@@ -2143,6 +2148,7 @@
 
 ## Vue 
 
+- [nicejade/markdown2png](https://github.com/nicejade/markdown2png) - 简单好用的在线文本工具；支持将 Markdown、rich text、word 等格式内容，快速转化为 png、pdf、html 等文件，并支持一键下载、自定义设置等功能。
 - [coolnnek/s-ui](https://github.com/coolnnek/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
 - [wangrongding/WebCut](https://github.com/wangrongding/WebCut) - 🎬 基于 web 端的音视频编辑器。(A web-based audio and video editor.)
 - [x007xyz/fly-cut](https://github.com/x007xyz/fly-cut) - A web-based video editing tool implemented with WebCodecs, similar to CapCut Web.使用webcodecs实现的Web端视频编辑工具，类似剪映Web版。
