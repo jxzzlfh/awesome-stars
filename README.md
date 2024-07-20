@@ -335,6 +335,7 @@
 - [YouROK/TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [srcrs/rss-reader](https://github.com/srcrs/rss-reader) - 一个极简的RSS在线浏览工具
+- [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI.
 - [fruitbars/simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deploy
 - [bincooo/chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、claude、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
 - [usememos/telegram-integration](https://github.com/usememos/telegram-integration) - Memogram is an easy to use integration service for syncing messages and images from a Telegram bot into your Memos.
@@ -971,7 +972,6 @@
 - [DangJin/awesome-social-media-downloader](https://github.com/DangJin/awesome-social-media-downloader) - 👿 收录了一些能够免费下载油管、B 站、抖音等平台视频的下载工具。Some download tools that can freely download videos from platforms such as YouTube, Bilibili, Douyin, etc. have been included.
 - [lowercase78/V2RayN-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN-Pro
 - [DangJin/awesome-iptv](https://github.com/DangJin/awesome-iptv) - 汇总了一些可用的网络电视频道（IPTV）集合的优秀项目
-- [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI.
 - [panyanyany/Awesome-ChatTTS](https://github.com/panyanyany/Awesome-ChatTTS) - ChatTTS资源大全，免费体验地址，音色库等
 - [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
@@ -1272,6 +1272,7 @@
 
 ## Python 
 
+- [Losketch/Unicode-Flash-Mob](https://github.com/Losketch/Unicode-Flash-Mob) - Unicode快闪视频生成器
 - [Ikaros-521/RealtimeSTT_LLM_TTS](https://github.com/Ikaros-521/RealtimeSTT_LLM_TTS) - 实时STT，连接OpenAI接口/智谱AI（流式LLM）和GPT-SOVITS/Edge-TTS，通过网页的方式，进行跨网络的服务调用，实现实时对话的效果
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
