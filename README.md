@@ -1783,6 +1783,7 @@
 
 ## TeX 
 
+- [careywyr/UnderstandingDeepLearning-ZH-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) - UnderstandingDeepLearing中文翻译
 - [Macin20/why-we-write](https://github.com/Macin20/why-we-write) - 为什么写作？
 - [liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Functional Algorithms and Data structures
 
