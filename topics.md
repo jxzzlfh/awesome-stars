@@ -209,6 +209,7 @@
 
 ## ai 
 
+- [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Auto generate image metadata and chat with the album. RAG + Album.
 - [fatwang2/search4all](https://github.com/fatwang2/search4all) - Personal AI search copilot, open-source Perplexity
 - [leptonai/imgpilot](https://github.com/leptonai/imgpilot) - Turn the draft into amazing artwork with the power of Real-Time Latent Consistency Model
 - [hack-ink/AiR](https://github.com/hack-ink/AiR) - AI with Rust.
@@ -351,6 +352,7 @@
 
 ## android 
 
+- [LeetaoGoooo/RSSAid](https://github.com/LeetaoGoooo/RSSAid) - RSSAid is a complementary app for RSSHub built with Flutter | RSSAid 是一个由 Flutter 构建的 RSSHub 的辅助 App
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [sakethpathike/Linkora](https://github.com/sakethpathike/Linkora) - the only link utility app you need for Android
@@ -1406,6 +1408,7 @@
 
 ## flutter 
 
+- [LeetaoGoooo/RSSAid](https://github.com/LeetaoGoooo/RSSAid) - RSSAid is a complementary app for RSSHub built with Flutter | RSSAid 是一个由 Flutter 构建的 RSSHub 的辅助 App
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party GPT Client for OpenAI API.
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器
@@ -1739,6 +1742,7 @@
 
 ## ios 
 
+- [LeetaoGoooo/RSSAid](https://github.com/LeetaoGoooo/RSSAid) - RSSAid is a complementary app for RSSHub built with Flutter | RSSAid 是一个由 Flutter 构建的 RSSHub 的辅助 App
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers,
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox app using Flutter
@@ -2033,6 +2037,7 @@
 
 ## llm 
 
+- [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Auto generate image metadata and chat with the album. RAG + Album.
 - [Ikaros-521/RealtimeSTT_LLM_TTS](https://github.com/Ikaros-521/RealtimeSTT_LLM_TTS) - 实时STT，连接OpenAI接口/智谱AI（流式LLM）和GPT-SOVITS/Edge-TTS，通过网页的方式，进行跨网络的服务调用，实现实时对话的效果
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
 - [Hoshinonyaruko/Gensokyo-llm](https://github.com/Hoshinonyaruko/Gensokyo-llm) - 开源的智能体项目 支持6种聊天平台 Onebotv11一对多连接 流式信息 agent 对话keyboard气泡生成 支持10+大模型接口(持续更新)  具有将多种大模型接口转化为带有上下文的通用格式的能力.
