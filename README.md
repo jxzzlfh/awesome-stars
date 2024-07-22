@@ -276,6 +276,7 @@
 
 ## Dart 
 
+- [LeetaoGoooo/RSSAid](https://github.com/LeetaoGoooo/RSSAid) - RSSAid is a complementary app for RSSHub built with Flutter | RSSAid 是一个由 Flutter 构建的 RSSHub 的辅助 App
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [kangpeiqin/bilivideo_down](https://github.com/kangpeiqin/bilivideo_down) - A cross-platform（Win / MacOS） BiliBili Video downloader | 一款基于 Flutter 开发的桌面端 B 站视频下载器
 - [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
@@ -1789,6 +1790,7 @@
 
 ## TypeScript 
 
+- [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Auto generate image metadata and chat with the album. RAG + Album.
 - [laiso/site2pdf](https://github.com/laiso/site2pdf) - Generate comprehensive PDFs of entire websites, ideal for RAG.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [leptonai/imgpilot](https://github.com/leptonai/imgpilot) - Turn the draft into amazing artwork with the power of Real-Time Latent Consistency Model
