@@ -1791,12 +1791,13 @@
 
 ## TypeScript 
 
+- [alist-org/desktop-release](https://github.com/alist-org/desktop-release) - 
 - [gcui-art/album-ai](https://github.com/gcui-art/album-ai) - AI-First Album: Chat with your gallery using plain language! LLM Vision + RAG + Album/Gallery/.
 - [laiso/site2pdf](https://github.com/laiso/site2pdf) - Generate comprehensive PDFs of entire websites, ideal for RAG.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [leptonai/imgpilot](https://github.com/leptonai/imgpilot) - Turn the draft into amazing artwork with the power of Real-Time Latent Consistency Model
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine
-- [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - 一款开源的跨平台剪切板管理工具。
+- [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - Powerful open-source clipboard manager for all  platforms.
 - [yossTheDev/removerized](https://github.com/yossTheDev/removerized) - 🖼️ Effortlessly Remove Image Backgrounds with AI - 🆓 Free & Limitless with 🛩️ Offline Support
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
