@@ -1780,7 +1780,7 @@
 ## Swift 
 
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
-- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS
 
 ## TeX 
 
