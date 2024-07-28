@@ -2589,6 +2589,10 @@
 
 ## others 
 
+- [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
+- [asdlokj1qpi23/ios_rule_script](https://github.com/asdlokj1qpi23/ios_rule_script) - 分流规则、重写写规则及脚本。
+- [asdlokj1qpi23/subconverter](https://github.com/asdlokj1qpi23/subconverter) - Utility to convert between various subscription format.Support tuic hy2 hy and vless for singbox and clash meta
+- [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件
 - [RSSNext/follow](https://github.com/RSSNext/follow) - [WIP] Next generation information browser
 - [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) - Agentic components of the Llama Stack APIs
 - [MCDFsteve/Kurisu](https://github.com/MCDFsteve/Kurisu) - 一个靠口头描述来转换文件格式的程序，视频处理音频处理图像处理。原理是使用chatgpt将自然语言处理成ffmpeg命令。实现打字剪片，打字转格式，格式工厂代餐。
