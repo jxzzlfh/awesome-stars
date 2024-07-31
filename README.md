@@ -1463,7 +1463,7 @@
 - [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [ZYKsslm/BlackStone_Music_GUI](https://github.com/ZYKsslm/BlackStone_Music_GUI) - 一个简约的音乐下载工具
-- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [LinkSoul-AI/Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) - 开源社区第一个能下载、能运行的中文 LLaMA2 模型！
 - [IceClear/StableSR](https://github.com/IceClear/StableSR) - [IJCV2024] Exploiting Diffusion Prior for Real-World Image Super-Resolution
 - [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - A fast and minimal paste bin.
@@ -1803,7 +1803,7 @@
 
 - [CaoMeiYouRen/rss-impact-server](https://github.com/CaoMeiYouRen/rss-impact-server) - 一个基于 RSS 的 Hook 系统。本项目为后端部分
 - [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1
-- [RSSNext/follow](https://github.com/RSSNext/follow) - [WIP] Next generation information browser
+- [RSSNext/follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [askaitools/askaitools-community-edition](https://github.com/askaitools/askaitools-community-edition) - A cutting-edge search engine project tailored specifically for the AI product
