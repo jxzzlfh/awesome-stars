@@ -2601,6 +2601,7 @@
 
 ## others 
 
+- [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
 - [LaughingZhu/DevNow](https://github.com/LaughingZhu/DevNow) - DevNow 开源技术博客项目。目前承载着一个技术新闻、开发weekly，每周一上午发布~
 - [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于CloudFlare和Telegraph的免费图床，本仓库基于https://github.com/cf-pages/Telegraph-Image ，是原项目的优化重制版。开源、清晰、美观、动画丝滑、玩法多样！
 - [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
