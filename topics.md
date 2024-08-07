@@ -1950,7 +1950,7 @@
 
 ## laravel 
 
-- [hefengbao/one](https://github.com/hefengbao/one) - 一个简洁的博客、微博客。
+- [hefengbao/one](https://github.com/hefengbao/one) - 『玉竹』一个简洁的博客、微博客系统。
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - PROJECT MIGRATED TO CODEBERG -- A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [mylxsw/wizard](https://github.com/mylxsw/wizard) - Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
