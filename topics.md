@@ -221,7 +221,7 @@
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗
 - [ykyritsis/ChatGPT-code-preview](https://github.com/ykyritsis/ChatGPT-code-preview) - Artifacts-like chrome extension for ChatGPT, inspired by Claude 3.5 Sonnet. Requires CSP unblocker for JS to function.
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [marcolivierbouch/OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
+- [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 - [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
 - [bincooo/chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、claude、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
@@ -466,7 +466,7 @@
 
 ## artificial-intelligence 
 
-- [marcolivierbouch/OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
+- [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 - [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
 - [embernet/sidekick](https://github.com/embernet/sidekick) - Sidekick is an AI powered tool that uses the OpenAI API and GPT-4 model for thinking, exploring ideas, problem-solving, knowledge-building, and getting things done.
@@ -671,7 +671,7 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [latorc/Wechat-AI-Assistant](https://github.com/latorc/Wechat-AI-Assistant) - 微信AI助理 (Wechat AI Assistant): 在微信中与 AI 助理进行多模态交互, 处理问答、扮演角色、响应语音消息、分析图片和视频、总结文章和网页链接、搜索互联网等等。现支持 OpenAI Assistant API 和 GPT-4o模型。
 - [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - ✨ A chrome extension that lets you chat with youtube videos
-- [marcolivierbouch/OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
+- [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
@@ -870,7 +870,7 @@
 
 ## chatgpt-api 
 
-- [marcolivierbouch/OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
+- [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 - [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
 - [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api) - 🚀 阿里通义千问2.5大模型逆向API白嫖测试【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
@@ -1890,7 +1890,7 @@
 
 ## js 
 
-- [marcolivierbouch/OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
+- [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 - [timo-reymann/yal](https://github.com/timo-reymann/yal) - A simple link hub, to display and search links. Allows easy branding, runs with the least privileges and is simple to use.
 - [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript 📗💻📖
 
@@ -2086,7 +2086,7 @@
 - [LLM-Red-Team/emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api) - 🚀 聆心智能 Emohaa情感陪伴大模型逆向API白嫖测试【特长：共情能力】，支持高速流式输出、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/glm-free-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型逆向API白嫖测试【特长：超强智能体】，支持高速流式输出、支持智能体对话、支持多轮对话、支持视频生成、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
-- [cognitivetech/llm-long-text-summarization](https://github.com/cognitivetech/llm-long-text-summarization) - LLM for Long Text Summary (Comprehensive Bulleted Notes) : Walkthrough and Model Rankings
+- [cognitivetech/llm-ebook-summary](https://github.com/cognitivetech/llm-ebook-summary) - LLM for Long Text Summary (Comprehensive Bulleted Notes) : Walkthrough and Model Rankings
 - [MLT-OSS/open-assistant-api](https://github.com/MLT-OSS/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [ymcui/Chinese-Mixtral](https://github.com/ymcui/Chinese-Mixtral) - 中文Mixtral混合专家大模型（Chinese Mixtral MoE LLMs）
@@ -2604,6 +2604,7 @@
 
 ## others 
 
+- [fancy88/iBook](https://github.com/fancy88/iBook) - 收藏一些电子书
 - [aiola-lab/whisper-medusa](https://github.com/aiola-lab/whisper-medusa) - Whisper with Medusa heads
 - [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
 - [LaughingZhu/DevNow](https://github.com/LaughingZhu/DevNow) - DevNow 开源技术博客项目。目前承载着一个技术新闻、开发weekly，每周一上午发布~
@@ -2626,7 +2627,7 @@
 - [asdlokj1qpi23/ios_rule_script](https://github.com/asdlokj1qpi23/ios_rule_script) - 分流规则、重写写规则及脚本。
 - [asdlokj1qpi23/subconverter](https://github.com/asdlokj1qpi23/subconverter) - Utility to convert between various subscription format.Support tuic hy2 hy and vless for singbox and clash meta
 - [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件
-- [RSSNext/follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 - [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) - Agentic components of the Llama Stack APIs
 - [MCDFsteve/Kurisu](https://github.com/MCDFsteve/Kurisu) - 一个靠口头描述来转换文件格式的程序 A program that converts file formats based on verbal descriptions 口頭での説明に基づいてファイル形式を変換するプログラム
 - [alist-org/desktop-release](https://github.com/alist-org/desktop-release) - 
@@ -4185,7 +4186,7 @@
 
 ## support 
 
-- [marcolivierbouch/OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
+- [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 
 ## svelte 
 
@@ -4445,7 +4446,7 @@
 - [Cerlancism/chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT API
 - [x007xyz/fly-cut](https://github.com/x007xyz/fly-cut) - A web-based video editing tool implemented with WebCodecs, similar to CapCut Web.使用webcodecs实现的Web端视频编辑工具，类似剪映Web版。
 - [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
-- [marcolivierbouch/OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
+- [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 - [nini22P/omp](https://github.com/nini22P/omp) - OMP - OneDrive Media Player on the web / 网页端 OneDrive 媒体播放器
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Sl
