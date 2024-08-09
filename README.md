@@ -302,6 +302,7 @@
 
 ## Dockerfile 
 
+- [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署自己的 ChatGPT 镜像站
 - [stilleshan/subconverter](https://github.com/stilleshan/subconverter) - 科学上网订阅转换托管服务 docker 版,已去除自动选择url-test以解决连接数爆涨问题.提供免费托管服务.
 - [HalcyonAzure/lsky-pro-docker](https://github.com/HalcyonAzure/lsky-pro-docker) - ☁️兰空图床(Lsky Pro) - Docker自动构建，支持多平台
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
@@ -930,7 +931,7 @@
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
-- [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 幕境 - 使用自己感兴趣的电影、美剧或文档，生成词库（单词本）。在记忆单词时，可以用键盘打字，练习拼写并观看相关的视频片段，以便更好的理解和记忆单词。播放电影时，以弹幕的形式复习词库中的单词。
+- [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 通过电影、美剧或文档生成词库，为单词提供具体语境。记忆单词时，可以通过键盘拼写单词、观看相关视频片段
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [tangshimin/typing-learner](https://github.com/tangshimin/typing-learner) - 使用电影、美剧、字幕或文档生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词。
@@ -1206,6 +1207,7 @@
 
 ## PHP 
 
+- [obaby/Baby-Freshrss-Client](https://github.com/obaby/Baby-Freshrss-Client) - 为wp提供freshrss的数据抓取功能，实现rss朋友圈
 - [awinds/xaink](https://github.com/awinds/xaink) - Typecho响应式仿百度主题
 - [tsxcw/mtab](https://github.com/tsxcw/mtab) - Mtab书签导航程序 - 免费无广告的浏览器书签助手，多端同步、美观易用的在 线导航和书签工具，自主研发免费使用，帮助您高效管理 网页和应用，提升在线体验。
 - [michaelstaake/LibreKB](https://github.com/michaelstaake/LibreKB) - Knowledge Base Web App - Free, Open Source, Self Hosted, PHP/MySQL
@@ -1344,7 +1346,7 @@
 - [arry-lee/wereader](https://github.com/arry-lee/wereader) - 一个功能全面的微信读书笔记助手 wereader
 - [seanzhang-zhichen/llama3-chinese](https://github.com/seanzhang-zhichen/llama3-chinese) - Llama3-Chinese是以Meta-Llama-3-8B为底座，使用 DORA + LORA+ 的训练方法，在50w高质量中文多轮SFT数据 + 10w英文多轮SFT数据 + 2000单轮自我认知数据训练而来的大模型。
 - [QwenLM/CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5) - CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
-- [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3、Llama3.1 中文仓库（系统学习资料撰写中...  各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
+- [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3、Llama3.1 中文仓库（撰写中...  各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
 - [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers.
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
 - [ProudCarrotG/autoPutPathtoAlist](https://github.com/ProudCarrotG/autoPutPathtoAlist) - 自动上传文件至alist
@@ -1371,6 +1373,7 @@
 - [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
+- [cognitivetech/llm-ebook-summary](https://github.com/cognitivetech/llm-ebook-summary) - LLM for Long Text Summary (Comprehensive Bulleted Notes) : Walkthrough and Model Rankings
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
 - [MLT-OSS/open-assistant-api](https://github.com/MLT-OSS/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It
@@ -1728,7 +1731,6 @@
 - [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
 - [QwenLM/Qwen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥 一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
-- [cognitivetech/llm-ebook-summary](https://github.com/cognitivetech/llm-ebook-summary) - LLM for Long Text Summary (Comprehensive Bulleted Notes) : Walkthrough and Model Rankings
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -1848,7 +1850,7 @@
 - [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - ✨ A chrome extension that lets you chat with youtube videos
 - [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
-- [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - An Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
+- [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
 - [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
@@ -2191,6 +2193,7 @@
 
 ## Vue 
 
+- [mrrhq/ai-timeline](https://github.com/mrrhq/ai-timeline) - 记录文生图、文生视频、大语言模型等 AI 相关技术在发展过程中的重要时间点
 - [stilleshan/subweb](https://github.com/stilleshan/subweb) - subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 - [nicejade/markdown2png](https://github.com/nicejade/markdown2png) - 简单好用的在线文本工具；支持将 Markdown、rich text、word 等格式内容，快速转化为 png、pdf、html 等文件，并支持一键下载、自定义设置等功能。
 - [coolnnek/s-ui](https://github.com/coolnnek/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
