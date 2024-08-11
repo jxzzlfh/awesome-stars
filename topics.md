@@ -2610,7 +2610,7 @@
 ## others 
 
 - [every-day-things/citadel](https://github.com/every-day-things/citadel) - Manage your ebook library without frustrations. Calibre compatible.
-- [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！sing-box游戏机(reality + hy2 + vmess-argo +tuic5)四合一，vps无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
+- [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！Serv00 | CT8 | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
 - [obaby/Baby-Freshrss-Client](https://github.com/obaby/Baby-Freshrss-Client) - 为wp提供freshrss的数据抓取功能，实现rss朋友圈
 - [fancy88/iBook](https://github.com/fancy88/iBook) - 收藏一些电子书
 - [aiola-lab/whisper-medusa](https://github.com/aiola-lab/whisper-medusa) - Whisper with Medusa heads
