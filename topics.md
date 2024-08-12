@@ -241,6 +241,7 @@
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [sunls24/nextai](https://github.com/sunls24/nextai) - 一个简单而优雅的 AI 聊天程序
 - [MLT-OSS/open-assistant-api](https://github.com/MLT-OSS/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [AmbroseX/Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。
 - [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 - [happyapplehorse/gptui](https://github.com/happyapplehorse/gptui) - GPTUI is a GPT conversational TUI (Textual User Interface) tool that runs within the terminal. It has some distinctive features, such as multi-AI group chat, AI-initiated care, and other functionaliti
@@ -2624,7 +2625,7 @@
 - [ssine/pptx2md](https://github.com/ssine/pptx2md) - a pptx to markdown converter
 - [CaoMeiYouRen/rss-impact-server](https://github.com/CaoMeiYouRen/rss-impact-server) - 一个支持 Hook 的 RSS 订阅工具。本项目为后端部分
 - [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需后端，一键部署，快速将自建节点分享URL转换为订阅链接，提供自定义路由规则，支持SingBox/Clash/V2Ray/Xray
-- [rcy1314/noisework](https://github.com/rcy1314/noisework) - #主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导🎉 添加右键弹出菜单，RSS动态文章卡片，📫ADS广告位
+- [rcy1314/noisework](https://github.com/rcy1314/noisework) - #主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导页🎉 添加右键弹出菜单，RSS动态文章卡片，视频播放📫ADS广告位
 - [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
