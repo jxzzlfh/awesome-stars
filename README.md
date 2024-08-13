@@ -115,6 +115,7 @@
 
 ## C# # 
 
+- [kentxxq/pusher](https://github.com/kentxxq/pusher) - webhook聚合推送
 - [rnchg/Apt](https://github.com/rnchg/Apt) - AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: buil
 - [Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用MAUI Blazor 构建。"SwashbucklerDiary" is an open source cross-platform local diary app using MAUI Blazor .
 - [Richasy/Rodel.Agent](https://github.com/Richasy/Rodel.Agent) - 支持主流在线 AI 服务的应用
@@ -464,7 +465,7 @@
 - [helloxz/zdir](https://github.com/helloxz/zdir) - 一款集文件索引、在线预览与分享于一体的多功能私有存储程序，支持WebDAV和离线下载（即将）。
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [mmzou/geektime-dl](https://github.com/mmzou/geektime-dl) - 👾 Geektime-dl 是使用Go构建的快速、简单的极客时间下载器，支持专栏下载为PDF文档。
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -582,7 +583,7 @@
 - [CloudExplorer-Dev/CloudExplorer-Lite](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) - 开源的轻量级云管平台
 - [kylelin1998/ChatGPTForTelegram](https://github.com/kylelin1998/ChatGPTForTelegram) - 目前机器人基于ChatGPT进行开发  使用机器人可以让你轻松进行对话， 后续机器人的更新升级一个命令即可搞定， 无需再上服务器进行升级机器人
 - [fordes123/subtitles-view](https://github.com/fordes123/subtitles-view) - 基于javaFX的简单字幕处理桌面程序，集成在线翻译及语音转换
-- [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切
+- [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，16k page size，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动
 - [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
@@ -599,6 +600,7 @@
 
 ## JavaScript 
 
+- [zsancc/GPT-Switch](https://github.com/zsancc/GPT-Switch) - GPT多账号切换扩展，可以内置多个账号快速切换GPT账号实现白嫖GPT-4o
 - [ccbikai/awesome-homelab](https://github.com/ccbikai/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
 - [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 - [Cerlancism/chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT API
@@ -825,7 +827,7 @@
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 - [no13bus/chat-gpt-zhihu-extension](https://github.com/no13bus/chat-gpt-zhihu-extension) - ChatGPT的知乎回答小帮手，利用AI来协助你回答知乎问题
 - [dopplertask/dopplertask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool
-- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -944,6 +946,7 @@
 
 ## Less 
 
+- [uxiaohan/ZYCS-IMG](https://github.com/uxiaohan/ZYCS-IMG) - 骤雨重山图床
 - [25H/Maya](https://github.com/25H/Maya) - Maye 一个简洁小巧的快速启动工具
 
 ## Lua 
@@ -1586,7 +1589,7 @@
 - [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
-- [whitead/paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
+- [Future-House/paper-qa](https://github.com/Future-House/paper-qa) - LLM Chain for answering questions from documents with citations
 - [wnma3mz/wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider) - 微信公众号文章的爬虫
 - [rohankishore/Aura-Text](https://github.com/rohankishore/Aura-Text) - Aura Text is a versatile and powerful text editor powered by QScintilla that provides all the necessary tools for developers. It is build using PyQt6 and Python.
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
@@ -1849,7 +1852,7 @@
 - [ftyszyx/feishu-vitepress](https://github.com/ftyszyx/feishu-vitepress) - 用飞书写博客,并自动部署
 - [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
 - [Dolov/chrome-best-cookier](https://github.com/Dolov/chrome-best-cookier) - Easily manage your cookies.
-- [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - ✨ A chrome extension that lets you chat with youtube videos
+- [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - Interactive YouTube extension built with React, Tailwind CSS, and Plasmo. It integrates with the OpenAI API to enable real-time video chat, providing summaries, Q&A, and context-aware responses direct
 - [openRin/Rin](https://github.com/openRin/Rin) - ⚡Dynamic blog based on Cloudflare Pages + Workers + D1 + R2
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
@@ -2015,7 +2018,7 @@
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [FallenMax/smart-toc](https://github.com/FallenMax/smart-toc) - A Chrome extension for auto-generating a table of contents
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
+- [finic-ai/rag-stack](https://github.com/finic-ai/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and 
 - [BlackGlory/extension-binary-search](https://github.com/BlackGlory/extension-binary-search) - 🌳 The simplest and most effective way to locate a malicious or faulty extension
 - [EINDEX/logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) - Logseq plugin for sync Memos to logseq.
 - [braden-w/whispering](https://github.com/braden-w/whispering) - 
