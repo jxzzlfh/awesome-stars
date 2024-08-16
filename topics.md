@@ -438,6 +438,7 @@
 
 ## api 
 
+- [iimeta/fastapi-admin](https://github.com/iimeta/fastapi-admin) - 智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。
 - [shenjinti/fgpt](https://github.com/shenjinti/fgpt) - A free reverse proxy and CLI tool for OpenAI GPT-3.5-turbo.
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, autonomous agents, code and command executio
 - [Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
@@ -503,7 +504,7 @@
 
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [certd/certd](https://github.com/certd/certd) - 免费通配符域名SSL证书全自动申请、更新、续期、部署安装，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。
-- [daguflow/dagu](https://github.com/daguflow/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [daguflow/dagu](https://github.com/daguflow/dagu) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [RavelloH/RTheme](https://github.com/RavelloH/RTheme) - 新一代现代化极客风多功能横版博客系统 - 基于Nextjs  // Next-gen modern geeky versatile horizontal blog system - Powered by Nextjs. //
@@ -664,6 +665,7 @@
 
 ## chatgpt 
 
+- [iimeta/fastapi-admin](https://github.com/iimeta/fastapi-admin) - 智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。
 - [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的机器人插件
 - [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署自己的 ChatGPT 镜像站
 - [Cerlancism/chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT API
@@ -702,7 +704,7 @@
 - [hzeyuan/OpenGPTS](https://github.com/hzeyuan/OpenGPTS) - OpenGPTs- Powerful GPTs Colipot | 强大的gpts浏览器插件|多窗口|批量对话|chatgpt3.5|chatgpt4.0
 - [flyun/chatAir](https://github.com/flyun/chatAir) - ☁️A native Android app for ChatGPT, Gemini, and Claude ☁️ChatGPT、Gemini 和 Claude 的原生安卓应用程序
 - [ConnectAI-E/Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
-- [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro服务！
+- [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
 - [Nanjiren01/AIChatWeb](https://github.com/Nanjiren01/AIChatWeb) - 在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告
 - [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
@@ -1494,6 +1496,7 @@
 
 ## github 
 
+- [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star) - 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [drshahizan/learn-github](https://github.com/drshahizan/learn-github) - A step-by-step guide to getting started with Git and GitHub for beginners.
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
@@ -1566,7 +1569,7 @@
 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
-- [daguflow/dagu](https://github.com/daguflow/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [daguflow/dagu](https://github.com/daguflow/dagu) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [Yohann0617/tgNetDisc](https://github.com/Yohann0617/tgNetDisc) - 🤖基于Telegram API，无限容量，不限制文件格式，不限制文件内容😏，文件都存储在Telegram☁云端，轻巧方便。上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
@@ -1645,6 +1648,7 @@
 
 ## hacktoberfest 
 
+- [linuxserver/docker-firefox](https://github.com/linuxserver/docker-firefox) - 
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. | 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
@@ -2609,6 +2613,8 @@
 
 ## others 
 
+- [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [zsancc/GPT-Switch](https://github.com/zsancc/GPT-Switch) - GPT多账号切换扩展，可以内置多个账号快速切换GPT账号实现白嫖GPT-4o
 - [kentxxq/pusher](https://github.com/kentxxq/pusher) - webhook聚合推送
 - [uxiaohan/ZYCS-IMG](https://github.com/uxiaohan/ZYCS-IMG) - 骤雨重山图床
@@ -2631,7 +2637,7 @@
 - [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
-- [jooooock/wrx](https://github.com/jooooock/wrx) - 微信读书导出书籍epub
+- [jooooock/wrx](https://github.com/jooooock/wrx) - 电子书导出工具，支持导出 HTML/EPUB
 - [stilleshan/subconverter](https://github.com/stilleshan/subconverter) - 科学上网订阅转换托管服务 docker 版,已去除自动选择url-test以解决连接数爆涨问题.提供免费托管服务.
 - [stilleshan/subweb](https://github.com/stilleshan/subweb) - subweb 是基于 subconverter 订阅转换的前端项目,方便用户快速生成各平台的订阅链接.
 - [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
@@ -2844,7 +2850,7 @@
 - [AINativeLab/gptstore-data-backup](https://github.com/AINativeLab/gptstore-data-backup) - The daily archive of GPT Store's trending data
 - [opengpts/gpts-trending](https://github.com/opengpts/gpts-trending) - Record everyday Top GPTs in ChatGPT GPTs Store
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord) - 一款体现文字美感的极简主题
 - [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
@@ -3127,7 +3133,6 @@
 - [Asterecho/ExcelGPT](https://github.com/Asterecho/ExcelGPT) - chatgpt for Excel ，基于ExcelDNA开发
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [chenweiphd/LargeLanguageModel-and-GPT-4-ResourceMap](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-ResourceMap) - 
-- [garyvalue/chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总55个Chatgpt商业版及提供更多的变现方式,商业源码程序,账号API渠道,支付收款渠道,服务器渠道,课程配套服务,CHATGPT知识星球,开发定制外包
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering ad
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
@@ -3339,7 +3344,7 @@
 - [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
 - [1c7/Youtube-Auto-Subtitle-Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - :coffee:  Youtube 字幕下载，Download Youtube Subtitles (Work best on Chrome + Tampermonkey)  2020-10-7 更新：支持中英双语字幕下载，请在页面底部提供的另一个链接进行安装
 - [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 通过电影、美剧或文档生成词库，为单词提供具体语境。记忆单词时，可以通过键盘拼写单词、观看相关视频片段
-- [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-
+- [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, m
 - [wnma3mz/wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider) - 微信公众号文章的爬虫
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [runningcheese/Awesome-Extensions](https://github.com/runningcheese/Awesome-Extensions) - Awesome Extensions for Chrome, Edge and Firefox.
@@ -3484,7 +3489,7 @@
 - [miaomiaosoft/PandaOCR](https://github.com/miaomiaosoft/PandaOCR) - PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [wallabag/docker](https://github.com/wallabag/docker) - Official docker-composer for wallabag.
-- [helloxz/zdir](https://github.com/helloxz/zdir) - 一款集文件索引、在线预览与分享于一体的多功能私有存储程序，支持WebDAV和离线下载（即将）。
+- [helloxz/zdir](https://github.com/helloxz/zdir) - A multifunctional private storage program that integrates file indexing, online preview, and sharing, supporting both WebDAV and cloud download.
 - [HaujetZhao/CapsWriter](https://github.com/HaujetZhao/CapsWriter) - 一款电脑语音输入工具，运行后，按下大写锁定键超过 0.3 秒，就开始语音识别，松开按键之后，自动输入识别结果。
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
