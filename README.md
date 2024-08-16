@@ -302,6 +302,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-firefox](https://github.com/linuxserver/docker-firefox) - 
 - [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署自己的 ChatGPT 镜像站
 - [stilleshan/subconverter](https://github.com/stilleshan/subconverter) - 科学上网订阅转换托管服务 docker 版,已去除自动选择url-test以解决连接数爆涨问题.提供免费托管服务.
 - [HalcyonAzure/lsky-pro-docker](https://github.com/HalcyonAzure/lsky-pro-docker) - ☁️兰空图床(Lsky Pro) - Docker自动构建，支持多平台
@@ -332,6 +333,8 @@
 
 ## Go 
 
+- [iimeta/fastapi-admin](https://github.com/iimeta/fastapi-admin) - 智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [DaoCloud/crproxy](https://github.com/DaoCloud/crproxy) - CRProxy (Container Registry Proxy) is a generic image proxy
 - [Hoshinonyaruko/Gensokyo-llm](https://github.com/Hoshinonyaruko/Gensokyo-llm) - 开源的智能体项目 支持6种聊天平台 Onebotv11一对多连接 流式信息 agent 对话keyboard气泡生成 支持10+大模型接口(持续更新)  具有将多种大模型接口转化为带有上下文的通用格式的能力.
 - [jonssonyan/h-ui](https://github.com/jonssonyan/h-ui) - Just the panel for Hysteria2 / 仅仅是 Hysteria2 的面板
@@ -346,7 +349,7 @@
 - [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
 - [wyx2685/V2bX](https://github.com/wyx2685/V2bX) - 
 - [xgd16/UniTranslate](https://github.com/xgd16/UniTranslate) - 基于 go 实现的一个 百度 有道 谷歌 Deepl ChatGPTFree Google Translator API 免费的Google翻译 翻译统一管理接入平台 统一API 调用规范  多平台翻译,调试操作端,权重,多接入 批量翻译 聚合翻译 免费翻译
-- [daguflow/dagu](https://github.com/daguflow/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [daguflow/dagu](https://github.com/daguflow/dagu) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [xqdoo00o/ChatGPT-to-API](https://github.com/xqdoo00o/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
 - [aurora-develop/Duck2api](https://github.com/aurora-develop/Duck2api) - 
 - [lessapi-dev/lessapi-duckduckgo](https://github.com/lessapi-dev/lessapi-duckduckgo) - LessAPI-DuckDuckGo is an API service for a search engine. Simple, lightweight, reliable, Docker deployable, easy to maintain. 一个基于DuckDuckGo的搜索引擎API服务。简单、轻量、可靠、Docker部署、易于维护。
@@ -462,7 +465,7 @@
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
 - [Jrohy/trojan](https://github.com/Jrohy/trojan) - trojan多用户管理部署程序, 支持web页面管理
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-- [helloxz/zdir](https://github.com/helloxz/zdir) - 一款集文件索引、在线预览与分享于一体的多功能私有存储程序，支持WebDAV和离线下载（即将）。
+- [helloxz/zdir](https://github.com/helloxz/zdir) - A multifunctional private storage program that integrates file indexing, online preview, and sharing, supporting both WebDAV and cloud download.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
@@ -607,7 +610,7 @@
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需后端，一键部署，快速将自建节点分享URL转换为订阅链接，提供自定义路由规则，支持SingBox/Clash/V2Ray/Xray
-- [jooooock/wrx](https://github.com/jooooock/wrx) - 微信读书导出书籍epub
+- [jooooock/wrx](https://github.com/jooooock/wrx) - 电子书导出工具，支持导出 HTML/EPUB
 - [asdlokj1qpi23/ios_rule_script](https://github.com/asdlokj1qpi23/ios_rule_script) - 分流规则、重写写规则及脚本。
 - [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
 - [scarqin/wxread-export](https://github.com/scarqin/wxread-export) - 导出 Markdown 格式的微信读书笔记
@@ -622,7 +625,6 @@
 - [ykyritsis/ChatGPT-code-preview](https://github.com/ykyritsis/ChatGPT-code-preview) - Artifacts-like chrome extension for ChatGPT, inspired by Claude 3.5 Sonnet. Requires CSP unblocker for JS to function.
 - [Hugo-Dz/on-device-transcription](https://github.com/Hugo-Dz/on-device-transcription) - A ready-to-use, minimal app that converts any speech into text.
 - [ozgrozer/chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
-- [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card) - 流光卡片API
 - [iamfugui/youtube-adb](https://github.com/iamfugui/youtube-adb) - A script to remove YouTube ads, including static ads and video ads, without interfering with the network and ensuring safety.  脚本用于移除YouTube广告，包括静态广告和视频广告。不会干扰网络，安全。
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed) - A speed test analysis software that shows your internet speed for up to 30 days
 - [traceless/alist-encrypt](https://github.com/traceless/alist-encrypt) - 这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能，同时在 webdav 下的操作透明，自动实现文件资源的加解密。
@@ -1081,7 +1083,6 @@
 - [Mikachu2333/rimage_gui](https://github.com/Mikachu2333/rimage_gui) - 一个Rimage的GUI版本，能够批量压缩图片且不影响观感。A GUI software use rimage to compress images batchly without affecting the look and feel.
 - [ddy-ddy/cs-408](https://github.com/ddy-ddy/cs-408) - 计算机考研专业课程408相关的复习经验，资源和OneNote笔记
 - [chenweiphd/LargeLanguageModel-and-GPT-4-ResourceMap](https://github.com/chenweiphd/LargeLanguageModel-and-GPT-4-ResourceMap) - 
-- [garyvalue/chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总55个Chatgpt商业版及提供更多的变现方式,商业源码程序,账号API渠道,支付收款渠道,服务器渠道,课程配套服务,CHATGPT知识星球,开发定制外包
 - [soulteary/docker-chatgpt](https://github.com/soulteary/docker-chatgpt) - &lt; 10MB, One-click self-hosted ChatGPT, allowing access to various data sources and non-OpenAI models.
 - [XIU2/Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 - [pennyliang/ciku](https://github.com/pennyliang/ciku) - 
@@ -1145,7 +1146,7 @@
 - [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
 - [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of Shelf Cloud ready-to-run docker-compose
 - [shockerli/go-awesome](https://github.com/shockerli/go-awesome) - Go 语言优秀资源整理，为项目落地加速🏃
-- [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-
+- [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, m
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -1728,6 +1729,7 @@
 
 ## Shell 
 
+- [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
 - [eooce/Sing-box](https://github.com/eooce/Sing-box) - 既然来了，就留下你的Star吧！Serv00 | CT8 | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞
 - [opiran-club/VPS-Optimizer](https://github.com/opiran-club/VPS-Optimizer) - Linux Optimizer One-click bash script , swap maker and bbr tcp congestion control , xanmod kernel and bbrv3
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
@@ -1820,6 +1822,7 @@
 
 ## TypeScript 
 
+- [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star) - 
 - [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的机器人插件
 - [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
 - [DiscovAI/DiscovAI-search](https://github.com/DiscovAI/DiscovAI-search) - 🔍 DiscovAI-Search: An AI-powered search engine for AI tools and custom data. Built with Next.js, OpenAI, Supabase, and more. Features vector-based search, Redis caching, and LLM-powered responses.
@@ -1845,6 +1848,7 @@
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
+- [ygh3279799773/streamer-card](https://github.com/ygh3279799773/streamer-card) - 流光卡片API
 - [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个浏览器扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者比较有帮助。
 - [luyu0279/BrainyAI](https://github.com/luyu0279/BrainyAI) - a free and open-source browser sidebar plugin that offers a cost-free alternative to products like Sider, Monica, and Merlin.
 - [chengfengfengwang/lingo-link](https://github.com/chengfengfengwang/lingo-link) - 一个支持大模型的浏览器划词翻译插件 / a browser extension primarily designed for translation of selected text
@@ -1919,7 +1923,7 @@
 - [ttqftech/FFBox](https://github.com/ttqftech/FFBox) - 一个多媒体转码百宝箱 / 一个 FFmpeg 的套壳
 - [bclswl0827/ChatGemini](https://github.com/bclswl0827/ChatGemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
-- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -1931,7 +1935,7 @@
 - [loo-y/GeminiChatUp](https://github.com/loo-y/GeminiChatUp) - 
 - [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev
 - [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
-- [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro服务！
+- [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
 - [all-in-aigc/aiwallpaper](https://github.com/all-in-aigc/aiwallpaper) - AI Wallpaper Generator
 - [Nanjiren01/AIChatWeb](https://github.com/Nanjiren01/AIChatWeb) - 在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
