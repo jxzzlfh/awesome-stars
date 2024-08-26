@@ -519,7 +519,7 @@
 - [jiewenhuang/halo-theme-stack](https://github.com/jiewenhuang/halo-theme-stack) - 一款优秀的Halo2个人博客主题
 - [f2ccloud/theme-ocean](https://github.com/f2ccloud/theme-ocean) - Halo 2.0 知识库主题
 - [liuchangfitcloud/theme-moderna](https://github.com/liuchangfitcloud/theme-moderna) - 基于bootstrapmade-Moderna 设计的Halo主题
-- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+- [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 - [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
 - [chrysoljq/pandora-vercel](https://github.com/chrysoljq/pandora-vercel) - 在 Vercel 上部署 Pandora-ChatGPT Cloud。Pandora-ChatGPT on Vercel.
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
@@ -893,6 +893,7 @@
 - [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) - 
 - [jasonaidm/ai_webui](https://github.com/jasonaidm/ai_webui) - AI-WEBUI: A universal web interface for AI creation, 一款好用的图像、音频、视频AI处理工具
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
 - [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [PRIS-CV/DemoFusion](https://github.com/PRIS-CV/DemoFusion) - Let us democratise high-resolution generation! (CVPR 2024)
@@ -1272,7 +1273,7 @@
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [iuroc/mypages](https://github.com/iuroc/mypages) - 一款标签化管理网页收藏的工具
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-- [sergix44/xbackbone](https://github.com/sergix44/xbackbone) - A lightweight file manager with full ShareX support and more
+- [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [WuSuoV/QRcode](https://github.com/WuSuoV/QRcode) - 自建生成二维码接口
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Self-hosted image sharing software, your own Flickr/Imgur with your very own rules. 👍 Go to chevereto/chevereto for newer Chevereto releases.
@@ -1779,7 +1780,7 @@
 - [zxcvos/Xray-script](https://github.com/zxcvos/Xray-script) - Xray-REALITY 管理脚本
 - [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
 - [wikihost-opensource/linux-toolkit](https://github.com/wikihost-opensource/linux-toolkit) - 
-- [kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1) - 一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由
+- [kiddin9/KWrt](https://github.com/kiddin9/KWrt) - 一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray) - Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
@@ -1841,6 +1842,7 @@
 
 ## TypeScript 
 
+- [jbilcke-hf/clapper](https://github.com/jbilcke-hf/clapper) - Clapper.app, a video synthesizer and sequencer designed for the age of AI cinema
 - [aaaaa-pi/zipideo](https://github.com/aaaaa-pi/zipideo) - ⚡zipideo: 视频压缩电脑桌面端软件
 - [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) - Frontend For TextBin (Open Source Alternative to PasteBin)
 - [albertocubeddu/extensionOS](https://github.com/albertocubeddu/extensionOS) - Imagine a world where everyone can access powerful AI models—LLMs, generative image models, and speech recognition—directly in their web browser. Integrating AI into daily browsing will revolutionise 
@@ -1867,7 +1869,7 @@
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [leptonai/imgpilot](https://github.com/leptonai/imgpilot) - Turn the draft into amazing artwork with the power of Real-Time Latent Consistency Model
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine
-- [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - Powerful open-source clipboard manager for MacOS and Windows platforms.
+- [ayangweb/EcoPaste](https://github.com/ayangweb/EcoPaste) - Open source clipboard management tools for Windows, Macos and Linux.
 - [yossTheDev/removerized](https://github.com/yossTheDev/removerized) - 🖼️ Effortlessly Remove Image Backgrounds with AI - 🆓 Free & Limitless with 🛩️ Offline Support
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
@@ -1915,7 +1917,7 @@
 - [LLM-Red-Team/step-free-api](https://github.com/LLM-Red-Team/step-free-api) - 🚀 跃问YueWen 多模态大模型逆向API白嫖测试【特长：超强多模态】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api) - 🚀 聆心智能 Emohaa情感陪伴大模型逆向API白嫖测试【特长：共情能力】，支持高速流式输出、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 - [LLM-Red-Team/glm-free-api](https://github.com/LLM-Red-Team/glm-free-api) - 🚀 智谱清言 ChatGLM4大模型逆向API白嫖测试【特长：超强智能体】，支持高速流式输出、支持智能体对话、支持多轮对话、支持视频生成、支持AI绘图、支持联网搜索、支持长文档解读、支持代码调用、支持图像解析，零配置部署，多路token支持，自动清理会话痕迹。
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT Copilot in Obsidian
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
 - [sunls24/nextai](https://github.com/sunls24/nextai) - 一个简单而优雅的 AI 聊天程序
 - [Elliott-Chong/chatpdf-yt](https://github.com/Elliott-Chong/chatpdf-yt) - 
@@ -1935,7 +1937,6 @@
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for [frp](https://github.com/fatedier/frp) server and client management, which makes this project a Cloudflare Tunnel or Tailscale Funnel open source alternative
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
-- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app.
 - [synchronicity-labs/translation-starter](https://github.com/synchronicity-labs/translation-starter) - 
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 支持视频号、小程序、抖音、快手、小红书、酷狗、QQ音乐等网络资源下载!
@@ -2226,6 +2227,7 @@
 
 ## Vue 
 
+- [zyyzyykk/kkTerminal](https://github.com/zyyzyykk/kkTerminal) - kkTerminal，一个web终端实现ssh远程连接服务器。kkTerminal, a web-based terminal for SSH remote server connection.
 - [xinghaix/download-manager](https://github.com/xinghaix/download-manager) - 谷歌浏览器下载管理器插件【A chrome extension for managing download】
 - [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
 - [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 微信公众号文章导出工具，100%还原原文样式
