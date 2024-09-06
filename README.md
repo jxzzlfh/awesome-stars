@@ -1392,6 +1392,7 @@
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
 - [arry-lee/wereader](https://github.com/arry-lee/wereader) - 一个功能全面的微信读书笔记助手 wereader
 - [seanzhang-zhichen/llama3-chinese](https://github.com/seanzhang-zhichen/llama3-chinese) - Llama3-Chinese是以Meta-Llama-3-8B为底座，使用 DORA + LORA+ 的训练方法，在50w高质量中文多轮SFT数据 + 10w英文多轮SFT数据 + 2000单轮自我认知数据训练而来的大模型。
+- [QwenLM/CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5) - CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3、Llama3.1 中文仓库（随书籍撰写中...  各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
 - [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers.
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, Gemini, Claude, Llama 3, DALL-E, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, agents, code/command 
@@ -1444,7 +1445,7 @@
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
 - [WeChatAPIs/WechatBotCMD](https://github.com/WeChatAPIs/WechatBotCMD) - 微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
 - [bravekingzhang/text2video](https://github.com/bravekingzhang/text2video) - 半个神器👉一键文本转视频的工具
-- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforming Llama2-13B.
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) - HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
@@ -1502,8 +1503,9 @@
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [QwenLM/Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
-- [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+- [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [pszemraj/textsum](https://github.com/pszemraj/textsum) - CLI & Python API to easily summarize text-based files with transformers
@@ -1515,6 +1517,7 @@
 - [kex0/batch-face-swap](https://github.com/kex0/batch-face-swap) - Automaticaly detects faces and replaces them
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [fangxx3863/telegraph2epub](https://github.com/fangxx3863/telegraph2epub) - download telegraph content as epub or cbz
+- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc. (ACM MM)
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
@@ -1545,7 +1548,7 @@
 - [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [qiwsir/algorithm](https://github.com/qiwsir/algorithm) - 
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [rbbrdckybk/dream-factory](https://github.com/rbbrdckybk/dream-factory) - Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs.
 - [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
@@ -1777,6 +1780,7 @@
 - [opiran-club/VPS-Optimizer](https://github.com/opiran-club/VPS-Optimizer) - Linux Optimizer One-click bash script , swap maker and bbr tcp congestion control , xanmod kernel and bbrv3
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
 - [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
+- [QwenLM/Qwen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥 一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
@@ -1865,6 +1869,7 @@
 
 ## TypeScript 
 
+- [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [docat-org/docat](https://github.com/docat-org/docat) - Host your docs. Simple. Versioned. Fancy.
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Open source AI code editor. To download the packaged app:
 - [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language
