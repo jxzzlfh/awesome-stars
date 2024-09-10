@@ -658,7 +658,6 @@
 - [traceless/alist-encrypt](https://github.com/traceless/alist-encrypt) - 这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能，同时在 webdav 下的操作透明，自动实现文件资源的加解密。
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 - [shifu-group/inpaint_wechat](https://github.com/shifu-group/inpaint_wechat) - 《照片修复小小助手》是一款基于微信AI能力的微信小程序，实现了图片选定区域的消除修复功能，纯客户端实现，无服务端。Inpaint_wechat is a WeChat mini-program based on the WeChat AI capabilities, implementing the functionality of inpainting and repairing selecte
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [844704781/ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) - ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O
 - [joye61/pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently
 - [JiHong88/suneditor](https://github.com/JiHong88/suneditor) - Pure javascript based WYSIWYG html editor, with no dependencies.
@@ -1854,6 +1853,7 @@
 ## Svelte 
 
 - [jxqu3/aiui](https://github.com/jxqu3/aiui) - A simple no-install web UI for Ollama and OAI-Compatible APIs!
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS aggregator and reader
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
