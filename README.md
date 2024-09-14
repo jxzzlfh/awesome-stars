@@ -568,6 +568,7 @@
 
 ## Java 
 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [deku-messaging/Deku-SMS-Android](https://github.com/deku-messaging/Deku-SMS-Android) - Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
@@ -1060,7 +1061,7 @@
 - [dlzmoe/litiaotiao_package_backup](https://github.com/dlzmoe/litiaotiao_package_backup) - 李跳跳APK包备份
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [codeartx/flash-switcher](https://github.com/codeartx/flash-switcher) - ALL IN ONE —— 效率 x10（Efficiency x10），包括但不止于 万级书签管理、沉浸式网页笔记、双语沉浸式翻译、智能网页大纲等10+项高频功能/操作
-- [Meroser/My-EPG](https://github.com/Meroser/My-EPG) - 深度定制属于自己的EPG节目预告、高清台标
+- [Meroser/IPTV](https://github.com/Meroser/IPTV) - 深度定制属于自己的EPG节目预告、高清台标
 - [joevess/IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合hao趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
 - [lxgw/LxgwWenKai-Screen](https://github.com/lxgw/LxgwWenKai-Screen) - LXGW WenKai for Screen Reading.
 - [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version 
@@ -1319,7 +1320,7 @@
 ## Pascal 
 
 - [NIKJOO/WarpOnWarp-Windows-Client](https://github.com/NIKJOO/WarpOnWarp-Windows-Client) - Warp on Warp Windows Client
-- [AliDehbansiahkarbon/ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE 10.1 and later versions. https://getitnow.embarcadero.com/chatgptwizard
+- [AliDehbansiahkarbon/ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) - A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE XE5 to 12.1. https://getitnow.embarcadero.com/chatgptwizard
 
 ## PowerShell 
 
@@ -1594,7 +1595,7 @@
 - [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
 - [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
 - [dandelionsllm/pandallm](https://github.com/dandelionsllm/pandallm) - Panda项目是于2023年5月启动的开源海外中文大语言模型项目，致力于大模型时代探索整个技术栈，旨在推动中文自然语言处理领域的创新和合作。
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [tpai/summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, PDFs, and YouTube videos.
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
@@ -1896,7 +1897,7 @@
 - [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 微信公众号文章导出工具，100%还原原文样式
 - [The-Enthusiast-404/text-bin-frontend](https://github.com/The-Enthusiast-404/text-bin-frontend) - Frontend For TextBin (Open Source Alternative to PasteBin)
 - [albertocubeddu/extensionOS](https://github.com/albertocubeddu/extensionOS) - Imagine a world where everyone can access powerful AI models—LLMs, generative image models, and speech recognition—directly in their web browser. Integrating AI into daily browsing will revolutionise 
-- [pompurin404/mihomo-party](https://github.com/pompurin404/mihomo-party) - :electron: Another Mihomo GUI.
+- [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 - [upstash/wikipedia-semantic-search](https://github.com/upstash/wikipedia-semantic-search) - Semantic Search on Wikipedia with Upstash Vector
 - [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star) - 
 - [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件
@@ -2279,6 +2280,7 @@
 
 ## Vue 
 
+- [srsng/cozy-reader](https://github.com/srsng/cozy-reader) - 一款轻量的阅读软件，目前仅支持ePub格式电子书。 基于Rust+tauri+Vue3
 - [aehyok/video2blog](https://github.com/aehyok/video2blog) - 视频转图文 AI跨平台客户端（win mac linux）
 - [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - 
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -2333,7 +2335,7 @@
 - [dlzmoe/HugoFast](https://github.com/dlzmoe/HugoFast) - 利用 GitHub 本身提供的 Api，将 hugo 博客管理面板化。
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) - QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
 - [FISHers6/QuickAI](https://github.com/FISHers6/QuickAI) - QuickAI是一款基于OpenAI开发的电脑版ChatGPT PC跨平台应用程序，它可以提供划词提问、快捷搜索、对话模式和快捷指令等多种功能。旨在为用户提供更便捷、更智能的PC桌面版AI使用体验。在使用时无需下载额外软件，适用于各种场景，如代码自动编辑、文件自动输入、提问、聊天软件自动回复等。QuickAI is a ChatGPT PC Program, support Windows, Ma
-- [tinygeeker/autocue](https://github.com/tinygeeker/autocue) - 🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权、成人模式等功能
+- [tinygeeker/autocue](https://github.com/tinygeeker/autocue) - 🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权等隐藏功能
 - [F-loat/caption2text](https://github.com/F-loat/caption2text) - 📥 PWA 版字幕转换为文本工具，支持 ass 及 srt 格式，可批量导出为 word 及 text 文件
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
