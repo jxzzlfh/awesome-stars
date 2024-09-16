@@ -10,6 +10,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
 - [artificial-intelligence](#artificial-intelligence)
@@ -456,6 +457,10 @@
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
 
+## ansible 
+
+- [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
+
 ## api 
 
 - [Nriver/awesome-trilium](https://github.com/Nriver/awesome-trilium) - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集
@@ -629,6 +634,7 @@
 
 ## azure 
 
+- [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
@@ -1171,6 +1177,7 @@
 
 ## css 
 
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [ohmstance/trilium-lightpad-theme](https://github.com/ohmstance/trilium-lightpad-theme) - My personal Trilium theme, named Lightpad.
 - [tdarshana/typora-ceylon-theme](https://github.com/tdarshana/typora-ceylon-theme) - Ceylon - A Light Typora Theme
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
@@ -1293,6 +1300,8 @@
 
 ## docker 
 
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
+- [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 - [Nriver/trilium-translation](https://github.com/Nriver/trilium-translation) - Translation for Trilium Notes. Trilium Notes 中文适配, 体验优化
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1506,6 +1515,7 @@
 
 ## express 
 
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 
@@ -1839,6 +1849,7 @@
 
 ## html 
 
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [stonehank/html-to-md](https://github.com/stonehank/html-to-md) - A JS library for convert HTML&lt;String&gt; to markdown&lt;String&gt;, gzip 10kb
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [timo-reymann/yal](https://github.com/timo-reymann/yal) - A simple link hub, to display and search links. Allows easy branding, runs with the least privileges and is simple to use.
@@ -1960,6 +1971,7 @@
 
 ## javascript 
 
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [stonehank/html-to-md](https://github.com/stonehank/html-to-md) - A JS library for convert HTML&lt;String&gt; to markdown&lt;String&gt;, gzip 10kb
 - [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claude Artifacts
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
@@ -2140,6 +2152,7 @@
 
 ## linux 
 
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [raj457036/copycat_clipboard](https://github.com/raj457036/copycat_clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
 - [opiran-club/VPS-Optimizer](https://github.com/opiran-club/VPS-Optimizer) - Linux Optimizer One-click bash script , swap maker and bbr tcp congestion control , xanmod kernel and bbrv3
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Open source clipboard management tools for Windows, MacOS and Linux(x11).
@@ -2312,6 +2325,7 @@
 
 ## mac 
 
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI.
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
@@ -2608,6 +2622,7 @@
 
 ## nextjs 
 
+- [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
 - [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claude Artifacts
 - [Dhravya/notty](https://github.com/Dhravya/notty) - An open source, minimal AI powered note taking app and powerful markdown editor
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -2687,6 +2702,7 @@
 
 ## nodejs 
 
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [stonehank/html-to-md](https://github.com/stonehank/html-to-md) - A JS library for convert HTML&lt;String&gt; to markdown&lt;String&gt;, gzip 10kb
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -2787,6 +2803,15 @@
 
 ## others 
 
+- [UIforFreedom/UIF](https://github.com/UIforFreedom/UIF) - 代理面板 UI for Freedom
+- [GPT-language/gpt-tutor-for-chrome](https://github.com/GPT-language/gpt-tutor-for-chrome) - 
+- [ellermister/mybili](https://github.com/ellermister/mybili) - 哔哩哔哩收藏夹备份程序 ~ アレ 视频不见了哟！
+- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet.
+- [cg-dot/vertexai-cf-workers](https://github.com/cg-dot/vertexai-cf-workers) - Vertex AI (GCP) Claude Proxy via Cloudflare workers
+- [typora-community-plugin/typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin) - Typora plugin system for enhancing your editing experience. | 增强 Typora 编辑体验的社区插件系统。
+- [yt-dlp/yt-dlp-wiki](https://github.com/yt-dlp/yt-dlp-wiki) - https://github.com/yt-dlp/yt-dlp/wiki
+- [K12f/BlueCatKoKo](https://github.com/K12f/BlueCatKoKo) - 蓝猫KoKo下载器（BlueCatKoKo）是一个免登录，简单易用的桌面端抖音/快手视频下载工具，具有简洁的界面，流畅的操作逻辑。可以下载几乎所有的视频，并输出mp4格式的文件。
+- [FloatSheep/Qwen-Post-Summary](https://github.com/FloatSheep/Qwen-Post-Summary) - 使用 Cloudflare Worker AI 的通义千问模型为你的文章生成摘要
 - [langgptai/AI-Resume](https://github.com/langgptai/AI-Resume) - Create Beautiful Resume use Claude Artifacts. AI 智能简历
 - [timothytylee/full-text-rss](https://github.com/timothytylee/full-text-rss) - Fork of Full-Text RSS to improve handling of non UTF-8 sites
 - [srsng/cozy-reader](https://github.com/srsng/cozy-reader) - 一款轻量的阅读软件，目前仅支持ePub格式电子书。 基于Rust+tauri+Vue3
@@ -3892,6 +3917,7 @@
 
 ## python 
 
+- [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
 - [rr-/szurubooru](https://github.com/rr-/szurubooru) - Image board engine, Danbooru-style.
 - [baihengaead/wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
 - [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein) - No-code AI workflow
@@ -4058,6 +4084,7 @@
 
 ## react 
 
+- [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
 - [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claude Artifacts
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
@@ -4576,6 +4603,7 @@
 
 ## typescript 
 
+- [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
 - [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claude Artifacts
 - [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
@@ -4793,6 +4821,7 @@
 
 ## windows 
 
+- [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [raj457036/copycat_clipboard](https://github.com/raj457036/copycat_clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
 - [DuckDuckStudio/Fufu_Tools](https://github.com/DuckDuckStudio/Fufu_Tools) - 芙芙工具箱是一个集合许多小工具的支持Windows的工具箱。
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Open source clipboard management tools for Windows, MacOS and Linux(x11).
