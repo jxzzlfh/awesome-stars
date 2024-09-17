@@ -626,6 +626,7 @@
 
 ## JavaScript 
 
+- [ultrasev/1summary](https://github.com/ultrasev/1summary) - 一个简洁的 chrome 插件，使用 LLM 快速生成网页摘要
 - [cg-dot/vertexai-cf-workers](https://github.com/cg-dot/vertexai-cf-workers) - Vertex AI (GCP) Claude Proxy via Cloudflare workers
 - [FloatSheep/Qwen-Post-Summary](https://github.com/FloatSheep/Qwen-Post-Summary) - 使用 Cloudflare Worker AI 的通义千问模型为你的文章生成摘要
 - [stonehank/html-to-md](https://github.com/stonehank/html-to-md) - A JS library for convert HTML&lt;String&gt; to markdown&lt;String&gt;, gzip 10kb
@@ -1083,7 +1084,7 @@
 - [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
 - [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
-- [yonggekkk/sing-box_hysteria2_tuic_argo_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持alpine系统，多端口跳跃、自签/acme双证书切换、Argo固定临时双隧道（可共存）；附singbox电脑网页客户端下载
+- [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持alpine系统，多端口跳跃、自签/acme双证书切换、Argo固定临时双隧道（可共存）；附singbox电脑网页客户端下载
 - [KyleBing/english-vocabulary](https://github.com/KyleBing/english-vocabulary) - 英文单词，英语单词，英语四六级、考研、SAT单词，txt 文件, json 文件，CET4 CET6，乱序，单词
 - [alaskasquirrel/Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 编程、设计、Vlog、音乐、访谈、博客...
 - [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
@@ -1336,6 +1337,7 @@
 
 ## Python 
 
+- [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) - Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model
 - [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
 - [xhufo/IPTV_Test_Speed](https://github.com/xhufo/IPTV_Test_Speed) - IPTV m3u8 link test speed
 - [rr-/szurubooru](https://github.com/rr-/szurubooru) - Image board engine, Danbooru-style.
@@ -1889,6 +1891,7 @@
 
 ## TypeScript 
 
+- [Alndaly/WeChat-Assistant](https://github.com/Alndaly/WeChat-Assistant) - 微信notion助手
 - [GPT-language/gpt-tutor-for-chrome](https://github.com/GPT-language/gpt-tutor-for-chrome) - 
 - [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
 - [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet.
@@ -2183,7 +2186,7 @@
 - [JinayJain/gpt-anywhere](https://github.com/JinayJain/gpt-anywhere) - Use GPT anywhere with just one shortcut. Available for Mac, Windows, and Linux. Over 1,500 downloads.
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
-- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
+- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Come join the best place on the internet to learn AI skills. Use code "aicodetranslator" for an extra 20% off.
 - [lxfater/Portal](https://github.com/lxfater/Portal) - 
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [gcloudlab/QA](https://github.com/gcloudlab/QA) - 🤖部署在Vercel的ChatGPT镜像站点（gpt-3.5-turbo）
@@ -2195,7 +2198,7 @@
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [cosin2077/chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 - [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
