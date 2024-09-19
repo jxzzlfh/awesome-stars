@@ -237,6 +237,7 @@
 
 ## CSS 
 
+- [jakholuo/quest](https://github.com/jakholuo/quest) - 一款轻量 Memo 记录程序，基于 Bun + Hono + MongoDB 构建
 - [catppuccin/trilium-notes](https://github.com/catppuccin/trilium-notes) - 📝 Soothing pastel theme for Trilium Notes
 - [ohmstance/trilium-lightpad-theme](https://github.com/ohmstance/trilium-lightpad-theme) - My personal Trilium theme, named Lightpad.
 - [mondayrobot/trilium-linen-theme](https://github.com/mondayrobot/trilium-linen-theme) - A minimal, airy light theme for Trilium with an optional distraction-free mode.
@@ -918,6 +919,7 @@
 - [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) - 
 - [jasonaidm/ai_webui](https://github.com/jasonaidm/ai_webui) - AI-WEBUI: A universal web interface for AI creation, 一款好用的图像、音频、视频AI处理工具
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
 - [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [PRIS-CV/DemoFusion](https://github.com/PRIS-CV/DemoFusion) - Let us democratise high-resolution generation! (CVPR 2024)
@@ -969,7 +971,7 @@
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
-- [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 通过电影、美剧或文档生成词库（单词本）为单词提供具体语境。然后通过语境记忆单词。
+- [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 使用电影、美剧或文档生成词库（单词本）为单词提供具体语境。然后通过语境记忆单词。
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [tangshimin/typing-learner](https://github.com/tangshimin/typing-learner) - 使用电影、美剧、字幕或文档生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词。
@@ -1338,6 +1340,8 @@
 
 ## Python 
 
+- [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
+- [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - Self-hosted habit tracking app
 - [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) - Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model
 - [Return-Log/Drive-Icon-Manager](https://github.com/Return-Log/Drive-Icon-Manager) - 可以轻松删除‘此电脑’及‘资源管理器侧边栏’中讨厌的网盘图标
 - [xhufo/IPTV_Test_Speed](https://github.com/xhufo/IPTV_Test_Speed) - IPTV m3u8 link test speed
@@ -1412,7 +1416,7 @@
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
 - [arry-lee/wereader](https://github.com/arry-lee/wereader) - 一个功能全面的微信读书笔记助手 wereader
 - [seanzhang-zhichen/llama3-chinese](https://github.com/seanzhang-zhichen/llama3-chinese) - Llama3-Chinese是以Meta-Llama-3-8B为底座，使用 DORA + LORA+ 的训练方法，在50w高质量中文多轮SFT数据 + 10w英文多轮SFT数据 + 2000单轮自我认知数据训练而来的大模型。
-- [QwenLM/CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5) - CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
+- [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3、Llama3.1 中文仓库（随书籍撰写中...  各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
 - [frostming/tetos](https://github.com/frostming/tetos) - A unified interface for multiple Text-to-Speech (TTS) providers.
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, Gemini, Claude, Llama 3, DALL-E, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, agents, code/command 
@@ -1465,7 +1469,6 @@
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
 - [WeChatAPIs/WechatBotCMD](https://github.com/WeChatAPIs/WechatBotCMD) - 微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
 - [bravekingzhang/text2video](https://github.com/bravekingzhang/text2video) - 半个神器👉一键文本转视频的工具
-- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) - HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
@@ -1802,7 +1805,7 @@
 - [opiran-club/VPS-Optimizer](https://github.com/opiran-club/VPS-Optimizer) - Linux Optimizer One-click bash script , swap maker and bbr tcp congestion control , xanmod kernel and bbrv3
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
 - [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
-- [QwenLM/Qwen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
+- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥 一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
@@ -1892,10 +1895,11 @@
 
 ## TypeScript 
 
+- [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & memo data with GitHub
 - [Alndaly/WeChat-Assistant](https://github.com/Alndaly/WeChat-Assistant) - 微信notion助手
 - [GPT-language/gpt-tutor-for-chrome](https://github.com/GPT-language/gpt-tutor-for-chrome) - 
 - [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
-- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet.
+- [zaidmukaddam/miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Search with models like GPT-4o mini, Claude 3.5 Sonnet and o1-mini!
 - [typora-community-plugin/typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin) - Typora plugin system for enhancing your editing experience. | 增强 Typora 编辑体验的社区插件系统。
 - [langgptai/AI-Resume](https://github.com/langgptai/AI-Resume) - Create Beautiful Resume use Claude Artifacts. AI 智能简历
 - [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
@@ -1938,7 +1942,7 @@
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [leptonai/imgpilot](https://github.com/leptonai/imgpilot) - Turn the draft into amazing artwork with the power of Real-Time Latent Consistency Model
 - [memfreeme/memfree](https://github.com/memfreeme/memfree) - MemFree - Hybrid AI Search Engine
-- [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - Open source clipboard management tools for Windows, MacOS and Linux(x11).
+- [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [yossTheDev/removerized](https://github.com/yossTheDev/removerized) - 🖼️ Effortlessly Remove Image Backgrounds with AI - 🆓 Free & Limitless with 🛩️ Offline Support
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
@@ -2299,7 +2303,7 @@
 ## Vue 
 
 - [UIforFreedom/UIF](https://github.com/UIforFreedom/UIF) - 代理面板 UI for Freedom
-- [srsng/cozy-reader](https://github.com/srsng/cozy-reader) - 一款轻量的阅读软件，目前仅支持ePub格式电子书。 基于Rust+tauri+Vue3
+- [srsng/cozy-reader](https://github.com/srsng/cozy-reader) - 一款轻量的阅读软件，仅支持ePub格式电子书。 基于Rust+tauri+Vue3
 - [aehyok/video2blog](https://github.com/aehyok/video2blog) - 视频转图文 AI跨平台客户端（win mac linux）
 - [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - 
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
