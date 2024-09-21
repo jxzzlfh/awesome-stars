@@ -754,6 +754,7 @@
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
 - [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
 - [cosin2077/chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - Hier findest du das wohl einfachste und benutzerfreundlichste Chat-Script für die OpenAI-API GPT 3.5-tubro und GPT 4. Das Script benötigt kein Framework und du kannst es ohne Vorkenntnisse verwenden. 
 - [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
@@ -2981,7 +2982,7 @@
 - [DifuseHQ/Kalmia](https://github.com/DifuseHQ/Kalmia) - A documentation CMS written in go
 - [HATTER-LONG/Verbiverse](https://github.com/HATTER-LONG/Verbiverse) - 利用 LLM 大模型辅助阅读 PDF 与观看视频，用以提升语言能力。
 - [saoudrizwan/claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
-- [meltylabs/melty](https://github.com/meltylabs/melty) - Open source AI code editor. To download the packaged app:
+- [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
 - [shenweiyan/Bioit-top](https://github.com/shenweiyan/Bioit-top) - Bio & IT 网址导航
 - [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language
@@ -3004,7 +3005,7 @@
 - [iKunpw/auto-ncmdump](https://github.com/iKunpw/auto-ncmdump) - 使用 ncmdump ，实现全自动网易云音乐ncm格式转mp3
 - [CH563/image-beautifier](https://github.com/CH563/image-beautifier) - 在线截图美化工具，支持添加批注，裁剪，局部放大等，并预设各社媒尺寸和导出高清图
 - [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games.
-- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix级字幕切割、翻译、精确对齐，一键全自动视频搬运
+- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix级字幕切割、翻译、精确对齐，一键全自动视频搬运AI字幕组
 - [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - 
 - [aaaaa-pi/zipideo](https://github.com/aaaaa-pi/zipideo) - ⚡zipideo: 视频压缩电脑桌面端软件
 - [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 微信公众号文章导出工具，100%还原原文样式
@@ -4232,7 +4233,7 @@
 ## react 
 
 - [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 - [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claude Artifacts by E2B
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
@@ -4750,7 +4751,7 @@
 ## typescript 
 
 - [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 - [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claude Artifacts by E2B
 - [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
 - [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
