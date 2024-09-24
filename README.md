@@ -521,7 +521,6 @@
 - [drshahizan/learn-github](https://github.com/drshahizan/learn-github) - A step-by-step guide to getting started with Git and GitHub for beginners.
 - [1003715231/awesome-chatgpt-prompts](https://github.com/1003715231/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
-- [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式
 - [gaboolic/vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
 - [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/mhtml/md/pdf/docx文件
 - [x-dr/tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
@@ -629,6 +628,7 @@
 
 ## JavaScript 
 
+- [wa008/PopTranslate](https://github.com/wa008/PopTranslate) - The most efficient translation Chrome extension
 - [ultrasev/1summary](https://github.com/ultrasev/1summary) - 一个简洁的 chrome 插件，使用 LLM 快速生成网页摘要
 - [cg-dot/vertexai-cf-workers](https://github.com/cg-dot/vertexai-cf-workers) - Vertex AI (GCP) Claude Proxy via Cloudflare workers
 - [FloatSheep/Qwen-Post-Summary](https://github.com/FloatSheep/Qwen-Post-Summary) - 使用 Cloudflare Worker AI 的通义千问模型为你的文章生成摘要
@@ -1341,6 +1341,8 @@
 
 ## Python 
 
+- [Education-Victory/whisper-webui](https://github.com/Education-Victory/whisper-webui) - WebUI for Whisper API
+- [yigitkonur/swift-ocr-llm-powered-pdf-to-markdown](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown) - An open-source OCR API that leverages OpenAI's powerful language models with optimized performance techniques like parallel processing and batching to deliver high-quality text extraction from complex
 - [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - Self-hosted habit tracking app
 - [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) - Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model
@@ -1413,7 +1415,7 @@
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 - [zjrwtx/AIgene_anki](https://github.com/zjrwtx/AIgene_anki) - 基于零一万物等AI视觉大模型简单几步就能批量生成Anki图片笔记
 - [aceway/weixin-dyh-ai](https://github.com/aceway/weixin-dyh-ai) - 一个支持将微信订阅号接入AI的后台管理系统。
-- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Create LLM agents with long-term memory and custom tools 📚🦙
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Letta (fka MemGPT) is a framework for creating stateful LLM services.
 - [amchii/ZhiArchive](https://github.com/amchii/ZhiArchive) - 监测知乎用户的个人动态并保存内容以防丢失，保存知乎内容。Collecting and storing dynamic content from your Zhihu account for never lose.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
 - [arry-lee/wereader](https://github.com/arry-lee/wereader) - 一个功能全面的微信读书笔记助手 wereader
@@ -1489,6 +1491,7 @@
 - [tyxsspa/AnyText](https://github.com/tyxsspa/AnyText) - Official implementation code of the paper &lt;AnyText: Multilingual Visual Text Generation And Editing&gt;
 - [DLYuanGod/TinyGPT-V](https://github.com/DLYuanGod/TinyGPT-V) - TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones
 - [smallnew666/edge-tts-ui](https://github.com/smallnew666/edge-tts-ui) - 微软文字转语音工具，edge-tts UI版本，增加了停顿功能
+- [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式
 - [DoooReyn/WxReader](https://github.com/DoooReyn/WxReader) - 基于PySide6的微信读书自动阅读器
 - [DoiiarX/NLCISBNPlugin](https://github.com/DoiiarX/NLCISBNPlugin) - 基于中国国家图书馆ISBN检索的calibre的source/metadata插件
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -1740,6 +1743,7 @@
 
 ## Rust 
 
+- [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [every-day-things/citadel](https://github.com/every-day-things/citadel) - Manage your ebook library without frustrations. Calibre compatible.
 - [hack-ink/AiR](https://github.com/hack-ink/AiR) - AI with Rust.
@@ -1897,6 +1901,7 @@
 
 ## TypeScript 
 
+- [trypear/pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & memo data with GitHub
 - [Alndaly/WeChat-Assistant](https://github.com/Alndaly/WeChat-Assistant) - 微信notion助手
