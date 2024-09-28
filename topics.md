@@ -679,7 +679,7 @@
 
 ## bot 
 
-- [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件
+- [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat services with multi-model integration, extensibility, and various output formats
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗
 - [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，⚡检测广告，🌱自动群发，👯Ai回复，😄自定义程度丰富，小白也可轻松上手！
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
@@ -710,7 +710,7 @@
 ## chatbot 
 
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
-- [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件
+- [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat services with multi-model integration, extensibility, and various output formats
 - [DiscovAI/DiscovAI-search](https://github.com/DiscovAI/DiscovAI-search) - 🔍 DiscovAI-Search: An AI-powered search engine for AI tools and custom data. Built with Next.js, OpenAI, Supabase, and more. Features vector-based search, Redis caching, and LLM-powered responses.
 - [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
@@ -772,7 +772,7 @@
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [albertocubeddu/extensionOS](https://github.com/albertocubeddu/extensionOS) - Imagine a world where everyone can access powerful AI models—LLMs, generative image models, and speech recognition—directly in their web browser. Integrating AI into daily browsing will revolutionise 
 - [iimeta/fastapi-admin](https://github.com/iimeta/fastapi-admin) - 智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。
-- [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件
+- [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat services with multi-model integration, extensibility, and various output formats
 - [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署个人的 ChatGPT 镜像站
 - [Cerlancism/chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT API
 - [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
@@ -2812,7 +2812,7 @@
 - [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein) - No-code AI workflow
 - [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
 - [iimeta/fastapi-admin](https://github.com/iimeta/fastapi-admin) - 智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。
-- [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件
+- [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat services with multi-model integration, extensibility, and various output formats
 - [Cerlancism/chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT API
 - [DiscovAI/DiscovAI-search](https://github.com/DiscovAI/DiscovAI-search) - 🔍 DiscovAI-Search: An AI-powered search engine for AI tools and custom data. Built with Next.js, OpenAI, Supabase, and more. Features vector-based search, Redis caching, and LLM-powered responses.
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
@@ -2961,13 +2961,14 @@
 
 ## others 
 
+- [tonyljx/TextWordExplain](https://github.com/tonyljx/TextWordExplain) - 汉语新解
 - [CaraJ7/MMSearch](https://github.com/CaraJ7/MMSearch) - The First Multimodal Seach Engine Pipeline and Benchmark for LMMs
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [Education-Victory/whisper-webui](https://github.com/Education-Victory/whisper-webui) - WebUI for Whisper API
 - [wa008/PopTranslate](https://github.com/wa008/PopTranslate) - The most efficient translation Chrome extension
 - [yigitkonur/swift-ocr-llm-powered-pdf-to-markdown](https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown) - An open-source OCR API that leverages OpenAI's powerful language models with optimized performance techniques like parallel processing and batching to deliver high-quality text extraction from complex
 - [HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
-- [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & memo data with GitHub
+- [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & thoughts with GitHub
 - [jakholuo/quest](https://github.com/jakholuo/quest) - 一款轻量 Memo 记录程序，基于 Bun + Hono + MongoDB 构建
 - [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - Self-hosted habit tracking app
@@ -3026,7 +3027,7 @@
 - [lhl/voicechat2](https://github.com/lhl/voicechat2) - Local SRT/LLM/TTS Voicechat
 - [ViggoZ/producthunt-daily-hot](https://github.com/ViggoZ/producthunt-daily-hot) - 自动生成每日Product Hunt热门产品中文榜单，基于GitHub Actions自动提交Markdown文件
 - [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
-- [veasion/aippt](https://github.com/veasion/aippt) - AI 智能生成 PPT，PPT 解析为 JSON，JSON 反渲染为 PPT，商用级 AiPPT 项目，可在线体验
+- [veasion/aippt](https://github.com/veasion/aippt) - AI 智能生成 PPT，通过主题/文件/网址等方式生成PPT，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，可在线体验。AI generates PowerPoint Presentation, Supports parsing and rendering of complex PPT features such as native charts, a
 - [Kedreamix/Linly-Dubbing](https://github.com/Kedreamix/Linly-Dubbing) - 智能视频多语言AI配音/翻译工具 - Linly-Dubbing — “AI赋能，语言无界”
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
@@ -4766,7 +4767,7 @@
 - [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claude Artifacts by E2B
 - [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
 - [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
-- [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件
+- [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat services with multi-model integration, extensibility, and various output formats
 - [nicejade/markdown2png](https://github.com/nicejade/markdown2png) - 简单好用的在线文本工具；支持将 Markdown、rich text、word 等格式内容，快速转化为 png、pdf、html 等文件，并支持一键下载、自定义设置等功能。
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
