@@ -1027,7 +1027,7 @@
 
 ## Others 
 
-- [Licoy/VoAPI](https://github.com/Licoy/VoAPI) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于one-api与new-api开发。
+- [Licoy/VoAPI](https://github.com/Licoy/VoAPI) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于NewAPI开发。
 - [yt-dlp/yt-dlp-wiki](https://github.com/yt-dlp/yt-dlp-wiki) - https://github.com/yt-dlp/yt-dlp/wiki
 - [jurieo/chatgpt-share-web](https://github.com/jurieo/chatgpt-share-web) - chatgpt和claude官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。
 - [YOYZHANG/design-material](https://github.com/YOYZHANG/design-material) - Design material for indie hackers
@@ -1407,7 +1407,7 @@
 - [ultrasev/llmproxy](https://github.com/ultrasev/llmproxy) - 一个基于 cloudflare worker 的 LLM API 反向代理，支持 OpenAI, Gemini, Groq 等平台。接口兼容 OpenAI API 规范，可以直接使用 OpenAI SDK 调用。
 - [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces.
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our clou
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain, open and self-hostable. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3).
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [cymz6/AutoIPTV-Hotel](https://github.com/cymz6/AutoIPTV-Hotel) - AutoIPTV-Hotel 自动采集整理。
@@ -1926,7 +1926,7 @@
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language
 - [Dhravya/notty](https://github.com/Dhravya/notty) - An open source, minimal AI powered note taking app and powerful markdown editor
-- [Scanood/onemouse](https://github.com/Scanood/onemouse) - 🐹一个基于electron和WebRTC的内网控制软件，可以分别对鼠标、键盘和屏幕进行控制。
+- [Scanood/onemouse](https://github.com/Scanood/onemouse) - 🐹一个基于electron和Vue的内网远程控制工具，可以分别对鼠标、键盘和屏幕进行控制。
 - [jbilcke-hf/clapper](https://github.com/jbilcke-hf/clapper) - Clapper.app, a video synthesizer and sequencer designed for the age of AI cinema
 - [aaaaa-pi/zipideo](https://github.com/aaaaa-pi/zipideo) - ⚡zipideo: 视频压缩电脑桌面端软件
 - [jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter) - 在线批量导出微信公众号文章，支持内嵌的音视频导出，无需搭建任何环境，可100%还原文章样式，支持私有部署
