@@ -502,6 +502,7 @@
 
 ## HTML 
 
+- [Anyexyz/halo-theme-hellopage](https://github.com/Anyexyz/halo-theme-hellopage) - HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站。
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
 - [shenweiyan/Bioit-top](https://github.com/shenweiyan/Bioit-top) - Bio & IT 网址导航
@@ -911,6 +912,7 @@
 
 ## Jupyter Notebook 
 
+- [lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio) - 
 - [Kedreamix/Linly-Dubbing](https://github.com/Kedreamix/Linly-Dubbing) - 智能视频多语言AI配音/翻译工具 - Linly-Dubbing — “AI赋能，语言无界”
 - [anarchysaiko/metaprompt_generator](https://github.com/anarchysaiko/metaprompt_generator) - 基于openai框架编写的辅助元提示词生成器
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -970,7 +972,7 @@
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is an powerful picture editor, which can crop, apply filters, add some drawing, erase background, edit EXIF or even create PDF file
+- [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to
@@ -1881,6 +1883,7 @@
 
 ## Svelte 
 
+- [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
 - [jxqu3/aiui](https://github.com/jxqu3/aiui) - A simple no-install web UI for Ollama and OAI-Compatible APIs!
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS aggregator and reader
@@ -1906,6 +1909,8 @@
 
 ## TypeScript 
 
+- [0011000000110010/obsidian-i18n](https://github.com/0011000000110010/obsidian-i18n) - 
+- [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 Cloudflare email
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) - Minimalistic web app designed for sending private and secure notes.
 - [tonyljx/TextWordExplain](https://github.com/tonyljx/TextWordExplain) - 汉语新解
 - [trypear/pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.
