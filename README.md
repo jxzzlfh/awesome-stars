@@ -78,7 +78,6 @@
 - [lxgw/LxgwWenKai-Lite](https://github.com/lxgw/LxgwWenKai-Lite) - The lite edition of LXGW WenKai.
 - [adithya-s-sekhar/advanced-youtube-client-ayc](https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc) - AYC is a highly responsive, no nonsense, easy to use, fast video downloader from the text based era.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## Blade 
@@ -579,7 +578,7 @@
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [LemonTreeLT/BParser](https://github.com/LemonTreeLT/BParser) - 这是一个自动将来自粘贴板的bilibili视频链接解析成图片加文字的程序
-- [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款基于tv.cctv.com和央视频的简易电视直播收看软件，用于方便的在机顶盒上收看电视节目
+- [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
 - [flyun/chatAir](https://github.com/flyun/chatAir) - ☁️A native Android app for ChatGPT, Gemini, and Claude ☁️ChatGPT、Gemini 和 Claude 的原生安卓应用程序
 - [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg.
 - [TouShang6015/Hugai-chatgpt](https://github.com/TouShang6015/Hugai-chatgpt) - HugAi是由Springboot Vue2 elementUI集成各大AI大模型平台开发的智能问答助手，文本对话模型支持流式响应，现已接入OpenAi、chatGpt、讯飞星火、文心一言、Ollama，以及主流AI绘图Midjourney、Stable Diffusion，完全开源搭建属于自己的AI聊天室
@@ -652,7 +651,7 @@
 - [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - CloudFlare 图床，基于 CloudFlare Pages 和 Telegram Bot 的免费图片托管解决方案！
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s
-- [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速将自建节点分享URL转换为订阅链接，提供灵活的自定义路由规则，支持SingBox/Clash/V2Ray/Xray
+- [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 - [jooooock/wrx](https://github.com/jooooock/wrx) - 电子书导出工具，支持大部分电子书网站，可导出 HTML/EPUB 格式
 - [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
 - [scarqin/wxread-export](https://github.com/scarqin/wxread-export) - 导出 Markdown 格式的微信读书笔记
@@ -914,7 +913,7 @@
 - [lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio) - 
 - [Kedreamix/Linly-Dubbing](https://github.com/Kedreamix/Linly-Dubbing) - 智能视频多语言AI配音/翻译工具 - Linly-Dubbing — “AI赋能，语言无界”
 - [anarchysaiko/metaprompt_generator](https://github.com/anarchysaiko/metaprompt_generator) - 基于openai框架编写的辅助元提示词生成器
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [xiaolai/most-common-american-idioms](https://github.com/xiaolai/most-common-american-idioms) - A book created by xiaolai with the help of ChatGPT and its TTS
 - [ultrasev/ChatTTS](https://github.com/ultrasev/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 - [yihong0618/ChatTTS](https://github.com/yihong0618/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
@@ -1342,6 +1341,7 @@
 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [EmpireMediaScience/A1111-Web-UI-Installer](https://github.com/EmpireMediaScience/A1111-Web-UI-Installer) - Complete installer for Automatic1111's infamous Stable Diffusion WebUI
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## Python 
 
@@ -1365,7 +1365,7 @@
 - [infrost/DeeplxFile](https://github.com/infrost/DeeplxFile) - 基于Deeplx和Playwright提供的简单易用，快速，免费，不限制文件大小，支持超长文本翻译，跨平台的文件翻译工具 / Easy-to-use, fast, free, unlimited file size and cross platform file translation tool based on Deeplx & Playwright that supports long tex
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [iKunpw/auto-ncmdump](https://github.com/iKunpw/auto-ncmdump) - 使用 ncmdump ，实现全自动网易云音乐ncm格式转mp3
-- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
 - [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - 
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
@@ -2073,7 +2073,7 @@
 - [nini22P/omp](https://github.com/nini22P/omp) - OMP - OneDrive Media Player on the web / 网页端 OneDrive 媒体播放器
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 - [DioxideCN/plugin-lucence-for-halo](https://github.com/DioxideCN/plugin-lucence-for-halo) - Lucence markdown editor for halo console.
-- [maqi1520/mdx-notes](https://github.com/maqi1520/mdx-notes) - ⛷ A versatile WeChat typesetting editor，also a cross-platform Markdown note-taking software ⛷ 微信排版编辑器，也是一款跨平台 Markdown 笔记软件
+- [maqi1520/mdx-notes](https://github.com/maqi1520/mdx-notes) - ⛷ Cross-platform note-taking software, public layout editor, using MDX ⛷ 跨平台笔记软件，公众号排版编辑器，使用MDX来排版
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [tldraw/draw-fast](https://github.com/tldraw/draw-fast) - 
 - [xhofe/imgbed](https://github.com/xhofe/imgbed) - 📒多接口/自定义接口的文件/图片上传
