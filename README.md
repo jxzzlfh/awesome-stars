@@ -346,6 +346,8 @@
 
 ## Go 
 
+- [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
+- [Licoy/VoAPI](https://github.com/Licoy/VoAPI) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal m
 - [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
 - [substratusai/kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
@@ -501,6 +503,7 @@
 
 ## HTML 
 
+- [xyz349925756/Typora-Mid](https://github.com/xyz349925756/Typora-Mid) - Typora-Mid 是一个基于 DrakeTyporaTheme 主题和 typora_plugin 插件修改整合的项目。它旨在美化 Typora 界面和标题样式，为用户提供更好的视觉体验和自定义选项。
 - [Anyexyz/halo-theme-hellopage](https://github.com/Anyexyz/halo-theme-hellopage) - HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站。
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
@@ -571,6 +574,7 @@
 
 ## Java 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [someone1128/streamerCardAutomate](https://github.com/someone1128/streamerCardAutomate) - 基于流光卡片API的完全自动化生成金句名人名言卡片解决方案，解决自媒体矩阵内容问题，完全自动生成3:4名人名言卡片，样式随机，自动生成标题/描述
 - [stealthcopter/AndroidNetworkTools](https://github.com/stealthcopter/AndroidNetworkTools) - Set of useful android network tools
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
@@ -629,6 +633,8 @@
 
 ## JavaScript 
 
+- [xieyumc/jyySlideWeb](https://github.com/xieyumc/jyySlideWeb) - 网页实时Markdown转换为PPT幻灯片，主题灵感来源于南京大学蒋炎岩jyy老师
+- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [wa008/PopTranslate](https://github.com/wa008/PopTranslate) - The most efficient translation Chrome extension
 - [ultrasev/1summary](https://github.com/ultrasev/1summary) - 一个简洁的 chrome 插件，使用 LLM 快速生成网页摘要
@@ -1027,7 +1033,8 @@
 
 ## Others 
 
-- [Licoy/VoAPI](https://github.com/Licoy/VoAPI) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于NewAPI开发。
+- [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
+- [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 - [yt-dlp/yt-dlp-wiki](https://github.com/yt-dlp/yt-dlp-wiki) - https://github.com/yt-dlp/yt-dlp/wiki
 - [jurieo/chatgpt-share-web](https://github.com/jurieo/chatgpt-share-web) - chatgpt和claude官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。
 - [YOYZHANG/design-material](https://github.com/YOYZHANG/design-material) - Design material for indie hackers
@@ -1038,7 +1045,7 @@
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 - [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
-- [shell360/release](https://github.com/shell360/release) - Shell360 is a cross-platform SSH client.
+- [shell360/release](https://github.com/shell360/release) - Shell360 is a cross-platform SSH and SFTP client.
 - [pen9un/aiast-sys](https://github.com/pen9un/aiast-sys) - AIAST智能客服系统，AI知识库系统，问答知识库，企业GPT知识库私有化，企业话术管理，API接口调用🔮🤖🚀
 - [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费
 - [yugongcoding/yugong_wiki](https://github.com/yugongcoding/yugong_wiki) - 愚公wiki是一款轻量的在线博客、知识库、个人笔记或企业文档协作平台，可下载桌面版作为个人笔记本，也可以在线编辑文档，当然也可以自行进行服务化部署，因为这是一款完全开源的写作平台
@@ -1344,6 +1351,10 @@
 
 ## Python 
 
+- [Relsoul/whisper-win-gui](https://github.com/Relsoul/whisper-win-gui) - 基于whisper的实时语音识别 网页和桌面客户端
+- [ddean2009/MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus) - AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI L
+- [win4r/o1](https://github.com/win4r/o1) - Using Groq or OpenAI or Ollama to create o1-like reasoning chains
+- [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [LIghtJUNction/ChatMemOllama](https://github.com/LIghtJUNction/ChatMemOllama) - 一个个人微信公众号聊天机器人，使用本地ai模型（ollma提供），以及mem0管理记忆
 - [AQinTrue/typora-alist-image-uploader](https://github.com/AQinTrue/typora-alist-image-uploader) - 这是一个简单的工具，用于方便地将Typora编辑器中的图片上传至Alist云存储服务
 - [lihuithe/podlm-public](https://github.com/lihuithe/podlm-public) - 
@@ -1503,7 +1514,7 @@
 - [DoiiarX/NLCISBNPlugin](https://github.com/DoiiarX/NLCISBNPlugin) - 基于中国国家图书馆ISBN检索的calibre的source/metadata插件
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 
 - [Wannabeasmartguy/GPT-Gradio-Agent](https://github.com/Wannabeasmartguy/GPT-Gradio-Agent) - Create your own GPT intelligent assistants using Azure OpenAI, Ollama, and local models, build and manage local knowledge bases, and expand your horizons with AI search engines. 使用 Azure OpenAI、Ollama
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
@@ -1889,7 +1900,7 @@
 - [jxqu3/aiui](https://github.com/jxqu3/aiui) - A simple no-install web UI for Ollama and OAI-Compatible APIs!
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS aggregator and reader
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [primocms/primo](https://github.com/primocms/primo) - Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -1911,6 +1922,7 @@
 
 ## TypeScript 
 
+- [loonghfut/siyuan-alist](https://github.com/loonghfut/siyuan-alist) - （思源笔记）alist附件管理
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [0011000000110010/obsidian-i18n](https://github.com/0011000000110010/obsidian-i18n) - 
 - [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 Cloudflare email
@@ -2331,7 +2343,7 @@
 - [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - 
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein) - No-code AI workflow
-- [zyyzyykk/kkTerminal](https://github.com/zyyzyykk/kkTerminal) - kkTerminal, a web-based terminal for SSH remote server connection. kkTerminal，一个web终端实现ssh远程连接服务器。
+- [zyyzyykk/kkTerminal](https://github.com/zyyzyykk/kkTerminal) - kkTerminal, a web terminal for SSH remote server connection. kkTerminal，一个web终端实现ssh远程连接服务器。
 - [xinghaix/download-manager](https://github.com/xinghaix/download-manager) - 谷歌浏览器下载管理器插件【A chrome extension for managing download】
 - [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
 - [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
