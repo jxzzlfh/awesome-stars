@@ -1069,7 +1069,7 @@
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [tw93/Maple](https://github.com/tw93/Maple) - 🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
 - [BlackGlory/extension-binary-search](https://github.com/BlackGlory/extension-binary-search) - 🌳 The simplest and most effective way to locate a malicious or faulty extension
-- [IndieKKY/bilibili-subtitle](https://github.com/IndieKKY/bilibili-subtitle) - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等。
+- [IndieKKY/bilibili-subtitle](https://github.com/IndieKKY/bilibili-subtitle) - 哔哔君 - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等。
 - [ReadSomething/ReadSomething](https://github.com/ReadSomething/ReadSomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - Enable Bing ChatGPT on Chrome and Firefox
@@ -1350,7 +1350,7 @@
 - [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
-- [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅   Convert a video website into a podcast subscription 支持 哔哩哔哩、YouTube、vimeo、干净世界和girigirilove 图形化界面
+- [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅   Convert a video website into a podcast subscription 支持 哔哩哔哩、YouTube、干净世界和girigirilove 图形化界面
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
@@ -2809,6 +2809,7 @@
 - [hoothin/SearchJumper](https://github.com/hoothin/SearchJumper) - Yet another awesome browser extension for switching search engines, search everything (selection text / image / link / find in page) on any engine with a simple right click or a variety of menus and s
 - [adevinwild/micro-scale](https://github.com/adevinwild/micro-scale) - Use this open-source image upscaling web app template for your Next.js project. Powered by Replicate AI.
 - [filesite-io/machete](https://github.com/filesite-io/machete) - PHP实现的无数据库、基于文件和目录的Markdown文档、网址导航、图片、视频网站、视频分享网站开源系统。
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
@@ -3198,7 +3199,7 @@
 - [xqdoo00o/ChatGPT-to-API](https://github.com/xqdoo00o/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [amchii/ZhiArchive](https://github.com/amchii/ZhiArchive) - 监测知乎用户的个人动态并保存内容以防丢失，保存知乎内容。Collecting and storing dynamic content from your Zhihu account for never lose.
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [zhbhun/rmbg](https://github.com/zhbhun/rmbg) - RMBG is a multi-platform image background removal tool that uses open-source AI models and ensures user privacy by processing images locally.
 - [replicate/llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
 - [lessapi-dev/lessapi-duckduckgo](https://github.com/lessapi-dev/lessapi-duckduckgo) - LessAPI-DuckDuckGo is an API service for a search engine. Simple, lightweight, reliable, Docker deployable, easy to maintain. 一个基于DuckDuckGo的搜索引擎API服务。简单、轻量、可靠、Docker部署、易于维护。
@@ -4135,7 +4136,7 @@
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [arry-lee/wereader](https://github.com/arry-lee/wereader) - 一个功能全面的微信读书笔记助手 wereader
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
-- [AZ-Studio-2023/AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) - AZ音乐下载器 - 优雅地下载音乐 - 基于多API和QFluentWidgets | Download music gracefully
+- [AZ-Studio-2023/AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) - AZ音乐下载器 - 优雅地下载音乐 - 多API集成客户端 | Download music gracefully
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
