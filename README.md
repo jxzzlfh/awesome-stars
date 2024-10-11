@@ -347,7 +347,7 @@
 ## Go 
 
 - [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
-- [Licoy/VoAPI](https://github.com/Licoy/VoAPI) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal m
+- [Licoy/VoAPI](https://github.com/Licoy/VoAPI) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal management a
 - [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
 - [substratusai/kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
@@ -633,7 +633,7 @@
 
 ## JavaScript 
 
-- [xieyumc/jyySlideWeb](https://github.com/xieyumc/jyySlideWeb) - 网页实时Markdown转换为PPT幻灯片，主题灵感来源于南京大学蒋炎岩jyy老师
+- [xieyumc/jyySlideWeb](https://github.com/xieyumc/jyySlideWeb) - 网页实时Markdown转换为Slide幻灯片，主题灵感来源于南京大学蒋炎岩jyy老师
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [wa008/PopTranslate](https://github.com/wa008/PopTranslate) - The most efficient translation Chrome extension
@@ -714,7 +714,7 @@
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
 - [xxxily/h5player](https://github.com/xxxily/h5player) - This software supports all audio and video websites, such as TikTok, YouTube, Bilibili, TED, Instagram, Twitter, etc. Features include: variable playback speed, screen capture, video download, custom 
-- [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
+- [Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy) - One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,Realtime; Simultaneous support  Web / PWA / Linux / Win / MacOS platform
 - [ttttmr/Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) - 微信公众号转RSS
 - [cataerogong/keymap](https://github.com/cataerogong/keymap) - A very simple page to visualize keyboard shortcuts
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
@@ -951,6 +951,7 @@
 
 ## Kotlin 
 
+- [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
 - [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
 - [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件
 - [sakethpathike/Linkora](https://github.com/sakethpathike/Linkora) - the only link utility app you need for Android
@@ -1109,7 +1110,7 @@
 - [runningcheese/MirrorSite](https://github.com/runningcheese/MirrorSite) - 镜像网站合集
 - [debitCrossBlockchain/renzhengfei](https://github.com/debitCrossBlockchain/renzhengfei) - https://github.com/benmahr/RenZhengfei
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
-- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附带全网最有趣最好用的机器人BOT🤖【tg百科】
+- [itgoyo/TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 2024最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【电报百科全书】
 - [Makememo/MemoAI](https://github.com/Makememo/MemoAI) - MemoAI Video to translated text, subtitles and notes made easy.
 - [searxng/searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 - [KaringX/ClashPro](https://github.com/KaringX/ClashPro) - windows, iOS, MacOS released
@@ -1923,6 +1924,7 @@
 
 ## TypeScript 
 
+- [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) - Link Android and PC easily! 全能手机连接助手！
 - [loonghfut/siyuan-alist](https://github.com/loonghfut/siyuan-alist) - （思源笔记）alist附件管理
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [0011000000110010/obsidian-i18n](https://github.com/0011000000110010/obsidian-i18n) - 
