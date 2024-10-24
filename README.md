@@ -64,7 +64,6 @@
 
 ## Astro 
 
-- [leidichen/weekly](https://github.com/leidichen/weekly) - 🪑 冷板凳周刊：分享有意思的生活、知识及其他…
 - [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
 
 ## AutoHotkey 
@@ -350,6 +349,7 @@
 
 ## Go 
 
+- [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 - [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
 - [VoAPI/VoAPI](https://github.com/VoAPI/VoAPI) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal management
 - [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
@@ -583,6 +583,7 @@
 
 ## Java 
 
+- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [someone1128/streamerCardAutomate](https://github.com/someone1128/streamerCardAutomate) - 基于流光卡片API的完全自动化生成金句名人名言卡片解决方案，解决自媒体矩阵内容问题，完全自动生成3:4名人名言卡片，样式随机，自动生成标题/描述
 - [stealthcopter/AndroidNetworkTools](https://github.com/stealthcopter/AndroidNetworkTools) - Set of useful android network tools
@@ -641,6 +642,7 @@
 
 ## JavaScript 
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [xieyumc/jyySlideWeb](https://github.com/xieyumc/jyySlideWeb) - 网页实时Markdown转换为Slide幻灯片，主题灵感来源于南京大学蒋炎岩jyy老师
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
@@ -1048,7 +1050,6 @@
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 - [yt-dlp/yt-dlp-wiki](https://github.com/yt-dlp/yt-dlp-wiki) - https://github.com/yt-dlp/yt-dlp/wiki
-- [jurieo/chatgpt-share-web](https://github.com/jurieo/chatgpt-share-web) - chatgpt和claude官网完整还原，包含其官网的全部功能。具有完善的用户体系和流量变现体系。
 - [YOYZHANG/design-material](https://github.com/YOYZHANG/design-material) - Design material for indie hackers
 - [RawChat/RawChat](https://github.com/RawChat/RawChat) - 
 - [Nriver/awesome-trilium](https://github.com/Nriver/awesome-trilium) - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集
@@ -1363,6 +1364,7 @@
 
 ## Python 
 
+- [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [Guovin/TV](https://github.com/Guovin/TV) - 📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道（含图标）；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、软件界面多种部署/运行方式 | IPTV live TV source upda
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation and bilingual comparison based on font rules and deep learning, preserving formula and figure layout
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
@@ -1467,7 +1469,7 @@
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, Gemini, Claude, Llama 3, DALL-E, Langchain, Llama-index, chat, vision, voice control, image generation and analysis, agents, code/command 
 - [ProudCarrotG/autoPutPathtoAlist](https://github.com/ProudCarrotG/autoPutPathtoAlist) - 自动上传文件至alist
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
 - [Qihoo360/360zhinao](https://github.com/Qihoo360/360zhinao) - 360zhinao
 - [xxynet/NCM-Downloader](https://github.com/xxynet/NCM-Downloader) - A powerful NCM Downloader that supports built-in metadata  一个强大的网易云下载工具，支持内嵌元信息（歌曲名，歌手，专辑，歌曲封面）
 - [AZ-Studio-2023/AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) - AZ音乐下载器 - 优雅地下载音乐 - 多API集成客户端 | Download music gracefully
@@ -1553,7 +1555,6 @@
 - [jianchang512/clone-voice](https://github.com/jianchang512/clone-voice) - A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
-- [QIN2DIM/hy2](https://github.com/QIN2DIM/hy2) - hysteria2 一键部署
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 - [AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
