@@ -360,7 +360,7 @@
 - [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
 - [VoAPI/VoAPI](https://github.com/VoAPI/VoAPI) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal management
 - [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
-- [substratusai/kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
+- [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -650,6 +650,9 @@
 
 ## JavaScript 
 
+- [TaleAi/markdown2html](https://github.com/TaleAi/markdown2html) - 一款markdown转html，支持掘金、知乎、微信公众号，fork自markdown nice
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
+- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [743859910/Typora_Unlocker](https://github.com/743859910/Typora_Unlocker) - Typora 解锁 激活 补丁 支持的版本：1.0.0 - 1.9.5
 - [ortoniKC/LetXPath](https://github.com/ortoniKC/LetXPath) - LetXPath - Community driven product - open source project
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -990,7 +993,7 @@
 - [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
 - [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
 - [yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android) - 使用Android原生开发的电视直播软件
-- [sakethpathike/Linkora](https://github.com/sakethpathike/Linkora) - the only link utility app you need for Android
+- [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora) - the only link utility app you need for Android
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 - [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
@@ -1398,7 +1401,7 @@
 - [Hoper-J/AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) - 这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的代码游乐场🎡，你可以尝试在里面实验一些有意思的AI脚本。同时，包含李宏毅 (HUNG-YI LEE）2024生成式人工智能导论课程的完整中文镜像作业。
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
 - [CatchTheTornado/pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) - Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown
-- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM
+- [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Make websites accessible for AI agents
 - [liseami/screenshot-to-code](https://github.com/liseami/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [mst272/LLM-Dojo](https://github.com/mst272/LLM-Dojo) - 欢迎来到 LLM-Dojo，这里是一个开源大模型学习场所，使用简洁且易阅读的代码构建模型训练框架(支持各种主流模型如Qwen、Llama、GLM等等)、RLHF框架(DPO/CPO/KTO/PPO)等各种功能。👩‍🎓👨‍🎓
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
@@ -1454,7 +1457,7 @@
 - [DuckDuckStudio/Fufu_Tools](https://github.com/DuckDuckStudio/Fufu_Tools) - 芙芙工具箱是一个集合许多小工具的支持Windows的工具箱。
 - [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [harry0703/AudioNotes](https://github.com/harry0703/AudioNotes) - 快速提取音视频内容，整理成一份结构化的markdown笔记
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [Losketch/Unicode-Flash-Mob](https://github.com/Losketch/Unicode-Flash-Mob) - Unicode快闪视频生成器
 - [Ikaros-521/RealtimeSTT_LLM_TTS](https://github.com/Ikaros-521/RealtimeSTT_LLM_TTS) - 实时STT，连接OpenAI接口/智谱AI（流式LLM）和GPT-SOVITS/Edge-TTS，通过网页的方式，进行跨网络的服务调用，实现实时对话的效果
 - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabil
@@ -1720,6 +1723,7 @@
 - [Hanzoe/Pet-GPT](https://github.com/Hanzoe/Pet-GPT) - Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！
 - [InnocentAnyaele/GPTContext](https://github.com/InnocentAnyaele/GPTContext) - The flask backend for GPTContext app that allows user to upload context file and Chat GPT query AI based on it.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
@@ -1927,7 +1931,6 @@
 - [wulabing/xray_docker](https://github.com/wulabing/xray_docker) - Xray reality docker
 - [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
 - [wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
-- [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
 - [ylx2016/Linux-NetSpeed](https://github.com/ylx2016/Linux-NetSpeed) - 将Linux现常用的网络加速集成在一起
 - [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
 - [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
@@ -1976,6 +1979,7 @@
 
 ## Swift 
 
+- [caol64/wenyan](https://github.com/caol64/wenyan) - Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。
 - [johnmai-dev/ChatMLX](https://github.com/johnmai-dev/ChatMLX) - 🤖✨ChatMLX is a modern, open-source, high-performance chat application for MacOS based on large language models.
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World's neatest Pomodoro timer for macOS menu bar
 - [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS
@@ -1987,6 +1991,7 @@
 
 ## TypeScript 
 
+- [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SAAS），一体化白板，包含思维导图、流程图等。All in one open-source whiteboard tool with mind, flowchart, etc.
 - [remvze/pswd](https://github.com/remvze/pswd) - 🔑 Simple secure password generator.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
 - [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。
@@ -2055,7 +2060,7 @@
 - [bitiful/send](https://github.com/bitiful/send) - 基于 Bitiful S4 对象存储的 “Simul-Transfer（即传即收）”  技术实现的大文件实时多人分享，Wetransfer 或 奶牛快传 的相似开源替代品。
 - [CaoMeiYouRen/rss-impact-server](https://github.com/CaoMeiYouRen/rss-impact-server) - 一个支持 Hook 的 RSS 订阅工具。本项目为后端部分。文档：https://rss-docs.cmyr.dev/
 - [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor) - An AI personal tutor built with Llama 3.1
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [askaitools/askaitools-community-edition](https://github.com/askaitools/askaitools-community-edition) - A cutting-edge search engine project tailored specifically for the AI product
@@ -2427,6 +2432,7 @@
 
 ## Vue 
 
+- [flyeric0212/weixin-md](https://github.com/flyeric0212/weixin-md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [roimdev/roim-picx](https://github.com/roimdev/roim-picx) - free image service based on cloudflare Pages & R2.基于CloudFlare Pages和R2实现的免费图床。
 - [XiangZi7/KMMusicPlayer](https://github.com/XiangZi7/KMMusicPlayer) - 简约风 高颜值 Vue Player Music
 - [XiCheng148/SmartPreview](https://github.com/XiCheng148/SmartPreview) - Smart Preview 是一个强大的浏览器扩展，旨在提升您的网页浏览体验。它允许用户快速预览链接内容，而无需打开新的标签页，同时提供智能的窗口管理和自定义设置选项。
