@@ -298,7 +298,7 @@
 - [find-xposed-magisk/adb_kit_nightmare](https://github.com/find-xposed-magisk/adb_kit_nightmare) - An ADB GUI client developed using Flutter. 使用 Flutter 开发的 ADB GUI 客户端
 - [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source privacy oriented Twitter/X client
 - [raj457036/CopyCat-Clipboard](https://github.com/raj457036/CopyCat-Clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [LeetaoGoooo/RSSAid](https://github.com/LeetaoGoooo/RSSAid) - RSSAid is a complementary app for RSSHub built with Flutter | RSSAid 是一个由 Flutter 构建的 RSSHub 的辅助 App
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [kangpeiqin/bilivideo_down](https://github.com/kangpeiqin/bilivideo_down) - A cross-platform（Win / MacOS） BiliBili Video downloader | 一款基于 Flutter 开发的桌面端 B 站视频下载器
@@ -372,6 +372,7 @@
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 - [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
 - [VoAPI/VoAPI](https://github.com/VoAPI/VoAPI) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal management
+- [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
 - [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
 - [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text.
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
@@ -435,7 +436,7 @@
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [ellermister/wechat-clean](https://github.com/ellermister/wechat-clean) - 释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。
 - [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
 - [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt).
@@ -534,7 +535,6 @@
 - [limmer55/streamdock](https://github.com/limmer55/streamdock) - 📺 A Web-IPTV Player docker image.
 - [hotlcc/linkding-cn](https://github.com/hotlcc/linkding-cn) - Linkding Chinese Resouces | Linkding 汉化资源
 - [pdmaker/watermark-master](https://github.com/pdmaker/watermark-master) - 加水印.com：简易图片加水印
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 - [Anyexyz/theme-hellopage](https://github.com/Anyexyz/theme-hellopage) - HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站。
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [Nriver/trilium-translation](https://github.com/Nriver/trilium-translation) - Translation for Trilium Notes. Trilium Notes 中文适配, 体验优化
@@ -577,6 +577,7 @@
 - [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
+- [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits) - This project describes Telegram limitations
 - [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript 📗💻📖
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
@@ -955,6 +956,7 @@
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [yelog/hexo-theme-3-hexo](https://github.com/yelog/hexo-theme-3-hexo) - hexo主题：三段式设计、极简、方便  Hexo theme: three-stage design
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.
@@ -1020,6 +1022,7 @@
 
 ## Kotlin 
 
+- [TermoraDev/termora](https://github.com/TermoraDev/termora) - Termora 是一个终端模拟器和 SSH 客户端，支持 Windows，macOS 和 Linux。
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [soupslurpr/Transcribro](https://github.com/soupslurpr/Transcribro) - Private and on-device speech recognition keyboard and service for Android.
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
@@ -1397,7 +1400,6 @@
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [HaoOuBa/Joe](https://github.com/HaoOuBa/Joe) - A Theme of Typecho
-- [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits) - This project describes Telegram limitations
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [aschmelyun/subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds
 - [zhheo/HeoMusic](https://github.com/zhheo/HeoMusic) - 一个基于Aplayer和MetingJS的静态音乐播放器
@@ -1446,6 +1448,9 @@
 
 ## Python 
 
+- [adamwlarson/ai-book-writer](https://github.com/adamwlarson/ai-book-writer) - Experimenting with AutoGen to see if an entire book can be written with AI agents
+- [Jiaqi-Chen-00/ImBD](https://github.com/Jiaqi-Chen-00/ImBD) - [AAAI 2025] Official repository of Imitate Before Detect: Aligning Machine Stylistic Preference for Machine-Revised Text Detection
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 - [potpie-ai/potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [VITA-MLLM/VITA](https://github.com/VITA-MLLM/VITA) - ✨✨VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction
@@ -1484,7 +1489,7 @@
 - [BHznJNs/InputShare](https://github.com/BHznJNs/InputShare) - InputShare enables you to share the keyboard and mouse of your computer with an Android device via ADB in wired / wireless way.
 - [Hoper-J/AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) - 这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的代码游乐场🎡，你可以尝试在里面实验一些有意思的AI脚本。同时，包含李宏毅 (HUNG-YI LEE）2024生成式人工智能导论课程的完整中文镜像作业。
 - [dynobo/normcap](https://github.com/dynobo/normcap) - OCR powered screen-capture tool to capture information instead of images
-- [CatchTheTornado/pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) - Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown
+- [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [liseami/screenshot-to-code](https://github.com/liseami/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [mst272/LLM-Dojo](https://github.com/mst272/LLM-Dojo) - 欢迎来到 LLM-Dojo，这里是一个开源大模型学习场所，使用简洁且易阅读的代码构建模型训练框架(支持各种主流模型如Qwen、Llama、GLM等等)、RLHF框架(DPO/CPO/KTO/PPO)等各种功能。👩‍🎓👨‍🎓
@@ -1495,6 +1500,7 @@
 - [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具『✨秒播级体验🚀』：支持IPv4/IPv6；支持自定义频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool
 - [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 - [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: 智能语音转文字工具 | 高效批处理 | 用户友好界面 | 无需 GPU |支持 SRT/TXT 输出 | 让您的音频瞬间变成精确文字！
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - PDF to Markdown with vision models
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
@@ -1632,7 +1638,7 @@
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - Large World Model -- Modeling Text and Video with Millions Context
@@ -1663,7 +1669,7 @@
 - [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 
 - [Wannabeasmartguy/GPT-Gradio-Agent](https://github.com/Wannabeasmartguy/GPT-Gradio-Agent) - Create your own GPT intelligent assistants using Azure OpenAI, Ollama, and local models, build and manage local knowledge bases, and expand your horizons with AI search engines. 使用 Azure OpenAI、Ollama
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
-- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 9-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programing resource.
+- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 9-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programming resource.
 - [Ink-Osier/PandoraToV1Api](https://github.com/Ink-Osier/PandoraToV1Api) - 站在巨人的肩膀上的项目，感谢zhile大佬的Pandora-Next项目
 - [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
 - [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。
@@ -2074,6 +2080,8 @@
 
 ## TypeScript 
 
+- [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
+- [btahir/open-deep-research](https://github.com/btahir/open-deep-research) - Open source alternative to Gemini Deep Research. Generate reports with AI based on search results.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [guizimo/cover-craft](https://github.com/guizimo/cover-craft) - 简单易用的封面图片生成工具，为你的文章、视频、社交媒体创作提供专业的封面设计。
 - [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
@@ -2163,7 +2171,6 @@
 - [typora-community-plugin/typora-community-plugin](https://github.com/typora-community-plugin/typora-community-plugin) - Typora plugin system for enhancing your editing experience. | 增强 Typora 编辑体验的社区插件系统。
 - [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
 - [langgptai/AI-Resume](https://github.com/langgptai/AI-Resume) - Create Beautiful Resume use Claude Artifacts. AI 智能简历
-- [usual2970/certimate](https://github.com/usual2970/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 - [DemoJ/ThinNav](https://github.com/DemoJ/ThinNav) - 一个极其简洁轻便的开源网址导航站，自带后台管理系统
 - [DifuseHQ/Kalmia](https://github.com/DifuseHQ/Kalmia) - A documentation CMS written in go
@@ -2309,7 +2316,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
-- [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - 
+- [yoeven/ai-video-search-engine](https://github.com/yoeven/ai-video-search-engine) - AI Video Search Engine (RAG)
 - [xiadd/pastebin-worker](https://github.com/xiadd/pastebin-worker) - PasteBin based on Cloudflare
 - [jokimina/cbox-chrome-extension](https://github.com/jokimina/cbox-chrome-extension) - Chrome Command Line Panel
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
@@ -2546,7 +2553,6 @@
 - [NaoTu/DesktopNaotu](https://github.com/NaoTu/DesktopNaotu) - 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
