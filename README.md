@@ -186,7 +186,6 @@
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-- [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 - [nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 - [0x7c13/Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
@@ -461,6 +460,7 @@
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
 - [alireza0/s-ui](https://github.com/alireza0/s-ui) - An advanced Web Panel • Built for SagerNet/Sing-Box
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 - [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 - [engigu/Message-Push-Nest](https://github.com/engigu/Message-Push-Nest) - 🕊️ Message Nest - 打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义webhook等多种通知方式。定制你的消息，让通知方式更灵活多样。 🕊️ Message Nest - Craft your personalized message push hub, seamlessly integrating notifications from emails dtalk and s
 - [zhu327/gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
@@ -921,7 +921,6 @@
 - [viliusle/miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 - [Kiuryy/Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Browser extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.
 - [reorproject/reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 - [ifyour/cf-image-hosting](https://github.com/ifyour/cf-image-hosting) - 🥊  Free & Unlimited Image Hosting
 - [Dj0ulo/OptiSearch](https://github.com/Dj0ulo/OptiSearch) - OptiSearch ｜ Copilot in Google ｜ Gemini next to Google results
 - [EdenwareApps/Vimer](https://github.com/EdenwareApps/Vimer) - Vimer is an AI powered app with a hassle-free interface for adjusting audio and video.
@@ -1194,7 +1193,7 @@
 - [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
 - [dekusms/DekuSMS-Android](https://github.com/dekusms/DekuSMS-Android) - Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations
 - [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
-- [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora) - Powerful link organizer for Android and desktop with self-hosted sync.
+- [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora) - Link organizer for Android and desktop with self-hosted sync.
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full Featured Video/Audio Downloader for Android using yt-dlp
 - [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You
@@ -1223,7 +1222,7 @@
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。
-- [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+- [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [tangshimin/typing-learner](https://github.com/tangshimin/typing-learner) - 使用电影、美剧、字幕或文档生成词库（单词本），让每个单词都有具体的语境。然后通过语境记忆单词。
 - [Lucchetto/SuperImage](https://github.com/Lucchetto/SuperImage) - Sharpen your low-resolution pictures with the power of AI upscaling
@@ -1527,6 +1526,7 @@
 - [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend) - 《把时间当作朋友》
 - [xiaolai/zuoxiangqicheng](https://github.com/xiaolai/zuoxiangqicheng) - 坐享其成——最简单的大脑锻炼方式
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
+- [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 - [xiaolai/ji](https://github.com/xiaolai/ji) - 挤挤都会有的 —— 写给女生的性高潮指南
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
@@ -2512,7 +2512,7 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [ai-bytedance/obsidian-cloud-sync](https://github.com/ai-bytedance/obsidian-cloud-sync) - 一款强大的 Obsidian 同步插件，支持将笔记自动同步到多种云盘服务，提供端到端加密保护，让您的笔记既安全又便捷。
 - [CopilotKit/open-mcp-client](https://github.com/CopilotKit/open-mcp-client) - 
-- [celerforge-dev/freenote](https://github.com/celerforge-dev/freenote) - Freenote is an open-source AI journal app with Markdown support. You can freely record your notes, and with AI assistance, easily search and summarize past entries, enhancing creativity capture and ma
+- [celerforge/freenote](https://github.com/celerforge/freenote) - Freenote is an open-source AI journal app with Markdown support. You can freely record your notes, and with AI assistance, easily search and summarize past entries, enhancing creativity capture and ma
 - [BigSweetPotatoStudio/HyperChat](https://github.com/BigSweetPotatoStudio/HyperChat) - HyperChat is a Chat client that strives for openness, utilizing APIs from various LLMs to achieve the best Chat experience, as well as implementing productivity tools through the MCP protocol.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
