@@ -261,7 +261,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [baoyudu/paper-burner](https://github.com/baoyudu/paper-burner) - Paper Burner - PDF文档OCR与翻译工具
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM/Perplexity, connected to external sources such as search engines, Slack, Linear, Jira, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discor
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -698,7 +698,7 @@
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them 
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [certd/certd](https://github.com/certd/certd) - 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A feature-full workflow engine for enterprise & small teams. Low-code and language agnostic, making it easy to integrate with any existing software.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A dead simple but feature-full workflow engine for enterprise & small teams. No database is needed, low-code, and language agnostic, making it easy to integrate with any existing software.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
@@ -1198,7 +1198,7 @@
 - [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 - [missuo/OpenAI-Checker](https://github.com/missuo/OpenAI-Checker) - Used to check if your IP can access OpenAI services.
 - [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - Hier findest du das wohl einfachste und benutzerfreundlichste Chat-Script für die OpenAI-API GPT 3.5-tubro und GPT 4. Das Script benötigt kein Framework und du kannst es ohne Vorkenntnisse verwenden. 
-- [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 演示站现在可以免费使用AI对话和画图了。全网最易部署，响应速度最快的AI大模型环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，账号等
+- [dirk1983/deepseek](https://github.com/dirk1983/deepseek) - 演示站可以免费使用deepseek-r1满血模型进行AI对话，并支持使用stablediffusion模型画图。本项目是PHP版调用DeepSeek第三方接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PH
 - [lvwzhen/teach-anything](https://github.com/lvwzhen/teach-anything) - Teach any questions in seconds (by OpenAI)
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 - [869413421/chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化web程序
@@ -1289,7 +1289,7 @@
 
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM/Perplexity, connected to external sources such as search engines, Slack, Linear, Jira, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discor
 - [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡ Supercharge your favourite AI Chat web apps
 - [zhushen12580/smart-screenshot](https://github.com/zhushen12580/smart-screenshot) - 🔥AI时代的首款智能截图工具The first intelligent screenshot tool of the AI era
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
@@ -2218,7 +2218,7 @@
 - [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 开源、自托管、专注思想流动的轻量级发布平台
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A feature-full workflow engine for enterprise & small teams. Low-code and language agnostic, making it easy to integrate with any existing software.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A dead simple but feature-full workflow engine for enterprise & small teams. No database is needed, low-code, and language agnostic, making it easy to integrate with any existing software.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [Yohann0617/tgNetDisc](https://github.com/Yohann0617/tgNetDisc) - 🤖基于Telegram API，无限容量，不限制文件格式，不限制文件内容😏，文件都存储在Telegram☁云端，轻巧方便。上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
@@ -2413,7 +2413,7 @@
 - [KonghaYao/chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage) - 中文网字计划 (Chinese Webfont Project) 是一个免费的中文 web 字体库，支持在线加载及查看字体信息。Explore our free CJK web font library that enables online loading and font information viewing.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
-- [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 演示站现在可以免费使用AI对话和画图了。全网最易部署，响应速度最快的AI大模型环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，账号等
+- [dirk1983/deepseek](https://github.com/dirk1983/deepseek) - 演示站可以免费使用deepseek-r1满血模型进行AI对话，并支持使用stablediffusion模型画图。本项目是PHP版调用DeepSeek第三方接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PH
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
@@ -3396,7 +3396,7 @@
 
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM/Perplexity, connected to external sources such as search engines, Slack, Linear, Jira, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discor
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [weijunext/image-url-converter](https://github.com/weijunext/image-url-converter) - A simple tool that converts any image URL into a permanent link hosted on Cloudflare R2. Perfect for individuals or small projects needing image hosting services.
 - [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG's to 3D models.
@@ -3408,7 +3408,7 @@
 - [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 - [sooros5132/yt-dlp-web](https://github.com/sooros5132/yt-dlp-web) - Self-hosted yt-dlp with the Web UI.
 - [panda-sandeep/epigram](https://github.com/panda-sandeep/epigram) - Open-Source, Free, and AI-Powered News in Short
-- [jaaronkot/picprose](https://github.com/jaaronkot/picprose) - Better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
+- [jaaronkot/picprose](https://github.com/jaaronkot/picprose) - Better cover image generator tool for Medium, Blog and many others
 - [AbhinavTheDev/coding-agent](https://github.com/AbhinavTheDev/coding-agent) - Your own Coding Agent 🤖
 - [cameronking4/openai-realtime-api-nextjs](https://github.com/cameronking4/openai-realtime-api-nextjs) - Leverage the OpenAI Realtime API (12-17-2024) with this Next.js 15 starter template featuring shadcn/ui components, tool-calling & localization. Use starter to build Voice AI apps with WebRTC.
 - [loo-y/weibo-extend](https://github.com/loo-y/weibo-extend) - a chrome extension to enhance weibo feature
@@ -3859,12 +3859,14 @@
 
 ## others 
 
+- [yyyyymmmmm/IntRoot](https://github.com/yyyyymmmmm/IntRoot) - 一款基于 Memos 系统打造的极简笔记应用，专为追求高效记录与深度积累的用户设计。 它帮助你默默书写、静心沉淀，让每一次落笔都成为未来思想生根发芽的力量。  完美对接 Memos 服务器，保障数据安全与私密，适合个人及团队的知识管理需求。 无论是快速捕捉灵感，还是系统性整理思考，墨鸣都助你沉淀积累，厚积薄发。
+- [zimplexing/claude-code-proxy-enhance](https://github.com/zimplexing/claude-code-proxy-enhance) - Claude Code to OpenAI API Proxy
 - [qichiyuhub/rule](https://github.com/qichiyuhub/rule) - Clash、Sing-box、等分流规则
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
 - [ConardLi/easy-llm-cli](https://github.com/ConardLi/easy-llm-cli) - An open-source AI agent that is compatible with multiple LLM models
 - [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
 - [gzzhongqi/geminicli2api](https://github.com/gzzhongqi/geminicli2api) - 
-- [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一个高性能的网盘资源搜索API服务，支持TG搜索和网盘搜索引擎。系统设计以性能和可扩展性为核心，支持多频道并发搜索、结果智能排序和网盘类型分类。https://so.252035.xyz/
+- [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou（GoComicMosaic的独立子项目）是一个高性能的网盘资源搜索API服务，支持TG搜索和网盘搜索引擎。系统设计以性能和可扩展性为核心，支持多频道并发搜索、结果智能排序和网盘类型分类。https://so.252035.xyz/
 - [wxingheng/markdown-to-image-serve](https://github.com/wxingheng/markdown-to-image-serve) - 一个基于 Next.js 和 Puppeteer 的 Markdown 转图片服务，支持 Docker 部署和 API 集成。A Markdown to Image Service based on Next.js and Puppeteer, supporting Vercel deployment and API integration.
 - [LeoHaoVIP/AListLiteAndroid](https://github.com/LeoHaoVIP/AListLiteAndroid) - OpenList 即装即用 · 一款专为 Android 打造的 AList 安卓服务端 | 支持 Android 5.0
 - [qianye216/OpenList-Desktop](https://github.com/qianye216/OpenList-Desktop) - OpenList Desktop 是一个为 OpenList (Alist) 和 Rclone 设计的跨平台桌面客户端。它提供了一个现代化且用户友好的图形界面，帮助您轻松管理 Alist 服务和 Rclone 云盘挂载，无需记忆和输入繁琐的命令行指令。
@@ -3944,7 +3946,7 @@
 - [weise25/LocalSite-ai](https://github.com/weise25/LocalSite-ai) - Generate Web Pages and Components with text prompts, with Local Models. (or Cloud Models, if you want) - now supports Thinking Models!
 - [cosin2077/easyVoice](https://github.com/cosin2077/easyVoice) - 开源文本转语音工具，支持超长文本，多角色配音
 - [luohy15/y-gui](https://github.com/luohy15/y-gui) - A Tiny Web Chat App for AI Models with MCP Client Support
-- [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - 
+- [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map & crawl.
 - [eugeneyan/news-agents](https://github.com/eugeneyan/news-agents) - 📰 Building News Agents to Summarize News with MCP, Q, and tmux
 - [CordlessWool/shrtn](https://github.com/CordlessWool/shrtn) - Shorten your links on your own instance
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
@@ -4095,7 +4097,7 @@
 - [OpenAISpace/ai-search4ai-go](https://github.com/OpenAISpace/ai-search4ai-go) - Search4AI-Go 是一个用 Go 语言实现的 AI 搜索代理服务，它允许大型语言模型通过 API 调用来获取实时互联网信息
 - [BlueSkyXN/FUCK-OpenAI-Domain-List](https://github.com/BlueSkyXN/FUCK-OpenAI-Domain-List) - 为了避免错误地访问OPENAI、CHATGPT，可以屏蔽或调整部分域名的规则，以及重定向等操作
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
-- [idevsig/navside](https://github.com/idevsig/navside) - 一个简洁、优雅且高效的 Hugo 网址导航主题 https://navside.ooos.top/
+- [idev-sig/navside](https://github.com/idev-sig/navside) - 一个简洁、优雅且高效的 Hugo 网址导航主题 https://navside.ooos.top/
 - [topcss/docker-pull-tar](https://github.com/topcss/docker-pull-tar) - 
 - [bravekingzhang/gemini-pro-chatbot](https://github.com/bravekingzhang/gemini-pro-chatbot) - 一个可以方便白嫖 Google gemini pro 2.0 的移动客户端
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -5238,7 +5240,7 @@
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [rueetschli/OpenAI-GPT-3.5-turbo-simple-script](https://github.com/rueetschli/OpenAI-GPT-3.5-turbo-simple-script) - Hier findest du das wohl einfachste und benutzerfreundlichste Chat-Script für die OpenAI-API GPT 3.5-tubro und GPT 4. Das Script benötigt kein Framework und du kannst es ohne Vorkenntnisse verwenden. 
-- [dirk1983/chatgpt](https://github.com/dirk1983/chatgpt) - 演示站现在可以免费使用AI对话和画图了。全网最易部署，响应速度最快的AI大模型环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，账号等
+- [dirk1983/deepseek](https://github.com/dirk1983/deepseek) - 演示站可以免费使用deepseek-r1满血模型进行AI对话，并支持使用stablediffusion模型画图。本项目是PHP版调用DeepSeek第三方接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PH
 - [pereorga/minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist Web Notepad
 - [fr0tt/benotes](https://github.com/fr0tt/benotes) - An open source self hosted notes and bookmarks taking web app.
 - [xenocrat/chyrp-lite](https://github.com/xenocrat/chyrp-lite) - An ultra-lightweight blogging engine, written in PHP.
@@ -5413,7 +5415,7 @@
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM/Perplexity, connected to external sources such as search engines, Slack, Linear, Jira, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discor
 - [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to Claude again. Local-first, integrates with Obsidian. Join our Discord: https://discord.gg/tyvKNccgqN
@@ -5637,7 +5639,7 @@
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny) - a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + heroui + jotai + docker
 - [sooros5132/yt-dlp-web](https://github.com/sooros5132/yt-dlp-web) - Self-hosted yt-dlp with the Web UI.
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
-- [jaaronkot/picprose](https://github.com/jaaronkot/picprose) - Better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
+- [jaaronkot/picprose](https://github.com/jaaronkot/picprose) - Better cover image generator tool for Medium, Blog and many others
 - [loo-y/weibo-extend](https://github.com/loo-y/weibo-extend) - a chrome extension to enhance weibo feature
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
@@ -6191,7 +6193,7 @@
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny) - a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + heroui + jotai + docker
 - [panda-sandeep/epigram](https://github.com/panda-sandeep/epigram) - Open-Source, Free, and AI-Powered News in Short
-- [jaaronkot/picprose](https://github.com/jaaronkot/picprose) - Better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
+- [jaaronkot/picprose](https://github.com/jaaronkot/picprose) - Better cover image generator tool for Medium, Blog and many others
 - [Guizimo/cova](https://github.com/Guizimo/cova) - 简单易用的封面图片生成工具，为你的文章、视频、社交媒体创作提供专业的封面设计。
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [aifuxi/fuxiaochen](https://github.com/aifuxi/fuxiaochen) - 🌈 一个简单的个人站，使用 Next.js 构建
@@ -6379,7 +6381,7 @@
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for deve
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM/Perplexity, connected to external sources such as search engines, Slack, Linear, Jira, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discor
 - [ofkm/arcane](https://github.com/ofkm/arcane) - Modern Docker Management, Designed for Everyone
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋
 - [flyeric0212/wx-md](https://github.com/flyeric0212/wx-md) - 一个基于 Web 的 Markdown 编辑器，专为微信公众号文章排版设计。它能够实时将 Markdown 文本转换为适合微信公众号的富文本格式，解决了微信公众号文章排版困难的问题。
