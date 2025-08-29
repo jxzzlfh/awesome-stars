@@ -771,6 +771,8 @@
 
 ## JavaScript 
 
+- [y-shi23/MeowNocode](https://github.com/y-shi23/MeowNocode) - memos类开源高颜值便签应用
+- [xixu-me/Xget](https://github.com/xixu-me/Xget) - 超高性能、安全的一站式开源资源获取加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 | Ultra-high performance, secure, all-in-one open-source resource acceleration engine. Significantly outperforms
 - [Lucassssss/eechat](https://github.com/Lucassssss/eechat) - 🚀 Powerful Local AI Chat Application - Mcp, Secure, Efficient, Personalized 本地化部署的大模型客户端
 - [wangwangit/nav](https://github.com/wangwangit/nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
 - [sindricn/BinNav_Public](https://github.com/sindricn/BinNav_Public) - 
@@ -900,6 +902,7 @@
 - [coder-pig/hzwz-markdown-wx](https://github.com/coder-pig/hzwz-markdown-wx) - 🐭尾汁Markdown转换工具
 - [liujuntao123/bookmarks-artist](https://github.com/liujuntao123/bookmarks-artist) - 一个高颜值的浏览器书签查看工具
 - [nowscott/OldIndWebIndex](https://github.com/nowscott/OldIndWebIndex) - 使用python+notionAPI实现的简单部署的个人索引网站(A simple personal index website deployed using Python + Notion API)
+- [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
@@ -1538,7 +1541,6 @@
 - [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
-- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
 - [SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV) - 标准协议移动直播源
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
@@ -1609,6 +1611,7 @@
 
 ## PHP 
 
+- [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [wugeng20/HarmonyHuesTheme](https://github.com/wugeng20/HarmonyHuesTheme) - Typecho主题-HarmonyHues,设计灵感源自自然界中的和谐之美。
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [taksssss/iptv-tool](https://github.com/taksssss/iptv-tool) - IPTV工具箱， Docker🐳部署，支持EPG管理、直播源管理、台标管理，兼容DIYP/百川、超级直播及xmltv格式。
@@ -2323,7 +2326,7 @@
 
 ## Rust 
 
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - Modern markdown cross platform editor application, simpler and more intelligent, builds fast and efficient workflows. 现代化的 Markdown 跨平台编辑器应用，更简单更智能，构建快速高效的工作流程。
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A markdown editor, which is lighter, smarter and purer. 一个 Markdown 编辑器，但是更轻快、更智能、更纯粹。
 - [Blushyes/coro-code](https://github.com/Blushyes/coro-code) - Open-source CLI coding agent, a free alternative to Claude Code. Generate, debug, and manage code seamlessly.
 - [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 - [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
@@ -2417,7 +2420,7 @@
 - [byJoey/Actions-bbr-v3](https://github.com/byJoey/Actions-bbr-v3) - 同步官方内核更新
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [missuo/MTProxy](https://github.com/missuo/MTProxy) - MTProxy(MTPROTO) v2 One-Click Installation
-- [yonggekkk/ArgoSB](https://github.com/yonggekkk/ArgoSB) - ArgoSB一键无交互小钢炮脚本💣：Sing-box、Xray、Cloudflared-argo三内核自动搭配；可选15种WARP出站组合；已支持协议：AnyTLS、Any-reality、Vless-xhttp-reality、Vless-reality-vision、Shadowsocks-2022、Hysteria2、Tuic、Vmess-ws、Argo临时/固定隧道
+- [yonggekkk/ArgoSB](https://github.com/yonggekkk/ArgoSB) - 小白自建代理神器！ArgoSB一键无交互小钢炮脚本💣：Sing-box、Xray、Cloudflared-argo三内核自动搭配；可选15种WARP出站组合；已支持协议：AnyTLS、Any-reality、Vless-xhttp-reality、Vless-reality-vision、Shadowsocks-2022、Hysteria2、Tuic、Vmess-ws、Argo临时/固定隧道
 - [linkease/docker_kspeeder](https://github.com/linkease/docker_kspeeder) - Docker镜像加速专家 多镜像并发下载，动态负载均衡，断点续传支持，Docker镜像代理服务
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) - 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
@@ -2507,7 +2510,6 @@
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
-- [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 - [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
 - [jxqu3/aiui](https://github.com/jxqu3/aiui) - A simple no-install web UI for Ollama and OAI-Compatible APIs!
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -2535,6 +2537,8 @@
 
 ## TypeScript 
 
+- [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
+- [monkeyWie/typix](https://github.com/monkeyWie/typix) - Typix is a modern, open-source, user-friendly, and privacy-secure AI tool focused on media content generation, providing creators with a one-stop generation experience.
 - [YoungLee-coder/SubMix](https://github.com/YoungLee-coder/SubMix) - 代理订阅链接转换器，将单独的代理订阅链接转换为 Mihomo 内核 YAML 配置文件
 - [qlAD/gkBlog](https://github.com/qlAD/gkBlog) - gkBlog 是一个使用 Turborepo + pnpm 构建的个人博客网站 📚
 - [JacksonHe04/flow-flat](https://github.com/JacksonHe04/flow-flat) - 集成白板、Markdown、IDE 等多种工具，简洁 · 现代 · 高效的节点流程图平台
@@ -3156,6 +3160,7 @@
 - [lxfater/Portal](https://github.com/lxfater/Portal) - 
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [gcloudlab/QA](https://github.com/gcloudlab/QA) - 🤖部署在Vercel的ChatGPT镜像站点（gpt-3.5-turbo）
+- [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
@@ -3265,7 +3270,7 @@
 
 ## Vue 
 
-- [2977094657/BiliHistoryFrontend](https://github.com/2977094657/BiliHistoryFrontend) - 获取b站历史记录，批量下载视频，一键下载用户投稿视频，收藏夹所有视频，生成详细的年度总结，自动化任务，下面链接是对应后端
+- [2977094657/BiliHistoryFrontend](https://github.com/2977094657/BiliHistoryFrontend) - 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，生成详细的年度总结，自动化任务，下面链接是对应后端
 - [tlyboy/apichat](https://github.com/tlyboy/apichat) - 🤖 一个基于 Tauri 构建的现代化 API 客户端
 - [dogodo-cc/chrome-bookmarks](https://github.com/dogodo-cc/chrome-bookmarks) - 自定义的谷歌浏览器书签页面
 - [yarin-zhang/AI-Gist](https://github.com/yarin-zhang/AI-Gist) - ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。
