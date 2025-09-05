@@ -251,6 +251,7 @@
 
 ## ai 
 
+- [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
 - [aigem/aice_ps](https://github.com/aigem/aice_ps) - Nano Banana editor(webui) for aistudio or gemini api key.  最强Ai修图APP，方便实用！如登录了google aistudio，可直接在DEMO APP中使用。支持静态部署，兼容Gemini API
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
@@ -1550,7 +1551,7 @@
 ## computer-vision 
 
 - [rnchg/APT](https://github.com/rnchg/APT) - AI Productivity Tool - Free and open source, improve user productivity, and protect privacy and data security. Including but not limited to: built-in local exclusive ChatGPT, DeepSeek, Phi, Qwen and o
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
+- [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) - Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
 - [amusi/awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence
@@ -2006,7 +2007,7 @@
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win)
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
+- [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [meetqy/rao-pics](https://github.com/meetqy/rao-pics) - :electron: 帮助你远程访问 Eagle 的素材库。
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -2601,7 +2602,7 @@
 - [addyosmani/squish](https://github.com/addyosmani/squish) - Squish - Batch Browser-based Image Compression
 - [rnchg/APT](https://github.com/rnchg/APT) - AI Productivity Tool - Free and open source, improve user productivity, and protect privacy and data security. Including but not limited to: built-in local exclusive ChatGPT, DeepSeek, Phi, Qwen and o
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
+- [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [Mikachu2333/rimage_gui](https://github.com/Mikachu2333/rimage_gui) - 一个Rimage的GUI版本，能够批量压缩图片且不影响观感。A GUI software use rimage to compress images batchly without affecting the look and feel.
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
@@ -5775,6 +5776,7 @@
 
 ## python 
 
+- [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
 - [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
 - [HiMeditator/auto-caption](https://github.com/HiMeditator/auto-caption) - A cross-platform real-time subtitle display software. 一个跨平台的实时字幕显示软件。
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
@@ -5962,7 +5964,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [LinkSoul-AI/Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) - 开源社区第一个能下载、能运行的中文 LLaMA2 模型！
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
+- [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
@@ -6007,6 +6009,7 @@
 
 ## react 
 
+- [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
 - [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - A free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
@@ -6788,6 +6791,7 @@
 
 ## typescript 
 
+- [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
 - [nextify-limited/libra](https://github.com/nextify-limited/libra) - The open-source V0/Lovable alternative
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
 - [remnawave/panel](https://github.com/remnawave/panel) - A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use.
@@ -6874,7 +6878,7 @@
 - [BlackGlory/extension-binary-search](https://github.com/BlackGlory/extension-binary-search) - 🌳 The simplest and most effective way to locate a malicious or faulty extension
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
-- [TensoRaws/Final2x](https://github.com/TensoRaws/Final2x) - a cross-platform image super-resolution tool
+- [EutropicAI/Final2x](https://github.com/EutropicAI/Final2x) - a cross-platform image super-resolution tool
 - [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [meetqy/rao-pics](https://github.com/meetqy/rao-pics) - :electron: 帮助你远程访问 Eagle 的素材库。
