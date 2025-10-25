@@ -261,6 +261,7 @@
 
 ## ai 
 
+- [looplj/axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, and AI SDK compatible API
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - Safe, Open, High-Performance — PDF for AI
 - [liyedanpdx/reddit-ai-trends](https://github.com/liyedanpdx/reddit-ai-trends) - Stay ahead of AI trends with automated Reddit insights! 🚀 This tool scans AI-related Reddit communities in English & Chinese, using Reddit Official API, DeepSeek R1 by OpenRouter to analyze posts, sum
@@ -693,7 +694,7 @@
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『✨全自动化采集、筛选、测速流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；丰富的个性化配置；频道自定义；订阅源/组播源/酒店源/本地源；RTMP推流；IPv4/IPv6；接口测速验效；工作流、Docker、命令行、GUI多种部署方式 | IPTV live streaming source automatic update platform
 - [Nriver/awesome-trilium](https://github.com/Nriver/awesome-trilium) - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集
 - [guobao2333/DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) - DeepL Free API for Serverless
 - [iimeta/fastapi-admin](https://github.com/iimeta/fastapi-admin) - 企业级 LLM API 快速集成系统，支持OpenAI、Azure、文心一言、讯飞星火、通义千问、智谱GLM、Gemini、DeepSeek、Anthropic Claude以及OpenAI格式的模型等，简洁的页面风格，轻量高效且稳定，支持Docker一键部署。
@@ -1889,6 +1890,7 @@
 
 ## discord 
 
+- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
 - [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated Ai Assistant/Chatbot/Sub-Agent Framework with realistic Long Term Memory and thought formation using Open Source LLMs. Qdrant is used for the Vector DB.
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 
@@ -1919,7 +1921,7 @@
 - [Quick-Bin/qbin](https://github.com/Quick-Bin/qbin) - QBin: 轻量高效的在线编辑与分享平台 | Monaco+Cherry Markdown专业编辑器 | Deno KV+DrizzleORM+EdgeCache多级缓存 | PWA离线访问+IndexedDB存储 | 自定义短链+密码+有效期 | 支持文本/代码/图片/视频 | OAuth2登录 | 明暗主题 | 实时保存 | Docker/Deno一键部署 | PasteBin替代方案
 - [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) - 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ Lightweight, self-hosted web-based file manager with multi-file upload, editing, and batch operations – built with PHP & JavaScript for seamless file and folder management (Docker & Unraid ready).
+- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, WebDAV & SSO. Fully Docker / Unraid compatible.
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source user interface designed to manage your server/homelab applications and services.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [rcy1314/echo-noise](https://github.com/rcy1314/echo-noise) - #说说 高度完善的轻量说说笔记系统及memos的开源替代品，这是对于Ech0的二次开发、魔改及完善，属于个人的自定化使用，类似朋友圈风格及一键数据下载备份和恢复上传，视觉上拥有更现代化的ui设计及毛玻璃背景 Ech0 - Noise
@@ -1938,7 +1940,7 @@
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [LiuYuYang01/ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『✨全自动化采集、筛选、测速流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；丰富的个性化配置；频道自定义；订阅源/组播源/酒店源/本地源；RTMP推流；IPv4/IPv6；接口测速验效；工作流、Docker、命令行、GUI多种部署方式 | IPTV live streaming source automatic update platform
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager) - A user friendly, UI/UX focus server & configuration management tool
@@ -2235,6 +2237,7 @@
 
 ## flask 
 
+- [cu/silicon](https://github.com/cu/silicon) - Silicon Notes, a web-based personal knowledge base with few frills
 - [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr) - A simple, self-hosted service to keep track of your personal library 📚
 - [BleedingXiko/GhostHub](https://github.com/BleedingXiko/GhostHub) - Mobile-first media server with swipe navigation and one-click sharing.
 - [spoo-me/url-shortener](https://github.com/spoo-me/url-shortener) - spoo.me is a free and easy-to-use URL shortener that lets you create short links for any website. You can choose your own alias, set a password, and limit the number of clicks.
@@ -2830,7 +2833,7 @@
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋
-- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ Lightweight, self-hosted web-based file manager with multi-file upload, editing, and batch operations – built with PHP & JavaScript for seamless file and folder management (Docker & Unraid ready).
+- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, WebDAV & SSO. Fully Docker / Unraid compatible.
 - [Hyk260/PureChat](https://github.com/Hyk260/PureChat) - PureChat 是一款全面的聊天应用程序，它将传统的即时消息与高级 AI 功能集成在一起。其模块化架构、可扩展的 AI 集成系统和灵活的配置选项使其成为强大的应用程序，也是 AI 增强通信应用程序的坚实基础。支持OpenAI，Ollama，DeepSeek等大语言模型，Markdown 渲染，聊天记录生成截图，主题切换，助力开发者快速掌握现代技术。
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -3150,6 +3153,7 @@
 
 ## llm 
 
+- [YellowSeaa/PromptWorks](https://github.com/YellowSeaa/PromptWorks) - 一个Prompts管理与测试工具。A Prompts management and testing tool.
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [Blushyes/coro-code](https://github.com/Blushyes/coro-code) - Open-source CLI coding agent, a free alternative to Claude Code. Generate, debug, and manage code seamlessly.
@@ -4033,6 +4037,8 @@
 
 ## openai 
 
+- [looplj/axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, and AI SDK compatible API
+- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 - [lidedongsn/cut.ai](https://github.com/lidedongsn/cut.ai) - cut.ai 是一个AI音视频剪辑工具，语音转写基于whisper
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
@@ -4255,8 +4261,7 @@
 - [ihatecsv/deepseek-ocr-client](https://github.com/ihatecsv/deepseek-ocr-client) - A real-time Electron-based desktop GUI for DeepSeek-OCR
 - [rdumasia303/deepseek_ocr_app](https://github.com/rdumasia303/deepseek_ocr_app) - A quick vibe coded app for deepseek OCR
 - [subnub/myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
-- [YellowSeaa/PromptWorks](https://github.com/YellowSeaa/PromptWorks) - 
-- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Lightweight note-taking web app
+- [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - A lightweight yet powerful web app for taking notes.
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
 - [op7418/ai-claude-start](https://github.com/op7418/ai-claude-start) - Multi-profile Claude Code launcher with secure credential management
 - [SilenceBoy/ai_news_card](https://github.com/SilenceBoy/ai_news_card) - 一个现代化的AI新闻周报管理和展示系统，支持动态生成、自动排序和响应式展示。
@@ -4695,7 +4700,7 @@
 - [vxiaozhi/vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek) - vocabulary-book-by-deepseek｜使用 DeepSeek 开发实现的四六级、考研、托福单词词汇库， 提供单词的词义、词根、例句、辅助记忆、助记图像等信息|小智晖的AI单词库。
 - [maojindao55/botgroup.chat](https://github.com/maojindao55/botgroup.chat) - AI机器人群聊
 - [ItusiAI/AI-Translation-Assistant-Pro](https://github.com/ItusiAI/AI-Translation-Assistant-Pro) - AI翻译助手 - 基于先进AI模型，支持Stripe支付，全程闭环，高效精准，一键翻译！
-- [MayDay-wpf/AIBotPublic](https://github.com/MayDay-wpf/AIBotPublic) - AIBot PRO 是一个基于.NET 6 的 AI聚合客户端 to C 弱 to B 可以集成众多AI产品(ChatGPT,Gemini,Claude,文心一言,通义千问,讯飞星火)，无感切换对话，支持知识库、插件开发、AI流程引擎（workflow）、以及开放平台对外输出定制化的特色AI API
+- [MayDay-wpf/AIBotPublic](https://github.com/MayDay-wpf/AIBotPublic) - AIBot PRO 是一个基于.NET 8 的 AI聚合客户端 to C 弱 to B 可以集成众多AI产品(ChatGPT,Gemini,Claude,文心一言,通义千问,讯飞星火)，无感切换对话，支持知识库、插件开发、AI流程引擎（workflow）、以及开放平台对外输出定制化的特色AI API
 - [Tzyito/x-copilot](https://github.com/Tzyito/x-copilot) - An elegant browser extension that helps you record and manage your X (Twitter) browsing history. Your personal X assistant.
 - [Vita0519/WeChatAI](https://github.com/Vita0519/WeChatAI) - WeChatAI 是一款基于 Python 开发的微信群聊/个人智能助手，支持多种大语言模型，可以实现智能对话、自动回复等功能。采用现代化的界面设计，操作简单直观。
 - [moyuguy/notion_bookmarks](https://github.com/moyuguy/notion_bookmarks) - Notion个人导航站
@@ -4909,7 +4914,7 @@
 - [mondayrobot/trilium-linen-theme](https://github.com/mondayrobot/trilium-linen-theme) - A minimal, airy light theme for Trilium with an optional distraction-free mode.
 - [Nriver/trilium-enhancement](https://github.com/Nriver/trilium-enhancement) - Experience Enhancement Kit for Trilium Notes. 体验增强工具包
 - [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
-- [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - 
+- [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - AI抠图、格式转换、图片压缩、AI证件照
 - [EHEWON/ezwork-ai-doc-translation](https://github.com/EHEWON/ezwork-ai-doc-translation) - EZ-Work AI文档翻译，人人可用的开源AI文档翻译助手，可以快速低成本调用OpenAI等大语言模型api，帮助您实现txt/markdown/word/csv/excel/pdf/ppt的文档翻译。
 - [X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer) - AI无损放大工具
 - [jxqu3/aiui](https://github.com/jxqu3/aiui) - A simple no-install web UI for Ollama and OAI-Compatible APIs!
@@ -5801,7 +5806,7 @@
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
 - [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf
-- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ Lightweight, self-hosted web-based file manager with multi-file upload, editing, and batch operations – built with PHP & JavaScript for seamless file and folder management (Docker & Unraid ready).
+- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, WebDAV & SSO. Fully Docker / Unraid compatible.
 - [taksssss/iptv-tool](https://github.com/taksssss/iptv-tool) - IPTV工具箱， Docker🐳部署，支持EPG管理、直播源管理、台标管理，兼容DIYP/百川、超级直播及xmltv格式。
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -6004,6 +6009,7 @@
 
 ## python 
 
+- [cu/silicon](https://github.com/cu/silicon) - Silicon Notes, a web-based personal knowledge base with few frills
 - [whillhill/mcpstore](https://github.com/whillhill/mcpstore) - 开盒即用的优雅管理mcp服务 | 结合Agent框架 | 作者听劝 | 已发布pypi | Vue页面demo
 - [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human.
 - [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
@@ -6410,7 +6416,8 @@
 
 ## rust 
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
+- [C5H12O5/TextGO](https://github.com/C5H12O5/TextGO) - Smart text automation with auto-detection. One hotkey, multiple actions.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [lanyeeee/bilibili-video-downloader](https://github.com/lanyeeee/bilibili-video-downloader) - 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 广告标记 + 字幕下载 + 弹幕下载，轻松将视频加入emby等媒体库
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -6515,6 +6522,7 @@
 
 ## self-hosted 
 
+- [cu/silicon](https://github.com/cu/silicon) - Silicon Notes, a web-based personal knowledge base with few frills
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
@@ -6545,7 +6553,7 @@
 - [wiredoor/wiredoor](https://github.com/wiredoor/wiredoor) - Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [Seanium/FeedMe](https://github.com/Seanium/FeedMe) - AI-powered RSS reader, deployable to GitHub Pages or with Docker | 用 AI 重新定义你的 RSS 阅读体验，轻松部署到 GitHub Pages / Docker
-- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ Lightweight, self-hosted web-based file manager with multi-file upload, editing, and batch operations – built with PHP & JavaScript for seamless file and folder management (Docker & Unraid ready).
+- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, WebDAV & SSO. Fully Docker / Unraid compatible.
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source user interface designed to manage your server/homelab applications and services.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
@@ -6815,6 +6823,7 @@
 
 ## svelte 
 
+- [C5H12O5/TextGO](https://github.com/C5H12O5/TextGO) - Smart text automation with auto-detection. One hotkey, multiple actions.
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [gsidhu/buzee-tauri](https://github.com/gsidhu/buzee-tauri) - A superfast full-text search application
@@ -6901,10 +6910,11 @@
 
 ## telegram 
 
+- [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
 - [missuo/MTProxy](https://github.com/missuo/MTProxy) - MTProxy(MTPROTO) v2 One-Click Installation
 - [daquino94/rss-telegram](https://github.com/daquino94/rss-telegram) - A Python bot that monitors RSS feeds and sends notifications to a Telegram chat when new content is published. The bot checks feeds at regular intervals, keeps track of which items have already been s
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 明智地搜索您的 Telegram 聊天记录
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 - [ccbikai/BroadcastChannel](https://github.com/ccbikai/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 - [usememos/telegram-integration](https://github.com/usememos/telegram-integration) - Memogram is an easy to use integration service for syncing messages and images from a Telegram bot into your Memos.
@@ -6939,7 +6949,7 @@
 
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂热点 - 多平台热点聚合+AI智能分析工具。监控35个平台（抖音、知乎、B站、微博等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 - [daquino94/rss-telegram](https://github.com/daquino94/rss-telegram) - A Python bot that monitors RSS feeds and sends notifications to a Telegram chat when new content is published. The bot checks feeds at regular intervals, keeps track of which items have already been s
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 明智地搜索您的 Telegram 聊天记录
 - [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Telegram files to multiple storage 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content.
 - [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
 - [usememos/telegram-integration](https://github.com/usememos/telegram-integration) - Memogram is an easy to use integration service for syncing messages and images from a Telegram bot into your Memos.
@@ -7234,6 +7244,7 @@
 
 ## vpn 
 
+- [encodeous/nylon](https://github.com/encodeous/nylon) - Dynamic Routing on WireGuard for everyone
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA
 - [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) - 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
@@ -7376,6 +7387,7 @@
 
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, WebDAV & SSO. Fully Docker / Unraid compatible.
 - [Y80/bmm](https://github.com/Y80/bmm) - BMM，你的专属书签管家 🤵
 - [hulunote/hulunote](https://github.com/hulunote/hulunote) - Powerful prompt engineering development platform by Hulunote
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
