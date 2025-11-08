@@ -298,6 +298,7 @@
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+- [RichmondAlake/memorizz](https://github.com/RichmondAlake/memorizz) - MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources
 - [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix) - Built-in MCP client–powered document/news management tool with daily auto summaries, document interaction, user-defined notifications (email, apns, etc.), and customizable model support.内置 MCP 客户端的文档/
 - [MiguelsPizza/WebMCP](https://github.com/MiguelsPizza/WebMCP) - Bringing the power of MCP to the web
@@ -690,6 +691,7 @@
 
 ## api 
 
+- [dohsimpson/TaskTrove](https://github.com/dohsimpson/TaskTrove) - TaskTrove is a modern Todo Manager that is fully self-hostable.
 - [vemetric/favicon-api](https://github.com/vemetric/favicon-api) - Free and open-source API to fetch favicons from any website.
 - [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually 
 - [aigem/aice_ps](https://github.com/aigem/aice_ps) - Nano Banana editor(webui) for aistudio or gemini api key.  最强Ai修图APP，方便实用！如登录了google aistudio，可直接在DEMO APP中使用。支持静态部署，兼容Gemini API
@@ -1897,7 +1899,7 @@
 - [caoyingjunz/pixiu](https://github.com/caoyingjunz/pixiu) - Pixiu is an open source container platform for cloud-native application management.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) - Lightweight and powerful workflow engine for enterprise & small teams. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing commands ov
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) - A powerful, portable, local-first workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and ex
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1919,6 +1921,8 @@
 
 ## docker 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
+- [dohsimpson/TaskTrove](https://github.com/dohsimpson/TaskTrove) - TaskTrove is a modern Todo Manager that is fully self-hostable.
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [nikunjsingh93/react-glass-keep](https://github.com/nikunjsingh93/react-glass-keep) - Glass Keep is Keep Notes alternative using Glass design. Made in React + Tailwind
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
@@ -2578,6 +2582,7 @@
 
 ## hacktoberfest 
 
+- [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful AI-powered open-source cross-platform (Desktop & Mobile) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, visually 
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -3501,6 +3506,7 @@
 
 ## markdown 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - A fast, open-source Markdown note-taking app for students and creators
 - [Guizimo/gifer](https://github.com/Guizimo/gifer) - 一个优雅的 GIF 制作工具，基于 Tauri 2.0 构建，提供直观的用户界面和强大的图片处理功能。
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
@@ -3978,6 +3984,7 @@
 
 ## obsidian 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [any-menu/any-menu](https://github.com/any-menu/any-menu) - AnyMenu —— A powerful input method assistant / editor assistant | 一款强大的输入法助手/编辑器助手
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [infiolab/infio-copilot](https://github.com/infiolab/infio-copilot) - A Cursor-inspired AI assistant for Obsidian that offers smart autocomplete and interactive chat with your selected notes
@@ -4009,11 +4016,12 @@
 
 ## open-source 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [HeroTools/open-whispr](https://github.com/HeroTools/open-whispr) - Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
 - [pengling9405/miaoyu](https://github.com/pengling9405/miaoyu) - 妙语 - 智能桌面语音输入工具, Whisp Flow 开源替代。
 - [yan5xu/ququ](https://github.com/yan5xu/ququ) - 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop app for managing and switching provider configurations & MCP servers for Claude Code and Codex.
 - [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - A free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners.
 - [mgks/docmd](https://github.com/mgks/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -4291,6 +4299,8 @@
 
 ## others 
 
+- [G-grbz/Gharmonize](https://github.com/G-grbz/Gharmonize) - Web UI that converts Spotify and YouTube links using yt-dlp and ffmpeg
+- [Dicklesworthstone/your-source-to-prompt.html](https://github.com/Dicklesworthstone/your-source-to-prompt.html) - Quickly and securely turn your code projects into LLM prompts, all locally on your own machine!
 - [SpaceTimee/Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 - [kai648846760/douyin_assistant](https://github.com/kai648846760/douyin_assistant) - 抖音全能助手 (Douyin All-in-One Assistant) | A powerful automation tool for multi-account management, downloading, and publishing.
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
@@ -4405,7 +4415,7 @@
 - [philipp-spiess/claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [y-shi23/MeowNocode](https://github.com/y-shi23/MeowNocode) - memos类开源高颜值便签应用
-- [xixu-me/Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources whose performance far surpasses traditional accelerators, delivering a unified, efficient acceleration experience
+- [xixu-me/Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources that significantly outperforms traditional solutions, delivering unified, efficient acceleration across code repo
 - [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
 - [Lucassssss/eechat](https://github.com/Lucassssss/eechat) - 🚀 Powerful Local AI Chat Application - Mcp, Secure, Efficient, Personalized 本地化部署的大模型客户端
 - [wangwangit/nav](https://github.com/wangwangit/nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
@@ -4984,7 +4994,7 @@
 - [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games. # 一款轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。
 - [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - 
 - [aaaaa-pi/zipideo](https://github.com/aaaaa-pi/zipideo) - ⚡zipideo: 视频压缩桌面端软件
-- [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
+- [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站(https://exporter.wxdown.online) 使用，同时也支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [Joedmin/xExtension-readeck-button](https://github.com/Joedmin/xExtension-readeck-button) - Add FreshRSS articles to Readeck with one simple button click or a keyboard shortcut.
 - [lhl/voicechat2](https://github.com/lhl/voicechat2) - Local SRT/LLM/TTS Voicechat
@@ -5091,6 +5101,7 @@
 - [r4ym0n/memos-bber](https://github.com/r4ym0n/memos-bber) - Memos 的 Chrome 扩展
 - [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) - 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities
 - [Athlon1600/notepad](https://github.com/Athlon1600/notepad) - :page_facing_up: Web-based application for storing notes securely. Built with Vue + Node.js + Express
+- [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit) - 一个简易的AI语音工具箱 | A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc.
 - [code-innovator-zyx/wechat-gptbot](https://github.com/code-innovator-zyx/wechat-gptbot) - 微信聊天机器人，支持群聊和私信
 - [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
@@ -5940,6 +5951,7 @@
 
 ## privacy 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
@@ -5952,7 +5964,7 @@
 - [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Build your knowledge one log at a time
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
-- [remvze/pswd](https://github.com/remvze/pswd) - 🔑 | Simple secure password generator.
+- [remvze/pswd](https://github.com/remvze/pswd) - 🔑 • Simple secure password generator.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
@@ -5977,6 +5989,7 @@
 
 ## productivity 
 
+- [dohsimpson/TaskTrove](https://github.com/dohsimpson/TaskTrove) - TaskTrove is a modern Todo Manager that is fully self-hostable.
 - [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) - A fast, open-source Markdown note-taking app for students and creators
 - [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) - TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and op
 - [mylee04/claude-notify](https://github.com/mylee04/claude-notify) - Cross-platform desktop notifications for Claude Code - Get alerts when tasks complete
@@ -6031,6 +6044,7 @@
 
 ## project-management 
 
+- [dohsimpson/TaskTrove](https://github.com/dohsimpson/TaskTrove) - TaskTrove is a modern Todo Manager that is fully self-hostable.
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
@@ -6067,6 +6081,8 @@
 
 ## python 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
+- [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [cu/silicon](https://github.com/cu/silicon) - Silicon Notes, a web-based personal knowledge base with few frills
 - [whillhill/mcpstore](https://github.com/whillhill/mcpstore) - 开盒即用的优雅管理mcp服务 | 结合Agent框架 | 作者听劝 | 已发布pypi | Vue页面demo
@@ -6303,6 +6319,7 @@
 
 ## react 
 
+- [dohsimpson/TaskTrove](https://github.com/dohsimpson/TaskTrove) - TaskTrove is a modern Todo Manager that is fully self-hostable.
 - [kamjin3086/chatless](https://github.com/kamjin3086/chatless) - 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
 - [pengling9405/miaoyu](https://github.com/pengling9405/miaoyu) - 妙语 - 智能桌面语音输入工具, Whisp Flow 开源替代。
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
@@ -6476,6 +6493,7 @@
 
 ## rust 
 
+- [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
 - [kamjin3086/chatless](https://github.com/kamjin3086/chatless) - 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
 - [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust implementation of DeepSeek-OCR with OpenAI-compatible server & CLI No Python environment needed - just download and run.
 - [VERT-sh/vertd](https://github.com/VERT-sh/vertd) - VERT's solution to crappy video conversion services.
@@ -6486,7 +6504,7 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 - [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop app for managing and switching provider configurations & MCP servers for Claude Code and Codex.
 - [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 - [hzbd/imagekit](https://github.com/hzbd/imagekit) - ImageKit is a powerful and fast command-line tool for batch processing images.
 - [ghost-him/ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - 🚀 A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Ru
@@ -6561,7 +6579,7 @@
 - [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) - 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
 - [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
-- [remvze/pswd](https://github.com/remvze/pswd) - 🔑 | Simple secure password generator.
+- [remvze/pswd](https://github.com/remvze/pswd) - 🔑 • Simple secure password generator.
 - [dazhengs/tools](https://github.com/dazhengs/tools) - a standalone toolkit supporting AES, SM4 encryption, RSA, SM2 encryption/sign/verify, hash,SM3 algorithms, encoding, and password generation—all offline and secure. 这是一个支持AES、SM4加密，RSA、SM2 签名/验签，哈希算法，
 - [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复（国内主流AI模型，扣子，FastGpt，Dify全面支持！），⚡视频号解析，😄自定义程
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -6579,12 +6597,15 @@
 ## security-tools 
 
 - [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat) - 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
-- [remvze/pswd](https://github.com/remvze/pswd) - 🔑 | Simple secure password generator.
+- [remvze/pswd](https://github.com/remvze/pswd) - 🔑 • Simple secure password generator.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
 
 ## self-hosted 
 
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
+- [journiv/journiv-app](https://github.com/journiv/journiv-app) - Journiv - Self hosted private journaling app
+- [dohsimpson/TaskTrove](https://github.com/dohsimpson/TaskTrove) - TaskTrove is a modern Todo Manager that is fully self-hostable.
 - [cu/silicon](https://github.com/cu/silicon) - Silicon Notes, a web-based personal knowledge base with few frills
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Secure, open-source platform for file storage, sharing, collaboration, and syncing.
@@ -6783,7 +6804,6 @@
 
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC AI-boost fluent-design multi-threaded downloader built with Python.
-- [Spr-Aachen/Easy-Voice-Toolkit](https://github.com/Spr-Aachen/Easy-Voice-Toolkit) - 一个简易的AI语音工具箱 | A user-friendly audio toolkit for voice recognition, voice transcription, voice conversion etc.
 - [NIKJOO/WarpOnWarp-Windows-Client](https://github.com/NIKJOO/WarpOnWarp-Windows-Client) - Warp on Warp Windows Client
 - [InkTimeRecord/TTime](https://github.com/InkTimeRecord/TTime) - 🚀 Screenshots, word marking, OCR, AI, translation software || 截图、划词、文字识别、AI、翻译软件
 
@@ -7138,7 +7158,7 @@
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
 - [nextify-limited/libra](https://github.com/nextify-limited/libra) - The open-source V0/Lovable alternative
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop app for managing and switching provider configurations & MCP servers for Claude Code and Codex.
 - [remnawave/panel](https://github.com/remnawave/panel) - A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use.
 - [qlAD/gkBlog](https://github.com/qlAD/gkBlog) - gkBlog 是一个使用 Turborepo + pnpm 构建的个人博客网站 📚
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A cross platform Markdown editor, but it is lighter, smarter, and purer. 一个跨平台 Markdown 编辑器，但是更轻快、更智能、更纯粹。
