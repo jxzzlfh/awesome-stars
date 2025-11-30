@@ -1503,6 +1503,7 @@
 
 ## chrome-extension 
 
+- [lcomplete/smart-toc](https://github.com/lcomplete/smart-toc) - A Chrome extension for auto-generating a table of contents , support Inoreader and Feedly. 自动生成网页文章大纲的浏览器扩展，支持 Inoreader 和 Feedly。
 - [Yorick-Ryu/deep-share](https://github.com/Yorick-Ryu/deep-share) - A lightweight browser extension designed for AI users to easily copy formulas from ChatGPT, DeepSeek, Grok and 10+ other AI conversations, export beautifully formatted Word documents, and support long
 - [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) - TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and op
 - [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: agentic assistant in your browser, automate your browser using natural language. ChatGPT Atlas Alternative, Alternative to Manus Browser Operator.
@@ -4836,7 +4837,7 @@
 - [axdlee/text2voice](https://github.com/axdlee/text2voice) - 这是一个基于硅基流动 API 的文本转语音转换工具，提供了简洁直观的图形用户界面，支持实时文本转语音和音频播放控制。
 - [ItusiAI/Open-VoiceCanvas](https://github.com/ItusiAI/Open-VoiceCanvas) - VoiceCanvas，支持Stripe支付的文本转语音系统，支持声音克隆，支持50+语言，支持选择音色，代码100%开源
 - [ChrisHyperFunc/readzn](https://github.com/ChrisHyperFunc/readzn) - 开源自readzn.com，基于Notion和Next.js构建的知识型网站，打造解决阅读烦恼的一站式平台。自动化同步Notion数据库内容，实现零成本知识库系统。特别适合博客、文档站点和个人知识库的搭建。点个&gt;_Star吧。
-- [xinggaoya/sing-box-windows](https://github.com/xinggaoya/sing-box-windows) - 🚀 一个优雅的 Sing-Box Windows GUI 客户端，基于 Tauri 2.0 和 Vue 3 构建。
+- [xinggaoya/sing-box-windows](https://github.com/xinggaoya/sing-box-windows) - 🚀 一个优雅的 Sing-Box GUI 客户端，基于 Tauri 2.0 和 Vue 3 构建。
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
 - [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
@@ -5124,7 +5125,7 @@
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [Education-Victory/whisper-webui](https://github.com/Education-Victory/whisper-webui) - WebUI for Whisper API
 - [wa008/PopTranslate](https://github.com/wa008/PopTranslate) - The most efficient translation Chrome extension
-- [yigitkonur/llm-ocr](https://github.com/yigitkonur/llm-ocr) - An open-source OCR API that leverages OpenAI's powerful language models with optimized performance techniques like parallel processing and batching to deliver high-quality text extraction from complex
+- [yigitkonur/llm-based-ocr](https://github.com/yigitkonur/llm-based-ocr) - High-accuracy PDF-to-Markdown OCR API using LLMs with vision capabilities. Features parallel processing, batching, and auto-retry logic for scalable extraction.
 - [HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
 - [mazzzystar/tinymind](https://github.com/mazzzystar/tinymind) - Tinymind - Write and sync your blog & thoughts with GitHub
 - [jakholuo/quest](https://github.com/jakholuo/quest) - 一款轻量 Memo 记录程序，基于 Bun + Hono + MongoDB 构建
