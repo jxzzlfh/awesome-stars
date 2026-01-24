@@ -291,10 +291,10 @@
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [UfoMiao/zcf](https://github.com/UfoMiao/zcf) - Zero-Config Code Flow for Claude code & Codex
 - [hexdocom/lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_c
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Managing long-term, working, and external memory with OS-level scheduling, retrieval, and updates.
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - OS-Level Memory Layer for LLMs, AI Agents & Multi-Agent Systems with long-term, working, and external memory.
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [11cafe/jaaz](https://github.com/11cafe/jaaz) - The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
@@ -400,7 +400,7 @@
 - [nextify-limited/libra](https://github.com/nextify-limited/libra) - The open-source V0/Lovable alternative
 - [monkeyWie/typix](https://github.com/monkeyWie/typix) - 开源AI生图工具，免登录畅玩 FLUX2、SDXL，支持 cloudflare workers 一键部署自托管，并集成各大主流AI提供商，提供一站式的创作体验。
 - [Diraw/AI-Screenshot-Translator](https://github.com/Diraw/AI-Screenshot-Translator) - 论文阅读工具，一键截图+AI翻译，支持数学公式，贴片多窗口管理
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A cross-platform Markdown editor, lighter, smarter, and more focused. 一个跨平台 Markdown 编辑器，更轻快、更智能、更专注。
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown editor.
 - [biaogebusy/web-builder](https://github.com/biaogebusy/web-builder) - AI 驱动 UI 生成和发布的低代码平台，基于TailwindCss，通过拖拽可视化快速构建现代化响应式UI、动态自定义组件、多主题、多语言的网站应用。AI-powered UI generation and publishing low code platform, built on TailwindCSS, enabling rapid drag-and-drop visual creatio
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
@@ -693,6 +693,7 @@
 - [Hoshinonyaruko/Gensokyo-llm](https://github.com/Hoshinonyaruko/Gensokyo-llm) - 开源的智能体项目 支持6种聊天平台 Onebotv11一对多连接 流式信息 agent 对话keyboard气泡生成 支持10+大模型接口(持续更新)  具有将多种大模型接口转化为带有上下文的通用格式的能力.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, manage multi-agent systems.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -904,7 +905,7 @@
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [albertocubeddu/extensionOS](https://github.com/albertocubeddu/extensionOS) - Imagine a world where everyone can access powerful AI models—LLMs, generative image models, and speech recognition—directly in their web browser. Integrating AI into daily browsing will revolutionise 
 - [OpenAssistantGPT/OpenAssistantGPT](https://github.com/OpenAssistantGPT/OpenAssistantGPT) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [embernet/sidekick](https://github.com/embernet/sidekick) - Sidekick is an AI powered tool that uses the OpenAI API and GPT-4 model for thinking, exploring ideas, problem-solving, knowledge-building, and getting things done.
 - [felladrin/MiniSearch](https://github.com/felladrin/MiniSearch) - Minimalist web-searching platform with an AI assistant that runs directly from your browser. Uses WebLLM, Wllama and SearXNG. Demo: https://felladrin-minisearch.hf.space
@@ -1273,7 +1274,7 @@
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana) - Awesome curated collection of images and prompts generated by gemini-2.5-flash-image (aka Nano Banana) state-of-the-art image generation and editing model. Explore AI generated visuals created with Ge
 - [tizee-tampermonkey-scripts/tampermonkey-chatgpt-model-usage-monitor](https://github.com/tizee-tampermonkey-scripts/tampermonkey-chatgpt-model-usage-monitor) - a model usage monitor for chatgpt
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A cross-platform Markdown editor, lighter, smarter, and more focused. 一个跨平台 Markdown 编辑器，更轻快、更智能、更专注。
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown editor.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
@@ -1675,7 +1676,7 @@
 - [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
 - [eun1e/sublinkE](https://github.com/eun1e/sublinkE) - 在 sublinkX 基础上二次开发，支持更多协议和高度自定义的开源订阅转换管理工具。
 - [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具
-- [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/Android
+- [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
 - [szkane/ClashRuleSet](https://github.com/szkane/ClashRuleSet) - Clash 分流规则，重点分流 AI服务、字节海外AI服务 、 WEB3 应用、教育类APP、开发者常用下载节点等分流服务
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
 - [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
@@ -2901,7 +2902,7 @@
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [jordan-dalby/ByteStash](https://github.com/jordan-dalby/ByteStash) - A code snippet storage solution written in React & node.js
@@ -3407,7 +3408,7 @@
 - [eun1e/sublinkE](https://github.com/eun1e/sublinkE) - 在 sublinkX 基础上二次开发，支持更多协议和高度自定义的开源订阅转换管理工具。
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - Bili23 Downloader 是一款跨平台（Windows/Linux/macOS）的 B 站视频下载工具，支持下载 B 站投稿视频、番剧、电影等类型视频。支持多线程加速、断点续传等特性，搭配图形化界面与零配置操作，提供高效便捷的下载体验。
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
@@ -3522,12 +3523,12 @@
 - [sligter/LandPPT](https://github.com/sligter/LandPPT) - 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
 - [hexdocom/lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_c
 - [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Managing long-term, working, and external memory with OS-level scheduling, retrieval, and updates.
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - OS-Level Memory Layer for LLMs, AI Agents & Multi-Agent Systems with long-term, working, and external memory.
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [GewoonJaap/gemini-cli-openai](https://github.com/GewoonJaap/gemini-cli-openai) - Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [experdot/pointer](https://github.com/experdot/pointer) - A secure, standalone AI chat app crafted for deep thinkers, with privacy at its core.安全、私密的 AI 聊天应用，专为深度思考者打造。
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
@@ -3579,7 +3580,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
-- [apconw/Aix-DB](https://github.com/apconw/Aix-DB) - 一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen3等大模型 基于 Dify 、LangChain/LangGraph、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECha
+- [apconw/Aix-DB](https://github.com/apconw/Aix-DB) - Aix-DB 基于 LangChain/LangGraph 框架，结合 MCP Skills 多智能体协作架构，实现自然语言到数据洞察的端到端转换。
 - [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 - [Opla/opla](https://github.com/Opla/opla) - Empower Your Productivity with Local AI Assistants
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
@@ -3620,6 +3621,7 @@
 - [gpt-open/rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. Engl
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
@@ -3743,7 +3745,7 @@
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [rnchg/APT](https://github.com/rnchg/APT) - AI Productivity Tool - Free and open source, improve user productivity, and protect privacy and data security. Including but not limited to: built-in local exclusive ChatGPT, DeepSeek, Phi, Qwen and o
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
@@ -3773,7 +3775,7 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [mylee04/code-notify](https://github.com/mylee04/code-notify) - Cross-platform desktop notifications for Claude Code/Codex/Gemini - Get alerts when tasks complete
 - [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - Bili23 Downloader 是一款跨平台（Windows/Linux/macOS）的 B 站视频下载工具，支持下载 B 站投稿视频、番剧、电影等类型视频。支持多线程加速、断点续传等特性，搭配图形化界面与零配置操作，提供高效便捷的下载体验。
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS融合怪服务器测评项目 GO版本 VPS Fusion Monster Server Test GO Version 尽量成为最全能的服务器测评项目，使用 Go 实现，无需任何环境依赖。 Aiming to be the most comprehensive server testing project, implemented in Go with zero environment depe
@@ -3854,7 +3856,7 @@
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parsing for RAG — Convert to Markdown & JSON, Fast, Local, No GPU
 - [nikunjsingh93/react-glass-keep](https://github.com/nikunjsingh93/react-glass-keep) - Glass Keep is Keep Notes alternative using Glass design. Made in React + Tailwind
 - [JacksonHe04/flow-flat](https://github.com/JacksonHe04/flow-flat) - 集成白板、Markdown、IDE 等多种工具，简洁 · 现代 · 高效的节点流程图平台
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A cross-platform Markdown editor, lighter, smarter, and more focused. 一个跨平台 Markdown 编辑器，更轻快、更智能、更专注。
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown editor.
 - [xiaobox/mdeditor](https://github.com/xiaobox/mdeditor) - Modern MD Editor 是一款面向创作者与内容团队的「高颜值 Markdown 编辑器 + 社交平台发布器」。它以极致的界面与交互为基础，提供所见即所得的实时预览与多端视口切换，并通过一键复制将 Markdown 转为适配微信公众号/社交平台的高保真富文本（自动内联样式、字体/行高/字距与主题化适配），让创作到发布的最后一步变得优雅、高效、可控。
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
 - [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3) - Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
@@ -4003,7 +4005,7 @@
 - [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) - Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
 - [arabold/docs-mcp-server](https://github.com/arabold/docs-mcp-server) - Grounded Docs MCP Server: Open-Source Alternative to Context7, Nia, and Ref.Tools
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [Lucassssss/eechat](https://github.com/Lucassssss/eechat) - 🚀 Powerful Local AI Chat Application - Mcp, Secure, Efficient, Personalized 本地化部署的大模型客户端
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [adhikasp/mcp-reddit](https://github.com/adhikasp/mcp-reddit) - A Model Context Protocol (MCP) server that provides tools for fetching and analyzing Reddit content.
@@ -4053,6 +4055,7 @@
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [RamXX/mcp-tavily](https://github.com/RamXX/mcp-tavily) - An MCP server for Tavily's search API
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
+- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp) - MCP server for fetch web page content using Playwright headless browser.
 - [mshojaei77/ReActMCP](https://github.com/mshojaei77/ReActMCP) - ReActMCP is a reactive MCP client that empowers AI assistants to instantly respond with real-time, Markdown-formatted web search insights powered by the Exa API.
 - [AimeBox/aime-box](https://github.com/AimeBox/aime-box) - 一款基于 langchain + electron开发的多平台桌面端 Chat 客户端 支持本地知识库，tool调用，多个智能agent调用  目标尽量实现全离线本地可执行的智能agent
@@ -4064,7 +4067,7 @@
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech and Banks
-- [apconw/Aix-DB](https://github.com/apconw/Aix-DB) - 一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen3等大模型 基于 Dify 、LangChain/LangGraph、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECha
+- [apconw/Aix-DB](https://github.com/apconw/Aix-DB) - Aix-DB 基于 LangChain/LangGraph 框架，结合 MCP Skills 多智能体协作架构，实现自然语言到数据洞察的端到端转换。
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
@@ -4494,7 +4497,7 @@
 - [pengling9405/miaoyu](https://github.com/pengling9405/miaoyu) - 妙语 - 智能语音输入，妙语亦可生花。
 - [yan5xu/ququ](https://github.com/yan5xu/ququ) - 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - A free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
@@ -4779,6 +4782,8 @@
 
 ## others 
 
+- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的聊天导出和年度报告应用
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [FreedomBen/clipgrab](https://github.com/FreedomBen/clipgrab) - Customized version of ClipGrab (http://clipgrab.org/)
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
@@ -5270,7 +5275,6 @@
 - [nickclyde/duckduckgo-mcp-server](https://github.com/nickclyde/duckduckgo-mcp-server) - A Model Context Protocol (MCP) server that provides web search capabilities through DuckDuckGo, with additional features for content fetching and parsing.
 - [sentient-agi/OpenDeepSearch](https://github.com/sentient-agi/OpenDeepSearch) - SOTA search powered LLM
 - [mika-cn/maoxian-web-clipper](https://github.com/mika-cn/maoxian-web-clipper) - A web extension to clip information from web page. Save it to your local machine to avoid information invalidation. Not bored registration, Not charged.
-- [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Exa MCP for web search and web crawling!
 - [Eagle-CN/Feishu_API_Navs](https://github.com/Eagle-CN/Feishu_API_Navs) - 基于飞书多维表格的导航网站，使用 Next.js 构建。通过飞书多维表格管理导航链接，自动同步到网站显示。
 - [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) - 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，仅需后台统一更新新二维码。不需要服务器。也可作为 URL 缩短链接服务使用。
 - [ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
@@ -6726,7 +6730,7 @@
 - [TheD0ubleC/NeoAI](https://github.com/TheD0ubleC/NeoAI) - NeoAI: 无需编写代码，只需会打字！让 AI 用简单的自然语言指令接管你的电脑！ NeoAI 是一款开源工具，重新定义了 AI 的交互方式——支持文件管理、任务自动化、定时操作和跨平台设备控制，并内置安全保护。 NeoAI: No Coding Required, Just Typing! Manage files, automate tasks, schedule operations, a
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [apconw/Aix-DB](https://github.com/apconw/Aix-DB) - 一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen3等大模型 基于 Dify 、LangChain/LangGraph、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECha
+- [apconw/Aix-DB](https://github.com/apconw/Aix-DB) - Aix-DB 基于 LangChain/LangGraph 框架，结合 MCP Skills 多智能体协作架构，实现自然语言到数据洞察的端到端转换。
 - [dvcoolarun/web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
 - [JackyLee3362/wemo](https://github.com/JackyLee3362/wemo) - 微信朋友圈备份工具
 - [farfarfun/fundrive](https://github.com/farfarfun/fundrive) - 云存储驱动工具包 - 支持多种云存储服务的统一接口
@@ -6927,7 +6931,7 @@
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Managing long-term, working, and external memory with OS-level scheduling, retrieval, and updates.
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - OS-Level Memory Layer for LLMs, AI Agents & Multi-Agent Systems with long-term, working, and external memory.
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources
 - [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix) - Built-in MCP client–powered document/news management tool with daily auto summaries, document interaction, user-defined notifications (email, apns, etc.), and customizable model support.内置 MCP 客户端的文档/
 - [any4ai/AnyCrawl](https://github.com/any4ai/AnyCrawl) - AnyCrawl 🚀: A Node.js/TypeScript crawler that turns websites into LLM-ready data and extracts structured SERP results from Google/Bing/Baidu/etc. Native multi-threading for bulk processing.
@@ -6965,6 +6969,7 @@
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [gpt-open/rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [sear-chat/SearChat](https://github.com/sear-chat/SearChat) - Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 - [thinkany-ai/rag-search](https://github.com/thinkany-ai/rag-search) - RAG Search API
@@ -7118,7 +7123,7 @@
 ## reactjs 
 
 - [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally.
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A cross-platform Markdown editor, lighter, smarter, and more focused. 一个跨平台 Markdown 编辑器，更轻快、更智能、更专注。
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown editor.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
@@ -7195,7 +7200,7 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 - [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 - [hzbd/imagekit](https://github.com/hzbd/imagekit) - ImageKit is a powerful and fast command-line tool for batch processing images.
 - [ghost-him/ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - 🚀 A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Ru
@@ -7893,10 +7898,10 @@
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
 - [nextify-limited/libra](https://github.com/nextify-limited/libra) - The open-source V0/Lovable alternative
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [remnawave/panel](https://github.com/remnawave/panel) - A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use.
 - [qlAD/gkBlog](https://github.com/qlAD/gkBlog) - gkBlog 是一个使用 Turborepo + pnpm 构建的个人博客网站 📚
-- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - A cross-platform Markdown editor, lighter, smarter, and more focused. 一个跨平台 Markdown 编辑器，更轻快、更智能、更专注。
+- [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown editor.
 - [HeLongaa/RSS-Subscription](https://github.com/HeLongaa/RSS-Subscription) - 基于 Cloudflare Workers 构建的轻量级 RSS 订阅服务，支持 GitHub 账号登录和订阅源管理。
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
@@ -8219,7 +8224,7 @@
 - [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 - [webproblem/learning-article](https://github.com/webproblem/learning-article) - 学习资源 or 大前端导航，持续更新
-- [imsyy/SNav](https://github.com/imsyy/SNav) - 【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
+- [imsyy/SNav](https://github.com/imsyy/SNav) - Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
 - [AlejandroAkbal/Image-to-Text-OCR](https://github.com/AlejandroAkbal/Image-to-Text-OCR) - Image to Text is a web tool to extract text from any image using OCR
@@ -8347,7 +8352,7 @@
 - [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - Bili23 Downloader 是一款跨平台（Windows/Linux/macOS）的 B 站视频下载工具，支持下载 B 站投稿视频、番剧、电影等类型视频。支持多线程加速、断点续传等特性，搭配图形化界面与零配置操作，提供高效便捷的下载体验。
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 - [ghost-him/ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - 🚀 A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Ru
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS融合怪服务器测评项目 GO版本 VPS Fusion Monster Server Test GO Version 尽量成为最全能的服务器测评项目，使用 Go 实现，无需任何环境依赖。 Aiming to be the most comprehensive server testing project, implemented in Go with zero environment depe
