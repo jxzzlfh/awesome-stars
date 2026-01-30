@@ -91,6 +91,7 @@
 ## C 
 
 - [dexter-xD/project-box](https://github.com/dexter-xD/project-box) - C projects: algorithms, games, and networking
+- [Diraw/AI-Screenshot-Translator](https://github.com/Diraw/AI-Screenshot-Translator) - 🚀全新重构！论文阅读工具，一键截图AI翻译，支持数学公式，贴片多窗口管理
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [TanixLu/pyfuze](https://github.com/TanixLu/pyfuze) - Package Python projects into executables
 - [yellow-footed-honeyguide/facad](https://github.com/yellow-footed-honeyguide/facad) - A modern, colorful ls alternative for bringing clarity to the filesystem ☀️
@@ -323,7 +324,7 @@
 
 ## Clojure 
 
-- [hulunote/hulunote](https://github.com/hulunote/hulunote) - Powerful prompt engineering development platform by Hulunote
+- [hulunote/hulunote](https://github.com/hulunote/hulunote) - An open-source outliner note-taking application with bidirectional linking.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 
 ## CoffeeScript 
@@ -1460,7 +1461,7 @@
 - [lumingya/universal-web-api](https://github.com/lumingya/universal-web-api) - 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An AI-powered, self-healing web automation bridge. Converts any website (ChatGPT, DeepSeek, etc.) into a standard API using DrissionPag
 - [qiye45/wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频号视频、直播回放、直播、图片下载
 - [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
-- [VoltAgent/awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills) - The awesome collection of Claude Skills and resources.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 200+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 
 - [ZeroLu/awesome-gemini-ai](https://github.com/ZeroLu/awesome-gemini-ai) - The ultimate collection of Awesome Gemini Prompts, use cases, and examples. Curated from X (Twitter), Reddit, and top prompt engineers. Includes prompts for coding, agents, design, and productivity us
 - [baianjo/Douyin-Smart-Feed-Assistant](https://github.com/baianjo/Douyin-Smart-Feed-Assistant) - 抖音视频调教优化推荐流工具：聚焦你的兴趣、打破信息茧房，重塑用户的专属推荐流
@@ -1930,7 +1931,6 @@
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.
 - [Alencryenfo/CILRouter](https://github.com/Alencryenfo/CILRouter) - Claude Code透明转发代理
 - [sofs2005/gemini-balance](https://github.com/sofs2005/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
-- [Diraw/AI-Screenshot-Translator](https://github.com/Diraw/AI-Screenshot-Translator) - 论文阅读工具，一键截图+AI翻译，支持数学公式，贴片多窗口管理
 - [riceshowerX/SnapForge](https://github.com/riceshowerX/SnapForge) - 一个强大、美观的开源图片处理平台，专为高效批量处理而生。支持格式转换、智能重命名、交互式去重等。基于 Python & Streamlit 构建。
 - [YinChingZ/VideoTranslator](https://github.com/YinChingZ/VideoTranslator) - 智能视频翻译系统 - 基于 PyQt5 和 OpenAI Whisper 的桌面应用程序
 - [fancyboi999/capcut-mcp](https://github.com/fancyboi999/capcut-mcp) - 快速剪辑，供LLM使用剪映到MCP服务器
@@ -2324,7 +2324,7 @@
 - [Audio-AGI/AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 - [yonggekkk/Hysteria-yg](https://github.com/yonggekkk/Hysteria-yg) - Hysteria多功能一键脚本，支持范围端口及多端口复用、四模式IP优先级切换
 - [leptonai/leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
-- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
+- [mohamed-chs/convoviz](https://github.com/mohamed-chs/convoviz) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated Ai Assistant/Chatbot/Sub-Agent Framework with realistic Long Term Memory and thought formation using Open Source LLMs. Qdrant is used for the Vector DB.
 - [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
@@ -2598,7 +2598,6 @@
 - [DreamAlone666/fastfind](https://github.com/DreamAlone666/fastfind) - 🔍 超级快的 Windows 全盘文件搜索工具
 - [abdibrokhim/notlink](https://github.com/abdibrokhim/notlink) - The open-source blazingly fast self-hostable URL shortener ever. Written in Rust 🦀
 - [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
-- [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [hudikhq/hoodik](https://github.com/hudikhq/hoodik) - Self hosted, easy to install end to end encrypted storage drive
 - [yobix-ai/extractous](https://github.com/yobix-ai/extractous) - Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
@@ -3457,7 +3456,7 @@
 - [CaramelFur/Picsur](https://github.com/CaramelFur/Picsur) - An easy to use, selfhostable image sharing service like Imgur with built in converting
 - [adevinwild/micro-scale](https://github.com/adevinwild/micro-scale) - Use this open-source image upscaling web app template for your Next.js project. Powered by Replicate AI.
 - [nikstar/greader](https://github.com/nikstar/greader) - G Reader is a simple RSS feed reader bot for Telegram
-- [heygsc/word-wind](https://github.com/heygsc/word-wind) - 单词之风，像风一样丝滑的背单词
+- [heygsc/word-wind](https://github.com/heygsc/word-wind) - 在线背单词网页
 - [vannvan/yuque-tools](https://github.com/vannvan/yuque-tools) - 🧰 玩转语雀-朴实无华的语雀工具集合，语雀知识库+团队资源批量导出/备份工具(无需Token)｜浏览器插件助手
 - [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
@@ -3554,7 +3553,6 @@
 - [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using LLM
 - [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
-- [Kuingsmile/word-GPT-Plus](https://github.com/Kuingsmile/word-GPT-Plus) - Word GPT Plus is a word add-in which integrates the AI&Agent into Microsoft Word.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [FelippeChemello/podcast-maker](https://github.com/FelippeChemello/podcast-maker) - Fully automated video maker using motion graphics and text-to-speech synthesis to turn newsletters into daily YouTube videos.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
@@ -3802,6 +3800,7 @@
 - [FISHers6/QuickAI](https://github.com/FISHers6/QuickAI) - QuickAI是一款基于OpenAI开发的电脑版ChatGPT PC跨平台应用程序，它可以提供划词提问、快捷搜索、对话模式和快捷指令等多种功能。旨在为用户提供更便捷、更智能的PC桌面版AI使用体验。在使用时无需下载额外软件，适用于各种场景，如代码自动编辑、文件自动输入、提问、聊天软件自动回复等。QuickAI is a ChatGPT PC Program, support Windows, Ma
 - [tinygeeker/aiManagerPrompter](https://github.com/tinygeeker/aiManagerPrompter) - 🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权等隐藏功能
 - [F-loat/caption2text](https://github.com/F-loat/caption2text) - 📥 字幕转文本工具，可离线使用，支持 ass 及 srt 格式批量导出为 word 或 text 文件
+- [Kuingsmile/word-GPT-Plus](https://github.com/Kuingsmile/word-GPT-Plus) - Word GPT Plus is a word add-in which integrates the AI&Agent into Microsoft Word.
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
 - [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - Fantastic toolkit for CTFers and everyone.
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
