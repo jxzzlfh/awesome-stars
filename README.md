@@ -137,7 +137,6 @@
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
 - [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 - [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) - SubsCheck 为 Windows 用户设计的 GUI 程序界面。
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, 
 - [f-shake/ArchiveMaster](https://github.com/f-shake/ArchiveMaster) - 一套协助用户对文件进行处理、管理、备份、同步的工具集；A toolkit designed to assist users in processing, managing, backing up, and synchronizing files.
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
@@ -745,6 +744,7 @@
 - [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 - [mrjooz/password-generator](https://github.com/mrjooz/password-generator) - 密码生成工具
 - [fcwu/docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
@@ -853,7 +853,6 @@
 - [chaos-zhu/easyimg](https://github.com/chaos-zhu/easyimg) - 适用于个人的一站式图床服务. 支持开启公共上传，支持部署AI鉴黄智能检测，完善的权限控制、数据统计、实时推送等功能。demo基于阿里云ESA边缘节点加速。👇
 - [InvertGeek/directlink](https://github.com/InvertGeek/directlink) - 免费文件直链服务（直链网盘），支持文件、图片、视频上传，适合临时文件分享并生成直链。
 - [tony-wang1990/laowang-sub-converter](https://github.com/tony-wang1990/laowang-sub-converter) - LaoWang Sub-converter - 一款开源的代理订阅转换工具，支持多协议解析和 10+ 主流客户端格式输出，提供 Docker 容器化部署和 Vercel 一键部署。
-- [ieax/renewhelper](https://github.com/ieax/renewhelper) - RenewHelper - 时序·守望是一款基于Cloudflare Workers的全栈服务生命周期提醒、管理工具。它专为管理周期性订阅、域名续费、服务器到期等场景设计。无需服务器，零成本托管，提供精美的机甲风（Mecha-style）UI 界面、强大的农历/公历计算核心、多渠道通知推送能力、iCal日程同步以及账单管理功能。同时支持Worker和Docker方式部署。
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [jonathanbertholet/promptmanager](https://github.com/jonathanbertholet/promptmanager) - Open Source Prompt Manager for ChatGPT, Supports 19 LLMs & some cool features!
 - [aircrushin/promptMinder](https://github.com/aircrushin/promptMinder) - 一个开源的，专注于提示词管理的平台 / An open-source platform focused on prompt management
@@ -1436,7 +1435,6 @@
 - [hardhackerlabs/book](https://github.com/hardhackerlabs/book) - 「硬地骇客 - 两个月 $12000 ARR 实践之路」是由 硬地骇客 团队编著，本书是关于 Podwise 产品历程的忠实记录：内容包含 灵感 - 构建 - 发布 - 增长 - 复盘 五个章节。如果你觉得一个人读不够过瘾，欢迎加入「硬地骇客」官方知识星球与专家们一起讨论！Podwise 的故事才刚刚开始，我们也将在星球持续分享我们的认知，成功可能无法复制，但失败一定可以借鉴。现在就点击下方链接加
 - [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
@@ -1958,6 +1956,7 @@
 - [PDFMathTranslate-next/PDFMathTranslate-next](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，PDF Word MD文档，Srt Vtt Lrc字幕等等复杂长文本。
 - [belingud/claudewarp](https://github.com/belingud/claudewarp) - A CLI + GUI tool to manage and instantly switch between multiple Claude API endpoints. Warp through your Claude gateways with ease.
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [ScottSloan/Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - Bili23 Downloader 是一款跨平台（Windows/Linux/macOS）的 B 站视频下载工具，支持下载 B 站投稿视频、番剧、电影等类型视频。支持多线程加速、断点续传等特性，搭配图形化界面与零配置操作，提供高效便捷的下载体验。
@@ -1970,7 +1969,7 @@
 - [murtaza-nasir/speakr](https://github.com/murtaza-nasir/speakr) - Speakr is a personal, self-hosted web application designed for transcribing audio recordings
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
-- [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
+- [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc) - Legacy Python library for Agentic Document Extraction (ADE). Use the landingai-ade library for all new projects.
 - [ETomberg391/Ecne-AI-Podcaster](https://github.com/ETomberg391/Ecne-AI-Podcaster) - AI tool for auto-research, TTS, and Graphical assembly into a completed Podcast
 - [johnson7788/MultiAgentPPT](https://github.com/johnson7788/MultiAgentPPT) - MultiAgentPPT 是一个集成了 A2A（Agent2Agent）+ MCP（Model Context Protocol）+ ADK（Agent Development Kit） 架构的智能化演示文稿生成系统，支持通过多智能体协作和流式并发机制
 - [AIDC-AI/Ovis-U1](https://github.com/AIDC-AI/Ovis-U1) - An unified model that seamlessly integrates multimodal understanding, text-to-image generation, and image editing within a single powerful framework.
@@ -2202,7 +2201,7 @@
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [JuergenFleiss/aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.
 - [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Extract the information you need from the whole internet continually...
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Continuously extract the information you need from specified sources
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [Soulter/hugging-chat-api](https://github.com/Soulter/hugging-chat-api) - HuggingChat Python API🤗
 - [FutureUniant/Tailor](https://github.com/FutureUniant/Tailor) - Tailor是一款视频智能裁剪、视频生成和视频优化的视频剪辑工具。目前的目标是通过人工智能技术减少视频剪辑的繁琐操作，让普通人也能简单实现专业剪辑人的水准！长远目标是让视频剪辑实现真正的AIGC！
@@ -2851,7 +2850,7 @@
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [mengjian-github/wechat-mp-assistant](https://github.com/mengjian-github/wechat-mp-assistant) - 微信公众号智能编辑助手 Chrome 插件 - 集成 AI 写作、素材管理、一键排版等功能
 - [t8y2/PolarisDesk](https://github.com/t8y2/PolarisDesk) - AI 驱动的桌面助手，支持多模型服务商。如北极星般为你的工作指引方向 - 文档处理、代码编写、智能问答。AI-driven desktop assistant with multi-model support. Like Polaris guiding your work - document processing, code writing, and intelligent Q&A.
-- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents.
+- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。
 - [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
 - [geekjourneyx/obsidian-md2wechat](https://github.com/geekjourneyx/obsidian-md2wechat) - 这是一个专为 Obsidian 用户设计的插件，基于 [极简美学排版神器](https://www.md2wechat.cn) 强大的 API 服务，可以轻松将 Markdown 文档转换为适合微信公众号发布的样式化 HTML 内容。
 - [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺All-in-One browser extension to enhance your video watching experience.
@@ -3262,7 +3261,7 @@
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 - [Pintree-io/bookmarks-exporter](https://github.com/Pintree-io/bookmarks-exporter) - chrome extensions
 - [aifuxi/fuxiaochen](https://github.com/aifuxi/fuxiaochen) - 🌈 一个简单的个人博客，使用 Next.js 构建
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ Turn websites into structured APIs & clean data pipelines in minutes ✨
 - [w4n9hu1/hot-hub-web](https://github.com/w4n9hu1/hot-hub-web) - 📈实时追踪热点话题，一站式查看与搜索。
 - [consistent-k/VodHub](https://github.com/consistent-k/VodHub) - VodHub 是一个电影、电视剧、动漫等视频接口聚合服务
 - [WebAV-Tech/WebAV](https://github.com/WebAV-Tech/WebAV) - A web-based Video Editing SDK built on WebCodecs. 基于 WebCodecs 构建的网页视频编辑 SDK。
@@ -3712,6 +3711,7 @@
 - [slightlee/diy-nav-web](https://github.com/slightlee/diy-nav-web) - AI 驱动的下一代导航平台 | 告别手动填写：一句话，自动添加网站、获取图标、生成描述、智能分类 | 开源 · 云原生
 - [anghunk/clipper-hub](https://github.com/anghunk/clipper-hub) - 将网页内容一键收藏至多个平台的浏览器扩展，支持 Telegram、Discord、Notion 等多个平台，让你的灵感和收藏无处不在。 https://clipper-hub.netlify.app
 - [Garry-QD/FlatNas](https://github.com/Garry-QD/FlatNas) - FlatNas 是一个轻量级、高度可定制的个人导航页与仪表盘系统。它基于 Vue 3 和 Express 构建，旨在为 NAS 用户、极客和开发者提供一个优雅的浏览器起始页。
+- [ieax/renewhelper](https://github.com/ieax/renewhelper) - RenewHelper - 时序·守望是一款基于Cloudflare Workers的全栈服务生命周期提醒、管理工具。它专为管理周期性订阅、域名续费、服务器到期等场景设计。无需服务器，零成本托管，提供精美的机甲风（Mecha-style）UI 界面、强大的农历/公历计算核心、多渠道通知推送能力、iCal日程同步以及账单管理功能。同时支持Worker和Docker方式部署。
 - [tony-wang1990/laowang-subscription](https://github.com/tony-wang1990/laowang-subscription) - 一款高颜值的私有化订阅管理系统。集中管理您的 VPS、域名、SSL 证书及各类会员服务，支持 Telegram、微信、邮件等多渠道到期自动提醒，防止服务意外中断。
 - [snsogbl/clip-save](https://github.com/snsogbl/clip-save) - 剪存-剪贴板历史管理工具
 - [CooperJiang/PixelPunk](https://github.com/CooperJiang/PixelPunk) - PixelPunk - 赛博图床 - 一款酷炫的现代化图床、结合AI实现智能标签、审核、使用方便智能、且持续免费更新
