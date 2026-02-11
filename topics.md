@@ -277,6 +277,7 @@
 
 ## agent 
 
+- [hrygo/divinesense](https://github.com/hrygo/divinesense) - AI 驱动的个人第二大脑 — 通过智能代理自动化任务、过滤高价值信息、以技术杠杆提升生产力
 - [ysyx2008/SFTerminal](https://github.com/ysyx2008/SFTerminal) - A “Cursor” for operation and maintenance | 一个运维版“Cursor”
 - [datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe) - AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn   ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创
 - [nuwax-ai/nuwax](https://github.com/nuwax-ai/nuwax) - Nuwax Agent OS - The world's first universal agent operating system, building your private vertical general-purpose agent.  全球首个通用智能体操作系统，打造你私有的垂类通用智能体。新一代AI应用设计、开发、实践平台，无需代码，轻松创建，适合各类人群，支持多种端发布及API，提
@@ -436,7 +437,7 @@
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [11cafe/jaaz](https://github.com/11cafe/jaaz) - The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 - [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!! [拯救你的颈椎 - 数字健康工具：https://forcebreak.zenfeed.xyz]
 - [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up commands—vi
 - [luyu0279/Ainee](https://github.com/luyu0279/Ainee) - Ainee: AI Notetaking and Learning Companion – Speed Up Your Learning, Enhance Your Insight Sharing
@@ -738,6 +739,7 @@
 
 ## android 
 
+- [zhixianio/botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup.
 - [IReaderorg/IReader](https://github.com/IReaderorg/IReader) - Free and open source novel reader for Android and Desktop.
 - [wb-hwang/AIAnswerer-Android](https://github.com/wb-hwang/AIAnswerer-Android) - 智能答题助手 - Android平台AI答题应用，通过截图识别和AI分析为各类题目提供答案解析
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
@@ -948,6 +950,7 @@
 
 ## automation 
 
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [ThanhNguyxn/SheerID-Verification-Tool](https://github.com/ThanhNguyxn/SheerID-Verification-Tool) - A lightweight tool for integrating and testing SheerID verification workflows. It simplifies API requests, handles responses, and supports eligibility checks for programs like student.
 - [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - 🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
 - [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) - CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️
@@ -1285,7 +1288,7 @@
 - [tizee-tampermonkey-scripts/tampermonkey-chatgpt-model-usage-monitor](https://github.com/tizee-tampermonkey-scripts/tampermonkey-chatgpt-model-usage-monitor) - a model usage monitor for chatgpt
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor.
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) - Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
 - [ChatBot-All/chatbot-app](https://github.com/ChatBot-All/chatbot-app) - "ChatBot" AI application, supporting GPT,  Gemini Pro, Cohere & Ollama models
@@ -1688,7 +1691,7 @@
 - [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
 - [szkane/ClashRuleSet](https://github.com/szkane/ClashRuleSet) - Clash 分流规则，重点分流 AI服务、字节海外AI服务 、 WEB3 应用、教育类APP、开发者常用下载节点等分流服务
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
-- [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
+- [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - One Worker, All Subscriptions
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
@@ -1733,7 +1736,7 @@
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
 - [kbwo/ccmanager](https://github.com/kbwo/ccmanager) - Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode / Kimi CLI
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [shiquda/treex](https://github.com/shiquda/treex) - 🌳❌: Treex is a CLI for directory structure visualization in various formats with powerful filters.
 - [meysamhadeli/codai](https://github.com/meysamhadeli/codai) - AI coding agent for your terminal.
@@ -1980,7 +1983,7 @@
 
 ## data-analysis 
 
-- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天导出和年度报告应用
+- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。
 - [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话
@@ -2007,7 +2010,7 @@
 
 ## data-visualization 
 
-- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天导出和年度报告应用
+- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。
 - [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
@@ -2285,6 +2288,7 @@
 
 ## documentation 
 
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [timothepoznanski/poznote](https://github.com/timothepoznanski/poznote) - Poznote is a personal note-taking and documentation platform.
 - [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - A free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners.
@@ -2660,6 +2664,7 @@
 
 ## github 
 
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [johnwarne/upvote-rss](https://github.com/johnwarne/upvote-rss) - Generate rich RSS feeds from Reddit, Hacker News, Lemmy, Mbin, and more
 - [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - A free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
@@ -2889,8 +2894,8 @@
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [zhiyiYo/Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) - A cross-platform m3u8/mpd downloader based on PySide6 and QFluentWidgets.
 - [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES本地客户端 💕🎉
-- [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
-- [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
+- [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
+- [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [Cerlancism/chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT or any OpenAI compatible LLM chat completion API
 - [Websoft9/websoft9](https://github.com/Websoft9/websoft9) - Applications self-hosting and DevOps platform for running open source, web-based linux Panel of lite PaaS
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
@@ -4017,6 +4022,7 @@
 
 ## mcp 
 
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md) - 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -4819,8 +4825,9 @@
 
 ## others 
 
+- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
+- [233stone/vocotype-cli](https://github.com/233stone/vocotype-cli) - VocoType 是一款运行在本地端侧的隐私安全语音输入工具，通过快捷键即可将语音实时转换为文字并自动输入到当前应用。支持语音转文字MCP、AI 优化文本、自定义替换词典、录音视频转文字等功能，让语音输入更高效、更安全。
 - [qazzxxx/picgo-plugin-cloudimgs-uploader](https://github.com/qazzxxx/picgo-plugin-cloudimgs-uploader) - picgo插件，用于云图-cloudimgs图床上传
-- [zhixianio/botdrop-android](https://github.com/zhixianio/botdrop-android) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [jarodise/XQuery](https://github.com/jarodise/XQuery) - 
 - [nihaozyj7/MusePocket](https://github.com/nihaozyj7/MusePocket) - MusePocket 是一款专为创作者打造的本地写作软件。将你的每一个灵感、每一段文字安全地收纳在这个专属的创作空间里。无需联网，数据完全属于你，让创作更自由、更纯粹。
 - [guchang233/VOICE2TYPE](https://github.com/guchang233/VOICE2TYPE) - 一个极简高效的 Windows 语音输入助手，基于 Rust 开发。支持全局热键一键录音上屏、灵动岛式状态悬浮窗、自动标点与中英文混合识别。轻量、无感、隐私安全。  Minimalist, high-performance voice-to-text assistant for Windows built with Rust.
@@ -4837,7 +4844,7 @@
 - [moyangzhan/mango-desk](https://github.com/moyangzhan/mango-desk) - Search your files using nature language
 - [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Clawdbot"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [ErZicky/PocketMark-android-markdown-editor](https://github.com/ErZicky/PocketMark-android-markdown-editor) - 
 - [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - 
 - [ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts) - Transcripts from Lenny's Podcast
@@ -5113,7 +5120,6 @@
 - [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) - A simple note app with good performance and PDF import support
 - [slackworker/chain-subconverter](https://github.com/slackworker/chain-subconverter) - A sub-converter for OpenClash/Mihomo chain-proxy configuration.
 - [tianrking/AnyTLS-Go-Script](https://github.com/tianrking/AnyTLS-Go-Script) - AnyTLS-Go 一键安装脚本
-- [KuekHaoYang/KPrompt](https://github.com/KuekHaoYang/KPrompt) - A specialized workbench for developers to engineer high-performance AI interactions, featuring a System Prompt Architect and a Conversational Prompt Refiner.
 - [dongshuyan/PromptHelper](https://github.com/dongshuyan/PromptHelper) - Help you manage your prompt templates
 - [Vaibhavs10/mcp-with-openai-gpt-oss](https://github.com/Vaibhavs10/mcp-with-openai-gpt-oss) - 
 - [build-with-groq/groq-code-cli](https://github.com/build-with-groq/groq-code-cli) - A highly customizable, lightweight, and open-source coding CLI powered by Groq for instant iteration.
@@ -5122,7 +5128,7 @@
 - [Buywatermelon/claude-relay-monorepo](https://github.com/Buywatermelon/claude-relay-monorepo) - 一个现代化的 Claude API 代理服务，基于 Cloudflare Workers 构建
 - [philrox/n8n-workflows](https://github.com/philrox/n8n-workflows) - 
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
-- [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - 
+- [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - https://getsurfboard.com
 - [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) - 开源节点订阅转换生成管理系统
 - [imzyb/MiSub](https://github.com/imzyb/MiSub) - 测试站，密码admin123
 - [cmliu/SubsCheck-Win-GUI](https://github.com/cmliu/SubsCheck-Win-GUI) - SubsCheck 为 Windows 用户设计的 GUI 程序界面。
@@ -5251,7 +5257,6 @@
 - [murtaza-nasir/pdf3md](https://github.com/murtaza-nasir/pdf3md) - A modern, user-friendly web application that converts PDF documents to clean, formatted Markdown text.
 - [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks an
 - [IamIsPra/tinywebp](https://github.com/IamIsPra/tinywebp) - TinyWebP is a fast and privacy-friendly web app for converting images to WebP format. It runs entirely in the browser, ensuring secure and efficient conversions.
 - [projects-shelf/RSS_Generator](https://github.com/projects-shelf/RSS_Generator) - 
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
@@ -6737,6 +6742,7 @@
 
 ## python 
 
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [PleasePrompto/google-ai-mode-skill](https://github.com/PleasePrompto/google-ai-mode-skill) - Claude Code skill for free Google AI Mode search with citations. Zero-config setup, persistent browser profile, query optimization. Token-efficient web research.
 - [guillevc/yubal](https://github.com/guillevc/yubal) - Self-hosted YouTube Music downloader with automatic metadata tagging and playlist sync
 - [Xuuuuu04/bilibili-analysis-helper](https://github.com/Xuuuuu04/bilibili-analysis-helper) - B站视频分析助手：提取字幕/评论/关键帧并生成深度分析报告。
@@ -7235,6 +7241,7 @@
 
 ## rust 
 
+- [zRq1351/fuyun_tools](https://github.com/zRq1351/fuyun_tools) - fuyun_tools是一款集剪切板管理和AI划词功能于一体的桌面效率工具，运行在系统托盘中。通过智能化的历史记录管理和AI辅助功能，大幅提升日常工作效率。
 - [blueberrycongee/Lumina-Note](https://github.com/blueberrycongee/Lumina-Note) - Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant
 - [peterfei/ifai](https://github.com/peterfei/ifai) - 若爱 (IfAI) - 基于 Tauri 2.0 构建的跨平台 AI 代码编辑器 | A Cross-Platform AI Code Editor Built with Tauri 2.0
 - [ox01024/cmirror](https://github.com/ox01024/cmirror) - 🇨🇳 Cmirror: 专为中国大陆开发者打造的一键换源工具 (A unified CLI for managing mirrors: Pip, NPM, Docker, Cargo, Apt, Go, Brew).
@@ -8004,8 +8011,8 @@
 - [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
-- [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
-- [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
+- [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
+- [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
 - [nicejade/markdown2png](https://github.com/nicejade/markdown2png) - 玉桃文飨轩🍑 ，专业的文本转图片工具。一键将 Markdown 转换为精美图片，支持书摘模式、自定义主题、字体和背景。所有数据本地处理保障隐私安全，完美适配多端展示。让文章分享、读书笔记、社交传播更有格调。 基于 Vue3、Vite、Pinia、TailwindCSS、TypeScript 等技术栈构建。
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
@@ -8337,6 +8344,7 @@
 
 ## web-development 
 
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The browser for web developers 🧑‍💻  Build your app right inside the browser while fully owning the codebase, take inspiration from the web and debug with AI
 - [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript 📗💻📖
 
 ## web3 
