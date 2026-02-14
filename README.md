@@ -844,6 +844,7 @@
 - [nikunjsingh93/thinkread-ebook-reader](https://github.com/nikunjsingh93/thinkread-ebook-reader) - Simple ebook reader made in react with sync across devices and TTS
 - [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft) - PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ professional tools, you can edit, convert, merge, split, and secure your PDF files without ever uploading t
 - [aifuqiang02/ai-ssh-assistant](https://github.com/aifuqiang02/ai-ssh-assistant) - AI SSH Assistant 是一个基于人工智能的 SSH 远程服务器管理助手，支持自然语言交互和智能命令生成。
+- [anbeime/ai-trend-publish](https://github.com/anbeime/ai-trend-publish) - AI智能文章发布工具
 - [qazzxxx/cloudimgs](https://github.com/qazzxxx/cloudimgs) - 云图 - 极简风格的云图库，支持NAS部署，支持设置密钥，支持各种灵活的API开放接口，NAS图床，PicGo插件直接安装使用
 - [gansgoods/xianyu-chat-exporter](https://github.com/gansgoods/xianyu-chat-exporter) - 一键导出闲鱼聊天记录，支持勾选消息、导出 HTML 和 Markdown 格式
 - [TransparentLC/dufs-material-assets](https://github.com/TransparentLC/dufs-material-assets) - dufs 的 Material Design 风格自定义前端界面，添加了一些额外的功能。(Alternative frontend assets for dufs in material design with additional features.) ↓链接是演示站↓
@@ -1140,7 +1141,6 @@
 - [LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) - 永久免费开源的 AIGC 课程, 目前已支持Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型
 - [AlexSciFier/neonlink](https://github.com/AlexSciFier/neonlink) - Simple self-hosted bookmark service.
 - [adamlui/chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (on any topic!)
-- [RavelloH/RTheme](https://github.com/RavelloH/RTheme) - 新一代现代化极客风多功能横版博客系统 - 基于Nextjs  // Next-gen modern geeky versatile horizontal blog system - Powered by Nextjs. //
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [obgnail/typora_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
 - [varunshenoy/opendream](https://github.com/varunshenoy/opendream) - An extensible, easy-to-use, and portable diffusion web UI 👨‍🎨
@@ -2861,7 +2861,6 @@
 - [RanFeng/clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) - 将视频瞬间转化为手绘故事 Turn Video Moments into Hand-Drawn Stories
 - [hooosberg/WitNote](https://github.com/hooosberg/WitNote) - WitNote is a local-first AI writing companion for macOS and Windows.
 - [josiahsrc/voquill](https://github.com/josiahsrc/voquill) - The open source wisprflow alternative
-- [anbeime/ai-trend-publish](https://github.com/anbeime/ai-trend-publish) - AI智能文章发布工具
 - [Ryanic-Chang/CAT_CAT](https://github.com/Ryanic-Chang/CAT_CAT) - 一个可爱、实用、会“主动互动”的猫猫悬浮助手，帮你快速收藏书签、智能总结页面，并提醒你适时休息。让浏览更高效更有趣！
 - [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
 - [XimilalaXiang/markdown-poster](https://github.com/XimilalaXiang/markdown-poster) - 将 Markdown 一键渲染为适合社交分享的海报图片（支持主题/模板，可在线编辑与导出）| One-click render Markdown into a poster image perfect for social sharing (supports themes/templates, editable and exportable online)
@@ -3224,7 +3223,7 @@
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [Guizimo/cova](https://github.com/Guizimo/cova) - 简单易用的封面图片生成工具，为你的文章、视频、社交媒体创作提供专业的封面设计。
 - [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
-- [beilunyang/moemail](https://github.com/beilunyang/moemail) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉
+- [beilunyang/moemail](https://github.com/beilunyang/moemail) - A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 | 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 - [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [osanseviero/InstantCoder](https://github.com/osanseviero/InstantCoder) - Create apps with Gemini
 - [addyosmani/squish](https://github.com/addyosmani/squish) - Squish - Batch Browser-based Image Compression
@@ -3509,6 +3508,7 @@
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru) - 🔮 Screen Guru takes clean screenshot of any websites
 - [Nutlope/qrGPT](https://github.com/Nutlope/qrGPT) - An AI QR Code Generator
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
+- [RavelloH/NeutralPress](https://github.com/RavelloH/NeutralPress) - 新一代现代化极客风多功能横版博客系统 - 基于Nextjs  // Next-gen modern geeky versatile horizontal blog system - Powered by Nextjs. //
 - [premieroctet/photoshot](https://github.com/premieroctet/photoshot) - An open-source AI avatar generator web app - https://photoshot.app
 - [codeacme17/examor](https://github.com/codeacme17/examor) - For students, scholars, interviewees and lifelong learners. Let LLMs assist you in learning 🎓
 - [zhbhun/idify](https://github.com/zhbhun/idify) - Make ID photo right in the browser.
