@@ -334,7 +334,6 @@
 ## Dart 
 
 - [Shangjin-Xiao/ThoughtEcho](https://github.com/Shangjin-Xiao/ThoughtEcho) - 📝 你的专属灵感摘录本 / Your Personal Inspiration Notebook with AI Power ✨
-- [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [MimicHunterZ/PocketMind](https://github.com/MimicHunterZ/PocketMind) - 触手可及的第二大脑。无感收藏链接，你的中央收藏夹，让 AI 帮你整理数字生活。
 - [v8ray/v8ray](https://github.com/v8ray/v8ray) - V8Ray是一个基于Xray Core的现代化跨平台代理客户端，提供安全、高效、易用的网络代理服务。支持iOS、Android、鸿蒙、Windows、macOS、Linux等主流平台。https://discord.gg/UF2eHxBz8B
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
@@ -1381,7 +1380,7 @@
 - [hxh19950701/WebViewTvLive](https://github.com/hxh19950701/WebViewTvLive) - 使用 腾讯X5 WebView 开发的电视直播App
 - [dekusms/DekuSMS-Android](https://github.com/dekusms/DekuSMS-Android) - Android SMS app ~ Featuring E2EE, Cloud Forwarding, RMQ integrations
 - [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
-- [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora) - Offline-first link organizer for Android and desktop with self-hosted sync.
+- [LinkoraApp/Linkora](https://github.com/LinkoraApp/Linkora) - Local-first link organizer for Android and desktop with self-hosted sync.
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
@@ -1894,7 +1893,7 @@
 - [JacobDev1/xl-converter](https://github.com/JacobDev1/xl-converter) - Easy-to-use image converter for modern formats. Supports fast parallel encoding, lossless JPEG transcoding, JPEG XL, AVIF, JPEGLI, ExifTool, and more.
 - [xunbu/docutranslate](https://github.com/xunbu/docutranslate) - 文档（小说、论文、字幕）翻译工具（支持 pdf/word/excel/json/epub/srt...）Document (Novel, Thesis, Subtitle) Translation Tool (Supports pdf/word/excel/json/epub/srt...)
 - [wwwzhouhui/jimeng-mcp-server](https://github.com/wwwzhouhui/jimeng-mcp-server) - 一个为即梦AI打造的MCP服务器，让Claude、Cherry Studio等AI应用直接调用即梦的AI生成能力。基于jimeng-free-api-all开源项目，提供OpenAI兼容接口。    核心功能：文本生成图像（即梦4.0/3.1）、图像合成（多图融合）、文本生成视频（480p-1080p）、图像生成视频（静态转动态）。    支持三种模式：stdio（Claude Desktop）、
-- [lumingya/universal-web-api](https://github.com/lumingya/universal-web-api) - 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An AI-powered, self-healing web automation bridge. Converts any website (ChatGPT, DeepSeek, etc.) into a standard API using DrissionPag
+- [lumingya/universal-web-api](https://github.com/lumingya/universal-web-api) - 🤖通用性反代程序，通过模拟人类操作支持将任意网站转化为标准的OpenAi格式的api。
 - [Lewis456/video_summary](https://github.com/Lewis456/video_summary) - 构建一套智能视频总结系统，实现视频上传后自动完成视频转音频、音频转写文本，并基于大模型输出结构化学习笔记，提升视频内容的获取与整理效率。
 - [ipvoov/Craft-Agent](https://github.com/ipvoov/Craft-Agent) - Craft-Agent是一个集「深度研究助手」与「一键建站引擎」于一体的智能体  - 深度研究- 网站生成。现代前后端架构：FastAPI + LangGraph/LangChain 后端，Next.js + TypeScript + shadcn/ui 前端
 - [xingfeng7788/docker-hub-proxy](https://github.com/xingfeng7788/docker-hub-proxy) - 一个轻量级、智能的 Docker 镜像加速与代理管理工具
@@ -2173,7 +2172,6 @@
 - [ddean2009/MoneyPrinterPlus](https://github.com/ddean2009/MoneyPrinterPlus) - AI一键批量生成各类短视频,自动批量混剪短视频,自动把视频发布到抖音,快手,小红书,视频号上,赚钱从来没有这么容易过! 支持本地语音模型chatTTS,fasterwhisper,GPTSoVITS,支持云语音：Azure,阿里云,腾讯云。支持Stable diffusion,comfyUI直接AI生图。Generate short videos with one click using AI L
 - [win4r/o1](https://github.com/win4r/o1) - Using Groq or OpenAI or Ollama to create o1-like reasoning chains
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
-- [LIghtJUNction/WechatPublicAPI](https://github.com/LIghtJUNction/WechatPublicAPI) - fuckUhacker
 - [lihuithe/podlm-public](https://github.com/lihuithe/podlm-public) - 
 - [CaraJ7/MMSearch](https://github.com/CaraJ7/MMSearch) - [ICLR 2025] The First Multimodal Seach Engine Pipeline and Benchmark for LMMs
 - [Education-Victory/whisper-webui](https://github.com/Education-Victory/whisper-webui) - WebUI for Whisper API
@@ -2690,7 +2688,7 @@
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 - [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) - n8n skillset for Claude Code to build flawless n8n workflows
 - [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2) - Docker container for JDownloader 2
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents like Clawdbot, Claude Code. Bootstrap 1000+ command line tools in seconds.
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - The Complete Claude Code CLI Guide - Live & Auto-Updated Every 2 Days
 - [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by perf
 - [cfrs2005/claude-init](https://github.com/cfrs2005/claude-init) - Claude Code 中文开发套件 - 为中国开发者定制的零门槛 AI 编程环境。一键安装完整中文化体验，集成 MCP 服务器、智能上下文管理、安全扫描，支持免翻墙访问。让 AI 编程更简单。
@@ -2831,6 +2829,7 @@
 
 ## TypeScript 
 
+- [zstar1003/mediastory](https://github.com/zstar1003/mediastory) - 极速分镜：一款专为影视创作者设计的 AIGC 分镜脚本工具，支持快速创建、编辑和管理分镜脚本。
 - [xiaolai/vmark](https://github.com/xiaolai/vmark) - An AI friendly markdown editor.
 - [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md) - 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
@@ -2849,6 +2848,7 @@
 - [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powerful extension.
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
+- [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [agam-space/agam-space](https://github.com/agam-space/agam-space) - Self-hosted, zero-knowledge, end-to-end encrypted file storage
 - [regenrek/codex-1up](https://github.com/regenrek/codex-1up) - 🍄 Give your Codex CLI an extra life
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
@@ -3129,7 +3129,7 @@
 - [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App
 - [Hyk260/PureChat](https://github.com/Hyk260/PureChat) - PureChat 是一款全面的聊天应用程序，它将传统的即时消息与高级 AI 功能集成在一起。其模块化架构、可扩展的 AI 集成系统和灵活的配置选项使其成为强大的应用程序，也是 AI 增强通信应用程序的坚实基础。支持OpenAI，Ollama，DeepSeek等大语言模型，Markdown 渲染，聊天记录生成截图，主题切换，助力开发者快速掌握现代技术。
 - [patruff/ollama-mcp-bridge](https://github.com/patruff/ollama-mcp-bridge) - Bridge between Ollama and MCP servers, enabling local LLMs to use Model Context Protocol tools
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡️ Blazing-fast batch subtitle translation for SRT/ASS/VTT/LRC — 70+ languages, AI-powered 批量字幕翻译
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
