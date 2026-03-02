@@ -279,7 +279,7 @@
 ## agent 
 
 - [hrygo/divinesense](https://github.com/hrygo/divinesense) - AI 驱动的个人第二大脑 — 通过智能代理自动化任务、过滤高价值信息、以技术杠杆提升生产力
-- [ysyx2008/SFTerminal](https://github.com/ysyx2008/SFTerminal) - Your Personal AI Agent - 可对接飞书、钉钉
+- [ysyx2008/SailFish](https://github.com/ysyx2008/SailFish) - Your Personal AI Agent - 可对接飞书、钉钉
 - [datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe) - AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn   ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创
 - [nuwax-ai/nuwax](https://github.com/nuwax-ai/nuwax) - Nuwax Agent OS - The world's first universal agent operating system, building your private vertical general-purpose agent.  全球首个通用智能体操作系统，打造你私有的垂类通用智能体。新一代AI应用设计、开发、实践平台，无需代码，轻松创建，适合各类人群，支持多种端发布及API，提
 - [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
@@ -327,7 +327,7 @@
 - [lenML/Speech-AI-Forge](https://github.com/lenML/Speech-AI-Forge) - 🍦 Speech-AI-Forge is a project developed around TTS generation model, implementing an API Server and a Gradio-based WebUI.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 - [MLT-OSS/open-assistant-api](https://github.com/MLT-OSS/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
@@ -356,7 +356,7 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [wb-hwang/AIAnswerer-Android](https://github.com/wb-hwang/AIAnswerer-Android) - 智能答题助手 - Android平台AI答题应用，通过截图识别和AI分析为各类题目提供答案解析
-- [ysyx2008/SFTerminal](https://github.com/ysyx2008/SFTerminal) - Your Personal AI Agent - 可对接飞书、钉钉
+- [ysyx2008/SailFish](https://github.com/ysyx2008/SailFish) - Your Personal AI Agent - 可对接飞书、钉钉
 - [t8y2/PolarisDesk](https://github.com/t8y2/PolarisDesk) - AI 驱动的桌面助手，支持多模型服务商。如北极星般为你的工作指引方向 - 文档处理、代码编写、智能问答。AI-driven desktop assistant with multi-model support. Like Polaris guiding your work - document processing, code writing, and intelligent Q&A.
 - [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。
 - [fengzhongsen/short-url](https://github.com/fengzhongsen/short-url) - 简单易用的短链接生成工具，完全开源、免费、无需登录，可私有化部署，链接永久有效！
@@ -559,7 +559,7 @@
 - [sear-chat/SearChat](https://github.com/sear-chat/SearChat) - Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 - [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -976,7 +976,7 @@
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [certd/certd](https://github.com/certd/certd) - 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -2184,7 +2184,6 @@
 - [kspeeder/docker_kspeeder](https://github.com/kspeeder/docker_kspeeder) - Docker镜像加速专家 多镜像并发下载，动态负载均衡，断点续传支持，Docker镜像代理服务
 - [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，不占用存储空间。
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -3531,7 +3530,7 @@
 - [Mgrsc/Re-Mark](https://github.com/Mgrsc/Re-Mark) - 一个基于原生浏览器书签的知识库：用 GitHub Gist 跨浏览器同步书签，并用 AI 为书签生成摘要、标签和封面，提供一个简洁的 Web 端浏览体验。
 - [aircrushin/promptMinder](https://github.com/aircrushin/promptMinder) - 一个开源的，专注于提示词管理的平台 / An open-source platform focused on prompt management
 - [legeling/PromptHub](https://github.com/legeling/PromptHub) - 一款开源、纯本地 Prompt ，Skill 管理工具，帮助你高效管理、版本控制和复用 Prompt，并一键分发skill | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
-- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native PPT generator based on nano banana pro🍌
+- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 - [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) - Local-first, open-source AI assistant for your data. Unify tasks, notes, docs, photos, and bookmarks. Private, self-hosted, and extensible via APIs.
 - [halo-dev/upage](https://github.com/halo-dev/upage) - 🔥 一款基于大模型的可视化网页构建平台，Lovable 开源替代。
 - [muratcankoylan/readwren](https://github.com/muratcankoylan/readwren) - An adaptive multi-agent system that extracts your literary DNA through conversation and generates actionable reading profiles.
@@ -4116,7 +4115,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
 - [sear-chat/SearChat](https://github.com/sear-chat/SearChat) - Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -4317,7 +4316,6 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [aifuxi/fuxiaochen](https://github.com/aifuxi/fuxiaochen) - 🌈 一个简单的个人博客，使用 Next.js 构建
 - [harrisonwang/url-shortener](https://github.com/harrisonwang/url-shortener) - URL Shortener is a free tool designed to help users easily shorten long URLs. Our goal is to make URL shortening simple, fast, and efficient. Whether you're a marketer, developer, or anyone who needs 
-- [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 Cloudflare email
 - [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
 - [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
 - [Dhravya/notty](https://github.com/Dhravya/notty) - An open source, minimal AI powered note taking app and powerful markdown editor
@@ -4838,7 +4836,6 @@
 - [xiaolai/vmark](https://github.com/xiaolai/vmark) - An AI friendly markdown editor.
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
-- [KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh) - 从零到企业实战：Claude Code 官方编程神器 + OpenClaw 224K Stars 开源AI助手 | 双顶流中文教程 | 21篇教程 130000+字
 - [lijigang/ljg-skill-explain-words](https://github.com/lijigang/ljg-skill-explain-words) - 单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片
 - [Raymond-Hear/deep-research-prompt](https://github.com/Raymond-Hear/deep-research-prompt) - 专门帮助你将简单的 deepresearch 需求转化为结构化、专业的提示词，适用于各种 AI 深度研究工具的Skill
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -4851,7 +4848,7 @@
 - [liwenka1/zhiyuan](https://github.com/liwenka1/zhiyuan) - 纸鸢 - 优雅的 Markdown 桌面编辑器
 - [Shangjin-Xiao/ThoughtEcho](https://github.com/Shangjin-Xiao/ThoughtEcho) - 📝 你的专属灵感摘录本 / Your Personal Inspiration Notebook with AI Power ✨
 - [Ryanisgood/SecondDesk](https://github.com/Ryanisgood/SecondDesk) - Second Desk 是一款现代化的 Windows 桌面文件管理工具，采用 Rust + Tauri 2.x + Vue 3 技术栈构建。它以抽屉式设计理念，通过屏幕边缘触发或全局快捷键快速呼出，让桌面文件访问变得触手可及
-- [zouwei/moraya](https://github.com/zouwei/moraya) - An extremely elegant open-source AI Markdown editor.
+- [zouwei/moraya](https://github.com/zouwei/moraya) - An extremely elegant open-source Markdown AI Agent.
 - [sliverp/qqbot](https://github.com/sliverp/qqbot) - qqbot
 - [AlexAnys/feishu-openclaw](https://github.com/AlexAnys/feishu-openclaw) - Connect 飞书Feishu/Lark bot to openclaw (formerly Clawdbot) — no public server, no domain, no ngrok needed. 稳定免安装、共需5 分钟，2.2更新支持照片文件视频等
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
@@ -5587,6 +5584,7 @@
 - [lihuithe/podlm-public](https://github.com/lihuithe/podlm-public) - 
 - [lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio) - 
 - [eondrcode/obsidian-i18n](https://github.com/eondrcode/obsidian-i18n) - 
+- [akazwz/smail](https://github.com/akazwz/smail) - Temporary email  临时邮箱 smail
 - [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
 - [Anyexyz/theme-hellopage](https://github.com/Anyexyz/theme-hellopage) - HelloPage 是一款简洁的导航页主题，适用于 Halo 系统，可用于快捷搭建一个导航站。
 - [someone1128/streamerCardAutomate](https://github.com/someone1128/streamerCardAutomate) - 基于流光卡片API的完全自动化生成金句名人名言卡片解决方案，解决自媒体矩阵内容问题，完全自动生成3:4名人名言卡片，样式随机，自动生成标题/描述
@@ -6818,7 +6816,7 @@
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [arry-lee/wereader](https://github.com/arry-lee/wereader) - 一个功能全面的微信读书笔记助手 wereader
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [AZ-Studio-2023/AZMusicDownloader](https://github.com/AZ-Studio-2023/AZMusicDownloader) - AZ音乐下载器 - 优雅地下载音乐 - 多API集成客户端 | Download music gracefully
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -7846,7 +7844,7 @@
 
 ## terminal 
 
-- [ysyx2008/SFTerminal](https://github.com/ysyx2008/SFTerminal) - Your Personal AI Agent - 可对接飞书、钉钉
+- [ysyx2008/SailFish](https://github.com/ysyx2008/SailFish) - Your Personal AI Agent - 可对接飞书、钉钉
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-Quality Text-to-Speech — Supports EPUB, PDF, DOCX, HTML, RTF, TXT, and MD.
 - [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
