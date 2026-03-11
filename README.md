@@ -184,7 +184,7 @@
 - [2dust/clashN](https://github.com/2dust/clashN) - A clash client for Windows, support Mihomo
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [TransposonY/GestureSign](https://github.com/TransposonY/GestureSign) - A gesture recognition software for Windows tablet
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [eibols/ffmpeg_batch](https://github.com/eibols/ffmpeg_batch) - FFmpeg Batch AV Converter
@@ -766,7 +766,7 @@
 
 - [zhixianio/botdrop-android](https://github.com/zhixianio/botdrop-android) - Run AI agents on your Android phone — no terminal, no CLI, just a guided setup.
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
-- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parsing for RAG — Convert to Markdown & JSON, Fast, Local, No GPU
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [lemon8866/StreamVault](https://github.com/lemon8866/StreamVault) - 🎥 视频下载工具，支持多平台，Webhook 通知 + Docker 开箱即用 🚀
@@ -936,6 +936,7 @@
 - [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 - [ethereal-squirrel/devourer-reader-server](https://github.com/ethereal-squirrel/devourer-reader-server) - A management server for manga, books and comics.
 - [xiaolinbaba/paper](https://github.com/xiaolinbaba/paper) - Paper - 纯前端 | 单 html 文件执行 | 轻量级 Markdown 微信公众号编辑器。定制属于每个人自己的微信公众号样式！
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [24eme/signaturepdf](https://github.com/24eme/signaturepdf) - Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf
 - [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr) - A simple, self-hosted service to keep track of your personal library 📚
@@ -2832,7 +2833,7 @@
 ## TypeScript 
 
 - [adnaan-worker/Adnify](https://github.com/adnaan-worker/Adnify) - Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。
-- [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. We’ve moved from clawx.dev 
+- [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://cl
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [newtype-01/newtype-profile](https://github.com/newtype-01/newtype-profile) - AI Agent Collaboration System for Content Creation
 - [freestylefly/canghe-skills](https://github.com/freestylefly/canghe-skills) - 苍何的技能skills仓库，搜集好用的 skills，辅助提效
@@ -3067,7 +3068,6 @@
 - [tingxifa/claude_proxy](https://github.com/tingxifa/claude_proxy) - 这是一个部署在 Cloudflare Workers 上的 TypeScript 项目，它充当一个代理服务器，能够将 Claude API 格式的请求无缝转换为 OpenAI API 格式。这使得任何与 Claude API 兼容的客户端（例如官方的 @anthropic-ai/claude-code CLI）都能够与任何支持 OpenAI API 格式的服务进行通信，如 Google Gemin
 - [cojocaru-david/snippetslibrary.com](https://github.com/cojocaru-david/snippetslibrary.com) - SnippetsLibrary - A secure, lightning-fast code snippet manager to store, organize, and share your code with beautiful syntax highlighting.
 - [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [SimonAKing/Gwitter](https://github.com/SimonAKing/Gwitter) - Turn GitHub Issues into your personal microblog platform
 - [yaolifeng0629/Pip-Helper](https://github.com/yaolifeng0629/Pip-Helper) - Pip-Helper（A simple and easy-to-use browser extension that helps you watch videos in picture-in-picture mode on any webpage.）
