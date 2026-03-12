@@ -281,6 +281,7 @@
 
 ## agent 
 
+- [LeoYeAI/openclaw-backup](https://github.com/LeoYeAI/openclaw-backup) - One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai
 - [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://cl
 - [hrygo/divinesense](https://github.com/hrygo/divinesense) - AI 驱动的个人第二大脑 — 通过智能代理自动化任务、过滤高价值信息、以技术杠杆提升生产力
 - [josiahsrc/voquill](https://github.com/josiahsrc/voquill) - The open source wisprflow alternative
@@ -365,7 +366,7 @@
 - [ysyx2008/SailFish](https://github.com/ysyx2008/SailFish) - Your Personal AI Agent - 可对接飞书、钉钉
 - [CaoMeiYouRen/momei](https://github.com/CaoMeiYouRen/momei) - 墨梅博客是一个AI 驱动、原生国际化的开发者博客平台。MomeiBlog is an AI driven, native international developer blog platform.
 - [t8y2/PolarisDesk](https://github.com/t8y2/PolarisDesk) - AI 驱动的桌面助手，支持多模型服务商。如北极星般为你的工作指引方向 - 文档处理、代码编写、智能问答。AI-driven desktop assistant with multi-model support. Like Polaris guiding your work - document processing, code writing, and intelligent Q&A.
-- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。
+- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with private, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 - [fengzhongsen/short-url](https://github.com/fengzhongsen/short-url) - 简单易用的短链接生成工具，完全开源、免费、无需登录，可私有化部署，链接永久有效！
 - [minmaxflow/mini-kode](https://github.com/minmaxflow/mini-kode) - An educational AI coding agent CLI
 - [liujuntao123/smart-draw](https://github.com/liujuntao123/smart-draw) - Draw any professional and beautiful diagram you can imagine in the simplest way
@@ -408,7 +409,6 @@
 - [RayBytes/ChatMock](https://github.com/RayBytes/ChatMock) - Access OpenAI models programmatically through your ChatGPT subscription.
 - [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use) - AI agents can now use real Android and iOS apps, just like a human.
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
-- [Siddhesh2377/structured-prompt-builder](https://github.com/Siddhesh2377/structured-prompt-builder) - A lightweight, browser‑first tool for designing well‑structured AI prompts with a clean UI, live previews, a local Prompt Library, and optional Gemini‑powered prompt optimization.
 - [SSShooter/ebook-to-mindmap](https://github.com/SSShooter/ebook-to-mindmap) - AI-powered Summaries by Extracting Content from EPUB and PDF. epub、pdf 拆书 AI 总结
 - [DrizzleTime/Foxel](https://github.com/DrizzleTime/Foxel) - A highly extensible private cloud storage solution for individuals and teams, featuring AI-powered semantic search.
 - [aigem/aice_ps](https://github.com/aigem/aice_ps) - Nano Banana editor(webui) for aistudio or gemini api key.  最强Ai修图APP，方便实用！如登录了google aistudio，可直接在DEMO APP中使用。支持静态部署，兼容Gemini API
@@ -1999,7 +1999,7 @@
 ## data-analysis 
 
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
-- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。
+- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with private, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 - [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话
 - [ChawlaAvi/Daily-Dose-of-Data-Science](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science) - A collection of code snippets from the publication Daily Dose of Data Science on Substack: http://www.dailydoseofds.com/
@@ -2026,7 +2026,7 @@
 ## data-visualization 
 
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
-- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。
+- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with private, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 - [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - [ChawlaAvi/Daily-Dose-of-Data-Science](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science) - A collection of code snippets from the publication Daily Dose of Data Science on Substack: http://www.dailydoseofds.com/
@@ -2207,7 +2207,7 @@
 - [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source dashboard designed to manage your server/homelab applications and services.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS融合怪服务器测评项目 GO版本 VPS Fusion Monster Server Test GO Version 尽量成为最全能的服务器测评项目，使用 Go 实现，无需任何环境依赖。 Aiming to be the most comprehensive server testing project, implemented in Go with zero environment depe
+- [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS Fusion Monster Server Test GO Version Aiming to be the most comprehensive server testing project, implemented in Go with zero environment dependencies.      VPS融合怪服务器测评项目 GO版本 尽量成为最全能的服务器测评项目，使用 G
 - [rcy1314/echo-noise](https://github.com/rcy1314/echo-noise) - 轻博客风格可自由切换多栏布局，面向个人的高度自定义场景的说说笔记系统
 - [harrisonwang/docxy](https://github.com/harrisonwang/docxy) - Docker Hub proxy service
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
@@ -2359,7 +2359,7 @@
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [hooosberg/WitNote](https://github.com/hooosberg/WitNote) - WitNote is a local-first AI writing companion for macOS and Windows.
 - [t8y2/PolarisDesk](https://github.com/t8y2/PolarisDesk) - AI 驱动的桌面助手，支持多模型服务商。如北极星般为你的工作指引方向 - 文档处理、代码编写、智能问答。AI-driven desktop assistant with multi-model support. Like Polaris guiding your work - document processing, code writing, and intelligent Q&A.
-- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。
+- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with private, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 - [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - A local-first AI knowledge base & NotebookLM alternative built with Electron. More convenient, more lightweight, and understands you better!
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
 - [legeling/PromptHub](https://github.com/legeling/PromptHub) - 一款开源、纯本地 Prompt ，Skill 管理工具，帮助你高效管理、版本控制和复用 Prompt，并一键分发skill | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
@@ -2834,7 +2834,7 @@
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [shiquda/treex](https://github.com/shiquda/treex) - 🌳❌: Treex is a CLI for directory structure visualization in various formats with powerful filters.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS融合怪服务器测评项目 GO版本 VPS Fusion Monster Server Test GO Version 尽量成为最全能的服务器测评项目，使用 Go 实现，无需任何环境依赖。 Aiming to be the most comprehensive server testing project, implemented in Go with zero environment depe
+- [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS Fusion Monster Server Test GO Version Aiming to be the most comprehensive server testing project, implemented in Go with zero environment dependencies.      VPS融合怪服务器测评项目 GO版本 尽量成为最全能的服务器测评项目，使用 G
 - [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 - [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, and structured information from PDFs, Office documents, images, and 76+ formats. Available for Rust, Python, Ruby, 
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
@@ -3480,7 +3480,7 @@
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
-- [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS融合怪服务器测评项目 GO版本 VPS Fusion Monster Server Test GO Version 尽量成为最全能的服务器测评项目，使用 Go 实现，无需任何环境依赖。 Aiming to be the most comprehensive server testing project, implemented in Go with zero environment depe
+- [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS Fusion Monster Server Test GO Version Aiming to be the most comprehensive server testing project, implemented in Go with zero environment dependencies.      VPS融合怪服务器测评项目 GO版本 尽量成为最全能的服务器测评项目，使用 G
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -3609,7 +3609,7 @@
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
@@ -3850,7 +3850,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
-- [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS融合怪服务器测评项目 GO版本 VPS Fusion Monster Server Test GO Version 尽量成为最全能的服务器测评项目，使用 Go 实现，无需任何环境依赖。 Aiming to be the most comprehensive server testing project, implemented in Go with zero environment depe
+- [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS Fusion Monster Server Test GO Version Aiming to be the most comprehensive server testing project, implemented in Go with zero environment dependencies.      VPS融合怪服务器测评项目 GO版本 尽量成为最全能的服务器测评项目，使用 G
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [raj457036/CopyCat-Clipboard](https://github.com/raj457036/CopyCat-Clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
@@ -4402,7 +4402,7 @@
 ## nlp 
 
 - [Xuuuuu04/bilibili-analysis-helper](https://github.com/Xuuuuu04/bilibili-analysis-helper) - B站视频分析助手：提取字幕/评论/关键帧并生成深度分析报告。
-- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。
+- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with private, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 - [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt) - An Open-Source Framework for Prompt-Learning.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [oldjs/web-code-agent](https://github.com/oldjs/web-code-agent) - Browser-local AI code Q&A engine. Chat with your codebase, ensure privacy, and optimize LLM collaboration.
@@ -4883,6 +4883,7 @@
 - [xiaolai/vmark](https://github.com/xiaolai/vmark) - An AI friendly markdown editor.
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+- [KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh) - 从零到企业实战：Claude Code 官方编程神器 + OpenClaw 224K Stars 开源AI助手 | 双顶流中文教程 | 21篇教程 130000+字
 - [lijigang/ljg-skill-explain-words](https://github.com/lijigang/ljg-skill-explain-words) - 单词灵魂解剖师 — Claude Code Skill，深度解构英文单词，生成博物馆级 HTML 卡片
 - [Raymond-Hear/deep-research-prompt](https://github.com/Raymond-Hear/deep-research-prompt) - 专门帮助你将简单的 deepresearch 需求转化为结构化、专业的提示词，适用于各种 AI 深度研究工具的Skill
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -5936,7 +5937,7 @@
 - [DoiiarX/NLCISBNPlugin](https://github.com/DoiiarX/NLCISBNPlugin) - 基于中国国家图书馆ISBN检索的calibre的source/metadata插件。https://doiiars.com/article/NLCISBNPlugin
 - [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv表格文件，保存文章内图片、视频、音频文件
 - [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) - 《AI 研发提效：构建 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
-- [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的Web思维导图。A powerful web mind map.
+- [wanglin2/mind-map](https://github.com/wanglin2/mind-map) - SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map.
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [dvai/Ankia-Theme](https://github.com/dvai/Ankia-Theme) - A card-style Trilium blog theme (based on Trilium sharing feature)
 - [kska32/ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
@@ -6733,7 +6734,6 @@
 - [jonathanbertholet/promptmanager](https://github.com/jonathanbertholet/promptmanager) - Open Source Prompt Manager for ChatGPT, Supports 19 LLMs & some cool features!
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.
 - [ZeroLu/awesome-gemini-ai](https://github.com/ZeroLu/awesome-gemini-ai) - The ultimate collection of Awesome Gemini Prompts, use cases, and examples. Curated from X (Twitter), Reddit, and top prompt engineers. Includes prompts for coding, agents, design, and productivity us
-- [Siddhesh2377/structured-prompt-builder](https://github.com/Siddhesh2377/structured-prompt-builder) - A lightweight, browser‑first tool for designing well‑structured AI prompts with a clean UI, live previews, a local Prompt Library, and optional Gemini‑powered prompt optimization.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
@@ -7830,7 +7830,7 @@
 - [chigwell/telegram-mcp](https://github.com/chigwell/telegram-mcp) - Telegram MCP server powered by Telethon to let MCP clients read chats, manage groups, and send/modify messages, media, contacts, and settings.
 - [missuo/MTProxy](https://github.com/missuo/MTProxy) - MTProxy(MTPROTO) v2 One-Click Installation
 - [daquino94/rss-telegram](https://github.com/daquino94/rss-telegram) - A Python bot that monitors RSS feeds and sends notifications to a Telegram chat when new content is published. The bot checks feeds at regular intervals, keeps track of which items have already been s
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 - [miantiao-me/BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
@@ -7995,7 +7995,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 - [CaoMeiYouRen/momei](https://github.com/CaoMeiYouRen/momei) - 墨梅博客是一个AI 驱动、原生国际化的开发者博客平台。MomeiBlog is an AI driven, native international developer blog platform.
-- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents. 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。
+- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with private, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 - [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺All-in-One browser extension to enhance your video watching experience.
 - [blueberrycongee/Lumina-Note](https://github.com/blueberrycongee/Lumina-Note) - Lumina Note - A modern Markdown note-taking app with live preview, bidirectional links, and AI assistant
 - [TheNickOfTime/handbrake-web](https://github.com/TheNickOfTime/handbrake-web) - A self-hosted platform to use HandBrake on your headless devices via a bespoke web interface. Harness the processing power of multiple devices to work on a single queue.
@@ -8501,7 +8501,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux.
-- [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS融合怪服务器测评项目 GO版本 VPS Fusion Monster Server Test GO Version 尽量成为最全能的服务器测评项目，使用 Go 实现，无需任何环境依赖。 Aiming to be the most comprehensive server testing project, implemented in Go with zero environment depe
+- [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS Fusion Monster Server Test GO Version Aiming to be the most comprehensive server testing project, implemented in Go with zero environment dependencies.      VPS融合怪服务器测评项目 GO版本 尽量成为最全能的服务器测评项目，使用 G
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [nini22P/iris](https://github.com/nini22P/iris) - A lightweight video player | 轻量级视频播放器
