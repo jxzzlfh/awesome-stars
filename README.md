@@ -414,6 +414,7 @@
 
 ## Go 
 
+- [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - 用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [hrygo/divinesense](https://github.com/hrygo/divinesense) - AI 驱动的个人第二大脑 — 通过智能代理自动化任务、过滤高价值信息、以技术杠杆提升生产力
@@ -679,6 +680,7 @@
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [Azad-sl/FreeAI](https://github.com/Azad-sl/FreeAI) - FreeAI - 基于 Pollinations.AI 的AI应用平台，实现免费且无限制的AI聊天助手、图像生成和语音合成服务。A powerful AI platform powered by Pollinations.AI, offering free, no-registration, unlimited AI chat, image generation, and TTS services
 - [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena) - LLM Arena by KCORES team
+- [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [helloxz/transmute](https://github.com/helloxz/transmute) - Transmute是一款使用AI大模型驱动的智能翻译工具，可以同时对接多个大模型，比如OpenAI、DeepSeek、通义千问、豆包等。
 - [korchasa/awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - A curated list of awesome ChatGPT software.
 - [xLmiler/grok2api_python](https://github.com/xLmiler/grok2api_python) - 
@@ -998,6 +1000,7 @@
 - [jaaronkot/picprose](https://github.com/jaaronkot/picprose) - Better cover image generator tool for Medium, Blog, Youtube, BiliBili and many others
 - [bruceleeEnglish/youtube-realtime-translator](https://github.com/bruceleeEnglish/youtube-realtime-translator) - 谷歌浏览器插件，使用大语言模型实时同声传译，完全免费
 - [electh/nextflux](https://github.com/electh/nextflux) - Yet another web-based frontend for Miniflux
+- [cmliu/SUBWEB](https://github.com/cmliu/SUBWEB) - ACL4SSR 订阅地址转换链接生成(前端)
 - [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) - 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
 - [DeepLifeStudio/DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model.
 - [jac-marais/CodebaseToPrompt](https://github.com/jac-marais/CodebaseToPrompt) - Turn local files into a prompt for an LLM
@@ -1437,6 +1440,7 @@
 
 - [qlAD/gkBlog](https://github.com/qlAD/gkBlog) - gkBlog 是一个使用 Turborepo + pnpm 构建的个人博客网站 📚
 - [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - A free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners.
+- [any4ai/AnyCrawl](https://github.com/any4ai/AnyCrawl) - AnyCrawl 🚀: A Node.js/TypeScript crawler that turns websites into LLM-ready data and extracts structured SERP results from Google/Bing/Baidu/etc. Native multi-threading for bulk processing.
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [3ru/gpt-translate](https://github.com/3ru/gpt-translate) - 💬Translate Files into Any Languages with AI
 - [hardhackerlabs/book](https://github.com/hardhackerlabs/book) - 「硬地骇客 - 两个月 $12000 ARR 实践之路」是由 硬地骇客 团队编著，本书是关于 Podwise 产品历程的忠实记录：内容包含 灵感 - 构建 - 发布 - 增长 - 复盘 五个章节。如果你觉得一个人读不够过瘾，欢迎加入「硬地骇客」官方知识星球与专家们一起讨论！Podwise 的故事才刚刚开始，我们也将在星球持续分享我们的认知，成功可能无法复制，但失败一定可以借鉴。现在就点击下方链接加
@@ -2050,7 +2054,6 @@
 - [TheAgenticAI/CortexON](https://github.com/TheAgenticAI/CortexON) - Open-source generalized AI agent for everyday task automations.
 - [iniwym/XT-Bot](https://github.com/iniwym/XT-Bot) - 
 - [spoo-me/spoo](https://github.com/spoo-me/spoo) - spoo.me is a open-source & API first link management infra
-- [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 - [zhiyiYo/Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) - A cross-platform m3u8/mpd downloader based on PySide6 and QFluentWidgets.
 - [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
@@ -2861,7 +2864,7 @@
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 - [jarodise/XQuery](https://github.com/jarodise/XQuery) - 
 - [liwenka1/zhiyuan](https://github.com/liwenka1/zhiyuan) - 纸鸢 - 优雅的 Markdown 桌面编辑器
-- [sliverp/qqbot](https://github.com/sliverp/qqbot) - qqbot
+- [tencent-connect/openclaw-qqbot-community](https://github.com/tencent-connect/openclaw-qqbot-community) - qqbot
 - [AlexAnys/openclaw-feishu](https://github.com/AlexAnys/openclaw-feishu) - 飞书插件 × OpenClaw 保姆级配置指南 & 社区支持 （0306 - 更新飞书官方插件选择，增加 API 耗尽根因排查、Lark Webhook 内网穿透方案）
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
 - [DevAgentForge/Open-Claude-Cowork](https://github.com/DevAgentForge/Open-Claude-Cowork) - OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
@@ -3068,7 +3071,6 @@
 - [ObservedObserver/async-code](https://github.com/ObservedObserver/async-code) - Use Claude Code / CodeX CLI to perform multiple tasks in parallel with a Codex-style UI. Your personal codex/cursor-background agent. Claude Code UI.
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cowork.
 - [docmd-io/docmd](https://github.com/docmd-io/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
-- [any4ai/AnyCrawl](https://github.com/any4ai/AnyCrawl) - AnyCrawl 🚀: A Node.js/TypeScript crawler that turns websites into LLM-ready data and extracts structured SERP results from Google/Bing/Baidu/etc. Native multi-threading for bulk processing.
 - [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - AI Product Design Agent - Open Source
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [ConardLi/easy-llm-cli](https://github.com/ConardLi/easy-llm-cli) - An open-source AI agent that is compatible with multiple LLM models
@@ -3243,7 +3245,6 @@
 - [RylanBot/melody-workshop](https://github.com/RylanBot/melody-workshop) - 🎵 Audio processing and mixing suite「音频编辑工具」
 - [baturyilmaz/wordpecker-app](https://github.com/baturyilmaz/wordpecker-app) - A personalized language-learning tool that combines Duolingo-style lessons with your own curated vocabulary lists. Seamlessly add words from books, articles, or videos, and revisit them through intera
 - [AbhinavTheDev/coding-agent](https://github.com/AbhinavTheDev/coding-agent) - Your own Coding Agent 🤖
-- [cmliu/SUBWEB](https://github.com/cmliu/SUBWEB) - ACL4SSR 订阅地址转换链接生成(前端)
 - [liriliri/aya](https://github.com/liriliri/aya) - Android ADB desktop app
 - [cameronking4/openai-realtime-api-nextjs](https://github.com/cameronking4/openai-realtime-api-nextjs) - Leverage the OpenAI Realtime API (12-17-2024) with this Next.js 15 starter template featuring shadcn/ui components, tool-calling & localization. Use starter to build Voice AI apps with WebRTC.
 - [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
