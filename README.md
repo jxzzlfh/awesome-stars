@@ -509,6 +509,7 @@
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games. # 一款轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
 - [iimeta/fastapi-admin](https://github.com/iimeta/fastapi-admin) - 企业级 LLM API 快速集成系统，支持OpenAI、Azure、文心一言、讯飞星火、通义千问、智谱GLM、Gemini、DeepSeek、Anthropic Claude以及OpenAI格式的模型等，简洁的页面风格，轻量高效且稳定，支持Docker一键部署。
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [DaoCloud/crproxy](https://github.com/DaoCloud/crproxy) - CRProxy (Container Registry Proxy) is a generic image proxy
@@ -862,7 +863,6 @@
 - [chaos-zhu/easyimg](https://github.com/chaos-zhu/easyimg) - 适用于个人的一站式图床服务. 支持开启公共上传，支持部署AI鉴黄智能检测，完善的权限控制、数据统计、实时推送等功能。demo基于阿里云ESA边缘节点加速。👇
 - [InvertGeek/directlink](https://github.com/InvertGeek/directlink) - 免费文件直链服务（直链网盘），支持文件、图片、视频上传，适合临时文件分享并生成直链。
 - [tony-wang1990/laowang-sub-converter](https://github.com/tony-wang1990/laowang-sub-converter) - LaoWang Sub-converter - 一款开源的代理订阅转换工具，支持多协议解析和 10+ 主流客户端格式输出，提供 Docker 容器化部署和 Vercel 一键部署。
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 - [jonathanbertholet/promptmanager](https://github.com/jonathanbertholet/promptmanager) - Open Source Prompt Manager for ChatGPT, Supports 19 LLMs & some cool features!
 - [aircrushin/promptMinder](https://github.com/aircrushin/promptMinder) - 一个开源的，专注于提示词管理的平台 / An open-source platform focused on prompt management
@@ -894,7 +894,7 @@
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [DmytroVasin/DrawPen](https://github.com/DmytroVasin/DrawPen) - DrawPen is a simple screen annotation. Available on macOS, Windows & Linux.
 - [alchaincyf/huasheng_editor](https://github.com/alchaincyf/huasheng_editor) - 花生公众号排版器
-- [Yalums/lyra-exporter](https://github.com/Yalums/lyra-exporter) - Visualize full conversation branches in timeline. A unified hub for global search and exporting. Compatible with Claude, ChatGPT, Grok, Gemini, AI Studio, NotebookLM, SillyTavern and more
+- [Laumss/loominary](https://github.com/Laumss/loominary) - Conversations shouldn't just live in a scroll bar. Loominary gives your Claude and SillyTavern conversations a home — a local archive of every conversation, yours to keep.
 - [4evergr8/WorkersRSS](https://github.com/4evergr8/WorkersRSS) - 基于 Cloudflare Workers 的轻量 RSS 生成工具
 - [scribeocr/scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
 - [zyachel/quetre](https://github.com/zyachel/quetre) - A libre front-end for Quora
@@ -1697,7 +1697,7 @@
 - [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
-- [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+- [xx025/carrot](https://github.com/xx025/carrot) - AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源
 - [SPX372928/MyIPTV](https://github.com/SPX372928/MyIPTV) - 标准协议移动直播源
 - [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） Stable diffusion、AnimateDiff、Stable Cascade 、Stable SDXL Turbo
 - [vxiaov/free_proxy_ss](https://github.com/vxiaov/free_proxy_ss) - 分享免费梯子/科学上网/代理/shadowsocks(SS)/ShadowsocksR(SSR)/V2ray(vmess)代理，2小时更新一次，分享Clash代理订阅源和配置文件订阅链接。
@@ -1871,6 +1871,7 @@
 
 ## Python 
 
+- [versun/RSSBox](https://github.com/versun/RSSBox) - 让RSS管理更智能，让信息获取更高效 | Smarter RSS management, more efficient information access
 - [shirenchuang/web-content-fetcher](https://github.com/shirenchuang/web-content-fetcher) - 
 - [wpsnote/wpsnote-skills](https://github.com/wpsnote/wpsnote-skills) - 
 - [maolai7/agent-skills](https://github.com/maolai7/agent-skills) - 开源我自己做的一下好用的skills
@@ -2079,7 +2080,6 @@
 - [sugarforever/deepseek-deep-research](https://github.com/sugarforever/deepseek-deep-research) - 
 - [wkea/SSRAlist](https://github.com/wkea/SSRAlist) - 将Alist一键注册为WIndows服务
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All
-- [Agions/VisionSub](https://github.com/Agions/VisionSub) - 一个高效的视频硬字幕提取工具，可以从视频中提取字幕并输出为SRT格式文件
 - [HumanMLLM/R1-Omni](https://github.com/HumanMLLM/R1-Omni) - 
 - [Goekdeniz-Guelmez/Local-NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM) - Googles NotebookLM but local
 - [longevity-genie/just-chat](https://github.com/longevity-genie/just-chat) - Make your LLM agent and chat with it simple and fast!
@@ -2249,7 +2249,7 @@
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [Alpha-VLLM/Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X) - Lumina-T2X is a unified framework for Text to Any Modality Generation
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
-- [zjrwtx/AIgene_anki](https://github.com/zjrwtx/AIgene_anki) - 基于零一万物等AI视觉大模型简单几步就能批量生成Anki图片笔记
+- [Max-VibeCoding/AnkiAI](https://github.com/Max-VibeCoding/AnkiAI) - 基于零一万物等AI视觉大模型简单几步就能批量生成Anki图片笔记
 - [aceway/weixin-dyh-ai](https://github.com/aceway/weixin-dyh-ai) - 一个支持将微信订阅号接入AI的后台管理系统。
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [amchii/ZhiArchive](https://github.com/amchii/ZhiArchive) - 监测知乎用户的个人动态并保存内容以防丢失，保存知乎内容。Collecting and storing dynamic content from your Zhihu account for never lose.
@@ -2582,6 +2582,7 @@
 
 ## Rust 
 
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [zRq1351/fuyun_tools](https://github.com/zRq1351/fuyun_tools) - fuyun_tools是一款集剪切板管理和AI划词功能于一体的桌面效率工具，运行在系统托盘中。通过智能化的历史记录管理和AI辅助功能，大幅提升日常工作效率。
 - [guchang233/VOICE2TYPE](https://github.com/guchang233/VOICE2TYPE) - 一个极简高效的 Windows 语音输入助手，基于 Rust 开发。支持全局热键一键录音上屏、灵动岛式状态悬浮窗、自动标点与中英文混合识别。轻量、无感、隐私安全。  Minimalist, high-performance voice-to-text assistant for Windows built with Rust.
 - [moyangzhan/mango-finder](https://github.com/moyangzhan/mango-finder) - Search your files with natural language
@@ -2864,7 +2865,7 @@
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 - [jarodise/XQuery](https://github.com/jarodise/XQuery) - 
 - [liwenka1/zhiyuan](https://github.com/liwenka1/zhiyuan) - 纸鸢 - 优雅的 Markdown 桌面编辑器
-- [tencent-connect/openclaw-qqbot-community](https://github.com/tencent-connect/openclaw-qqbot-community) - qqbot
+- [tencent-connect/openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot) - qqbot
 - [AlexAnys/openclaw-feishu](https://github.com/AlexAnys/openclaw-feishu) - 飞书插件 × OpenClaw 保姆级配置指南 & 社区支持 （0306 - 更新飞书官方插件选择，增加 API 耗尽根因排查、Lark Webhook 内网穿透方案）
 - [different-ai/openwork](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork built for teams, powered by opencode
 - [DevAgentForge/Open-Claude-Cowork](https://github.com/DevAgentForge/Open-Claude-Cowork) - OpenSource Claude Cowork. A desktop AI assistant that helps you with programming, file management, and any task you can describe.
@@ -2928,6 +2929,7 @@
 - [bramses/chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
 - [ChristopherLyon/graphrag-workbench](https://github.com/ChristopherLyon/graphrag-workbench) - Interactive 3D visualization of knowledge graphs generated by Microsoft GraphRAG. Explore entities, relationships, and communities with immersive visual analytics.
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Cross-Platform Keystroke Launcher
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
 - [trustdev-org/calendar-diary](https://github.com/trustdev-org/calendar-diary) - A simple and elegant calendar diary app that helps you record daily tasks, plans, and moods. Supports multiple languages with local data storage to protect your privacy. 一款简洁优雅的日历日记应用，帮助你记录每天的任务、计划和心情
 - [Mgrsc/Re-Mark](https://github.com/Mgrsc/Re-Mark) - 一个基于原生浏览器书签的知识库：用 GitHub Gist 跨浏览器同步书签，并用 AI 为书签生成摘要、标签和封面，提供一个简洁的 Web 端浏览体验。
@@ -2949,7 +2951,7 @@
 - [markdown-viewer/markdown-viewer-extension](https://github.com/markdown-viewer/markdown-viewer-extension) - Markdown to perfect Word in one click — Mermaid, Vega, drawio, canvas, Infographic, Graphviz, LaTeX (editable), code highlighting, local processing
 - [TOKIO233/feishu-processor](https://github.com/TOKIO233/feishu-processor) - 飞书文档处理工具 - 自动下载飞书文档并上传图片到图床
 - [CaoMeiYouRen/push-all-in-one](https://github.com/CaoMeiYouRen/push-all-in-one) - Push All In One！支持 Server 酱(以及 Server 酱³)、自定义邮件、钉钉机器人、企业微信机器人、企业微信应用、飞书、pushplus、WxPusher、iGot 、Qmsg、息知、PushDeer、Discord、OneBot、Telegram、ntfy 等多种推送方式。
-- [cso1z/Feishu-MCP](https://github.com/cso1z/Feishu-MCP) - 为 Cursor、Windsurf、Cline 和其他 AI 驱动的编码工具提供访问、编辑和结构化处理飞书文档的能力，并支持飞书任务管理，基于 Model Context Protocol 服务器实现。
+- [cso1z/Feishu-MCP](https://github.com/cso1z/Feishu-MCP) - Feishu / Lark 飞书文档与任务管理工具，支持 MCP 服务器和 CLI + Skill 两种使用方式，可无缝集成 Cursor、Claude Code、Cline 等 AI 编码工具
 - [sancijun/feishu-doc-helper](https://github.com/sancijun/feishu-doc-helper) - 飞书文档助手：支持批量导出飞书云文档，文档随机漫游等功能
 - [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) - 
 - [geekjourneyx/feishu-md2wechat](https://github.com/geekjourneyx/feishu-md2wechat) - 一键将飞书文档转换为精美的公众号文章，基于 极简美学排版神器 www.md2wechat.cn 强大的 API 服务，支持六大主题风格，让您的内容发布更简单、更美观。
@@ -3792,6 +3794,7 @@
 - [machaojin1917939763/mcp-ui](https://github.com/machaojin1917939763/mcp-ui) - 基于MCP(Model Context Protocol)的智能聊天应用，支持Web和桌面环境。集成OpenAI/Anthropic API，提供MCP服务器的所有工具能力。简洁现代的UI设计，支持跨平台部署。
 - [wiidede/exif-gallery-nuxt](https://github.com/wiidede/exif-gallery-nuxt) - A free personal photo gallery (nuxt + nuxthub) deployable on Cloudflare, with AI image analysis and browser-side image compression  可免费部署在 Cloudflare 的个人相册网站，支持AI图像分析，浏览器压缩图片
 - [dengaye/translatex](https://github.com/dengaye/translatex) - TranslateX 是一款基于 Electron 开发的跨平台桌面划词翻译工具，支持 Windows 和 macOS 系统。您可以使用快捷键调用翻译功能，翻译选中的文本。
+- [Agions/VisionSub](https://github.com/Agions/VisionSub) - 一个高效的视频硬字幕提取工具，可以从视频中提取字幕并输出为SRT格式文件
 - [stark81/VutronMusic](https://github.com/stark81/VutronMusic) - 高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、jellyfin、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome与Linux-kde桌面状态栏歌词显示；支持降调降速，支持自定义主题等。支持 Windows / macOS / Linux :electron:
 - [mjm13/markplus_m](https://github.com/mjm13/markplus_m) - 
 - [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES本地客户端 💕🎉
@@ -3815,7 +3818,6 @@
 - [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein) - No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.
 - [zyyzyykk/kkTerminal](https://github.com/zyyzyykk/kkTerminal) - A terminal for Web SSH connection
 - [xinghaix/download-manager](https://github.com/xinghaix/download-manager) - 谷歌浏览器下载管理器插件【A chrome extension for managing download】
-- [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
 - [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署个人的 ChatGPT 镜像站
 - [mrrhq/ai-timeline](https://github.com/mrrhq/ai-timeline) - 记录文生图、文生视频、大语言模型等 AI 相关技术在发展过程中的重要时间点
