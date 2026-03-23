@@ -414,6 +414,7 @@
 
 ## Go 
 
+- [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot.
 - [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - 用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。
 - [prehisle/relay-pulse](https://github.com/prehisle/relay-pulse) - 企业级 LLM 中转服务可用性监控系统，实时追踪服务状态并提供可视化仪表板。
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
@@ -579,7 +580,7 @@
 - [Gigaxel/codesnap.sh](https://github.com/Gigaxel/codesnap.sh) - Share code snippets without leaving your terminal
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering ad
 - [eyebluecn/tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [soulteary/sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [Privilege-privacy/BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B站) 收藏夹内的视频备份到 OneDrive 或其他云存储
@@ -837,6 +838,8 @@
 
 ## JavaScript 
 
+- [eze-is/web-access](https://github.com/eze-is/web-access) - 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
+- [zhaoolee/notes](https://github.com/zhaoolee/notes) - 一个高仿锤子便签的小工具，支持skill调用，支持导出便签为图片
 - [comeonzhj/AutoContents](https://github.com/comeonzhj/AutoContents) - 基于 RSS 的 AI 资讯聚合、内容创作与 Agent 自动化工具
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [qazzxxx/picgo-plugin-cloudimgs-uploader](https://github.com/qazzxxx/picgo-plugin-cloudimgs-uploader) - picgo插件，用于云图-cloudimgs图床上传
@@ -870,7 +873,6 @@
 - [frankiejun/wxpush](https://github.com/frankiejun/wxpush) - 一个极简且免费的微信消息推送服务
 - [flyhunterl/flymd](https://github.com/flyhunterl/flymd) - 高性能Markdown笔记工具！免费AI，智能便签、TODO推送、本地知识库、AI小说引擎。PDF解析、自动语音笔记、录音转文本。毫秒级启动High-performance Markdown note tool! Free AI, smart notes, TODO reminders, local knowledge base, AI novel engine. PDF parsing, aut
 - [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly  [网页监控工具-预定送会员：https://waitlist.dingding.glidea.app]
-- [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
 - [aydomini/pebble-drive](https://github.com/aydomini/pebble-drive) - 基于 Cloudflare Workers + R2 + D1 + KV 的现代化云存储解决方案，完全免费的私人云盘。
 - [lokus-ai/lokus](https://github.com/lokus-ai/lokus) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 - [muset-ai/awesome-nano-banana-pro](https://github.com/muset-ai/awesome-nano-banana-pro) - Awesome curated collection of images and prompts built with the soon-to-launch Nano Banana Pro model. Browse limited early-access test cases that highlight Nano Banana Pro’s strengths in consistent, h
@@ -1767,6 +1769,7 @@
 ## PHP 
 
 - [johnwarne/upvote-rss](https://github.com/johnwarne/upvote-rss) - Generate rich RSS feeds from Reddit, Hacker News, Lemmy, Mbin, and more
+- [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) - :camera: PictShare is an open source image, mp4, pastebin hosting service with a simple resizing and upload API that you can host yourself. :rice_scene:
 - [mariorazo97/single-file-php-ai](https://github.com/mariorazo97/single-file-php-ai) - A drop-in, single-file PHP chat interface for Ollama and OpenAI. No Node.js, no Docker, no build steps.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [wugeng20/HarmonyHuesTheme](https://github.com/wugeng20/HarmonyHuesTheme) - Typecho主题-HarmonyHues,设计灵感源自自然界中的和谐之美。
@@ -1871,6 +1874,9 @@
 
 ## Python 
 
+- [tmwgsicp/wechat-download-api](https://github.com/tmwgsicp/wechat-download-api) - 一款完全开源的微信公众号文章获取、 RSS 订阅API服务，支持IP代理池反风控。
+- [joeseesun/markdown-proxy](https://github.com/joeseesun/markdown-proxy) - Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh
+- [joeseesun/feishu-lark-agent](https://github.com/joeseesun/feishu-lark-agent) - Comprehensive Feishu/Lark workspace agent. Handles messages, docs, bitable (multi-dimensional tables), calendar, and tasks via Feishu Open API.
 - [versun/RSSBox](https://github.com/versun/RSSBox) - 让RSS管理更智能，让信息获取更高效 | Smarter RSS management, more efficient information access
 - [shirenchuang/web-content-fetcher](https://github.com/shirenchuang/web-content-fetcher) - 
 - [wpsnote/wpsnote-skills](https://github.com/wpsnote/wpsnote-skills) - 
@@ -2446,7 +2452,7 @@
 - [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
 - [SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调
 - [dandelionsllm/pandallm](https://github.com/dandelionsllm/pandallm) - Panda项目是于2023年5月启动的开源海外中文大语言模型项目，致力于大模型时代探索整个技术栈，旨在推动中文自然语言处理领域的创新和合作。
-- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企微、QQ、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。
+- [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [tpai/summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, PDFs, and YouTube videos.
 - [midoks/mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
@@ -2846,6 +2852,8 @@
 
 ## TypeScript 
 
+- [twwch/AIComicBuilder](https://github.com/twwch/AIComicBuilder) - AI-powered animated comic generator — transform scripts into fully animated videos with AI-driven character design,    storyboarding, and video synthesis.
+- [xxnuo/VibeGo](https://github.com/xxnuo/VibeGo) - A Web IDE built for Vibe Coding anytime, anywhere. Freely use your Claude Code, Gemini CLI, CodeX, OpenCode, and more.
 - [linuz90/claude-telegram-bot](https://github.com/linuz90/claude-telegram-bot) - 
 - [ILoveBingLu/CipherTalk](https://github.com/ILoveBingLu/CipherTalk) - 优秀的软件
 - [Aster110/mycc](https://github.com/Aster110/mycc) - MyCC - 让 Claude Code 跑在手机上 | Run Claude Code from your phone
