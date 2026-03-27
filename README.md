@@ -884,7 +884,7 @@
 - [journiv/journiv-app](https://github.com/journiv/journiv-app) - Journiv - Self hosted private journaling app
 - [G-grbz/Gharmonize](https://github.com/G-grbz/Gharmonize) - All-in-one media downloader and converter with Web UI, desktop builds, and advanced ffmpeg automation. Built on yt-dlp · Supports YouTube, Spotify & Apple Music · Self-hosted
 - [Dispatcharr/Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
 - [SiyuanJia/brief](https://github.com/SiyuanJia/brief) - 一键将新闻链接转化为精美的财经简报，集成AI内容提炼、智能高亮、NanoBanana插图生成和长图导出功能
 - [Yorick-Ryu/deep-share](https://github.com/Yorick-Ryu/deep-share) - A lightweight browser extension designed for AI users to easily copy formulas from ChatGPT, DeepSeek, Grok and 10+ other AI conversations, export beautifully formatted Word documents, and support long
 - [XiaoLuoTian189/LanQiao](https://github.com/XiaoLuoTian189/LanQiao) - 一个开源的本地网盘系统，有了它您可以轻松的将让您的电脑和所有同一WIFI下的设备共享文件！
@@ -1053,7 +1053,6 @@
 - [veasion/AiPPT](https://github.com/veasion/AiPPT) - AI 智能生成 PPT，通过主题/文件/网址等方式生成PPT，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，可在线体验。AI generates PowerPoint Presentation, Supports parsing and rendering of complex PPT features such as native charts, a
 - [zsancc/GPT-Switch](https://github.com/zsancc/GPT-Switch) - GPT多账号切换扩展，可以内置多个账号快速切换GPT账号实现白嫖GPT-4o
 - [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) - Curating Top Open Source Apps for Homelab Enthusiasts
-- [miantiao-me/BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 - [Cerlancism/chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT or any OpenAI compatible LLM chat completion API
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
@@ -1872,6 +1871,7 @@
 
 ## Python 
 
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [tmwgsicp/wechat-download-api](https://github.com/tmwgsicp/wechat-download-api) - 一款完全开源的微信公众号文章获取、 RSS 订阅API服务，支持IP代理池反风控。
 - [joeseesun/markdown-proxy](https://github.com/joeseesun/markdown-proxy) - Fetch any URL as clean Markdown via proxy services (r.jina.ai / defuddle.md) or built-in scripts. Works with login-required pages like X/Twitter, WeCh
 - [joeseesun/feishu-lark-agent](https://github.com/joeseesun/feishu-lark-agent) - Comprehensive Feishu/Lark workspace agent. Handles messages, docs, bitable (multi-dimensional tables), calendar, and tasks via Feishu Open API.
@@ -2089,7 +2089,7 @@
 - [Goekdeniz-Guelmez/Local-NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM) - Googles NotebookLM but local
 - [longevity-genie/just-chat](https://github.com/longevity-genie/just-chat) - Make your LLM agent and chat with it simple and fast!
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
-- [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+- [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -2899,7 +2899,7 @@
 - [66964432/cumob-ai](https://github.com/66964432/cumob-ai) - 酷模Cumob AI-基于sora API的AI漫剧/分镜/视频提示词辅助工具
 - [RanFeng/clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) - 将视频瞬间转化为手绘故事 Turn Video Moments into Hand-Drawn Stories
 - [hooosberg/WitNote](https://github.com/hooosberg/WitNote) - WitNote is a local-first AI writing companion for macOS and Windows.
-- [josiahsrc/voquill](https://github.com/josiahsrc/voquill) - The open source wisprflow alternative
+- [voquill/voquill](https://github.com/voquill/voquill) - The open source wisprflow alternative
 - [Ryanic-Chang/CAT_CAT](https://github.com/Ryanic-Chang/CAT_CAT) - 一个可爱、实用、会“主动互动”的猫猫悬浮助手，帮你快速收藏书签、智能总结页面，并提醒你适时休息。让浏览更高效更有趣！
 - [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
 - [XimilalaXiang/markdown-poster](https://github.com/XimilalaXiang/markdown-poster) - 将 Markdown 一键渲染为适合社交分享的海报图片（支持主题/模板，可在线编辑与导出）| One-click render Markdown into a poster image perfect for social sharing (supports themes/templates, editable and exportable online)
@@ -3084,7 +3084,7 @@
 - [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - AI Product Design Agent - Open Source
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [ConardLi/easy-llm-cli](https://github.com/ConardLi/easy-llm-cli) - An open-source AI agent that is compatible with multiple LLM models
-- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source AI agent that brings the power of Grok directly into your terminal.
+- [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source autonomous agent powered by Grok.
 - [wxingheng/markdown-to-image-serve](https://github.com/wxingheng/markdown-to-image-serve) - 一个基于 Next.js 和 Puppeteer 的 Markdown 转图片服务，支持 Docker 部署和 API 集成。A Markdown to Image Service based on Next.js and Puppeteer, supporting Vercel deployment and API integration.
 - [firecrawl/fireplexity](https://github.com/firecrawl/fireplexity) - 🔥 Open Source Perplexity like AI search engine with real-time citations, streaming responses, and live data powered by Firecrawl
 - [ZingerLittleBee/dockerman.app](https://github.com/ZingerLittleBee/dockerman.app) - A modern, lightweight Docker management UI built with Tauri and React. Focus on simplicity and performance for Docker container management.
@@ -3373,6 +3373,7 @@
 - [upstash/wikipedia-semantic-search](https://github.com/upstash/wikipedia-semantic-search) - Semantic Search on Wikipedia with Upstash Vector
 - [lcjnil/github-notion-star](https://github.com/lcjnil/github-notion-star) - 
 - [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
+- [miantiao-me/BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 - [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。
 - [LaughingZhu/DevNow](https://github.com/LaughingZhu/DevNow) - 📚 DevNow is an open source technology blog project. It currently hosts weekly news  （about  technology, development and product）, which is published every Monday morning. / DevNow 是一个精简的开源技术博客项目模版，支持 
 - [DiscovAI/DiscovAI-search](https://github.com/DiscovAI/DiscovAI-search) - 🔍 DiscovAI-Search: An AI-powered search engine for AI tools and custom data. Built with Next.js, OpenAI, Supabase, and more. Features vector-based search, Redis caching, and LLM-powered responses.
