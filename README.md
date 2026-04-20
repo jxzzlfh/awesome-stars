@@ -459,6 +459,7 @@
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [julien040/anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
+- [slackworker/chain-subconverter](https://github.com/slackworker/chain-subconverter) - A sub-converter for OpenClash/Mihomo chain-proxy configuration.
 - [k1LoW/deck](https://github.com/k1LoW/deck) - deck is a tool for creating deck using Markdown and Google Slides.
 - [ctwj/urldb](https://github.com/ctwj/urldb) - 一个现代化的网盘资源数据库，支持多网盘自动化转存分享，支持百度网盘，阿里云盘，夸克网盘， 天翼云盘，迅雷云盘，123云盘，115网盘，UC网盘
 - [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式订阅的工具
@@ -800,14 +801,14 @@
 - [flyun/chatAir](https://github.com/flyun/chatAir) - ☁️A native Android app for ChatGPT, Gemini, Claude, and DeepSeek  ☁️ChatGPT、Gemini、Claude 和 DeepSeek 的原生安卓应用程序
 - [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder) - A professional video compression tool accessible to all, mostly based on FFmpeg.
 - [TouShang6015/Hugai-chatgpt](https://github.com/TouShang6015/Hugai-chatgpt) - HugAi是由Springboot Vue2 elementUI集成各大AI大模型平台开发的智能问答助手，文本对话模型支持流式响应，现已接入OpenAi、chatGpt、讯飞星火、文心一言、Ollama，以及主流AI绘图Midjourney、Stable Diffusion，完全开源搭建属于自己的AI聊天室
-- [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增PDF和Office文件解析上传】安卓端全场景GPT助手，可用音量键唤起并进行语音交流，支持联网、拍照、模板、PDF和Office文件解析等 | GPT assistant for Android, activated via volume keys for voice interaction, supporting features such as networking, taking p
+- [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增智能体模式】安卓端全场景GPT助手，可用音量键唤起并进行语音交流，支持联网、拍照、模板、附件解析、智能体模式等 | GPT assistant for Android, activated via volume keys for voice interaction, supporting features such as networking, taking photos, template
 - [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 - [Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool) - 【更方便更安全的管理PandoraNext】通过手机端和电脑端使小白能快速部署属于自己的免费Open API中转站。tokensTool支持通过PandoraNext管理刷新所有token，支持分享，支持share_token，pool_token一键自定义放入oneapi。tokensTool全面支持PandoraNext部署方法且支持热部署，自定义后缀，登录黑名单IP和登录日志，保护隐私安全，
 - [blossom-editor/blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 - [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅   Convert a video website into a podcast subscription 支持 哔哩哔哩、YouTube、干净世界和girigirilove 图形化界面
 - [Yanyutin753/fakeApiTool-One-API](https://github.com/Yanyutin753/fakeApiTool-One-API) - （fakeOpen服务已停，请移步到PandoraNext-tokensTool项目，该项目全面支持one-api使用pandoraNext）针对于One-API使用Pandora的可视化网页，可以实现网页批量更改刷新token并每五天自动通过账号密码刷新Tokens,从而自动装填fakeAPI，同时自动更新FakeOpenAI地址，已打包好docker,开箱即用，后续扩展更多功能
 - [rememberber/WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
-- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘/移动/联通/天翼云/wps等. 支持文件夹分享解析. 体验地址: https://189.qaiu.top
+- [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 聚合多种主流网盘的直链解析下载服务, 一键解析下载，已支持夸克网盘/uc网盘/蓝奏云/蓝奏优享/小飞机盘/123云盘等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top https://189.qaiu.top
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - AdSkip — an Android assistant for automatically skipping app launch ads
 - [MoritzArena/Tool-Bench](https://github.com/MoritzArena/Tool-Bench) - 为Halo博客集成更多标签样式与功能支持
@@ -847,6 +848,7 @@
 
 ## JavaScript 
 
+- [Lau0x/halo-theme-joe-next](https://github.com/Lau0x/halo-theme-joe-next) - Community-maintained continuation of halo-theme-joe3.0 — a Halo 2.x theme originally by Jiewenhuang
 - [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 - [iswalle/getnote-mcp](https://github.com/iswalle/getnote-mcp) - GetNote For MCP
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
@@ -1897,6 +1899,7 @@
 
 ## Python 
 
+- [oaker-io/proxy-fleet](https://github.com/oaker-io/proxy-fleet) - One-command VPS proxy fleet management: deploy 3x-ui + VLESS+Reality, auto-generate Clash/Mihomo subscriptions
 - [alchaincyf/huashu-skills](https://github.com/alchaincyf/huashu-skills) - 花叔的内容创作 Skills 合集 - AI审校、选题生成、视频大纲、素材搜索等 11 个实用技能
 - [TianyiDataScience/humanize](https://github.com/TianyiDataScience/humanize) - 
 - [kifile/alaye-app](https://github.com/kifile/alaye-app) - Alaye is a cross-platform desktop application that brings the power of Claude Code to your native environment. Manage projects, customize settings, and streamline your AI-assisted development workflow
@@ -2011,7 +2014,6 @@
 - [fancyboi999/capcut-mcp](https://github.com/fancyboi999/capcut-mcp) - 快速剪辑，供LLM使用剪映到MCP服务器
 - [LumingMelody/Ai-movie-clip](https://github.com/LumingMelody/Ai-movie-clip) - AI视频剪辑
 - [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat) - 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
-- [slackworker/chain-subconverter](https://github.com/slackworker/chain-subconverter) - A sub-converter for OpenClash/Mihomo chain-proxy configuration.
 - [adhikasp/mcp-reddit](https://github.com/adhikasp/mcp-reddit) - A Model Context Protocol (MCP) server that provides tools for fetching and analyzing Reddit content.
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [cmliu/webssh](https://github.com/cmliu/webssh) - WebSSH 是一个基于 Web 的轻量级 SSH 管理工具，方便地在浏览器中进行安全的远程服务器管理。
@@ -2130,7 +2132,7 @@
 - [Goekdeniz-Guelmez/Local-NotebookLM](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM) - Googles NotebookLM but local
 - [longevity-genie/just-chat](https://github.com/longevity-genie/just-chat) - Make your LLM agent and chat with it simple and fast!
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
-- [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+- [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
@@ -2895,6 +2897,8 @@
 
 ## TypeScript 
 
+- [YouMind-OpenLab/skills](https://github.com/YouMind-OpenLab/skills) - YouMind skills for Claude Code
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you.
