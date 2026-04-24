@@ -83,7 +83,7 @@
 
 ## Batchfile 
 
-- [cmontage/mas-cn](https://github.com/cmontage/mas-cn) - Windows 和 Office 激活神器 ( Microsoft-Activation-Scripts 简称 MAS ) 的汉化版（中文简体），在不改变机器码的情况下可永久激活😁
+- [cmontage/mas-cn](https://github.com/cmontage/mas-cn) - Windows 和 Office 激活神器 ( Microsoft-Activation-Scripts 简称 MAS ) 的汉化版（中文简体）
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 - [adithya-s-sekhar/advanced-youtube-client-ayc](https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc) - AYC is a highly responsive, no nonsense, easy to use, fast video downloader from the text based era.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
@@ -339,6 +339,9 @@
 
 ## Dart 
 
+- [octalwise/fleuron](https://github.com/octalwise/fleuron) - Android client for Miniflux
+- [KevinCFechtel/FluxNews](https://github.com/KevinCFechtel/FluxNews) - A simple Newsreader for the miniflux backend (https://miniflux.app).
+- [DocMarty84/miniflutt](https://github.com/DocMarty84/miniflutt) - Another Miniflux client.
 - [geosmart/lumma](https://github.com/geosmart/lumma) - A free AI-native journal for your inner reflections.  Journal freely. Reflect deeply. Powered by AI.
 - [Shangjin-Xiao/ThoughtEcho](https://github.com/Shangjin-Xiao/ThoughtEcho) - 📝 你的专属灵感摘录本 / Your Personal Inspiration Notebook with AI Power ✨
 - [MimicHunterZ/PocketMind](https://github.com/MimicHunterZ/PocketMind) - 触手可及的第二大脑。无感收藏链接，你的中央收藏夹，让 AI 帮你整理数字生活。
@@ -419,6 +422,7 @@
 
 ## Go 
 
+- [eleith/miniflux-digest](https://github.com/eleith/miniflux-digest) - Miniflux digests, an antidote to my doom scrolling.
 - [daodao97/code-switch](https://github.com/daodao97/code-switch) - Claude Code & Codex 多供应商代理与管理工具
 - [Kxiandaoyan/Memoh-v2](https://github.com/Kxiandaoyan/Memoh-v2) - 比OpenClaw强大数倍的人性化agent,龙虾有的我都有,龙虾没有的,我也有.
 - [Kymo-MCP/mcpcan](https://github.com/Kymo-MCP/mcpcan) - MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verifica
@@ -465,6 +469,7 @@
 - [ctwj/urldb](https://github.com/ctwj/urldb) - 一个现代化的网盘资源数据库，支持多网盘自动化转存分享，支持百度网盘，阿里云盘，夸克网盘， 天翼云盘，迅雷云盘，123云盘，115网盘，UC网盘
 - [beck-8/subs-check](https://github.com/beck-8/subs-check) - 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式订阅的工具
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
+- [lyc8503/sing-box-rules](https://github.com/lyc8503/sing-box-rules) - sing-box Geoip 与 Geosite 增强版规则, 移植自 v2ray-rules-dat
 - [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
@@ -539,7 +544,7 @@
 - [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
 - [wyx2685/V2bX](https://github.com/wyx2685/V2bX) - 
 - [xgd16/UniTranslate](https://github.com/xgd16/UniTranslate) - 基于 go 实现的一个 百度 有道 谷歌 Deepl ChatGPTFree Google Translator API 免费的Google翻译 翻译统一管理接入平台 统一API 调用规范  多平台翻译,调试操作端,权重,多接入 批量翻译 聚合翻译 免费翻译
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - A lightweight workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent workflow oper
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Self-hosted workflow engine for scripts, cron jobs, containers, and ops automation. YAML workflows, retries, logs, approvals, and optional distributed workers.
 - [xqdoo00o/ChatGPT-to-API](https://github.com/xqdoo00o/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
 - [aurora-develop/Duck2api](https://github.com/aurora-develop/Duck2api) - 
 - [lessapi-dev/lessapi-duckduckgo](https://github.com/lessapi-dev/lessapi-duckduckgo) - LessAPI-DuckDuckGo is an API service for a search engine. Simple, lightweight, reliable, Docker deployable, easy to maintain. 一个基于DuckDuckGo的搜索引擎API服务。简单、轻量、可靠、Docker部署、易于维护。
@@ -672,6 +677,8 @@
 
 ## HTML 
 
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) - 🦞 U-Claw 虾盘 - OpenClaw AI 助手离线安装 U 盘 | 提供远程维护·定制开发·企业私有化部署服务 | Remote support & custom AI development
 - [Rancho-7/subtitle-optimizer](https://github.com/Rancho-7/subtitle-optimizer) - 🎬 An AI Agent skill for reviewing and optimizing SRT subtitles with an interactive diff panel.
 - [zephyrwang6/pm-skills](https://github.com/zephyrwang6/pm-skills) - 
 - [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
@@ -1518,7 +1525,7 @@
 - [zhi35/iptv](https://github.com/zhi35/iptv) - 📺 一个每天自动更新的 IPTV 直播源项目，开源无广告，支持IPV4/IPV6双栈访问。
 - [ONLYOFFICE/DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS
 - [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
 - [asxez/DockerDesktop-CN](https://github.com/asxez/DockerDesktop-CN) - Docker汉化 Docker中文版 Docker汉化包 DockerDesktop汉化 Docker Windows Docker MAC
 - [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course) - AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks
 - [wassupjay/n8n-free-templates](https://github.com/wassupjay/n8n-free-templates) - A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. B
@@ -1585,7 +1592,7 @@
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 - [wozulong/fuclaude](https://github.com/wozulong/fuclaude) - 法克劳德，啥也不是。
-- [llamastack/llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - Agentic components of the Llama Stack APIs
+- [ogx-ai/llama-stack-apps](https://github.com/ogx-ai/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [alohe/avatars](https://github.com/alohe/avatars) - Avatars is a collection of diverse free avatar images from across the web, designed to add personality to your projects. With a vast selection of vibrant illustrations, you can enhance your projects i
 - [pen9un/aiast-sys](https://github.com/pen9un/aiast-sys) - AIAST智能客服系统，AI知识库系统，问答知识库，企业GPT知识库私有化，企业话术管理，API接口调用🔮🤖🚀
 - [wwb521/live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费
@@ -1899,6 +1906,7 @@
 
 ## Python 
 
+- [runningZ1/union-search-skill](https://github.com/runningZ1/union-search-skill) - 统一搜索工具集 - 跨平台内容搜索解决方案，支持 B 站/抖音/小红书/GitHub/Twitter 等 20+ 平台
 - [zjp1997720/content-twin-toolkit](https://github.com/zjp1997720/content-twin-toolkit) - 大鹏开源的内容系统 + 分身系统工具链：写作分身（starter/profile）+ 顾问系统 + 素材挖掘 + skill 迭代。
 - [tengj/article-poster-generator](https://github.com/tengj/article-poster-generator) - 将长文章自动拆分为精美信息图海报 | Convert articles into beautiful infographic posters with AI. 5 styles × 6 layouts. Claude Code Skill.
 - [oaker-io/proxy-fleet](https://github.com/oaker-io/proxy-fleet) - One-command VPS proxy fleet management: deploy 3x-ui + VLESS+Reality, auto-generate Clash/Mihomo subscriptions
@@ -2676,7 +2684,7 @@
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [btjawa/BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
 - [xinggaoya/sing-box-windows](https://github.com/xinggaoya/sing-box-windows) - 🚀 现代化 sing-box 跨平台桌面客户端｜订阅导入・代理模式切换・运行态监控｜🪟 Windows / 🐧 Linux / 🍎 macOS。 Modern sing-box desktop client for subscriptions, proxy switching, and runtime monitoring.
-- [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
+- [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
 - [mkaczanowski/pastebin](https://github.com/mkaczanowski/pastebin) - Simple, fast, standalone pastebin service
 - [harrisonwang/docxy](https://github.com/harrisonwang/docxy) - Docker Hub proxy service
@@ -2745,6 +2753,7 @@
 
 ## Shell 
 
+- [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [ilang-ai/autocode](https://github.com/ilang-ai/autocode) - You say it. AutoCode ships it. 46 skills. Code to deployment in one session. I-Lang v3.0 powered. Free forever.
@@ -2871,6 +2880,7 @@
 - [chroxify/haptic](https://github.com/chroxify/haptic) - A new local-first, privacy-focused and open-source home for your markdown notes
 - [jxqu3/aiui](https://github.com/jxqu3/aiui) - A simple no-install web UI for Ollama and OAI-Compatible APIs!
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 - [palacms/palacms](https://github.com/palacms/palacms) - Component-based CMS with a built-in IDE, visual editing, and static site generation. One server, unlimited sites.
 - [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -2898,6 +2908,8 @@
 
 ## TypeScript 
 
+- [MistRipple/magi-code](https://github.com/MistRipple/magi-code) - 多智能体工程编排系统：在 VSCode 中将复杂开发任务自动拆解为可执行合同，调度异构 Worker 并行协作，完成从规划、执行、验收到知识沉淀的全流程闭环。
+- [jnMetaCode/agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - 🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. 211+ expert roles, zero-code YAML, 9 LLM providers (6 free). 一句话调度多个AI专家自动协作，几分钟交付完整方案。
 - [YouMind-OpenLab/skills](https://github.com/YouMind-OpenLab/skills) - YouMind skills for Claude Code
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
@@ -2971,7 +2983,7 @@
 - [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
 - [XimilalaXiang/markdown-poster](https://github.com/XimilalaXiang/markdown-poster) - One-click render Markdown into shareable poster images. Themes, templates, online editing, and export.
 - [ysyx2008/SailFish](https://github.com/ysyx2008/SailFish) - 龙虾部署复杂，不如试试摸鱼？
-- [CaoMeiYouRen/momei](https://github.com/CaoMeiYouRen/momei) - MomeiBlog is an AI driven, native international developer blog platform. 墨梅博客是一个AI 驱动、原生国际化的开发者博客平台。
+- [CaoMeiYouRen/momei](https://github.com/CaoMeiYouRen/momei) - MomeiBlog is an AI driven, native international AI blog platform. 墨梅博客是一个AI 驱动、原生国际化的 AI 博客平台。
 - [mengjian-github/wechat-mp-assistant](https://github.com/mengjian-github/wechat-mp-assistant) - 微信公众号智能编辑助手 Chrome 插件 - 集成 AI 写作、素材管理、一键排版等功能
 - [t8y2/PolarisDesk](https://github.com/t8y2/PolarisDesk) - AI 驱动的桌面助手，支持多模型服务商。如北极星般为你的工作指引方向 - 文档处理、代码编写、智能问答。AI-driven desktop assistant with multi-model support. Like Polaris guiding your work - document processing, code writing, and intelligent Q&A.
 - [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
@@ -3395,6 +3407,7 @@
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 - [codefuse-ai/codefuse-ide](https://github.com/codefuse-ai/codefuse-ide) - AI Native IDE based on CodeFuse and OpenSumi
 - [opensumi/core](https://github.com/opensumi/core) - A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server.
+- [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [whale4113/cloud-document-converter](https://github.com/whale4113/cloud-document-converter) - Convert Lark Doc to Markdown
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify.
 - [muxinc/stream.new](https://github.com/muxinc/stream.new) - The repo for https://stream.new
@@ -3541,7 +3554,6 @@
 - [charlestang/HexoPress](https://github.com/charlestang/HexoPress) - A multi-platform client that offers a user-friendly article editing interface and content management system for Hexo-based blogs.  为基于 Hexo 的博客，提供友好易用的文章编辑界面和内容管理系统的，开源博客软件。
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [lchh5/GeminiPro-Next-Web](https://github.com/lchh5/GeminiPro-Next-Web) - Google Gemini Pro UI (Base on ChatGPT-Next-Web). 一键拥有你自己的跨平台 Gemini 应用。
@@ -3747,6 +3759,7 @@
 - [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 - [zcf0508/autocut-client](https://github.com/zcf0508/autocut-client) - AutoCut Client
 - [zhengbangbo/chat-simplifier](https://github.com/zhengbangbo/chat-simplifier) - Simplify your chat content in seconds (by OpenAI)
+- [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [lvwzhen/teach-anything](https://github.com/lvwzhen/teach-anything) - Teach any questions in seconds (by OpenAI)
 - [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。
@@ -3947,7 +3960,6 @@
 - [VueTubeApp/VueTube](https://github.com/VueTubeApp/VueTube) - A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [yann0917/dedao-gui](https://github.com/yann0917/dedao-gui) - wails + go + vue3 实现得到已购课程下载的桌面客户端
-- [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 - [kaangiray26/forte](https://github.com/kaangiray26/forte) - Self-hosted, music streaming platform
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux&win服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：
