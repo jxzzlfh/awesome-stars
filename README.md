@@ -445,7 +445,7 @@
 - [EinStack/glide](https://github.com/EinStack/glide) - 🐦 A open blazing-fast simple model gateway for rapid development of production GenAI apps
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [lich0821/ccNexus](https://github.com/lich0821/ccNexus) - Intelligent API gateway for Claude Code and Codex CLI - rotate endpoints, monitor usage, and seamlessly integrate OpenAI, Gemini, and other platforms.
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model throu
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
 - [guiyumin/vget](https://github.com/guiyumin/vget) - Versatile downloader for audio, video, podcasts, PDFs and more. Available as CLI and Docker | 多功能下载工具，支持音视频、播客、PDF等，提供 CLI 和 Docker 两种方式
 - [9bingyin/Gist](https://github.com/9bingyin/Gist) - A modern RSS reader application built with React and Go.
 - [geekjourneyx/md2wechat-mcp-server](https://github.com/geekjourneyx/md2wechat-mcp-server) - 📝 md2wechat MCP Server | 让 Claude Code & AI Agent 一键排版发布到微信公众号
@@ -453,7 +453,7 @@
 - [hezhizheng/go-wxpush](https://github.com/hezhizheng/go-wxpush) - 极简且免费的微信消息推送服务 (基于golang)
 - [g-brook/brook](https://github.com/g-brook/brook) - Brook is a cross-platform network tunneling tool that helps securely transmit data between different networks. (Brook 是一个用于建立网络隧道的跨平台工具，帮助在不同网络之间安全地传输数据。)
 - [difyz9/ytb2bili](https://github.com/difyz9/ytb2bili) - A fully functional automated video processing system that supports downloading videos from platforms such as YouTube, automatically generating subtitles, translating content, creating metadata, and sc
-- [encodeous/nylon](https://github.com/encodeous/nylon) - Performant, secure, and reliable mesh networking made easy.
+- [encodeous/nylon](https://github.com/encodeous/nylon) - Self-healing WireGuard mesh. Reroutes around failures in seconds, no coordination server, fully FOSS.
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generat
 - [Luzifer/ots](https://github.com/Luzifer/ots) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser
@@ -917,6 +917,7 @@
 - [lc0609/feishu-batch-download](https://github.com/lc0609/feishu-batch-download) - 🚀 一个用于批量下载飞书云文档文件的 Chrome 扩展程序，支持树形展示、多选下载、ZIP 打包与进度显示
 - [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) - Online collaborative Whiteboard that is simple, free, easy to use and  to deploy
 - [Oli51467/LoFS](https://github.com/Oli51467/LoFS) - LoFS 面向本地知识库的桌面级文件管理与信息检索和对话应用
+- [Liu-Bot24/fuguang-translator](https://github.com/Liu-Bot24/fuguang-translator) - 实时捕捉系统音频，调用阿里云百炼语音翻译模型生成中文字幕的桌面应用。界面基于 PyQt6，支持浮窗显示、历史字幕保存与手动编辑。支持多国语言，可用于外语电影、直播。
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [journiv/journiv-app](https://github.com/journiv/journiv-app) - Journiv - Self hosted private journaling app
 - [G-grbz/Gharmonize](https://github.com/G-grbz/Gharmonize) - All-in-one media downloader and converter with Web UI, desktop builds, and advanced ffmpeg automation. Built on yt-dlp · Supports YouTube, Spotify, Apple Music & Deezer · Self-hosted
@@ -1798,7 +1799,7 @@
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [miaomiaosoft/PandaOCR](https://github.com/miaomiaosoft/PandaOCR) - PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年5月4号更新 v5.5.2 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年5月6号更新 v5.5.4 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
 - [hexojs/awesome-hexo](https://github.com/hexojs/awesome-hexo) - A curated list of awesome things related to Hexo
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -2019,7 +2020,6 @@
 - [muratcankoylan/readwren](https://github.com/muratcankoylan/readwren) - An adaptive multi-agent system that extracts your literary DNA through conversation and generates actionable reading profiles.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [mini-yifan/start_AI2.0](https://github.com/mini-yifan/start_AI2.0) - 一款桌面助手，通过语音交互实现操作电脑完成工作。
-- [Liu-Bot24/fuguang-translator](https://github.com/Liu-Bot24/fuguang-translator) - 实时捕捉系统音频，调用阿里云百炼语音翻译模型生成中文字幕的桌面应用。界面基于 PyQt6，支持浮窗显示、历史字幕保存与手动编辑。支持多国语言，可用于外语电影、直播。
 - [foxmooner2021/subtitle-cut](https://github.com/foxmooner2021/subtitle-cut) - 字符级精度的 AI 字幕剪辑工具（AI-based subtitle editor for word-level precise video cutting. ）
 - [kai648846760/douyin_assistant](https://github.com/kai648846760/douyin_assistant) - 抖音全能助手 (Douyin All-in-One Assistant) | A powerful automation tool for multi-account management, downloading, and publishing.
 - [zeusftk/FTK_Comfyui_Agent](https://github.com/zeusftk/FTK_Comfyui_Agent) - FTK Canvas Agent 是强大的多媒体处理自动化工具集，主打音视频处理与智能剪辑。集成多种先进 AI 技术，覆盖全流程，核心功能含 AI 剪辑、AI 特效、智能配音，自带横竖屏分类、场景切片等实用功能，支持零配置即用。其核心是连接 ComfyUI 实现 AI 服务，智能管理工作流，通过对话调用完成任务。
@@ -2500,7 +2500,6 @@
 - [1061700625/WeChat_Article](https://github.com/1061700625/WeChat_Article) - 爬取微信公众号文章
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
 - [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 梦想是做出最棒的生肉翻译软件喵
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [qiwsir/algorithm](https://github.com/qiwsir/algorithm) - 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [rbbrdckybk/dream-factory](https://github.com/rbbrdckybk/dream-factory) - Multi-threaded GUI manager for mass creation of AI-generated art with support for multiple GPUs.
@@ -3097,7 +3096,7 @@
 - [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
 - [trustdev-org/calendar-diary](https://github.com/trustdev-org/calendar-diary) - A simple and elegant calendar diary app that helps you record daily tasks, plans, and moods. Supports multiple languages with local data storage to protect your privacy. 一款简洁优雅的日历日记应用，帮助你记录每天的任务、计划和心情
 - [Mgrsc/Re-Mark](https://github.com/Mgrsc/Re-Mark) - 一个基于原生浏览器书签的知识库：用 GitHub Gist 跨浏览器同步书签，并用 AI 为书签生成摘要、标签和封面，提供一个简洁的 Web 端浏览体验。
-- [bestruirui/Alle](https://github.com/bestruirui/Alle) - AI识别的邮件聚合客户端 | AI Powered Email Aggregation  Client
+- [bestruirui/Alle](https://github.com/bestruirui/Alle) - AI Powered Email Aggregation  Client | AI识别的邮件聚合客户端
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [wearzdk/seedream-image-mcp](https://github.com/wearzdk/seedream-image-mcp) - 🚀 PixelMCP | 为你的 Cursor、Claude Code 等集成AI绘画能力，让AI生成的页面不再单调！
 - [yizhengyuan/shenbippt](https://github.com/yizhengyuan/shenbippt) - 输入主题，一键生成精美 PPT
@@ -3458,7 +3457,7 @@
 - [liheji/mihomo-yacd](https://github.com/liheji/mihomo-yacd) - 
 - [LiuYuYang01/ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 - [liang7hi/dimmer](https://github.com/liang7hi/dimmer) - 👋  Chrome扩展程序「关灯」暗黑模式一键切换。
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress - A solution that empowers developers to easily build full‑stack applications.（一个让开发者轻松构建CMS与博客系统的解决方案。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress - From zero to blog/CMS — fast, smooth, and effortless.（一个让开发者轻松构建CMS与博客系统的解决方案。）Demo：https://blog.gaoredu.com
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
