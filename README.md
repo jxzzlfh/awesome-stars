@@ -550,7 +550,7 @@
 - [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
 - [wyx2685/V2bX](https://github.com/wyx2685/V2bX) - 
 - [xgd16/UniTranslate](https://github.com/xgd16/UniTranslate) - 基于 go 实现的一个 百度 有道 谷歌 Deepl ChatGPTFree Google Translator API 免费的Google翻译 翻译统一管理接入平台 统一API 调用规范  多平台翻译,调试操作端,权重,多接入 批量翻译 聚合翻译 免费翻译
-- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first data pipeline orchestration for scripts, SQL, containers, and private infrastructure. One binary, file-backed state, no external database or broker.
+- [dagucloud/dagu](https://github.com/dagucloud/dagu) - Local-first, lightweight workflow engine for any scripts, SQL, containers, SSH commands. One binary, file-backed state, no external database or broker. Use your favorite AI agents to create, update, a
 - [xqdoo00o/ChatGPT-to-API](https://github.com/xqdoo00o/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
 - [aurora-develop/Duck2api](https://github.com/aurora-develop/Duck2api) - 
 - [lessapi-dev/lessapi-duckduckgo](https://github.com/lessapi-dev/lessapi-duckduckgo) - LessAPI-DuckDuckGo is an API service for a search engine. Simple, lightweight, reliable, Docker deployable, easy to maintain. 一个基于DuckDuckGo的搜索引擎API服务。简单、轻量、可靠、Docker部署、易于维护。
@@ -1943,6 +1943,7 @@
 
 ## Python 
 
+- [Larkin0302/vantasma-toolkit](https://github.com/Larkin0302/vantasma-toolkit) - 万涂幻象社区工具合集 · 仅供个人学习使用
 - [joeseesun/qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 - [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) - 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等
 - [joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui) - Web UI consciousness monitor for Hermes — the AI agent with persistent memory
@@ -2980,6 +2981,7 @@
 
 ## TypeScript 
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [lqomg/ClueArk](https://github.com/lqomg/ClueArk) - 个人AI情报助手，全网话题监控：关键词驱动聚合多信源，RSS + 可选Web爬虫，NestJS / React / MongoDB，Docker Compose 一键部署。
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
@@ -2988,7 +2990,7 @@
 - [OpenCowAI/opencow](https://github.com/OpenCowAI/opencow) - One task, one agent, delivered. The open-source platform for task-driven autonomous AI agents.OpenCow assigns an autonomous AI agent to every task — features, campaigns,  reports, audits — and deliver
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [lessweb/deepcode-cli](https://github.com/lessweb/deepcode-cli) - Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
@@ -3215,7 +3217,7 @@
 - [dudor/BookmarkHub](https://github.com/dudor/BookmarkHub) - BookmarkHub , sync bookmarks across different browsers
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [juancgarza/claude-in-a-box](https://github.com/juancgarza/claude-in-a-box) - A ChatGPT Canvas/Claude Artifacts-style interface for Claude Code running in E2B sandboxes. Build, create, and code anything with AI-powered development in secure, isolated  environments.
-- [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
+- [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor: AI-powered markdown with style.
 - [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3) - Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
 - [jae-jae/searxng-mul-mcp](https://github.com/jae-jae/searxng-mul-mcp) - A Model Context Protocol (MCP) server for SearXNG search engine with multi-query parallel search support
 - [tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress) - NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。搭配 DeepSeek和微信公众号助手使用，碎片时间也能用手机发有排版的文章了。
@@ -3350,7 +3352,7 @@
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡️ Blazing-fast batch subtitle translation for SRT/ASS/VTT/LRC — 70+ languages, AI-powered 批量字幕翻译
+- [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ·  批量字幕翻译，支持 70+ 语言
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [ryoppippi/sitemcp](https://github.com/ryoppippi/sitemcp) - Fetch an entire site and use it as an MCP Server
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
