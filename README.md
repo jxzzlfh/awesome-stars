@@ -906,7 +906,7 @@
 - [gansgoods/xianyu-chat-exporter](https://github.com/gansgoods/xianyu-chat-exporter) - 一键导出闲鱼聊天记录，支持勾选消息、导出 HTML 和 Markdown 格式
 - [TransparentLC/dufs-material-assets](https://github.com/TransparentLC/dufs-material-assets) - dufs 的 Material Design 风格自定义前端界面，添加了一些额外的功能。(Alternative frontend assets for dufs in material design with additional features.) ↓链接是演示站↓
 - [uuzp/dufs_theme_mango](https://github.com/uuzp/dufs_theme_mango) - 
-- [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictabl
+- [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini
 - [fengzhongsen/short-url](https://github.com/fengzhongsen/short-url) - 简单易用的短链接生成工具，完全开源、免费、无需登录，可私有化部署，链接永久有效！
 - [Feather-2/Burner-X](https://github.com/Feather-2/Burner-X) - Burner X - 浏览器即开即用，AI文献识别、文档批量翻译、阅读与智能分析工具 丨BYOK
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
@@ -2712,7 +2712,7 @@
 ## Rust 
 
 - [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
@@ -2745,7 +2745,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [Yoo1tic/Gemini-Keychecker](https://github.com/Yoo1tic/Gemini-Keychecker) - A high-performance tool to validate Google Gemini API keys with batch processing capabilities.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -3002,7 +3002,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [lqomg/ClueArk](https://github.com/lqomg/ClueArk) - 个人AI情报助手，全网话题监控：关键词驱动聚合多信源，RSS + 可选Web爬虫，NestJS / React / MongoDB，Docker Compose 一键部署。
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [OpenCowAI/opencow](https://github.com/OpenCowAI/opencow) - One task, one agent, delivered. The open-source platform for task-driven autonomous AI agents.OpenCow assigns an autonomous AI agent to every task — features, campaigns,  reports, audits — and deliver
