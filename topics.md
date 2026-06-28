@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -290,6 +291,7 @@
 
 ## agent 
 
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) - OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
@@ -387,6 +389,34 @@
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
+## agent-skills 
+
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4
+- [chubbyguan/chubbyskills](https://github.com/chubbyguan/chubbyskills) - 把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 13 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU，附带知识库 MCP server。 ｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first t
+- [OpenSenseNova/SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
+- [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
+- [yibie/skills-manager](https://github.com/yibie/skills-manager) - A native macOS app to manage skills across coding agents — Claude Code, Cursor, Copilot CLI, Codex, Gemini CLI
+- [Rancho-7/subtitle-optimizer](https://github.com/Rancho-7/subtitle-optimizer) - 🎬 An AI Agent skill for reviewing and optimizing SRT subtitles with an interactive diff panel.
+- [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,600+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
+- [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) - CC Workflow Studio
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: AI browser automation assistant, no migration and privacy first. Alternative to Manus Browser Operator、 Claude Chrome and Agent Browser
+- [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cowork.
+- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+- [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) - Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.
+
 ## agents 
 
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
@@ -431,6 +461,7 @@
 
 ## ai 
 
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [aqm857886159/Nomi](https://github.com/aqm857886159/Nomi) - Open-source, local-first desktop app for AI video creation: write a script → generate images & video → edit on a timeline → export. Bring your own model & API key — everything runs on your machine. Bu
@@ -1150,7 +1181,7 @@
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [JackyST0/awesome-rsshub-routes](https://github.com/JackyST0/awesome-rsshub-routes) - 🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！
-- [ai-boost/awesome-ai-for-science](https://github.com/ai-boost/awesome-ai-for-science) - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
+- [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.
@@ -1221,7 +1252,7 @@
 - [ZeroLu/awesome-openclaw](https://github.com/ZeroLu/awesome-openclaw) - A curated collection of OpenClaw tutorials, skills, and use cases. Learn how to build your personal AI assistant with 5400+ skills, multi-agent routing, and chat app integration (WhatsApp/Telegram/Dis
 - [JackyST0/awesome-rsshub-routes](https://github.com/JackyST0/awesome-rsshub-routes) - 🎯 精选 RSSHub 实用路由推荐，让你的 RSS 阅读更高效！
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
-- [ai-boost/awesome-ai-for-science](https://github.com/ai-boost/awesome-ai-for-science) - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
+- [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 - [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
@@ -1323,7 +1354,7 @@
 
 ## bioinformatics 
 
-- [ai-boost/awesome-ai-for-science](https://github.com/ai-boost/awesome-ai-for-science) - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
+- [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
 
 ## blockchain 
 
@@ -5015,6 +5046,7 @@
 
 ## open-source 
 
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [agents-io/PokeClaw](https://github.com/agents-io/PokeClaw) - PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
@@ -5094,6 +5126,7 @@
 
 ## openai 
 
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [kadevin/ilab-gpt-conjure](https://github.com/kadevin/ilab-gpt-conjure) - 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding course beginners to master step by step.
@@ -5437,7 +5470,6 @@
 - [DocMarty84/miniflutt](https://github.com/DocMarty84/miniflutt) - Another Miniflux client.
 - [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) - 🦞 U-Claw 虾盘 - OpenClaw AI 助手离线安装 U 盘 | 提供远程维护·定制开发·企业私有化部署服务 | Remote support & custom AI development
 - [tengj/article-poster-generator](https://github.com/tengj/article-poster-generator) - 将长文章自动拆分为精美信息图海报 | Convert articles into beautiful infographic posters with AI. 5 styles × 6 layouts. Claude Code Skill.
-- [Rancho-7/subtitle-optimizer](https://github.com/Rancho-7/subtitle-optimizer) - 🎬 An AI Agent skill for reviewing and optimizing SRT subtitles with an interactive diff panel.
 - [YouMind-OpenLab/skills](https://github.com/YouMind-OpenLab/skills) - YouMind skills for Claude Code
 - [Lau0x/halo-theme-joe-next](https://github.com/Lau0x/halo-theme-joe-next) - Community-maintained continuation of halo-theme-joe3.0 — a Halo 2.x theme originally by Jiewenhuang
 - [oaker-io/proxy-fleet](https://github.com/oaker-io/proxy-fleet) - One-command VPS proxy fleet management: deploy 3x-ui + VLESS+Reality, auto-generate Clash/Mihomo subscriptions
@@ -5532,9 +5564,7 @@
 - [ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts) - Transcripts from Lenny's Podcast
 - [ghimiresunil/Top-AI-Tools](https://github.com/ghimiresunil/Top-AI-Tools) - Curated list of AI Tools
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [FreedomBen/clipgrab](https://github.com/FreedomBen/clipgrab) - Customized version of ClipGrab (http://clipgrab.org/)
-- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [hjyl-cheng/wechat-pcspider](https://github.com/hjyl-cheng/wechat-pcspider) - 这是一个功能完整的 微信公众号文章数据获取系统，支持自动化获取文章内容、统计数据（阅读量、点赞量、分享量、评论量）和留言区内容。
 - [Larkspur-Wang/feishu_X_codex](https://github.com/Larkspur-Wang/feishu_X_codex) - 
 - [technomancer702/nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large li
@@ -5749,7 +5779,6 @@
 - [philipp-spiess/claude-code-costs](https://github.com/philipp-spiess/claude-code-costs) - 
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [XuYouo/MeowNocode](https://github.com/XuYouo/MeowNocode) - memos类开源高颜值便签应用
-- [xixu-me/xget](https://github.com/xixu-me/xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources
 - [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
 - [wangwangit/nav](https://github.com/wangwangit/nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
 - [LifeArchiveProject/BiliHistoryFrontend](https://github.com/LifeArchiveProject/BiliHistoryFrontend) - 获取b站历史记录，一键下载用户所有的视频，动态，收藏夹，找回14天内b站在屏幕上显示过的图片，生成详细的年度总结，自动化任务，下面链接是对应后端
@@ -5845,7 +5874,6 @@
 - [Intelligent-Internet/CommonGround-legacy](https://github.com/Intelligent-Internet/CommonGround-legacy) - An open-source application for building, observing, and collaborating with teams of AI agents.
 - [fogsightai/fogsight](https://github.com/fogsightai/fogsight) - Fogsight is an AI agent and animation engine powered by Large Language Models.
 - [JessyTsui/Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote) - Control Claude Code remotely via email、discord、telegram. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails.
-- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cowork.
 - [philschmid/gemini-samples](https://github.com/philschmid/gemini-samples) - 
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [a-chris/brian-rss](https://github.com/a-chris/brian-rss) - Learn new things using RSS.
@@ -7398,6 +7426,7 @@
 
 ## python 
 
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [kadevin/ilab-gpt-conjure](https://github.com/kadevin/ilab-gpt-conjure) - 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-
 - [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) - OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
@@ -8343,6 +8372,7 @@
 
 ## stable-diffusion 
 
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [11cafe/jaaz](https://github.com/11cafe/jaaz) - The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
 - [win4r/AISuperDomain](https://github.com/win4r/AISuperDomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable
 - [philz1337x/clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - Clarity AI | AI Image Upscaler & Enhancer - free and open-source Magnific Alternative
@@ -8601,6 +8631,7 @@
 
 ## text-to-speech 
 
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [Agions/scene-fab](https://github.com/Agions/scene-fab) - scene-fab - AI 影视解说创作工具 | 智能拆条 · AI 解说生成 · 一键配音合成
 - [index-tts/index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 - [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, Au
