@@ -2270,7 +2270,7 @@
 
 - [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 - [LiuYuYang01/ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress - From zero to blog/CMS — fast, smooth, and effortless.（一个让开发者轻松构建CMS与博客系统的解决方案。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
 - [hefengbao/yuzhu](https://github.com/hefengbao/yuzhu) - 『玉竹』一套简洁的内容管理（博客、微博客）、财务管理（记账）系统。管理自己的数据㊙
 - [RavelloH/NeutralPress](https://github.com/RavelloH/NeutralPress) - 基于 Next.js 构建的下一代动态 CMS 博客系统，可免费部署的一站式解决方案：可视化可拖拽页面编辑、所见即所得/Markdown/MDX内容支持、媒体管理、访问分析、照片墙、自动友链管理、无限层级评论、邮箱通知、实时私信、Github 项目展示、多用户多权限账号管理、内置安全防护。
 - [primocms/primo](https://github.com/primocms/primo) - Agent-native visual CMS. Build sites with Claude/Codex/whatever, manage them visually.
@@ -2378,7 +2378,7 @@
 - [xisuo67/XHS-Spider](https://github.com/xisuo67/XHS-Spider) - 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片）Telegram:https://t.me/+ZtLSwuIKTo44MDY1
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [Evil0ctal/Fast-Powerful-Whisper-AI-Services-API](https://github.com/Evil0ctal/Fast-Powerful-Whisper-AI-Services-API) - ⚡ 一款用于自动语音识别 (ASR)、翻译的高性能异步 API。不需要购买Whisper API，使用本地运行的Whisper模型进行推理，并支持多GPU并发，针对分布式部署进行设计。还内置了包括TikTok、抖音等社交媒体平台的爬虫，可实现来自多个社交平台的无缝媒体处理，为媒体内容数据自动化处理提供了强大且可扩展的解决方案。
-- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为 OPC/中小微企业老板们量身打造的"AI 搞钱搭子"
+- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为OPC/中小微企业量身打造的自媒体获客AI Agent
 - [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI. 一个简易的 Mihomo 桌面客户端
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复（国内主流AI模型，扣子，FastGpt，Dify全面支持！），⚡视频号解析，😄自定义程
@@ -2885,6 +2885,7 @@
 - [HiMeditator/auto-caption](https://github.com/HiMeditator/auto-caption) - A cross-platform real-time subtitle display software. 一个跨平台的实时字幕显示软件。
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor: AI-powered markdown with style.
 - [yarin-zhang/AI-Gist](https://github.com/yarin-zhang/AI-Gist) - ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 - [experdot/pointer](https://github.com/experdot/pointer) - A clean app focused on pure-text AI conversation experience. 专注于纯文本 AI 聊天体验的应用，安全，私密，且好用。
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
@@ -3277,6 +3278,7 @@
 
 ## github-api 
 
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 - [tianyaxiang/NavSphere](https://github.com/tianyaxiang/NavSphere) - NavSphere： 一个基于 Github 存储的网址导航程序支持部署至cloudflare，一键部署至 Vercel，数据存储在 Github，零成本搭建一个网站导航！
 - [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - A stylish yet powerful GitHub client for Windows
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
@@ -4136,6 +4138,7 @@
 
 ## llm 
 
+- [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) - A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [yzfly/awesome-skills-zh](https://github.com/yzfly/awesome-skills-zh) - 🚀 精选 Claude Skills、Agent Skills、LLM Skills 及 AI 智能体开发资源列表（中文）。A curated list of awesome Claude / Agent / LLM Skills.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -4825,7 +4828,7 @@
 
 ## microsoft 
 
-- [ChristopherLyon/graphrag-workbench](https://github.com/ChristopherLyon/graphrag-workbench) - Interactive 3D visualization of knowledge graphs generated by Microsoft GraphRAG. Explore entities, relationships, and communities with immersive visual analytics.
+- [lyon-industries/graphrag-workbench](https://github.com/lyon-industries/graphrag-workbench) - Interactive 3D visualization of knowledge graphs generated by Microsoft GraphRAG. Explore entities, relationships, and communities with immersive visual analytics.
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
@@ -4911,7 +4914,7 @@
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 - [LiuYuYang01/ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress - From zero to blog/CMS — fast, smooth, and effortless.（一个让开发者轻松构建CMS与博客系统的解决方案。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -4947,7 +4950,7 @@
 
 - [remnawave/panel](https://github.com/remnawave/panel) - A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress - From zero to blog/CMS — fast, smooth, and effortless.（一个让开发者轻松构建CMS与博客系统的解决方案。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -4972,7 +4975,7 @@
 - [xun082/DocFlow](https://github.com/xun082/DocFlow) - DocFlow is an AI-powered documentation platform built with Tiptap and Next.js, designed for real-time collaboration ⚡, smart writing assistance 🤖, and a flexible plugin system 🔌.
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
 - [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - 🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
-- [ChristopherLyon/graphrag-workbench](https://github.com/ChristopherLyon/graphrag-workbench) - Interactive 3D visualization of knowledge graphs generated by Microsoft GraphRAG. Explore entities, relationships, and communities with immersive visual analytics.
+- [lyon-industries/graphrag-workbench](https://github.com/lyon-industries/graphrag-workbench) - Interactive 3D visualization of knowledge graphs generated by Microsoft GraphRAG. Explore entities, relationships, and communities with immersive visual analytics.
 - [aircrushin/promptMinder](https://github.com/aircrushin/promptMinder) - 一个开源的，专注于提示词管理的平台 / An open-source platform focused on prompt management
 - [bestruirui/Alle](https://github.com/bestruirui/Alle) - AI Powered Email Aggregation  Client | AI识别的邮件聚合客户端
 - [kamjin3086/chatless](https://github.com/kamjin3086/chatless) - 💻一款简洁实用轻量级的本地AI对话客户端，采用Tauri2.0和Next.js编写  A simple, practical, and lightweight local AI chat client, written in Tauri 2.0 & Next.js.
@@ -5008,7 +5011,7 @@
 - [Y80/bmm](https://github.com/Y80/bmm) - 🤵 BMM - Your Personal Bookmark Manager | 你的专属书签管家
 - [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 - [LiuYuYang01/ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress - From zero to blog/CMS — fast, smooth, and effortless.（一个让开发者轻松构建CMS与博客系统的解决方案。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -5679,7 +5682,7 @@
 - [tengj/article-poster-generator](https://github.com/tengj/article-poster-generator) - 将长文章自动拆分为精美信息图海报 | Convert articles into beautiful infographic posters with AI. 5 styles × 6 layouts. Claude Code Skill.
 - [YouMind-OpenLab/skills](https://github.com/YouMind-OpenLab/skills) - YouMind skills for Claude Code
 - [Lau0x/halo-theme-joe-next](https://github.com/Lau0x/halo-theme-joe-next) - Community-maintained continuation of halo-theme-joe3.0 — a Halo 2.x theme originally by Jiewenhuang
-- [oaker-io/proxy-fleet](https://github.com/oaker-io/proxy-fleet) - One-command VPS proxy fleet management: deploy 3x-ui + VLESS+Reality, auto-generate Clash/Mihomo subscriptions
+- [imraywang/proxy-fleet](https://github.com/imraywang/proxy-fleet) - One-command VPS proxy fleet management: deploy 3x-ui + VLESS+Reality, auto-generate Clash/Mihomo subscriptions
 - [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 - [linkcd/hexo-skill](https://github.com/linkcd/hexo-skill) - claude skill for hexo blogging framework
 - [zijieguo2003/blog-builder-skill](https://github.com/zijieguo2003/blog-builder-skill) - Claude Code skill: set up a personal blog from scratch (Hugo/Astro/Hexo/Next.js + GitHub Pages/Vercel/Cloudflare)
@@ -6050,7 +6053,6 @@
 - [open-webui/desktop](https://github.com/open-webui/desktop) - Open WebUI Desktop 🌐
 - [fxaxg/one-api-hub](https://github.com/fxaxg/one-api-hub) - One API Hub - 中转站管理器，一个开源的浏览器插件，聚合管理AI中转站账号的余额、模型和密钥，告别繁琐登录。
 - [xyTom/snippai](https://github.com/xyTom/snippai) - Snip Anything Solve Everything​
-- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [MaskerPRC/everything-ai-chat](https://github.com/MaskerPRC/everything-ai-chat) - 一个现代化的 Everything 搜索客户端，将 AI 智能与极速本地搜索完美结合。
 - [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) - Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Buil
@@ -7455,7 +7457,7 @@
 - [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source notes that live where you choose: your device, your server, or ours.
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
-- [remvze/pswd](https://github.com/remvze/pswd) - 🔑 Simple secure password generator.
+- [remvze/pswd](https://github.com/remvze/pswd) - Simple secure password generator.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -7497,6 +7499,7 @@
 - [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark) - TidyMark — Chrome/Edge 书签管理扩展 备份书签、一键整理分类，支持 AI 辅助优化；扫描失效书签，自动归档不常用书签，并提供新标签页导航和访问热度统计。& TidyMark — Chrome/Edge Bookmark Manager Backup and organize bookmarks with one-click auto categorization and op
 - [mylee04/code-notify](https://github.com/mylee04/code-notify) - Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script.
 - [Diraw/AI-Screenshot-Translator](https://github.com/Diraw/AI-Screenshot-Translator) - 🚀全新重构！AI论文阅读工具，一键截图AI翻译，支持数学公式，贴片截图，窗口锁定，归档管理
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 - [dd3v/favbox](https://github.com/dd3v/favbox) - 🔖 FavBox is a local-first experimental browser extension that enhances and simplifies bookmark management without cloud storage or third-party services.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [owlistic-notes/owlistic](https://github.com/owlistic-notes/owlistic) - 🦉 Free open-source notetaking app with real-time sync 🔄⚡️🚀
@@ -8021,7 +8024,7 @@
 - [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 - [gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image) - This React component is used to render Markdown into a beautiful poster image, with support for copying as an image. Md to Poster/Image/Quote/Card/Instagram/Twitter/Facebook...
 - [LiuYuYang01/ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress - From zero to blog/CMS — fast, smooth, and effortless.（一个让开发者轻松构建CMS与博客系统的解决方案。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -8268,7 +8271,7 @@
 - [dockovpn/dockovpn](https://github.com/dockovpn/dockovpn) - 🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds
 - [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
-- [remvze/pswd](https://github.com/remvze/pswd) - 🔑 Simple secure password generator.
+- [remvze/pswd](https://github.com/remvze/pswd) - Simple secure password generator.
 - [dazhengs/tools](https://github.com/dazhengs/tools) - a standalone toolkit supporting AES, SM4 encryption, RSA, SM2 encryption/sign/verify, hash,SM3 algorithms, encoding, and password generation—all offline and secure. 这是一个支持AES、SM4加密，RSA、SM2 签名/验签，哈希算法，
 - [ngc660sec/NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复（国内主流AI模型，扣子，FastGpt，Dify全面支持！），⚡视频号解析，😄自定义程
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -8286,7 +8289,7 @@
 ## security-tools 
 
 - [honmashironeko/ProxyCat](https://github.com/honmashironeko/ProxyCat) - 一款部署于云端或本地的隧道代理池中间件，可将静态代理IP灵活运用成隧道IP，提供固定请求地址，一次部署终身使用
-- [remvze/pswd](https://github.com/remvze/pswd) - 🔑 Simple secure password generator.
+- [remvze/pswd](https://github.com/remvze/pswd) - Simple secure password generator.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 
@@ -8979,7 +8982,7 @@
 - [Guizimo/cova](https://github.com/Guizimo/cova) - 简单易用的封面图片生成工具，为你的文章、视频、社交媒体创作提供专业的封面设计。
 - [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress - From zero to blog/CMS — fast, smooth, and effortless.（一个让开发者轻松构建CMS与博客系统的解决方案。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript-centric app development platform: notebook and AI app builder
 - [simply-none/latest-blogs](https://github.com/simply-none/latest-blogs) - my study records
@@ -9218,7 +9221,7 @@
 
 ## visualization 
 
-- [ChristopherLyon/graphrag-workbench](https://github.com/ChristopherLyon/graphrag-workbench) - Interactive 3D visualization of knowledge graphs generated by Microsoft GraphRAG. Explore entities, relationships, and communities with immersive visual analytics.
+- [lyon-industries/graphrag-workbench](https://github.com/lyon-industries/graphrag-workbench) - Interactive 3D visualization of knowledge graphs generated by Microsoft GraphRAG. Explore entities, relationships, and communities with immersive visual analytics.
 - [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [mark-when/markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -9547,6 +9550,7 @@
 
 ## wordpress 
 
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
 - [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [primocms/primo](https://github.com/primocms/primo) - Agent-native visual CMS. Build sites with Claude/Codex/whatever, manage them visually.
