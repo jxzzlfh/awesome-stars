@@ -344,7 +344,7 @@
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [eugeneyan/news-agents](https://github.com/eugeneyan/news-agents) - 📰 Building News Agents to Summarize News with MCP, Q, and tmux
 - [infiolab/infio-copilot](https://github.com/infiolab/infio-copilot) - A Cursor-inspired AI assistant for Obsidian that offers smart autocomplete and interactive chat with your selected notes
 - [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories 🕵️!
@@ -443,7 +443,7 @@
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source coding agent for the Grok API
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
@@ -454,7 +454,7 @@
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -608,7 +608,7 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [baoyudu/paper-burner](https://github.com/baoyudu/paper-burner) - Paper Burner - PDF文档OCR与翻译工具
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -707,7 +707,7 @@
 - [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
 - [xllm-go/bypass](https://github.com/xllm-go/bypass) - 集成了openai-api、coze、deepseek、cursor、windsurf、qodo、blackbox、you、grok、bing  绘画 多款AI的聊天逆向接口适配到 OpenAI API 标准接口服务端。
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [fisherdaddy/FisherAI](https://github.com/fisherdaddy/FisherAI) - FisherAI 是一款为提高学习效率而设计的Chrome插件，通过一键操作，支持自动摘要、网页及视频翻译、多轮对话等功能。此外，FisherAI 支持多种大语言模型，包括但不限于openai/gemini/deepseek/openrouter/siliconflow/doubao/xai/mistral/groq/yi/moonshot等等，为用户提供灵活且强大的AI工具。
 - [zyx0814/FilePress](https://github.com/zyx0814/FilePress) - 一款全新的文件驱动型建站系统
 - [aceway/weixin-dyh-ai](https://github.com/aceway/weixin-dyh-ai) - 一个支持将微信订阅号接入AI的后台管理系统。
@@ -896,7 +896,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [VoAPI/VoAPI](https://github.com/VoAPI/VoAPI) - 🎉 全新下一代高颜值、高性能、高扩展的智能AI大模型API聚合分发系统 | A new next-generation high-value, high-performance, and highly scalable intelligent AI large-model API aggregation and distribution
 - [Hoshinonyaruko/Gensokyo-llm](https://github.com/Hoshinonyaruko/Gensokyo-llm) - 开源的智能体项目 支持6种聊天平台 Onebotv11一对多连接 流式信息 agent 对话keyboard气泡生成 支持10+大模型接口(持续更新)  具有将多种大模型接口转化为带有上下文的通用格式的能力.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
@@ -1846,7 +1846,7 @@
 - [dd3v/favbox](https://github.com/dd3v/favbox) - 🔖 FavBox is a local-first experimental browser extension that enhances and simplifies bookmark management without cloud storage or third-party services.
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [pnd280/complexity](https://github.com/pnd280/complexity) - ⚡ Supercharge your favourite AI Chat web apps. Currently supports Perplexity AI.
 - [zhushen12580/smart-screenshot](https://github.com/zhushen12580/smart-screenshot) - 🔥The first intelligent screenshot tool of the AI eraAI时代的首款智能截图工具
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
@@ -2053,7 +2053,7 @@
 - [ykyritsis/ChatGPT-code-preview](https://github.com/ykyritsis/ChatGPT-code-preview) - Artifacts-like chrome extension for ChatGPT, inspired by Claude 3.5 Sonnet. Requires CSP unblocker for JS to function.
 - [ozgrozer/chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
 - [xllm-go/bypass](https://github.com/xllm-go/bypass) - 集成了openai-api、coze、deepseek、cursor、windsurf、qodo、blackbox、you、grok、bing  绘画 多款AI的聊天逆向接口适配到 OpenAI API 标准接口服务端。
-- [Lynavo/rag-gpt](https://github.com/Lynavo/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
+- [Lynavo/lynavo-drive](https://github.com/Lynavo/lynavo-drive) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [szczyglis-dev/py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, spe
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
@@ -2276,7 +2276,7 @@
 
 - [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 - [LiuYuYang01/ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://reactpress-theme-starter.vercel.app
 - [hefengbao/yuzhu](https://github.com/hefengbao/yuzhu) - 『玉竹』一套简洁的内容管理（博客、微博客）、财务管理（记账）系统。管理自己的数据㊙
 - [RavelloH/NeutralPress](https://github.com/RavelloH/NeutralPress) - 基于 Next.js 构建的下一代动态 CMS 博客系统，可免费部署的一站式解决方案：可视化可拖拽页面编辑、所见即所得/Markdown/MDX内容支持、媒体管理、访问分析、照片墙、自动友链管理、无限层级评论、邮箱通知、实时私信、Github 项目展示、多用户多权限账号管理、内置安全防护。
 - [primocms/primo](https://github.com/primocms/primo) - Agent-native visual CMS. Build sites with Claude/Codex/whatever, manage them visually.
@@ -2621,7 +2621,7 @@
 - [requestly/requestly](https://github.com/requestly/requestly) - Community hub for Requestly API Client — bugs, feature requests, and roadmap. The privacy-first Postman alternative.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -2840,6 +2840,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
+- [lzm0x219/vscode-github-markdown](https://github.com/lzm0x219/vscode-github-markdown) - 👾 Make VS Code Markdown Preview match GitHub as closely as possible.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
@@ -2956,7 +2957,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, d
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年7月6号更新 v5.5.14 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。你只需要拖入字幕，点击翻译就行了。软件有网页版（zimoo.app）和桌面版。主要特点：用户可以自己填 API key。BYOK（Bring Your Own Key）
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
@@ -3037,7 +3038,7 @@
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 - [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
 - [polius/FileSync](https://github.com/polius/FileSync) - Send files from one device to many in real-time.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [Robert-Stackflow/Moment](https://github.com/Robert-Stackflow/Moment) - Modern photo album blog that supports self-hosting, developed based on Vue and Naive UI and FastAPI.支持自托管的现代化相册博客，基于Vue、Naive UI和FastAPI开发。
 - [spoo-me/spoo](https://github.com/spoo-me/spoo) - spoo.me is an open-source & API first link management infra
 - [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
@@ -3045,6 +3046,7 @@
 - [Evil0ctal/Fast-Powerful-Whisper-AI-Services-API](https://github.com/Evil0ctal/Fast-Powerful-Whisper-AI-Services-API) - ⚡ 一款用于自动语音识别 (ASR)、翻译的高性能异步 API。不需要购买Whisper API，使用本地运行的Whisper模型进行推理，并支持多GPU并发，针对分布式部署进行设计。还内置了包括TikTok、抖音等社交媒体平台的爬虫，可实现来自多个社交平台的无缝媒体处理，为媒体内容数据自动化处理提供了强大且可扩展的解决方案。
 - [yigitkonur/api-llm-ocr](https://github.com/yigitkonur/api-llm-ocr) - PDF to markdown using vision LLMs — tables, layouts, and structure preserved
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - 开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。
 - [iimeta/fastapi-admin](https://github.com/iimeta/fastapi-admin) - 企业级 LLM API 快速集成系统，支持OpenAI、Azure、文心一言、讯飞星火、通义千问、智谱GLM、Gemini、DeepSeek、Anthropic Claude以及OpenAI格式的模型等，简洁的页面风格，轻量高效且稳定，支持Docker一键部署。
 - [yugongcoding/yugong_wiki](https://github.com/yugongcoding/yugong_wiki) - 愚公wiki是一款轻量的在线博客、知识库、个人笔记或企业文档协作平台，可下载桌面版作为个人笔记本，也可以在线编辑文档，当然也可以自行进行服务化部署，因为这是一款完全开源的写作平台
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
@@ -3274,6 +3276,7 @@
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Your Personal AI-Powered Information Hub
 - [tw93/Weekly](https://github.com/tw93/Weekly) - 🩴 Trendy Weekly records my non-boring life.
 - [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link
+- [lzm0x219/vscode-github-markdown](https://github.com/lzm0x219/vscode-github-markdown) - 👾 Make VS Code Markdown Preview match GitHub as closely as possible.
 - [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro) - 一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github
@@ -4305,7 +4308,7 @@
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-- [Lynavo/rag-gpt](https://github.com/Lynavo/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
+- [Lynavo/lynavo-drive](https://github.com/Lynavo/lynavo-drive) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -4922,7 +4925,7 @@
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 - [LiuYuYang01/ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://reactpress-theme-starter.vercel.app
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -4958,7 +4961,7 @@
 
 - [remnawave/panel](https://github.com/remnawave/panel) - A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://reactpress-theme-starter.vercel.app
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
@@ -4995,7 +4998,7 @@
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [arashvakil/LeiaGuard](https://github.com/arashvakil/LeiaGuard) - A secure WireGuard VPN management system with invitation-based registration, multi-device support, QR code setup, and admin tools. Built with Next.js 15.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [rockbenben/subtitle-translator](https://github.com/rockbenben/subtitle-translator) - ⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ·  批量字幕翻译，支持 120+ 语言
 - [weijunext/image-url-converter](https://github.com/weijunext/image-url-converter) - A simple tool that converts any image URL into a permanent link hosted on Cloudflare R2. Perfect for individuals or small projects needing image hosting services.
@@ -5019,7 +5022,7 @@
 - [Y80/bmm](https://github.com/Y80/bmm) - 🤵 BMM - Your Personal Bookmark Manager | 你的专属书签管家
 - [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 - [LiuYuYang01/ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://reactpress-theme-starter.vercel.app
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -5029,9 +5032,10 @@
 - [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
 - [Dhravya/notty](https://github.com/Dhravya/notty) - An open source, minimal AI powered note taking app and powerful markdown editor
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - 开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。
 - [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) - Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
-- [Lynavo/rag-gpt](https://github.com/Lynavo/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
+- [Lynavo/lynavo-drive](https://github.com/Lynavo/lynavo-drive) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [sunls24/nextai](https://github.com/sunls24/nextai) - 一个简单而优雅的 AI 聊天程序
@@ -5431,7 +5435,7 @@
 - [3ru/gpt-translate](https://github.com/3ru/gpt-translate) - 💬Translate Files into Any Languages with AI
 - [rashadphz/farfalle](https://github.com/rashadphz/farfalle) - 🔍 AI search engine - self-host with local or cloud LLMs
 - [fisherdaddy/FisherAI](https://github.com/fisherdaddy/FisherAI) - FisherAI 是一款为提高学习效率而设计的Chrome插件，通过一键操作，支持自动摘要、网页及视频翻译、多轮对话等功能。此外，FisherAI 支持多种大语言模型，包括但不限于openai/gemini/deepseek/openrouter/siliconflow/doubao/xai/mistral/groq/yi/moonshot等等，为用户提供灵活且强大的AI工具。
-- [Lynavo/rag-gpt](https://github.com/Lynavo/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
+- [Lynavo/lynavo-drive](https://github.com/Lynavo/lynavo-drive) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
 - [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
@@ -6110,7 +6114,7 @@
 - [srijanshukla18/claude-memory-viz](https://github.com/srijanshukla18/claude-memory-viz) - Claude Memory MCP Visualizer
 - [yyyyymmmmm/IntRoot](https://github.com/yyyyymmmmm/IntRoot) - 一款基于 Memos 系统打造第三方安卓iOS的极简笔记应用，专为追求高效记录与深度积累的用户设计。 它帮助你默默书写、静心沉淀，让每一次落笔都成为未来思想生根发芽的力量。  完美对接 Memos 服务器，保障数据安全与私密，适合个人及团队的知识管理需求。 无论是快速捕捉灵感，还是系统性整理思考，墨鸣都助你沉淀积累，厚积薄发。
 - [zimplexing/claude-code-proxy-enhance](https://github.com/zimplexing/claude-code-proxy-enhance) - Claude Code to OpenAI API Proxy
-- [qichiyuhub/rule](https://github.com/qichiyuhub/rule) - Clash、Sing-box、等分流规则
+- [qichiyuhub/rule](https://github.com/qichiyuhub/rule) - mihomo、Sing-box、等配置文件
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
 - [ConardLi/easy-llm-cli](https://github.com/ConardLi/easy-llm-cli) - An open-source AI agent that is compatible with multiple LLM models
 - [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
@@ -6291,7 +6295,7 @@
 - [beilunyang/moepush](https://github.com/beilunyang/moepush) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
 - [lmgame-org/GamingAgent](https://github.com/lmgame-org/GamingAgent) - [ICLR 2026] LLM/VLM gaming agents and model evaluation through games.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [mem0ai/grok3-api](https://github.com/mem0ai/grok3-api) - Unofficial Grok 3 API
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [Ackites/Nrfr](https://github.com/Ackites/Nrfr) - 🌍 免 Root 的 SIM 卡国家码修改工具 | 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制
@@ -6527,7 +6531,6 @@
 - [iKunpw/auto-ncmdump](https://github.com/iKunpw/auto-ncmdump) - 使用 ncmdump ，实现全自动网易云音乐ncm格式转mp3
 - [CH563/image-beautifier](https://github.com/CH563/image-beautifier) - 在线截图美化工具，支持添加批注，裁剪，局部放大等，并预设各社媒尺寸和导出高清图
 - [scenery/mediax](https://github.com/scenery/mediax) - A self-hosted tracker for books, movies, TV shows, anime, and games. # 一款轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。
-- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - 
 - [aaaaa-pi/zipideo](https://github.com/aaaaa-pi/zipideo) - ⚡zipideo: 视频压缩桌面端软件
 - [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
@@ -7695,7 +7698,7 @@
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.
 - [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [WGDashboard/WGDashboard](https://github.com/WGDashboard/WGDashboard) - Simple dashboard for WireGuard VPN written in Python & Vue.js
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
@@ -7732,6 +7735,7 @@
 - [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein) - No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.
+- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - 开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。
 - [harry0703/AudioNotes](https://github.com/harry0703/AudioNotes) - 快速提取音视频内容，整理成一份结构化的markdown笔记
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [Ikaros-521/RealtimeSTT_LLM_TTS](https://github.com/Ikaros-521/RealtimeSTT_LLM_TTS) - 实时STT，连接OpenAI接口/智谱AI（流式LLM）和GPT-SOVITS/Edge-TTS，通过网页的方式，进行跨网络的服务调用，实现实时对话的效果
@@ -7739,8 +7743,8 @@
 - [yugongcoding/yugong_wiki](https://github.com/yugongcoding/yugong_wiki) - 愚公wiki是一款轻量的在线博客、知识库、个人笔记或企业文档协作平台，可下载桌面版作为个人笔记本，也可以在线编辑文档，当然也可以自行进行服务化部署，因为这是一款完全开源的写作平台
 - [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
-- [Lynavo/rag-gpt](https://github.com/Lynavo/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [Lynavo/lynavo-drive](https://github.com/Lynavo/lynavo-drive) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [arry-lee/wereader](https://github.com/arry-lee/wereader) - 一个功能全面的微信读书笔记助手 wereader
@@ -7858,7 +7862,7 @@
 - [WhisperSpeech/WhisperSpeech](https://github.com/WhisperSpeech/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [LinkSoul-AI/Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) - 开源社区第一个能下载、能运行的中文 LLaMA2 模型！
@@ -7925,7 +7929,7 @@
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
@@ -7952,7 +7956,7 @@
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [Lynavo/rag-gpt](https://github.com/Lynavo/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
+- [Lynavo/lynavo-drive](https://github.com/Lynavo/lynavo-drive) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information re
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [yokingma/SearChat](https://github.com/yokingma/SearChat) - Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
@@ -8043,7 +8047,7 @@
 - [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 - [gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image) - This React component is used to render Markdown into a beautiful poster image, with support for copying as an image. Md to Poster/Image/Quote/Card/Instagram/Twitter/Facebook...
 - [LiuYuYang01/ThriveX-Blog](https://github.com/LiuYuYang01/ThriveX-Blog) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://reactpress-theme-starter.vercel.app
 - [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp) - PasteBar - Limitless, Free Clipboard Manager for Mac and Windows
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -8251,7 +8255,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
@@ -8394,7 +8398,7 @@
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Free web archiving and sharing service.
+- [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Selfhost web archiving and sharing service.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) - Minimalistic web app designed for sending private and secure notes.
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
@@ -8504,7 +8508,7 @@
 
 - [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - ✦ Gemini ➜ OpenAI API proxy. Serverless!
 - [honmaple/maple-file](https://github.com/honmaple/maple-file) - Multi-protocol cloud file upload and management with serverless / 无服务端的多协议云盘文件上传和管理APP
-- [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Free web archiving and sharing service.
+- [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Selfhost web archiving and sharing service.
 - [guobao2333/DeepLX-Serverless](https://github.com/guobao2333/DeepLX-Serverless) - Free DeepL API for Serverless
 - [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 - [0-RTT/telegraph](https://github.com/0-RTT/telegraph) - 基于 Cloudflare Worker 和 Pages 的图床/视频床/文件床，轻松实现无服务器部署！
@@ -8874,6 +8878,7 @@
 - [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/multiplatform CPU, AMD, NVIDIA GPU PyTorch support, handling, and auto-stitching
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 - [ElmTran/praises](https://github.com/ElmTran/praises) - Praises is a text-to-speech tool that can help you read text easily.
+- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - 开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [lenML/Speech-AI-Forge](https://github.com/lenML/Speech-AI-Forge) - 🍦 Speech-AI-Forge is a project developed around TTS generation model, implementing an API Server and a Gradio-based WebUI.
 - [6drf21e/ChatTTS_colab](https://github.com/6drf21e/ChatTTS_colab) - 🚀 一键部署（含离线整合包）！基于 ChatTTS ，支持流式输出、音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
@@ -8903,7 +8908,6 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [happyapplehorse/gptui](https://github.com/happyapplehorse/gptui) - GPTUI is a GPT conversational TUI (Textual User Interface) tool that runs within the terminal. It has some distinctive features, such as multi-AI group chat, AI-initiated care, and other functionaliti
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [adithya-s-sekhar/advanced-youtube-client-ayc](https://github.com/adithya-s-sekhar/advanced-youtube-client-ayc) - AYC is a highly responsive, no nonsense, easy to use, fast video downloader from the text based era.
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 
@@ -8979,7 +8983,7 @@
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents Competitive Intelligence. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
 - [AnthonyGress/lab-dash](https://github.com/AnthonyGress/lab-dash) - An open-source dashboard designed to manage your server/homelab applications and services.
@@ -9001,7 +9005,7 @@
 - [Guizimo/cova](https://github.com/Guizimo/cova) - 简单易用的封面图片生成工具，为你的文章、视频、社交媒体创作提供专业的封面设计。
 - [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://reactpress-theme-starter.vercel.app
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript-centric app development platform: notebook and AI app builder
 - [simply-none/latest-blogs](https://github.com/simply-none/latest-blogs) - my study records
@@ -9012,6 +9016,7 @@
 - [Femoon/tts-azure-web](https://github.com/Femoon/tts-azure-web) - TTS Azure Web 是一个 Azure 文本转语音（TTS）网页应用，可以在本地或者云端使用你的 Azure Key 一键部署。TTS Azure Web is an Azure Text-to-Speech (TTS) web application. It allows you to run it locally or deploy it with a single click usi
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
+- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - 开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。
 - [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
@@ -9236,6 +9241,7 @@
 - [shayne-snap/WayLog](https://github.com/shayne-snap/WayLog) - WayLog - Save & Export AI Chat History. A local-first extension that turns your fleeting AI conversations into a permanent, git-friendly knowledge base.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
+- [lzm0x219/vscode-github-markdown](https://github.com/lzm0x219/vscode-github-markdown) - 👾 Make VS Code Markdown Preview match GitHub as closely as possible.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## visualization 
@@ -9362,7 +9368,7 @@
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年7月6号更新 v5.5.14 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。你只需要拖入字幕，点击翻译就行了。软件有网页版（zimoo.app）和桌面版。主要特点：用户可以自己填 API key。BYOK（Bring Your Own Key）
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 
 ## web 
@@ -9570,7 +9576,7 @@
 
 ## wordpress 
 
-- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com
+- [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://reactpress-theme-starter.vercel.app
 - [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [primocms/primo](https://github.com/primocms/primo) - Agent-native visual CMS. Build sites with Claude/Codex/whatever, manage them visually.
@@ -9619,6 +9625,7 @@
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+- [liuzhao1225/YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) - 开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
 - [iamfugui/youtube-adb](https://github.com/iamfugui/youtube-adb) - A script to remove YouTube ads, including static ads and video ads, without interfering with the network and ensuring safety.  脚本用于移除YouTube广告，包括静态广告和视频广告。不会干扰网络，安全。
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
