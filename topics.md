@@ -2476,7 +2476,6 @@
 - [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [ChawlaAvi/Daily-Dose-of-Data-Science](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science) - A collection of code snippets from the publication Daily Dose of Data Science on Substack: http://www.dailydoseofds.com/
-- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
 
 ## data-engineering 
@@ -2503,7 +2502,6 @@
 - [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
 - [julien040/anyquery](https://github.com/julien040/anyquery) - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - [ChawlaAvi/Daily-Dose-of-Data-Science](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science) - A collection of code snippets from the publication Daily Dose of Data Science on Substack: http://www.dailydoseofds.com/
-- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 
 ## database 
 
@@ -2513,7 +2511,6 @@
 - [yy0931/sqlite3-editor](https://github.com/yy0931/sqlite3-editor) - 
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
-- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python
@@ -3389,7 +3386,6 @@
 - [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS Fusion Monster Server Test GO Version Aiming to be the most comprehensive server testing project, implemented in Go with zero environment dependencies.      VPS融合怪服务器测评项目 GO版本 尽量成为最全能的服务器测评项目，使用 G
 - [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured information from PDFs, Office documents, images, and 97+ formats. Available for Rust, Python
-- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -4859,7 +4855,6 @@
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [yenche123/liubai](https://github.com/yenche123/liubai) - Supercharge yourself!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [jamebal/jmal-cloud-view](https://github.com/jamebal/jmal-cloud-view) - JmalCloud It's a private cloud storage project that makes it simple and secure to manage your files in the cloud. JmalCloud 是一款私有云存储网盘项目，能够简单安全管理您的云端文件
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 后端程序员应该掌握的主流数据库知识
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
@@ -5413,7 +5408,6 @@
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 - [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
-- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [VoAPI/VoAPI](https://github.com/VoAPI/VoAPI) - 🎉 全新下一代高颜值、高性能、高扩展的智能AI大模型API聚合分发系统 | A new next-generation high-value, high-performance, and highly scalable intelligent AI large-model API aggregation and distribution
@@ -5578,6 +5572,7 @@
 
 ## others 
 
+- [zoro-build/wechat](https://github.com/zoro-build/wechat) - 公号三刀 · 公众号文章抓取下载导出及RSS等一站式解决方案
 - [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
 - [panggungunvibe/wanwu-jieke-haaland](https://github.com/panggungunvibe/wanwu-jieke-haaland) - 万物皆可哈兰德 Codex skill for generating HAALAND novelty ice-pop images.
 - [panggungunvibe/atutun-xhs-cover-v2](https://github.com/panggungunvibe/atutun-xhs-cover-v2) - 阿囤囤风格小红书封面提示词生成 Codex Skill v2
@@ -5628,7 +5623,6 @@
 - [zarazhangrui/lark-coding-agent-bridge](https://github.com/zarazhangrui/lark-coding-agent-bridge) - Bot that bridges Feishu/Lark messenger with a local Claude Code or Codex CLI. Streaming cards, per-chat sessions, multiple workspaces
 - [joeseesun/Qiaomu-QuickPrompt](https://github.com/joeseesun/Qiaomu-QuickPrompt) - Chrome side-panel prompt manager with shortcut expansion and built-in Chinese prompt library
 - [mouxue56-debug/opendeepseek](https://github.com/mouxue56-debug/opendeepseek) - OpenDeepSeek: one-click local DeepSeek V4 Agent with Open WebUI and Hermes
-- [xiangruiai/vantasma-toolkit](https://github.com/xiangruiai/vantasma-toolkit) - 万涂幻象工具箱：vchat、祥瑞白板录制工具与 AI 工作流 Skills
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [helloianneo/claude-code-handbook](https://github.com/helloianneo/claude-code-handbook) - Claude Code 高阶指南：从会用到用好 | 8 章 + 3 附录 | 深入研究工作原理，把「能用」变成「用好」
 - [helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt) - 中文手绘技术 PPT 整页图像生成 Skill | 21:9 封面 + 16:9 正文配图 | PNG 输出
@@ -5647,7 +5641,7 @@
 - [ike-sh/Xray-OneClick](https://github.com/ike-sh/Xray-OneClick) - 基于 Xray-core 的多协议菜单式一键安装脚本，支持 SS2022、VLESS Encryption 和 SOCKS5
 - [ljxi/NetworkPanel](https://github.com/ljxi/NetworkPanel) - 测试您的网速，多出口查询您的ip地址
 - [YunFan857/wechat-xiaolvshu-banma](https://github.com/YunFan857/wechat-xiaolvshu-banma) - 专为小红书、公众号设计的AI图文生成工具，一键生成手绘信息图风格封面图
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates a real, editable PowerPoint from any document — native shapes & animations, editable charts & tables you can change the data on, speaker notes voiced as audio narration, and the option to
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
 - [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
 - [agentscope-ai/AgentTeams](https://github.com/agentscope-ai/AgentTeams) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
@@ -8126,7 +8120,6 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [simply-none/latest-blogs](https://github.com/simply-none/latest-blogs) - my study records
-- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - Interactive YouTube extension built with React, Tailwind CSS, and Plasmo. It integrates with the OpenAI API to enable real-time video chat, providing summaries, Q&A, and context-aware responses direct
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
@@ -8249,7 +8242,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
@@ -8394,6 +8387,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Ray-D-Song/web-archive](https://github.com/Ray-D-Song/web-archive) - Selfhost web archiving and sharing service.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
+- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) - Minimalistic web app designed for sending private and secure notes.
 - [daya0576/beaverhabits](https://github.com/daya0576/beaverhabits) - A self-hosted habit tracking app without "Goals"
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
@@ -9003,7 +8997,6 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [srcbookdev/srcbook](https://github.com/srcbookdev/srcbook) - TypeScript-centric app development platform: notebook and AI app builder
 - [simply-none/latest-blogs](https://github.com/simply-none/latest-blogs) - my study records
-- [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence
 - [ElmTran/praises](https://github.com/ElmTran/praises) - Praises is a text-to-speech tool that can help you read text easily.
 - [opensumi/core](https://github.com/opensumi/core) - A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server.
 - [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify.
