@@ -596,7 +596,7 @@
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown（寻找维护者）
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [enchant97/hasty-paste](https://github.com/enchant97/hasty-paste) - Paste it all, with haste.
 - [acheong08/ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
 - [juzeon/SydneyQt](https://github.com/juzeon/SydneyQt) - A cross-platform desktop client for the jailbroken New Bing AI Copilot (Sydney ver.) built with Go and Wails (previously based on Python and Qt).
@@ -885,7 +885,7 @@
 ## JavaScript 
 
 - [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
-- [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) - 人工精选的免费无广告追剧资源导航，每日自动检测可用性。收录在线影视、影视APP、网盘搜索、磁力 BT、字幕、TVBox / 影视仓配置地址、IPTV 订阅源。开源，社区共同维护。
+- [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV 订阅源、会员拼团、影视相关开源项目。开源，社区共同维护。
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -1545,6 +1545,8 @@
 
 ## Others 
 
+- [0voice/awesome-ai-tools](https://github.com/0voice/awesome-ai-tools) - Curated list of awesome AI tools for developers, content creators and office workers. Free, practical and easy to use.
+- [JuneYaooo/awesome-ai-media-cn](https://github.com/JuneYaooo/awesome-ai-media-cn) - AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文生视频、多平台分发、字幕翻译等 150+ 开源项目，每周更新。
 - [zoro-build/wechat](https://github.com/zoro-build/wechat) - 公号三刀 · 公众号文章抓取下载导出及RSS等一站式解决方案
 - [panggungunvibe/wanwu-jieke-haaland](https://github.com/panggungunvibe/wanwu-jieke-haaland) - 万物皆可哈兰德 Codex skill for generating HAALAND novelty ice-pop images.
 - [panggungunvibe/atutun-xhs-cover-v2](https://github.com/panggungunvibe/atutun-xhs-cover-v2) - 阿囤囤风格小红书封面提示词生成 Codex Skill v2
@@ -2215,7 +2217,7 @@
 - [gelbphoenix/autocaliweb](https://github.com/gelbphoenix/autocaliweb) - (MOVED TO CODEBERG) :books: Web managing platform for eBooks, eComics and PDFs
 - [murtaza-nasir/maestro](https://github.com/murtaza-nasir/maestro) - MAESTRO is an AI-powered research application designed to streamline complex research tasks.
 - [daquino94/rss-telegram](https://github.com/daquino94/rss-telegram) - A Python bot that monitors RSS feeds and sends notifications to a Telegram chat when new content is published. The bot checks feeds at regular intervals, keeps track of which items have already been s
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our D
 - [eugeneyan/news-agents](https://github.com/eugeneyan/news-agents) - 📰 Building News Agents to Summarize News with MCP, Q, and tmux
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -2766,7 +2768,7 @@
 
 ## Rust 
 
-- [vorojar/md-preview](https://github.com/vorojar/md-preview) - Native Markdown previewer for AI-generated docs. Fast desktop and Android builds with Open File, recent files, search, offline Mermaid/KaTeX, and no Electron.
+- [vorojar/md-preview](https://github.com/vorojar/md-preview) - Native, local-first Markdown preview and quick editor. Multi-document tabs, session restore, macOS Finder workflow, offline Mermaid/KaTeX. Rust + system WebView, no Electron.
 - [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
@@ -2897,7 +2899,7 @@
 - [ike-sh/Xray-OneClick](https://github.com/ike-sh/Xray-OneClick) - 基于 Xray-core 的多协议菜单式一键安装脚本，支持 SS2022、VLESS Encryption 和 SOCKS5
 - [ddong8/openclaw-kasmvnc](https://github.com/ddong8/openclaw-kasmvnc) - One-click deployment for OpenClaw + KasmVNC. Browser-based remote desktop with full container lifecycle management.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 50 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
@@ -3053,6 +3055,7 @@
 
 ## TypeScript 
 
+- [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
 - [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude) - 
 - [charleslee8266/cardnav-web](https://github.com/charleslee8266/cardnav-web) - 卡网大全：一站式 AI 大模型账号购买导航。聚合 AI 中转站、卡网、官方订阅比价，还有模型排行、使用指南、实用工具，帮你少踩坑，少花钱。
 - [Augani/openreel-video](https://github.com/Augani/openreel-video) - OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
@@ -3086,7 +3089,7 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [OpenLoaf/OpenLoaf](https://github.com/OpenLoaf/OpenLoaf) - 🍞Open-source, local-first AI workspace with Agents, multi-model chat (GPT/Claude/Gemini/DeepSeek), Notion-like docs, AI image & video generation, email, calendar & terminal. Your data never leaves you
 - [BuildWithAIs/voicekey](https://github.com/BuildWithAIs/voicekey) - Voice to text, one key to input.
-- [proma-ai/Proma](https://github.com/proma-ai/Proma) - 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。
+- [proma-ai/Proma](https://github.com/proma-ai/Proma) - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era, it supports Claude and Pi runtimes, Feishu group chats, and any LLM
 - [Michaelooo/chrome-rss](https://github.com/Michaelooo/chrome-rss) - 一个现代化的 Chrome RSS 阅读器插件，灵感来自 Feedbro，使用最新的 Manifest V3 规范构建。
 - [Yeung9203/MarkPage](https://github.com/Yeung9203/MarkPage) - 智能书签管理扩展 — AI 自动分类、标签整理、美观新标签页
 - [EKKOLearnAI/hermes-studio](https://github.com/EKKOLearnAI/hermes-studio) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
@@ -3102,7 +3105,7 @@
 - [BytePioneer-AI/weixin-agent-gateway](https://github.com/BytePioneer-AI/weixin-agent-gateway) - 一个面向微信入口的多后端 AI 网关，解耦微信接入层与后端路由层，统一接入 OpenClaw、Codex、Claude Code 等平级后端。
 - [BytePioneer-AI/openclaw-china](https://github.com/BytePioneer-AI/openclaw-china) - OpenClaw中国插件：支持飞书，钉钉，QQ，企业微信，微信
 - [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) - AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.
-- [jnMetaCode/agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - 🚀 One sentence → multi-AI-role collaboration → complete plan in minutes. Built on the agency-agents role library (216+ experts), zero-code YAML, web Studio + desktop app, 10 LLM providers (7 free). 基于
+- [jnMetaCode/agency-orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - 🚀 One sentence → your one-person company of AI experts → complete deliverable in minutes. 216 CN + 184 EN roles · zero-code YAML · auto-verified acceptance · Web Studio / Desktop / Docker · 11 LLM pro
 - [YouMind-OpenLab/skills](https://github.com/YouMind-OpenLab/skills) - YouMind skills for Claude Code
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
@@ -3154,7 +3157,7 @@
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [m1heng/clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu) - 
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powerful extension. / Google Gemini & AI Studio 全能增强插件：集成
+- [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager) - Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude & ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [ZhFahim/anchor](https://github.com/ZhFahim/anchor) - Offline first, self hostable note taking application
 - [PDFCraftTool/pdfcraft](https://github.com/PDFCraftTool/pdfcraft) - PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ professional tools, you can edit, convert, merge, split, and secure your PDF files without ever uploading t
