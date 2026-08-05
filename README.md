@@ -708,7 +708,7 @@
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [rcy1314/noisedh-nav](https://github.com/rcy1314/noisedh-nav) - 一个可前后端分离带扩展一键收藏的hugo框架导航，你想要的动态还是静态部署它都有，可以通过简单配置配合不同的组件效果打造专属的导航网站
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-- [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) - 🦞 U-Claw 虾盘 - OpenClaw AI 助手离线安装 U 盘 | 👑 新品 U-King AI 装机管家：一键装好 Claude Code/Codex/OpenClaw → u-king.org | Remote support & custom AI development
+- [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) - U-Claw 虾盘 — OpenClaw AI 助手离线安装 U 盘：一键装好 Claude Code/Codex/OpenClaw，无需联网即插即用；新品 U-King AI 装机管家详见 u-king.org，另有远程支持与定制 AI 开发。
 - [Rancho-7/subtitle-optimizer](https://github.com/Rancho-7/subtitle-optimizer) - 🎬 An AI Agent skill for reviewing and optimizing SRT subtitles with an interactive diff panel.
 - [SpaceZephyr/pm-skills](https://github.com/SpaceZephyr/pm-skills) - 
 - [ringhyacinth/Star-Office-UI](https://github.com/ringhyacinth/Star-Office-UI) - A pixel office for your OpenClaw: turn invisible work states into a cozy little space with characters, daily notes, and guest agents. Code under MIT; art assets for non-commercial learning only.
@@ -889,6 +889,8 @@
 
 ## JavaScript 
 
+- [asuojun/claude-vision-skill](https://github.com/asuojun/claude-vision-skill) - 
+- [liyupi/ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cu
 - [ihmily/doubao-nomark](https://github.com/ihmily/doubao-nomark) - 一键下载无水印豆包AI图片/视频API | 浏览器扩展| 微软Edge插件 | 解析API
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
@@ -914,7 +916,7 @@
 - [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill) - dontbesilent 的商业诊断 Skills
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 - [aattaran/deepclaude](https://github.com/aattaran/deepclaude) - Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
-- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding Course Beginners to Master Step by Step.
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻  The first course for AI-native product builders.
 - [ywleeo/mark2](https://github.com/ywleeo/mark2) - Markdown 工具，很好用，有这一个就够了。
 - [rcy1314/nav-manage](https://github.com/rcy1314/nav-manage) - Nav-manage 为静态导航带来强大的管理扩展
 - [ZekerTop/ai-cli-complete-notify](https://github.com/ZekerTop/ai-cli-complete-notify) - 面向 Claude Code / Codex / OpenCode / Gemini  的多通道AI CLI 任务完成提醒，支持耗时阈值、桌面端与命令行、通用 Webhook（飞书/钉钉/企微）、Telegram、邮件、桌面/声音提示，配备自动监听日志，AI摘要等功能
@@ -2238,6 +2240,7 @@
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 - [eugeneyan/news-agents](https://github.com/eugeneyan/news-agents) - 📰 Building News Agents to Summarize News with MCP, Q, and tmux
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [baidu-maps/mcp](https://github.com/baidu-maps/mcp) - Baidu Map MCP Server
 - [seabee33/wireguard_helper](https://github.com/seabee33/wireguard_helper) - 
 - [denizsafak/abogen](https://github.com/denizsafak/abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
@@ -2790,7 +2793,7 @@
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
-- [GCWing/BitFun](https://github.com/GCWing/BitFun) - BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、 Cowork Agent、Computer Use. It has memory, personality, and the ability to evolv
+- [GCWing/BitFun](https://github.com/GCWing/BitFun) - BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond softwar
 - [wm94i/Work-Review](https://github.com/wm94i/Work-Review) - Automatically tracks which apps you used, which websites you visited, and how much time you spent in each app throughout the day.
 - [MistRipple/magi-code](https://github.com/MistRipple/magi-code) - 本地优先的多智能体 AI 编程客户端，支持 Windows、macOS 与 Linux，可接入 OpenAI/Anthropic 兼容接口，自由配置主模型、辅助模型和子代理模型，并支持多智能体并行协作、浏览器及远程访问。
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
@@ -2801,7 +2804,6 @@
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
-- [ox01024/cmirror](https://github.com/ox01024/cmirror) - 🇨🇳 Cmirror: 专为中国大陆开发者打造的一键换源工具 (A unified CLI for managing mirrors: Pip, NPM, Docker, Cargo, Apt, Go, Brew).
 - [readur/readur](https://github.com/readur/readur) - Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience.
 - [komorebiCarry/BaiduPCS-Rust](https://github.com/komorebiCarry/BaiduPCS-Rust) - 一个使用 Rust 和 Vue 3 构建的 百度网盘第三方客户端，提供多线程下载、多账号管理、自动备份与本地侧加密上传能力，并支持 Web 管理、访问密码与 TOTP 双因素认证。
 - [sunjackson/claude-code-proxy](https://github.com/sunjackson/claude-code-proxy) - 一个功能强大的跨平台桌面应用，用于管理 Claude Code 的本地代理服务
@@ -2855,7 +2857,7 @@
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [everydaythingssoftware/citadel](https://github.com/everydaythingssoftware/citadel) - Manage your ebook library without frustrations. Calibre compatible.
-- [Losketch/Unicode-Flash-Mob](https://github.com/Losketch/Unicode-Flash-Mob) - Unicode快闪视频生成器
+- [Losketch/Unicode-Flash-Mob](https://github.com/Losketch/Unicode-Flash-Mob) - Unicode flash mob generator / Unicode快闪视频生成器
 - [hack-ink/AiR](https://github.com/hack-ink/AiR) - AI with Rust.
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 - [lmm214/Pake](https://github.com/lmm214/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
@@ -3169,7 +3171,7 @@
 - [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md) - 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
 - [jarodise/XQuery](https://github.com/jarodise/XQuery) - 
-- [liwenka1/zhiyuan](https://github.com/liwenka1/zhiyuan) - 🪁 纸鸢 - 本地优先的 Markdown 工作台 | zhiyuan - A local-first Markdown workspace
+- [liwenka1/zhiyuan](https://github.com/liwenka1/zhiyuan) - 🪁 A local-first Markdown workspace | 本地优先的 Markdown 工作台
 - [tencent-connect/openclaw-qqbot](https://github.com/tencent-connect/openclaw-qqbot) - qqbot
 - [AlexAnys/openclaw-feishu](https://github.com/AlexAnys/openclaw-feishu) - 飞书插件 × OpenClaw 保姆级配置指南 & 社区支持 （0328 - 更新飞书cli调用指南，增加 API 耗尽根因排查、Lark Webhook 内网穿透方案）
 - [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
@@ -3439,7 +3441,6 @@
 - [star7th/coolmonitor](https://github.com/star7th/coolmonitor) - 一个高颜值的监控工具，支持网站监控/接口监控/HTTPS证书监控等。CoolMonitor is a beautiful monitoring tool that supports website monitoring, API monitoring, HTTPS certificate monitoring, and more...
 - [someone1128/WeChatReaderEnhancer](https://github.com/someone1128/WeChatReaderEnhancer) - 公众号阅读增强插件是一款 Chrome 浏览器扩展，旨在提升用户阅读微信公众号文章的体验。通过自动生成文章的结构化目录，让您轻松了解文章结构、快速导航到感兴趣的部分，并在阅读长文时保持位置感知。
 - [Nutlope/smartpdfs](https://github.com/Nutlope/smartpdfs) - Summarize PDFs into beautiful sections with Llama 3.3
-- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [AmoyLab/Unla](https://github.com/AmoyLab/Unla) - 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring n
 - [nanbingxyz/mcpsvr](https://github.com/nanbingxyz/mcpsvr) - Discover Exceptional MCP Servers
 - [samanhappy/mcphub](https://github.com/samanhappy/mcphub) - A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies.
