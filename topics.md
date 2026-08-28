@@ -324,6 +324,7 @@
 - [LeoYeAI/openclaw-backup](https://github.com/LeoYeAI/openclaw-backup) - One-click backup & restore for OpenClaw instances — workspace, credentials, skills, agent history. Powered by MyClaw.ai
 - [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) - ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://cl
 - [hrygo/divinesense](https://github.com/hrygo/divinesense) - AI 驱动的个人第二大脑 — 通过智能代理自动化任务、过滤高价值信息、以技术杠杆提升生产力
+- [Shangjin-Xiao/ThoughtEcho](https://github.com/Shangjin-Xiao/ThoughtEcho) - 📝 你的专属灵感摘录本 / Your Personal Inspiration Notebook with AI Power ✨
 - [voquill/voquill](https://github.com/voquill/voquill) - Open source voice dictation technology
 - [ysyx2008/SailFish](https://github.com/ysyx2008/SailFish) - 一个优雅的私人AI秘书，DeepSeek最佳伴侣，开源版“WorkBuddy”。
 - [datawhalechina/vibe-vibe](https://github.com/datawhalechina/vibe-vibe) - AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn   ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创
@@ -872,7 +873,7 @@
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &
 - [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) - 50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.a
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
@@ -2008,7 +2009,7 @@
 - [charleslee8266/cardnav-web](https://github.com/charleslee8266/cardnav-web) - 卡网大全：一站式 AI 大模型账号购买导航。聚合 AI 中转站、卡网、官方订阅比价，还有模型排行、使用指南、实用工具，帮你少踩坑，少花钱。
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [yzfly/awesome-skills-zh](https://github.com/yzfly/awesome-skills-zh) - 🚀 精选 Claude Skills、Agent Skills、LLM Skills 及 AI 智能体开发资源列表（中文）。A curated list of awesome Claude / Agent / LLM Skills.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -2159,7 +2160,7 @@
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills) - 50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.a
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [yzfly/awesome-skills-zh](https://github.com/yzfly/awesome-skills-zh) - 🚀 精选 Claude Skills、Agent Skills、LLM Skills 及 AI 智能体开发资源列表（中文）。A curated list of awesome Claude / Agent / LLM Skills.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
@@ -2258,7 +2259,7 @@
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
 - [yzfly/awesome-skills-zh](https://github.com/yzfly/awesome-skills-zh) - 🚀 精选 Claude Skills、Agent Skills、LLM Skills 及 AI 智能体开发资源列表（中文）。A curated list of awesome Claude / Agent / LLM Skills.
 - [browser-act/skills](https://github.com/browser-act/skills) - Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated m
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
@@ -2509,7 +2510,7 @@
 - [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用Blazor开发，支持Android，Windows，macOS，Web，Linux。"SwashbucklerDiary" is an open source cross-platform local diary app using Blazor , support Android，Windows，macOS，Web，Linux.
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
@@ -2967,6 +2968,7 @@
 
 ## dsh-plugin 
 
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) - 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, 
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) - DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
@@ -2997,6 +2999,7 @@
 
 ## electron 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [MkThingsHQ/mkagent](https://github.com/MkThingsHQ/mkagent) - A local-first, Pi-powered AI agent workspace for Desktop, WebUI, and CLI
 - [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.
 - [aqm857886159/Nomi](https://github.com/aqm857886159/Nomi) - Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeli
@@ -3098,7 +3101,7 @@
 
 ## elixir 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
@@ -3521,7 +3524,7 @@
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) - VPS Fusion Monster Server Test GO Version Aiming to be the most comprehensive server testing project, implemented in Go with zero environment dependencies.      VPS融合怪服务器测评项目 GO版本 尽量成为最全能的服务器测评项目，使用 G
 - [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 – An open-source, self-hosted lightweight publishing platform for personal idea sharing.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -3869,7 +3872,7 @@
 - [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。AI驱动功能强大的IDE。
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [stealthcopter/AndroidNetworkTools](https://github.com/stealthcopter/AndroidNetworkTools) - Set of useful android network tools
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -4185,6 +4188,7 @@
 
 ## linux 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
 - [ddong8/openclaw-kasmvnc](https://github.com/ddong8/openclaw-kasmvnc) - One-click deployment for OpenClaw + KasmVNC. Browser-based remote desktop with full container lifecycle management.
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
@@ -4600,6 +4604,7 @@
 
 ## macos 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [JimLiu/baocut](https://github.com/JimLiu/baocut) - Open-source Agent Skill that drives the BaoCut macOS app CLI (transcribe · subtitle · translate · cut) from Claude Code, Codex, and other agents
 - [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox) - vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.
 - [kadevin/ilab-conjure](https://github.com/kadevin/ilab-conjure) - 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-
@@ -4686,6 +4691,7 @@
 
 ## markdown 
 
+- [chansyawn/fluxnotes](https://github.com/chansyawn/fluxnotes) - An always-on-top Markdown editor for drafts, handoffs, and context.
 - [tarnish233/gitpic](https://github.com/tarnish233/gitpic) - GitHub 图床命令行工具：上传本地或剪贴板图片，生成 Markdown 链接，并提供适合脚本与 AI 助手调用的 JSON 模式。
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed pre
 - [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
@@ -5284,7 +5290,7 @@
 
 ## node 
 
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev
 - [ryanlelek/Raneto](https://github.com/ryanlelek/Raneto) - Markdown powered Knowledgebase Wiki for Node.js
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -5413,6 +5419,7 @@
 
 ## open-source 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
@@ -5742,6 +5749,8 @@
 
 ## others 
 
+- [amiaoapp/PicLite](https://github.com/amiaoapp/PicLite) - PicLite 图轻 / PicLite — privacy-first image and GIF compression for Web, Windows, macOS and Linux.
+- [SpaceZephyr/creator-buddy](https://github.com/SpaceZephyr/creator-buddy) - Creator Buddy: orchestrated Agent Skills for cross-platform content search, creator analysis, and viral trend research
 - [xianyu110/grok-bot-0.18-reconstructed](https://github.com/xianyu110/grok-bot-0.18-reconstructed) - Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
@@ -6006,7 +6015,7 @@
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
 - [qyzhg/prism](https://github.com/qyzhg/prism) - 全平台AI翻译软件
 - [mengjian-github/wechat-mp-assistant](https://github.com/mengjian-github/wechat-mp-assistant) - 微信公众号智能编辑助手 Chrome 插件 - 集成 AI 写作、素材管理、一键排版等功能
-- [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
+- [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - An open-source implementation of uTools, a high-performance, scalable application launcher and plugin platform | Supports macOS and Windows, 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
 - [TransparentLC/dufs-material-assets](https://github.com/TransparentLC/dufs-material-assets) - dufs 的 Material Design 风格自定义前端界面，添加了一些额外的功能。(Alternative frontend assets for dufs in material design with additional features.) ↓链接是演示站↓
 - [uuzp/dufs_theme_mango](https://github.com/uuzp/dufs_theme_mango) - 
 - [MimicHunterZ/PocketMind](https://github.com/MimicHunterZ/PocketMind) - 触手可及的第二大脑。无感收藏链接，你的中央收藏夹，让 AI 帮你整理数字生活。
@@ -6788,7 +6797,6 @@
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [cyhuajuan/FreeReNamer](https://github.com/cyhuajuan/FreeReNamer) - 功能强大又易用的文件批量重命名软件
 - [JiHong88/suneditor](https://github.com/JiHong88/suneditor) - A lightweight and powerful WYSIWYG editor in vanilla JavaScript. No dependencies.
-- [cymz6/AutoIPTV-Hotel](https://github.com/cymz6/AutoIPTV-Hotel) - AutoIPTV-Hotel 自动采集整理。
 - [kannafay/iEmo](https://github.com/kannafay/iEmo) - 简约感设计WordPress主题
 - [r4ym0n/memos-bber](https://github.com/r4ym0n/memos-bber) - Memos 的 Chrome 扩展
 - [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) - 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities
@@ -7534,7 +7542,7 @@
 - [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager & storage hub with granular ACLs, resumable uploads, encrypted folders, WebDAV & SSO. Fully Docker / Unraid compatible.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [taksssss/iptv-tool](https://github.com/taksssss/iptv-tool) - IPTV工具箱， Docker🐳部署，支持EPG管理、直播源管理、台标管理，兼容DIYP/百川、超级直播及xmltv格式。
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
@@ -7883,7 +7891,7 @@
 - [KoushikNavuluri/Claude-API](https://github.com/KoushikNavuluri/Claude-API) - This project provides an unofficial API for Claude AI, allowing users to access and interact with Claude AI .
 - [KenyonY/openai-forward](https://github.com/KenyonY/openai-forward) - 🚀  大语言模型高效转发服务  · An efficient forwarding service designed for LLMs. ·  OpenAI API Reverse Proxy
 - [CopilotKit/open-multi-agent-canvas](https://github.com/CopilotKit/open-multi-agent-canvas) - The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add MCP servers for deep research
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [AbhinavTheDev/coding-agent](https://github.com/AbhinavTheDev/coding-agent) - Your own Coding Agent 🤖
@@ -8116,7 +8124,7 @@
 - [GitHamza0206/simba](https://github.com/GitHamza0206/simba) - OpenSource Production ready Customer service with built in Evals and monitoring
 - [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) - ChatWiki 微信公众号的AI知识库工作流Agent平台，RAG大模型AI客服机器人，致力于成为垂直领域的coze、n8n。
 - [memodb-io/memobase](https://github.com/memodb-io/memobase) - User Profile-Based Long-Term Memory for AI Chatbot Applications.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [xynehq/xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 - [rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui) - RAG Web UI is an intelligent dialogue system based on RAG (Retrieval-Augmented Generation) technology.
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
@@ -8164,6 +8172,7 @@
 
 ## react 
 
+- [markrahq/markra](https://github.com/markrahq/markra) - A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local.
 - [ahpxex/read-aware](https://github.com/ahpxex/read-aware) - The only reader you need in the future, agent first, rich plugin, all with great elegance.
 - [clip-rss/clip](https://github.com/clip-rss/clip) - A simple, cross-platform RSS reader — for macOS / Windows, built for fast browsing and distraction-free reading.  简单好用的跨平台 RSS 阅读器 —— 支持 macOS / Windows，专注于快速浏览与阅读。
 - [MkThingsHQ/mkagent](https://github.com/MkThingsHQ/mkagent) - A local-first, Pi-powered AI agent workspace for Desktop, WebUI, and CLI
@@ -8374,7 +8383,7 @@
 ## ruby 
 
 - [html2rss/html2rss-web](https://github.com/html2rss/html2rss-web) - 🕸 Turn almost any website into an RSS feed and serve it instantly. Automatic scraping. Start fast with Docker.
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [stringer-rss/stringer](https://github.com/stringer-rss/stringer) - A self-hosted, anti-social RSS reader.
 
 ## rust 
@@ -8413,7 +8422,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [matze/wastebin](https://github.com/matze/wastebin) - wastebin is a pastebin 📝
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -9134,6 +9143,7 @@
 
 ## typescript 
 
+- [markrahq/markra](https://github.com/markrahq/markra) - A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local.
 - [clip-rss/clip](https://github.com/clip-rss/clip) - A simple, cross-platform RSS reader — for macOS / Windows, built for fast browsing and distraction-free reading.  简单好用的跨平台 RSS 阅读器 —— 支持 macOS / Windows，专注于快速浏览与阅读。
 - [MkThingsHQ/mkagent](https://github.com/MkThingsHQ/mkagent) - A local-first, Pi-powered AI agent workspace for Desktop, WebUI, and CLI
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -9657,6 +9667,7 @@
 
 ## windows 
 
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) - 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content short videos, AI batch automatic cliping, beautiful cross platform desktop tool
 - [letr007/CCTVVideoDownloader](https://github.com/letr007/CCTVVideoDownloader) - 一款适用于央视网的网络视频流解析处理工具
 - [kadevin/ilab-conjure](https://github.com/kadevin/ilab-conjure) - 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-
