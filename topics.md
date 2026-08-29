@@ -4000,7 +4000,7 @@
 - [sismics/docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
@@ -5457,7 +5457,7 @@
 - [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories 🕵️!
 - [panda-sandeep/epigram](https://github.com/panda-sandeep/epigram) - Open-Source, Free, and AI-Powered News in Short
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source notes that live where you choose: your device, your server, or ours.
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source, local-first workspace for notes, projects, and meetings. Your data stays yours.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [requestly/requestly](https://github.com/requestly/requestly) - Community hub for Requestly API Client — bugs, feature requests, and roadmap. The privacy-first Postman alternative.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
@@ -6286,7 +6286,6 @@
 - [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://virtualbrowser.cc/?src=github
 - [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - AI Product Design Agent - Open Source
 - [srijanshukla18/claude-memory-viz](https://github.com/srijanshukla18/claude-memory-viz) - Claude Memory MCP Visualizer
-- [yyyyymmmmm/IntRoot](https://github.com/yyyyymmmmm/IntRoot) - 一款基于 Memos 系统打造第三方安卓iOS的极简笔记应用，专为追求高效记录与深度积累的用户设计。 它帮助你默默书写、静心沉淀，让每一次落笔都成为未来思想生根发芽的力量。  完美对接 Memos 服务器，保障数据安全与私密，适合个人及团队的知识管理需求。 无论是快速捕捉灵感，还是系统性整理思考，墨鸣都助你沉淀积累，厚积薄发。
 - [zimplexing/claude-code-proxy-enhance](https://github.com/zimplexing/claude-code-proxy-enhance) - Claude Code to OpenAI API Proxy
 - [qichiyuhub/rule](https://github.com/qichiyuhub/rule) - mihomo、Sing-box、等配置文件
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
@@ -6307,7 +6306,7 @@
 - [ethereal-squirrel/devourer-reader-server](https://github.com/ethereal-squirrel/devourer-reader-server) - A management server for manga, books and comics.
 - [yaolifeng0629/Pip-Helper](https://github.com/yaolifeng0629/Pip-Helper) - Pip-Helper（A simple and easy-to-use browser extension that helps you watch videos in picture-in-picture mode on any webpage.）
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [codewec/dashlit](https://github.com/codewec/dashlit) - DashLit is self-hosted startpage for your server.
+- [codewec/dashlit](https://github.com/codewec/dashlit) - A fast, modern, self-hosted home for links, tools, and service status
 - [x-hansong/gemini_md_downloader](https://github.com/x-hansong/gemini_md_downloader) - 
 - [Ed1s0nZ/loopy_search](https://github.com/Ed1s0nZ/loopy_search) - 真的非常好用，并且在不断优化！！！！AI划词搜索是一个智能的 Chrome 浏览器扩展，它能让你在浏览网页时快速获取 AI 对选中文本的解释和翻译。通过支持 OpenAI 协议，它可以连接到各种 AI 服务，为你提供即时的智能解答。
 - [rishikanthc/zendown](https://github.com/rishikanthc/zendown) - Self-Hostable Markdown Notes App
@@ -6491,7 +6490,7 @@
 - [moyuguy/notion_bookmarks](https://github.com/moyuguy/notion_bookmarks) - Notion个人导航站
 - [ouomj/my-iptv](https://github.com/ouomj/my-iptv) - 用于个人托管自用直播源
 - [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted) - Self-hosted version of webtor.io implemented as an all-in-one Docker image
-- [foxihd/hugo-brewm](https://github.com/foxihd/hugo-brewm) - [Accessible SSG Hugo theme] Fine-brewed Hugo theme made open!
+- [foxihd/hugo-brewm](https://github.com/foxihd/hugo-brewm) - [Accessible Hugo static site theme] Fine-brewed Hugo theme made open!
 - [yym68686/Cerebr](https://github.com/yym68686/Cerebr) - Chat with web content by AI. web demo url: https://cerebr.yym68686.top
 - [yibie/hugo-theme-deck](https://github.com/yibie/hugo-theme-deck) - 
 - [lonelam/subconverter](https://github.com/lonelam/subconverter) - Utility to convert between various subscription format
@@ -7644,7 +7643,7 @@
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
-- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source notes that live where you choose: your device, your server, or ours.
+- [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes) - Open-source, local-first workspace for notes, projects, and meetings. Your data stays yours.
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [brufdev/many-notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity
 - [remvze/pswd](https://github.com/remvze/pswd) - Simple secure password generator.
