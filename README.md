@@ -1579,6 +1579,7 @@
 
 ## Others 
 
+- [xiaohuAI319/aipoju-jinghua-writing-skill](https://github.com/xiaohuAI319/aipoju-jinghua-writing-skill) - 知识星球精华帖撰写 Skill（WorkBuddy Agent Skill）：基于 350+ 篇精华帖规律提炼的六段式写作工作流，联网搜素材 + 互动补素材
 - [LunarXuan/image-prompt-reverse](https://github.com/LunarXuan/image-prompt-reverse) - High-fidelity AI image prompt reverse-engineering skill for Codex
 - [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills) - Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
 - [LinklyAI/best-skills](https://github.com/LinklyAI/best-skills) - Daily-updated Top 100 Agent Skills rankings — installs, growth, and social buzz   aggregated from skills.sh, ClawHub, Tencent SkillHub, GitHub, X and 10+ communities.   Open data (CSV).
@@ -2087,7 +2088,7 @@
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) - Memory that AI Agents Love!
 - [cclank/lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram) - Premium hand-drawn animated architecture diagram Codex skill
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [rediumvex/ai-video-generator-claude](https://github.com/rediumvex/ai-video-generator-claude) - 10 Claude skills that generate studio-quality AI video prompts for Seedance 2.0 on Higgsfield. Viral hooks, SaaS demos, personal brand, faceless content, luxury aesthetic & more.
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
@@ -2437,7 +2438,7 @@
 - [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署
 - [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [WEIFENG2333/AsrTools](https://github.com/WEIFENG2333/AsrTools) - ✨ AsrTools: Smart Voice-to-Text Tool | Efficient Batch Processing | User-Friendly Interface | No GPU Required | Supports SRT/TXT Output | Turn your audio into accurate text in an instant!
 - [facebookresearch/spiritlm](https://github.com/facebookresearch/spiritlm) - Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".
 - [Open-Source-O1/Open-O1](https://github.com/Open-Source-O1/Open-O1) - 
@@ -2497,7 +2498,6 @@
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [lenML/Speech-AI-Forge](https://github.com/lenML/Speech-AI-Forge) - 🍦 Speech-AI-Forge is a project developed around TTS generation model, implementing an API Server and a Gradio-based WebUI.
 - [zai-org/GLM-4](https://github.com/zai-org/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
-- [Gouryella/ChatTTS-webui](https://github.com/Gouryella/ChatTTS-webui) - A Web UI developed based on ChatTTS, implemented using Nuxt 3 and Ant Design.
 - [6drf21e/ChatTTS_colab](https://github.com/6drf21e/ChatTTS_colab) - 🚀 一键部署（含离线整合包）！基于 ChatTTS ，支持流式输出、音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装。
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [ultrasev/stream-whisper](https://github.com/ultrasev/stream-whisper) - 基于 faster-whisper 的伪实时语音转写服务
@@ -2589,7 +2589,7 @@
 - [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式
 - [DoooReyn/WxReader](https://github.com/DoooReyn/WxReader) - 基于PySide6的微信读书自动阅读器
 - [DoiiarX/NLCISBNPlugin](https://github.com/DoiiarX/NLCISBNPlugin) - 基于中国国家图书馆ISBN检索的calibre的source/metadata插件。https://doiiars.com/article/NLCISBNPlugin
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [LlamaChinese/Llama-Chinese](https://github.com/LlamaChinese/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 
@@ -2851,13 +2851,13 @@
 - [mrpulor-gh/nuphus](https://github.com/mrpulor-gh/nuphus) - Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.
 - [hancic128/hancic-blog](https://github.com/hancic128/hancic-blog) - 自托管轻量博客：Rust + SQLite 单二进制，Markdown 写作、说说动态、专栏与主题系统、后台统计、REST API 与 MCP 集成；零外部运行时依赖，Docker 一键部署。
 - [zeno528/CGswitch](https://github.com/zeno528/CGswitch) - CGswitch — config profile manager for Codex / ChatGPT desktop apps. Save models, API providers, and ChatGPT accounts as profiles and switch in one click; auto-writes ~/.codex and restarts Codex as nee
-- [eclipse005/OneAsr](https://github.com/eclipse005/OneAsr) - 本地离线批量音视频转 SRT 字幕（Qwen3-ASR + ForcedAligner）
+- [eclipse005/OneAsr](https://github.com/eclipse005/OneAsr) - Local, offline, batch audio/video → SRT / TXT subtitles (Qwen3-ASR + ForcedAligner). Windows / Linux / macOS.
 - [aeroxy/chrome-devtools-cli](https://github.com/aeroxy/chrome-devtools-cli) - A high-performance, developer and agent friendly CLI for interacting with Chrome via the DevTools Protocol (CDP).
 - [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy) - Open-source MITM proxy to intercept, inspect, and mock network traffic.
 - [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown) - Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 - [HuibingLin/LiteSnap](https://github.com/HuibingLin/LiteSnap) - 
 - [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) - A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.
 - [tiylabs/tiycode](https://github.com/tiylabs/tiycode) - TiyCode is an AI-first desktop coding agent. “钛可”是一款践行 AI First 理念的桌面版 Coding Agent
 - [Wangnov/claude-code-statusline-pro](https://github.com/Wangnov/claude-code-statusline-pro) - Pro statusline for Claude Code | 功能强大的 Claude Code 状态栏
@@ -3160,6 +3160,7 @@
 
 ## TypeScript 
 
+- [hicccc77/Relink](https://github.com/hicccc77/Relink) - A general-purpose, evidence-oriented relationship analysis Agent | 一个面向深度关系分析的 Agent 实现
 - [zai-org/ZCode](https://github.com/zai-org/ZCode) - Z.ai's coding agent harness. Powerful, intelligent, extensible.
 - [areyoubugcoder/Mp2RSS](https://github.com/areyoubugcoder/Mp2RSS) - 持续抓取公众号最新文章，沉淀为含 Markdown 正文的结构化数据，通过 RSS / JSON Feed / Open API / CLI / AI Agent 多种形态交付 —— 支撑舆情分析、投研报告、内容监测、高质量信息收集与个人内容阅读。
 - [workagi/jianwei](https://github.com/workagi/jianwei) - 见微：把你关注的 X、公众号、搜索和 RSS 放到一起，让你不用每天在多个平台来回寻找，打开一个页面就能看到值得看的更新。
@@ -3469,7 +3470,7 @@
 - [imzbf/md-editor-v3](https://github.com/imzbf/md-editor-v3) - Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
 - [jae-jae/searxng-mul-mcp](https://github.com/jae-jae/searxng-mul-mcp) - A Model Context Protocol (MCP) server for SearXNG search engine with multi-query parallel search support
 - [tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress) - NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。搭配 DeepSeek和微信公众号助手使用，碎片时间也能用手机发有排版的文章了。
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and explainer videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 - [JasonHonKL/spy-search](https://github.com/JasonHonKL/spy-search) - LLM search engine faster than perplexity!
 - [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
 - [yarin-zhang/AI-Gist](https://github.com/yarin-zhang/AI-Gist) - ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。
