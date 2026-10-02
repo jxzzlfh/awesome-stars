@@ -438,7 +438,7 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [yibie/skills-manager](https://github.com/yibie/skills-manager) - A native macOS app to manage skills across coding agents — Claude Code, Cursor, Copilot CLI, Codex, Gemini CLI
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [Rancho-7/subtitle-optimizer](https://github.com/Rancho-7/subtitle-optimizer) - 🎬 An AI Agent skill for reviewing and optimizing SRT subtitles with an interactive diff panel.
 - [alchaincyf/huashu-skills](https://github.com/alchaincyf/huashu-skills) - 花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e
@@ -459,7 +459,7 @@
 
 ## agents 
 
-- [junnhwan/vid-lens](https://github.com/junnhwan/vid-lens) - 基于 Go 与 React 的视频知识库与 Agent 问答平台，支持多模态检索、跨视频分析与来源回放
+- [junnhwan/vid-lens](https://github.com/junnhwan/vid-lens) - 基于 Go 与 pgvector 的多模态视频知识库：对转写、OCR 与画面描述建立统一索引，Agent 多轮检索证据、按需抽帧复核后作答
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
 - [proma-ai/Proma](https://github.com/proma-ai/Proma) - Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era
@@ -898,7 +898,6 @@
 - [yxpil/BrainTentacle](https://github.com/yxpil/BrainTentacle) - 触手怪 BIT · 桌面 AI Agent：对话 / 工具 / 记忆 / 技能 / 安全脱敏 / MCP 扩展，Tauri + Rust + React
 - [mrpulor-gh/nuphus](https://github.com/mrpulor-gh/nuphus) - Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.
 - [fancydirty/subtitle-scout](https://github.com/fancydirty/subtitle-scout) - A self-hosted subtitle automation system with an LLM agent at its core — it identifies your media, judges whether each candidate belongs to the exact episode, installs the one that fits, and translate
-- [junnhwan/vid-lens](https://github.com/junnhwan/vid-lens) - 基于 Go 与 React 的视频知识库与 Agent 问答平台，支持多模态检索、跨视频分析与来源回放
 - [fancydirty/mediary-scout](https://github.com/fancydirty/mediary-scout) - Agent-driven media library for your cloud drives (Quark 夸克 / 115 / 光鸭 GuangYa / 123网盘 / 天翼 Tianyi)
 - [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.
 - [helloianneo/ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes) - Xiaohei 2.0 Codex Skill for Chinese real-object article illustrations and long-scroll story images
@@ -1697,7 +1696,7 @@
 
 ## chatgpt 
 
-- [zeno528/CGswitch](https://github.com/zeno528/CGswitch) - CGswitch — config profile manager for Codex / ChatGPT desktop apps. Save models, API providers, and ChatGPT accounts as profiles and switch in one click; auto-writes ~/.codex and restarts Codex as nee
+- [zeno528/CGswitch](https://github.com/zeno528/CGswitch) - CGswitch — config profile manager for Codex and Claude Code. Save models, API providers and ChatGPT accounts as profiles, switch in one click; manage MCP servers, plugins and Skills per client; auto-w
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [Wangnov/gpt-image-2-skill](https://github.com/Wangnov/gpt-image-2-skill) - GPT Image 2 Skill / CLI / Web / Desktop
 - [liyupi/ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cu
@@ -2143,6 +2142,7 @@
 
 - [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) - A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
 - [yacuo/check-cc](https://github.com/yacuo/check-cc) - https://checkcc.org  是一个 Claude 运行环境检测与账号风险分析工具，面向正在注册 Claude 账号、订阅 Claude Pro、申请 Claude API、使用 Claude Code，或担心 Claude 封号、账号受限、订阅失败的用户。
+- [zeno528/CGswitch](https://github.com/zeno528/CGswitch) - CGswitch — config profile manager for Codex and Claude Code. Save models, API providers and ChatGPT accounts as profiles, switch in one click; manage MCP servers, plugins and Skills per client; auto-w
 - [tiylabs/tiycode](https://github.com/tiylabs/tiycode) - TiyCode is an AI-first desktop coding agent. “钛可”是一款践行 AI First 理念的桌面版 Coding Agent
 - [Wangnov/claude-app-mirror](https://github.com/Wangnov/claude-app-mirror) - Mirror the official Claude desktop app installers (macOS universal DMG, Windows x64/arm64 MSIX) into GitHub Releases + Cloudflare R2 short links.
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
@@ -2297,6 +2297,7 @@
 - [dslsdzc/rev-skills](https://github.com/dslsdzc/rev-skills) - 122 个逆向工程 AI 技能（可发布、跨平台）：恶意软件分析 / 软件逆向 / 固件嵌入式 / 协议逆向 / 移动应用 / 脱壳反混淆 / 软件破解 / 漏洞挖掘 / 托管代码 / 取证情报 / CTF。
 - [yanliudesign/product-teardown-skill](https://github.com/yanliudesign/product-teardown-skill) - Principal-PM-level product-teardown skill — reverse-engineer any product as a system and render a bilingual (EN + ZH) HTML report with a product-screenshot gallery.
 - [Agents365-ai/drawio-skill](https://github.com/Agents365-ai/drawio-skill) - Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view pro
+- [zeno528/CGswitch](https://github.com/zeno528/CGswitch) - CGswitch — config profile manager for Codex and Claude Code. Save models, API providers and ChatGPT accounts as profiles, switch in one click; manage MCP servers, plugins and Skills per client; auto-w
 - [gokuscraper/claude-tester](https://github.com/gokuscraper/claude-tester) - 一键检测浏览器环境，看 Claude Code 是否判定你为中国用户。纯前端，100% 本地运行，不上传任何数据。
 - [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.
 - [dohooo/helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development.
@@ -2347,7 +2348,7 @@
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [aipickgold/md2wx](https://github.com/aipickgold/md2wx) - ✍️ AI 时代的微信公众号 Markdown 排版工具 · 40+ 主题 · 一键复制 · 宸的拾金笔记出品
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) - 🎭 277 个即插即用的 AI 专家角色 — 支持 Claude Code/Cursor/Copilot 等 20 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 64 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉/Qt 上位机/机械设计）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
 - [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) - U-Claw 虾盘 — OpenClaw AI 助手离线安装 U 盘：一键装好 Claude Code/Codex/OpenClaw，无需联网即插即用；新品 U-King AI 装机管家详见 u-king.org，另有远程支持与定制 AI 开发。
 - [alchaincyf/huashu-skills](https://github.com/alchaincyf/huashu-skills) - 花叔全部开源 Agent Skills 总目录：16 旗舰 + 14 人物视角 + 22 内置共 52 个 skill，分层分类 + AI Agent 安装协议 + 机器可读 skills.json + 更新检查机制
@@ -2772,7 +2773,7 @@
 ## data-visualization 
 
 - [op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) - 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [ChatLab/ChatLab](https://github.com/ChatLab/ChatLab) - Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具
 - [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
@@ -2866,7 +2867,7 @@
 ## developer-tools 
 
 - [yicheng47/runner](https://github.com/yicheng47/runner) - Where terminal agents work together. Claude Code, Codex, Copilot CLI and pi on the same task, in one mission, each keeping its own TUI in a real terminal.
-- [zeno528/CGswitch](https://github.com/zeno528/CGswitch) - CGswitch — config profile manager for Codex / ChatGPT desktop apps. Save models, API providers, and ChatGPT accounts as profiles and switch in one click; auto-writes ~/.codex and restarts Codex as nee
+- [zeno528/CGswitch](https://github.com/zeno528/CGswitch) - CGswitch — config profile manager for Codex and Claude Code. Save models, API providers and ChatGPT accounts as profiles, switch in one click; manage MCP servers, plugins and Skills per client; auto-w
 - [dohooo/helmor](https://github.com/dohooo/helmor) - Open-source local workbench for multi-agent software development.
 - [MkThingsHQ/mkagent](https://github.com/MkThingsHQ/mkagent) - A local-first, Pi-powered AI agent workspace for Desktop, WebUI, and CLI
 - [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
@@ -3216,7 +3217,6 @@
 - [yarin-zhang/AI-Gist](https://github.com/yarin-zhang/AI-Gist) - ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 - [experdot/pointer](https://github.com/experdot/pointer) - A clean app focused on pure-text AI conversation experience. 专注于纯文本 AI 聊天体验的桌面应用，安全，私密，且好用。
-- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [colanode/colanode](https://github.com/colanode/colanode) - Open-source and local-first Slack and Notion alternative that puts you in control of your data
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [Hyk260/PureChat](https://github.com/Hyk260/PureChat) - PureChat 是一款全面的聊天应用程序，它将传统的即时消息与高级 AI 功能集成在一起。其模块化架构、可扩展的 AI 集成系统和灵活的配置选项使其成为强大的应用程序，也是 AI 增强通信应用程序的坚实基础。支持OpenAI，Ollama，DeepSeek等大语言模型，Markdown 渲染，聊天记录生成截图，主题切换，助力开发者快速掌握现代技术。
@@ -3695,7 +3695,7 @@
 
 ## golang 
 
-- [junnhwan/vid-lens](https://github.com/junnhwan/vid-lens) - 基于 Go 与 React 的视频知识库与 Agent 问答平台，支持多模态检索、跨视频分析与来源回放
+- [junnhwan/vid-lens](https://github.com/junnhwan/vid-lens) - 基于 Go 与 pgvector 的多模态视频知识库：对转写、OCR 与画面描述建立统一索引，Agent 多轮检索证据、按需抽帧复核后作答
 - [flyfish-dev/shortlink](https://github.com/flyfish-dev/shortlink) - Self-hosted short link and live QR platform with ownership, review, branded QR codes, analytics, and an auditable path to AI-assisted operations.
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 - [clip-rss/clip](https://github.com/clip-rss/clip) - A simple, cross-platform RSS reader — for macOS / Windows, built for fast browsing and distraction-free reading.  简单好用的跨平台 RSS 阅读器 —— 支持 macOS / Windows，专注于快速浏览与阅读。
@@ -5424,7 +5424,6 @@
 - [tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress) - NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的微信公众号排版体验。响应式设计，支持移动设备。搭配 DeepSeek和微信公众号助手使用，碎片时间也能用手机发有排版的文章了。
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
-- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [arashvakil/LeiaGuard](https://github.com/arashvakil/LeiaGuard) - A secure WireGuard VPN management system with invitation-based registration, multi-device support, QR code setup, and admin tools. Built with Next.js 15.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
@@ -5701,7 +5700,6 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [spaciousejar/learn-git-with-me](https://github.com/spaciousejar/learn-git-with-me) - A free and open-source platform to learn Git and GitHub. It is designed to be simple and easy to understand for beginners.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
-- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [ItsSp00ky/pdf_enhancer](https://github.com/ItsSp00ky/pdf_enhancer) - Clean, deskew, and enhance photographed or scanned PDFs and images into crisp, high-contrast documents locally.
 - [BleedingXiko/GhostHub](https://github.com/BleedingXiko/GhostHub) - A self-hosted Raspberry Pi 4 media hub for local streaming, TV casting, profiles, chat, and private storage.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -6011,6 +6009,8 @@
 
 ## others 
 
+- [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) - IDM激活与状态维护工具
+- [angusdevgo/Seep-Reverse-Lab](https://github.com/angusdevgo/Seep-Reverse-Lab) - Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.
 - [isYangs/jianying-editor-skill](https://github.com/isYangs/jianying-editor-skill) - 剪映 (JianYing) AI 自动化剪辑 Skill。通过自然语言告诉 AI 你想做什么视频，它帮你完成从写文案、配音、加字幕、选音乐、上特效到最终导出的整套流程。
 - [luoluoluo22/jianying-editor-skill](https://github.com/luoluoluo22/jianying-editor-skill) - Skill for Agent automating JianYing (CapCut Chinese version) video editing.
 - [pafa/global-fde](https://github.com/pafa/global-fde) - 《全球FDE实战》：从概念的早期记录到全球行业现场。开放书稿，可在线阅读、纠错与贡献。
@@ -6019,7 +6019,7 @@
 - [xiaohuAI319/aipoju-jinghua-writing-skill](https://github.com/xiaohuAI319/aipoju-jinghua-writing-skill) - 知识星球精华帖撰写 Skill（WorkBuddy Agent Skill）：基于 350+ 篇精华帖规律提炼的六段式写作工作流，联网搜素材 + 互动补素材
 - [zai-org/ZCode](https://github.com/zai-org/ZCode) - Z.ai's coding agent harness. Powerful, intelligent, extensible.
 - [newtype-01/newtype-self-media](https://github.com/newtype-01/newtype-self-media) - 《用 Codex 做自媒体》公开配套 Skill 套件
-- [xsaveopt/twitter-rss](https://github.com/xsaveopt/twitter-rss) - 
+- [xsaveopt/twitter-rss](https://github.com/xsaveopt/twitter-rss) - Service that serves twitter accounts as RSS feeds through nitter instances
 - [akiralereal/iptv](https://github.com/akiralereal/iptv) - 开箱即有 800+ 可稳定流畅播放频道的自托管 IPTV 直播源管理与分发系统，聚合了央视频、咪咕、央视、卫视、凤凰卫视、亚太、国际、地方台、体育赛事、抖音直播、B 站直播、斗鱼直播、虎牙直播等，以及自定义抓取源和订阅，并提供 EPG 节目单与聚合功能；另外还自带 GUI 可视化管理后台，支持 Docker Compose 或 Node.js 运行，适合 NAS 与家庭服务器。
 - [wangchao0708/TraceOne](https://github.com/wangchao0708/TraceOne) - CodeX 模型溯源、API检测与降智检测：一次提问识别五款模型的行为指纹。
 - [cleanbinggmail/poju-aiclub](https://github.com/cleanbinggmail/poju-aiclub) - 
@@ -8404,7 +8404,7 @@
 ## rag 
 
 - [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision 
-- [junnhwan/vid-lens](https://github.com/junnhwan/vid-lens) - 基于 Go 与 React 的视频知识库与 Agent 问答平台，支持多模态检索、跨视频分析与来源回放
+- [junnhwan/vid-lens](https://github.com/junnhwan/vid-lens) - 基于 Go 与 pgvector 的多模态视频知识库：对转写、OCR 与画面描述建立统一索引，Agent 多轮检索证据、按需抽帧复核后作答
 - [liyupi/ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cu
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
@@ -8495,6 +8495,7 @@
 - [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
 - [mrpulor-gh/nuphus](https://github.com/mrpulor-gh/nuphus) - Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.
 - [wp-i/wp-homepage](https://github.com/wp-i/wp-homepage) - 一个克制、中文优先的开源个人主页，用一页讲清楚作品与工程判断。
+- [junnhwan/vid-lens](https://github.com/junnhwan/vid-lens) - 基于 Go 与 pgvector 的多模态视频知识库：对转写、OCR 与画面描述建立统一索引，Agent 多轮检索证据、按需抽帧复核后作答
 - [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub) - A cross-platform desktop app to manage Agent Skills in one place and sync them to multiple AI coding tools’ global skills directories — “Install once, sync everywhere”.
 - [Wangnov/Codex-App-Manager](https://github.com/Wangnov/Codex-App-Manager) - 跨平台官方 Codex 桌面应用的安装 / 增量更新 / 干净卸载管理器，内置国内可达的镜像自更新。Cross-platform installer & updater for the official Codex desktop app — incremental updates, clean uninstall, China-reachable self-update.
 - [markrahq/markra](https://github.com/markrahq/markra) - A WYSIWYG Markdown editor with native AI. Fully open source. Free to use. Your data stays local.
@@ -8721,7 +8722,7 @@
 - [Achilng/floral-notepaper](https://github.com/Achilng/floral-notepaper) - 花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览
 - [mrpulor-gh/nuphus](https://github.com/mrpulor-gh/nuphus) - Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.
 - [hancic128/hancic-blog](https://github.com/hancic128/hancic-blog) - 自托管轻量博客：Rust + SQLite 单二进制，Markdown 写作、说说动态、专栏与主题系统、后台统计、REST API 与 MCP 集成；零外部运行时依赖，Docker 一键部署。
-- [zeno528/CGswitch](https://github.com/zeno528/CGswitch) - CGswitch — config profile manager for Codex / ChatGPT desktop apps. Save models, API providers, and ChatGPT accounts as profiles and switch in one click; auto-writes ~/.codex and restarts Codex as nee
+- [zeno528/CGswitch](https://github.com/zeno528/CGswitch) - CGswitch — config profile manager for Codex and Claude Code. Save models, API providers and ChatGPT accounts as profiles, switch in one click; manage MCP servers, plugins and Skills per client; auto-w
 - [eclipse005/OneAsr](https://github.com/eclipse005/OneAsr) - Local, offline, batch audio/video → SRT / TXT subtitles (Qwen3-ASR + ForcedAligner). Windows / Linux / macOS.
 - [Juwan-Hwang/Zephyr](https://github.com/Juwan-Hwang/Zephyr) - Zephyr: A modern, lightweight, and secure Mihomo / Clash Meta GUI client built with Tauri and Rust.
 - [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy) - Open-source MITM proxy to intercept, inspect, and mock network traffic.
@@ -9280,7 +9281,6 @@
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor: AI-powered markdown with style.
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [cojocaru-david/snippetslibrary.com](https://github.com/cojocaru-david/snippetslibrary.com) - SnippetsLibrary - A secure, lightning-fast code snippet manager to store, organize, and share your code with beautiful syntax highlighting.
-- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno. 🦕
 - [Hyk260/PureChat](https://github.com/Hyk260/PureChat) - PureChat 是一款全面的聊天应用程序，它将传统的即时消息与高级 AI 功能集成在一起。其模块化架构、可扩展的 AI 集成系统和灵活的配置选项使其成为强大的应用程序，也是 AI 增强通信应用程序的坚实基础。支持OpenAI，Ollama，DeepSeek等大语言模型，Markdown 渲染，聊天记录生成截图，主题切换，助力开发者快速掌握现代技术。
